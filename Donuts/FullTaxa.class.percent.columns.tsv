@@ -1,0 +1,2791 @@
+Kingdom	Phylum	Class	Sample	Percentage
+Bacteria	Acidobacteria	Acidobacteria (class)	S1	0.0744253301295
+Bacteria	Acidobacteria	Acidobacteriia	S1	5.29483062921
+Bacteria	Acidobacteria	Holophagae	S1	1.41408127246
+Bacteria	Acidobacteria	Solibacteres	S1	0.153103536266
+Bacteria	Actinobacteria	Actinobacteria (class)	S1	5.55638250367
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S1	0
+Bacteria	Bacteroidetes	Bacteroidia	S1	0.0276436940481
+Bacteria	Bacteroidetes	Cytophagia	S1	0.0404023220703
+Bacteria	Bacteroidetes	Flavobacteriia	S1	0.729368235269
+Bacteria	Bacteroidetes	Sphingobacteriia	S1	1.01005805176
+Bacteria	Chlamydiae	Chlamydiia	S1	0
+Bacteria	Chloroflexi	Anaerolineae	S1	0
+Bacteria	Chloroflexi	Caldilineae	S1	0.0042528760074
+Bacteria	Chloroflexi	Chloroflexi (class)	S1	0.0744253301295
+Bacteria	Chloroflexi	Ktedonobacteria	S1	0.0085057520148
+Bacteria	Chloroflexi	Thermomicrobia	S1	0.0021264380037
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S1	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S1	0.0021264380037
+Bacteria	Cyanobacteria	Gloeobacteria	S1	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S1	0.574138260999
+Bacteria	Deinococcus-Thermus	Deinococci	S1	0.197758734344
+Bacteria	Fibrobacteres	Fibrobacteria	S1	0
+Bacteria	Firmicutes	Bacilli	S1	30.8928913178
+Bacteria	Firmicutes	Clostridia	S1	1.76281710507
+Bacteria	Firmicutes	Erysipelotrichia	S1	0.0021264380037
+Bacteria	Firmicutes	Negativicutes	S1	0
+Bacteria	Fusobacteria	Fusobacteriia	S1	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S1	1.07810406788
+Bacteria	Ignavibacteriae	Ignavibacteria	S1	0
+Bacteria	Lentisphaerae	Lentisphaeria	S1	0
+Bacteria	Nitrospirae	Nitrospira (class)	S1	0.278563378485
+Bacteria	Planctomycetes	Phycisphaerae	S1	0.0170115040296
+Bacteria	Planctomycetes	Planctomycetia	S1	0.352988708614
+Bacteria	Proteobacteria	Alphaproteobacteria	S1	24.1053012099
+Bacteria	Proteobacteria	Betaproteobacteria	S1	18.8189763327
+Bacteria	Proteobacteria	Deltaproteobacteria	S1	0.389138154677
+Bacteria	Proteobacteria	Epsilonproteobacteria	S1	0.0085057520148
+Bacteria	Proteobacteria	Gammaproteobacteria	S1	2.8154039169
+Bacteria	Spirochaetes	Spirochaetia	S1	0.0021264380037
+Bacteria	TM7	TM7 (class)	S1	0.021264380037
+Bacteria	Tenericutes	Mollicutes	S1	0
+Bacteria	Verrucomicrobia	Opitutae	S1	0.0191379420333
+Bacteria	Verrucomicrobia	Spartobacteria	S1	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S1	0.0276436940481
+No Hit	No Hit	No Hit	S1	4.24437025539
+Bacteria	Acidobacteria	Acidobacteria (class)	S10	0.00737276710482
+Bacteria	Acidobacteria	Acidobacteriia	S10	10.9064290529
+Bacteria	Acidobacteria	Holophagae	S10	1.74734580384
+Bacteria	Acidobacteria	Solibacteres	S10	0.135869565217
+Bacteria	Actinobacteria	Actinobacteria (class)	S10	10.9875294911
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S10	0.00210650488709
+Bacteria	Bacteroidetes	Bacteroidia	S10	0.307549713515
+Bacteria	Bacteroidetes	Cytophagia	S10	0.379170879676
+Bacteria	Bacteroidetes	Flavobacteriia	S10	1.296553758
+Bacteria	Bacteroidetes	Sphingobacteriia	S10	5.44742163802
+Bacteria	Chlamydiae	Chlamydiia	S10	0
+Bacteria	Chloroflexi	Anaerolineae	S10	0.00210650488709
+Bacteria	Chloroflexi	Caldilineae	S10	0.0663549039434
+Bacteria	Chloroflexi	Chloroflexi (class)	S10	0.273845635322
+Bacteria	Chloroflexi	Ktedonobacteria	S10	0.00421300977418
+Bacteria	Chloroflexi	Thermomicrobia	S10	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S10	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S10	0
+Bacteria	Cyanobacteria	Gloeobacteria	S10	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S10	0.860507246377
+Bacteria	Deinococcus-Thermus	Deinococci	S10	0.104271991911
+Bacteria	Fibrobacteres	Fibrobacteria	S10	0
+Bacteria	Firmicutes	Bacilli	S10	3.49890461746
+Bacteria	Firmicutes	Clostridia	S10	1.65255308392
+Bacteria	Firmicutes	Erysipelotrichia	S10	0
+Bacteria	Firmicutes	Negativicutes	S10	0
+Bacteria	Fusobacteria	Fusobacteriia	S10	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S10	2.62259858443
+Bacteria	Ignavibacteriae	Ignavibacteria	S10	0
+Bacteria	Lentisphaerae	Lentisphaeria	S10	0
+Bacteria	Nitrospirae	Nitrospira (class)	S10	0.331774519717
+Bacteria	Planctomycetes	Phycisphaerae	S10	0.0126390293225
+Bacteria	Planctomycetes	Planctomycetia	S10	0.710945399393
+Bacteria	Proteobacteria	Alphaproteobacteria	S10	29.7059319178
+Bacteria	Proteobacteria	Betaproteobacteria	S10	17.0321452646
+Bacteria	Proteobacteria	Deltaproteobacteria	S10	0.694093360297
+Bacteria	Proteobacteria	Epsilonproteobacteria	S10	0.0242248062016
+Bacteria	Proteobacteria	Gammaproteobacteria	S10	3.33565048871
+Bacteria	Spirochaetes	Spirochaetia	S10	0.00105325244355
+Bacteria	TM7	TM7 (class)	S10	0.0284378159757
+Bacteria	Tenericutes	Mollicutes	S10	0.00526626221773
+Bacteria	Verrucomicrobia	Opitutae	S10	0.581395348837
+Bacteria	Verrucomicrobia	Spartobacteria	S10	0.00631951466127
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S10	0.442366026289
+No Hit	No Hit	No Hit	S10	6.78505224132
+Bacteria	Acidobacteria	Acidobacteria (class)	S11	0.0533323174797
+Bacteria	Acidobacteria	Acidobacteriia	S11	7.76937582141
+Bacteria	Acidobacteria	Holophagae	S11	1.28188034514
+Bacteria	Acidobacteria	Solibacteres	S11	0.428563265462
+Bacteria	Actinobacteria	Actinobacteria (class)	S11	10.9826479496
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S11	0
+Bacteria	Bacteroidetes	Bacteroidia	S11	0.0342850612369
+Bacteria	Bacteroidetes	Cytophagia	S11	0.0990457324622
+Bacteria	Bacteroidetes	Flavobacteriia	S11	0.356183691739
+Bacteria	Bacteroidetes	Sphingobacteriia	S11	4.1427782328
+Bacteria	Chlamydiae	Chlamydiia	S11	0
+Bacteria	Chloroflexi	Anaerolineae	S11	0
+Bacteria	Chloroflexi	Caldilineae	S11	0.00571417687282
+Bacteria	Chloroflexi	Chloroflexi (class)	S11	0.0190472562427
+Bacteria	Chloroflexi	Ktedonobacteria	S11	0.159996952439
+Bacteria	Chloroflexi	Thermomicrobia	S11	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S11	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S11	0
+Bacteria	Cyanobacteria	Gloeobacteria	S11	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S11	2.97327669949
+Bacteria	Deinococcus-Thermus	Deinococci	S11	0.00571417687282
+Bacteria	Fibrobacteres	Fibrobacteria	S11	0
+Bacteria	Firmicutes	Bacilli	S11	1.19616769204
+Bacteria	Firmicutes	Clostridia	S11	1.30664177825
+Bacteria	Firmicutes	Erysipelotrichia	S11	0
+Bacteria	Firmicutes	Negativicutes	S11	0
+Bacteria	Fusobacteria	Fusobacteriia	S11	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S11	4.58848402888
+Bacteria	Ignavibacteriae	Ignavibacteria	S11	0
+Bacteria	Lentisphaerae	Lentisphaeria	S11	0
+Bacteria	Nitrospirae	Nitrospira (class)	S11	0.0933315555894
+Bacteria	Planctomycetes	Phycisphaerae	S11	0.00380945124855
+Bacteria	Planctomycetes	Planctomycetia	S11	0.369516771109
+Bacteria	Proteobacteria	Alphaproteobacteria	S11	25.7061770252
+Bacteria	Proteobacteria	Betaproteobacteria	S11	25.028094703
+Bacteria	Proteobacteria	Deltaproteobacteria	S11	0.137140244948
+Bacteria	Proteobacteria	Epsilonproteobacteria	S11	0.0228567074913
+Bacteria	Proteobacteria	Gammaproteobacteria	S11	4.01325689034
+Bacteria	Spirochaetes	Spirochaetia	S11	0
+Bacteria	TM7	TM7 (class)	S11	0.177139483057
+Bacteria	Tenericutes	Mollicutes	S11	0.0323803356127
+Bacteria	Verrucomicrobia	Opitutae	S11	0.0266661587398
+Bacteria	Verrucomicrobia	Spartobacteria	S11	0.00190472562427
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S11	0.0571417687282
+No Hit	No Hit	No Hit	S11	8.92744900097
+Bacteria	Acidobacteria	Acidobacteria (class)	S12	0
+Bacteria	Acidobacteria	Acidobacteriia	S12	8.9225832662
+Bacteria	Acidobacteria	Holophagae	S12	0.81802970522
+Bacteria	Acidobacteria	Solibacteres	S12	0.0227230473672
+Bacteria	Actinobacteria	Actinobacteria (class)	S12	21.0649534866
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S12	0
+Bacteria	Bacteroidetes	Bacteroidia	S12	0.141846901747
+Bacteria	Bacteroidetes	Cytophagia	S12	3.93590723488
+Bacteria	Bacteroidetes	Flavobacteriia	S12	0.846949947324
+Bacteria	Bacteroidetes	Sphingobacteriia	S12	3.86291805243
+Bacteria	Chlamydiae	Chlamydiia	S12	0
+Bacteria	Chloroflexi	Anaerolineae	S12	0
+Bacteria	Chloroflexi	Caldilineae	S12	0.025477356139
+Bacteria	Chloroflexi	Chloroflexi (class)	S12	0.30848258244
+Bacteria	Chloroflexi	Ktedonobacteria	S12	0.0241002017531
+Bacteria	Chloroflexi	Thermomicrobia	S12	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S12	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S12	0
+Bacteria	Cyanobacteria	Gloeobacteria	S12	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S12	0.00206573157884
+Bacteria	Deinococcus-Thermus	Deinococci	S12	0.0364945912261
+Bacteria	Fibrobacteres	Fibrobacteria	S12	0.0110172350871
+Bacteria	Firmicutes	Bacilli	S12	0.952990835038
+Bacteria	Firmicutes	Clostridia	S12	0.311236891212
+Bacteria	Firmicutes	Erysipelotrichia	S12	0
+Bacteria	Firmicutes	Negativicutes	S12	0
+Bacteria	Fusobacteria	Fusobacteriia	S12	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S12	0.394554731558
+Bacteria	Ignavibacteriae	Ignavibacteria	S12	0
+Bacteria	Lentisphaerae	Lentisphaeria	S12	0
+Bacteria	Nitrospirae	Nitrospira (class)	S12	0.0523318666639
+Bacteria	Planctomycetes	Phycisphaerae	S12	0
+Bacteria	Planctomycetes	Planctomycetia	S12	0.226541896479
+Bacteria	Proteobacteria	Alphaproteobacteria	S12	40.06279824
+Bacteria	Proteobacteria	Betaproteobacteria	S12	9.28684060127
+Bacteria	Proteobacteria	Deltaproteobacteria	S12	0.28989099823
+Bacteria	Proteobacteria	Epsilonproteobacteria	S12	0.0110172350871
+Bacteria	Proteobacteria	Gammaproteobacteria	S12	4.37728521556
+Bacteria	Spirochaetes	Spirochaetia	S12	0
+Bacteria	TM7	TM7 (class)	S12	0.076432068417
+Bacteria	Tenericutes	Mollicutes	S12	0.000688577192946
+Bacteria	Verrucomicrobia	Opitutae	S12	0.360125871911
+Bacteria	Verrucomicrobia	Spartobacteria	S12	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S12	0.126009626309
+No Hit	No Hit	No Hit	S12	3.44770600508
+Bacteria	Acidobacteria	Acidobacteria (class)	S13	0
+Bacteria	Acidobacteria	Acidobacteriia	S13	1.6747041776
+Bacteria	Acidobacteria	Holophagae	S13	0.0183278158971
+Bacteria	Acidobacteria	Solibacteres	S13	0.00572744246784
+Bacteria	Actinobacteria	Actinobacteria (class)	S13	1.0956597441
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S13	0
+Bacteria	Bacteroidetes	Bacteroidia	S13	1.43243336121
+Bacteria	Bacteroidetes	Cytophagia	S13	2.35798806401
+Bacteria	Bacteroidetes	Flavobacteriia	S13	8.85519879953
+Bacteria	Bacteroidetes	Sphingobacteriia	S13	2.29555894111
+Bacteria	Chlamydiae	Chlamydiia	S13	0.000572744246784
+Bacteria	Chloroflexi	Anaerolineae	S13	0.00229097698714
+Bacteria	Chloroflexi	Caldilineae	S13	0.0148913504164
+Bacteria	Chloroflexi	Chloroflexi (class)	S13	0.0710202866012
+Bacteria	Chloroflexi	Ktedonobacteria	S13	0.00744567520819
+Bacteria	Chloroflexi	Thermomicrobia	S13	0.000572744246784
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S13	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S13	2.81274699596
+Bacteria	Cyanobacteria	Gloeobacteria	S13	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S13	0.000572744246784
+Bacteria	Deinococcus-Thermus	Deinococci	S13	0.00687293096141
+Bacteria	Fibrobacteres	Fibrobacteria	S13	0
+Bacteria	Firmicutes	Bacilli	S13	1.06415881052
+Bacteria	Firmicutes	Clostridia	S13	6.18735609801
+Bacteria	Firmicutes	Erysipelotrichia	S13	0.00114548849357
+Bacteria	Firmicutes	Negativicutes	S13	0
+Bacteria	Fusobacteria	Fusobacteriia	S13	0.00171823274035
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S13	0.092784567979
+Bacteria	Ignavibacteriae	Ignavibacteria	S13	0
+Bacteria	Lentisphaerae	Lentisphaeria	S13	0
+Bacteria	Nitrospirae	Nitrospira (class)	S13	0.0618563786527
+Bacteria	Planctomycetes	Phycisphaerae	S13	0
+Bacteria	Planctomycetes	Planctomycetia	S13	0.0652928441334
+Bacteria	Proteobacteria	Alphaproteobacteria	S13	18.160574577
+Bacteria	Proteobacteria	Betaproteobacteria	S13	24.0329213393
+Bacteria	Proteobacteria	Deltaproteobacteria	S13	0.0922118237322
+Bacteria	Proteobacteria	Epsilonproteobacteria	S13	0.352237711772
+Bacteria	Proteobacteria	Gammaproteobacteria	S13	26.9894271412
+Bacteria	Spirochaetes	Spirochaetia	S13	0.0034364654807
+Bacteria	TM7	TM7 (class)	S13	0.021191537131
+Bacteria	Tenericutes	Mollicutes	S13	0.0246280026117
+Bacteria	Verrucomicrobia	Opitutae	S13	0.0223370256246
+Bacteria	Verrucomicrobia	Spartobacteria	S13	0.000572744246784
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S13	0.0223370256246
+No Hit	No Hit	No Hit	S13	2.15122739092
+Bacteria	Acidobacteria	Acidobacteria (class)	S14	0
+Bacteria	Acidobacteria	Acidobacteriia	S14	5.23027716957
+Bacteria	Acidobacteria	Holophagae	S14	0.315356045943
+Bacteria	Acidobacteria	Solibacteres	S14	0.0209240978351
+Bacteria	Actinobacteria	Actinobacteria (class)	S14	2.61775409701
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S14	0
+Bacteria	Bacteroidetes	Bacteroidia	S14	0.266034958189
+Bacteria	Bacteroidetes	Cytophagia	S14	0.907209098993
+Bacteria	Bacteroidetes	Flavobacteriia	S14	1.78826307569
+Bacteria	Bacteroidetes	Sphingobacteriia	S14	1.2995359334
+Bacteria	Chlamydiae	Chlamydiia	S14	0.0179349410015
+Bacteria	Chloroflexi	Anaerolineae	S14	0.120313562552
+Bacteria	Chloroflexi	Caldilineae	S14	0.00822018129236
+Bacteria	Chloroflexi	Chloroflexi (class)	S14	0.457340995539
+Bacteria	Chloroflexi	Ktedonobacteria	S14	0
+Bacteria	Chloroflexi	Thermomicrobia	S14	0.00298915683359
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S14	0.0224186762519
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S14	0.094158440258
+Bacteria	Cyanobacteria	Gloeobacteria	S14	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S14	0.0112093381259
+Bacteria	Deinococcus-Thermus	Deinococci	S14	0.0291442791275
+Bacteria	Fibrobacteres	Fibrobacteria	S14	0
+Bacteria	Firmicutes	Bacilli	S14	1.19416815502
+Bacteria	Firmicutes	Clostridia	S14	11.2900453605
+Bacteria	Firmicutes	Erysipelotrichia	S14	0.000747289208397
+Bacteria	Firmicutes	Negativicutes	S14	0.00672560287557
+Bacteria	Fusobacteria	Fusobacteriia	S14	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S14	0.462572019997
+Bacteria	Ignavibacteriae	Ignavibacteria	S14	0.00149457841679
+Bacteria	Lentisphaerae	Lentisphaeria	S14	0
+Bacteria	Nitrospirae	Nitrospira (class)	S14	0.783906379608
+Bacteria	Planctomycetes	Phycisphaerae	S14	0
+Bacteria	Planctomycetes	Planctomycetia	S14	0.523102445878
+Bacteria	Proteobacteria	Alphaproteobacteria	S14	25.9937078249
+Bacteria	Proteobacteria	Betaproteobacteria	S14	14.9771703147
+Bacteria	Proteobacteria	Deltaproteobacteria	S14	1.28384286003
+Bacteria	Proteobacteria	Epsilonproteobacteria	S14	0.0844436805488
+Bacteria	Proteobacteria	Gammaproteobacteria	S14	25.4556595948
+Bacteria	Spirochaetes	Spirochaetia	S14	0.0231659654603
+Bacteria	TM7	TM7 (class)	S14	0.000747289208397
+Bacteria	Tenericutes	Mollicutes	S14	0.00971475970916
+Bacteria	Verrucomicrobia	Opitutae	S14	0.0112093381259
+Bacteria	Verrucomicrobia	Spartobacteria	S14	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S14	0.0306388575443
+No Hit	No Hit	No Hit	S14	4.65785363594
+Bacteria	Acidobacteria	Acidobacteria (class)	S15	0.0271683760103
+Bacteria	Acidobacteria	Acidobacteriia	S15	5.71758473137
+Bacteria	Acidobacteria	Holophagae	S15	0.573252733818
+Bacteria	Acidobacteria	Solibacteres	S15	0.107315085241
+Bacteria	Actinobacteria	Actinobacteria (class)	S15	13.6819941588
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S15	0
+Bacteria	Bacteroidetes	Bacteroidia	S15	0.120899273246
+Bacteria	Bacteroidetes	Cytophagia	S15	0.638456836243
+Bacteria	Bacteroidetes	Flavobacteriia	S15	0.15757658086
+Bacteria	Bacteroidetes	Sphingobacteriia	S15	2.59050465258
+Bacteria	Chlamydiae	Chlamydiia	S15	0
+Bacteria	Chloroflexi	Anaerolineae	S15	0
+Bacteria	Chloroflexi	Caldilineae	S15	0.0203762820077
+Bacteria	Chloroflexi	Chloroflexi (class)	S15	0.133125042451
+Bacteria	Chloroflexi	Ktedonobacteria	S15	0
+Bacteria	Chloroflexi	Thermomicrobia	S15	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S15	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S15	0
+Bacteria	Cyanobacteria	Gloeobacteria	S15	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S15	0.115465598044
+Bacteria	Deinococcus-Thermus	Deinococci	S15	0.084221965632
+Bacteria	Fibrobacteres	Fibrobacteria	S15	0
+Bacteria	Firmicutes	Bacilli	S15	0.669700468654
+Bacteria	Firmicutes	Clostridia	S15	7.96984310263
+Bacteria	Firmicutes	Erysipelotrichia	S15	0
+Bacteria	Firmicutes	Negativicutes	S15	0
+Bacteria	Fusobacteria	Fusobacteriia	S15	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S15	0.740338246281
+Bacteria	Ignavibacteriae	Ignavibacteria	S15	0
+Bacteria	Lentisphaerae	Lentisphaeria	S15	0
+Bacteria	Nitrospirae	Nitrospira (class)	S15	0.0122257692046
+Bacteria	Planctomycetes	Phycisphaerae	S15	0.0271683760103
+Bacteria	Planctomycetes	Planctomycetia	S15	0.539292263805
+Bacteria	Proteobacteria	Alphaproteobacteria	S15	33.9876383889
+Bacteria	Proteobacteria	Betaproteobacteria	S15	16.4572437683
+Bacteria	Proteobacteria	Deltaproteobacteria	S15	0.440127691367
+Bacteria	Proteobacteria	Epsilonproteobacteria	S15	0.00271683760103
+Bacteria	Proteobacteria	Gammaproteobacteria	S15	10.3620186103
+Bacteria	Spirochaetes	Spirochaetia	S15	0.0108673504041
+Bacteria	TM7	TM7 (class)	S15	0.0176594444067
+Bacteria	Tenericutes	Mollicutes	S15	0.0203762820077
+Bacteria	Verrucomicrobia	Opitutae	S15	0.366773076139
+Bacteria	Verrucomicrobia	Spartobacteria	S15	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S15	0.081505128031
+No Hit	No Hit	No Hit	S15	4.32656387964
+Bacteria	Acidobacteria	Acidobacteria (class)	S16	0.143799147569
+Bacteria	Acidobacteria	Acidobacteriia	S16	17.9282558848
+Bacteria	Acidobacteria	Holophagae	S16	0.664585249576
+Bacteria	Acidobacteria	Solibacteres	S16	0.220232928709
+Bacteria	Actinobacteria	Actinobacteria (class)	S16	7.54492104002
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S16	0.0440465857419
+Bacteria	Bacteroidetes	Bacteroidia	S16	0.0790247567722
+Bacteria	Bacteroidetes	Cytophagia	S16	0.00518195126375
+Bacteria	Bacteroidetes	Flavobacteriia	S16	0.0440465857419
+Bacteria	Bacteroidetes	Sphingobacteriia	S16	6.71192237437
+Bacteria	Chlamydiae	Chlamydiia	S16	0
+Bacteria	Chloroflexi	Anaerolineae	S16	0
+Bacteria	Chloroflexi	Caldilineae	S16	0.0272052441347
+Bacteria	Chloroflexi	Chloroflexi (class)	S16	0.136026220673
+Bacteria	Chloroflexi	Ktedonobacteria	S16	0
+Bacteria	Chloroflexi	Thermomicrobia	S16	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S16	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S16	0
+Bacteria	Cyanobacteria	Gloeobacteria	S16	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S16	0.630902566361
+Bacteria	Deinococcus-Thermus	Deinococci	S16	0.0155458537912
+Bacteria	Fibrobacteres	Fibrobacteria	S16	0
+Bacteria	Firmicutes	Bacilli	S16	0.685313054631
+Bacteria	Firmicutes	Clostridia	S16	0.564832687749
+Bacteria	Firmicutes	Erysipelotrichia	S16	0
+Bacteria	Firmicutes	Negativicutes	S16	0
+Bacteria	Fusobacteria	Fusobacteriia	S16	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S16	2.2113977018
+Bacteria	Ignavibacteriae	Ignavibacteria	S16	0
+Bacteria	Lentisphaerae	Lentisphaeria	S16	0.00129548781594
+Bacteria	Nitrospirae	Nitrospira (class)	S16	0.147685611017
+Bacteria	Planctomycetes	Phycisphaerae	S16	0.0310917075825
+Bacteria	Planctomycetes	Planctomycetia	S16	0.542809394878
+Bacteria	Proteobacteria	Alphaproteobacteria	S16	42.3896568253
+Bacteria	Proteobacteria	Betaproteobacteria	S16	11.7435970515
+Bacteria	Proteobacteria	Deltaproteobacteria	S16	0.212460001814
+Bacteria	Proteobacteria	Epsilonproteobacteria	S16	0.00388646344781
+Bacteria	Proteobacteria	Gammaproteobacteria	S16	1.07395939941
+Bacteria	Spirochaetes	Spirochaetia	S16	0
+Bacteria	TM7	TM7 (class)	S16	0.417147076732
+Bacteria	Tenericutes	Mollicutes	S16	0
+Bacteria	Verrucomicrobia	Opitutae	S16	0.0842067080359
+Bacteria	Verrucomicrobia	Spartobacteria	S16	0.154163050097
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S16	0.0855021958518
+No Hit	No Hit	No Hit	S16	5.45529919291
+Bacteria	Acidobacteria	Acidobacteria (class)	S17	0
+Bacteria	Acidobacteria	Acidobacteriia	S17	0.905032467532
+Bacteria	Acidobacteria	Holophagae	S17	0.0162337662338
+Bacteria	Acidobacteria	Solibacteres	S17	0.0466720779221
+Bacteria	Actinobacteria	Actinobacteria (class)	S17	5.82589285714
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S17	0
+Bacteria	Bacteroidetes	Bacteroidia	S17	0
+Bacteria	Bacteroidetes	Cytophagia	S17	0.379464285714
+Bacteria	Bacteroidetes	Flavobacteriia	S17	0.111607142857
+Bacteria	Bacteroidetes	Sphingobacteriia	S17	3.39691558442
+Bacteria	Chlamydiae	Chlamydiia	S17	0
+Bacteria	Chloroflexi	Anaerolineae	S17	0
+Bacteria	Chloroflexi	Caldilineae	S17	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S17	0.00405844155844
+Bacteria	Chloroflexi	Ktedonobacteria	S17	0
+Bacteria	Chloroflexi	Thermomicrobia	S17	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S17	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S17	0
+Bacteria	Cyanobacteria	Gloeobacteria	S17	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S17	0.142045454545
+Bacteria	Deinococcus-Thermus	Deinococci	S17	0.0324675324675
+Bacteria	Fibrobacteres	Fibrobacteria	S17	0
+Bacteria	Firmicutes	Bacilli	S17	0.363230519481
+Bacteria	Firmicutes	Clostridia	S17	0.00608766233766
+Bacteria	Firmicutes	Erysipelotrichia	S17	0
+Bacteria	Firmicutes	Negativicutes	S17	0
+Bacteria	Fusobacteria	Fusobacteriia	S17	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S17	1.01663961039
+Bacteria	Ignavibacteriae	Ignavibacteria	S17	0
+Bacteria	Lentisphaerae	Lentisphaeria	S17	0
+Bacteria	Nitrospirae	Nitrospira (class)	S17	0.0507305194805
+Bacteria	Planctomycetes	Phycisphaerae	S17	0
+Bacteria	Planctomycetes	Planctomycetia	S17	0.0629058441558
+Bacteria	Proteobacteria	Alphaproteobacteria	S17	6.70048701299
+Bacteria	Proteobacteria	Betaproteobacteria	S17	77.6643668831
+Bacteria	Proteobacteria	Deltaproteobacteria	S17	0.107548701299
+Bacteria	Proteobacteria	Epsilonproteobacteria	S17	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S17	0.600649350649
+Bacteria	Spirochaetes	Spirochaetia	S17	0
+Bacteria	TM7	TM7 (class)	S17	0
+Bacteria	Tenericutes	Mollicutes	S17	0.0142045454545
+Bacteria	Verrucomicrobia	Opitutae	S17	0.00405844155844
+Bacteria	Verrucomicrobia	Spartobacteria	S17	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S17	0.00405844155844
+No Hit	No Hit	No Hit	S17	2.54464285714
+Bacteria	Acidobacteria	Acidobacteria (class)	S18	0
+Bacteria	Acidobacteria	Acidobacteriia	S18	3.71554870902
+Bacteria	Acidobacteria	Holophagae	S18	0.0368373463715
+Bacteria	Acidobacteria	Solibacteres	S18	0.3533036402
+Bacteria	Actinobacteria	Actinobacteria (class)	S18	18.6179297411
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S18	0
+Bacteria	Bacteroidetes	Bacteroidia	S18	0.0133953986806
+Bacteria	Bacteroidetes	Cytophagia	S18	0.299722045477
+Bacteria	Bacteroidetes	Flavobacteriia	S18	0.587723117109
+Bacteria	Bacteroidetes	Sphingobacteriia	S18	8.3269147048
+Bacteria	Chlamydiae	Chlamydiia	S18	0
+Bacteria	Chloroflexi	Anaerolineae	S18	0
+Bacteria	Chloroflexi	Caldilineae	S18	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S18	0.0468838953819
+Bacteria	Chloroflexi	Ktedonobacteria	S18	0
+Bacteria	Chloroflexi	Thermomicrobia	S18	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S18	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S18	0.00167442483507
+Bacteria	Cyanobacteria	Gloeobacteria	S18	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S18	0.0954422155989
+Bacteria	Deinococcus-Thermus	Deinococci	S18	2.54512574931
+Bacteria	Fibrobacteres	Fibrobacteria	S18	0
+Bacteria	Firmicutes	Bacilli	S18	6.7797461572
+Bacteria	Firmicutes	Clostridia	S18	0.0351629215365
+Bacteria	Firmicutes	Erysipelotrichia	S18	0
+Bacteria	Firmicutes	Negativicutes	S18	0
+Bacteria	Fusobacteria	Fusobacteriia	S18	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S18	1.00967817555
+Bacteria	Ignavibacteriae	Ignavibacteria	S18	0
+Bacteria	Lentisphaerae	Lentisphaeria	S18	0
+Bacteria	Nitrospirae	Nitrospira (class)	S18	0.023441947691
+Bacteria	Planctomycetes	Phycisphaerae	S18	0.00334884967014
+Bacteria	Planctomycetes	Planctomycetia	S18	0.266233548776
+Bacteria	Proteobacteria	Alphaproteobacteria	S18	27.0218679883
+Bacteria	Proteobacteria	Betaproteobacteria	S18	18.284719199
+Bacteria	Proteobacteria	Deltaproteobacteria	S18	3.34550082047
+Bacteria	Proteobacteria	Epsilonproteobacteria	S18	0.00167442483507
+Bacteria	Proteobacteria	Gammaproteobacteria	S18	0.818793744349
+Bacteria	Spirochaetes	Spirochaetia	S18	0
+Bacteria	TM7	TM7 (class)	S18	0.00837212417535
+Bacteria	Tenericutes	Mollicutes	S18	0
+Bacteria	Verrucomicrobia	Opitutae	S18	0
+Bacteria	Verrucomicrobia	Spartobacteria	S18	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S18	0.246140450755
+No Hit	No Hit	No Hit	S18	7.51481865979
+Bacteria	Acidobacteria	Acidobacteria (class)	S19	0.00272557543711
+Bacteria	Acidobacteria	Acidobacteriia	S19	8.37841889369
+Bacteria	Acidobacteria	Holophagae	S19	0.0449719947124
+Bacteria	Acidobacteria	Solibacteres	S19	0.155357799916
+Bacteria	Actinobacteria	Actinobacteria (class)	S19	20.8969868764
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S19	0
+Bacteria	Bacteroidetes	Bacteroidia	S19	0.0313441175268
+Bacteria	Bacteroidetes	Cytophagia	S19	0.213957671813
+Bacteria	Bacteroidetes	Flavobacteriia	S19	0.380217773477
+Bacteria	Bacteroidetes	Sphingobacteriia	S19	4.56533885717
+Bacteria	Chlamydiae	Chlamydiia	S19	0
+Bacteria	Chloroflexi	Anaerolineae	S19	0
+Bacteria	Chloroflexi	Caldilineae	S19	0.00272557543711
+Bacteria	Chloroflexi	Chloroflexi (class)	S19	0.0231673912155
+Bacteria	Chloroflexi	Ktedonobacteria	S19	0
+Bacteria	Chloroflexi	Thermomicrobia	S19	0.00136278771856
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S19	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S19	0
+Bacteria	Cyanobacteria	Gloeobacteria	S19	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S19	0.0095395140299
+Bacteria	Deinococcus-Thermus	Deinococci	S19	0.164897313945
+Bacteria	Fibrobacteres	Fibrobacteria	S19	0
+Bacteria	Firmicutes	Bacilli	S19	1.24149961161
+Bacteria	Firmicutes	Clostridia	S19	0.114474168359
+Bacteria	Firmicutes	Erysipelotrichia	S19	0.0463347824309
+Bacteria	Firmicutes	Negativicutes	S19	0
+Bacteria	Fusobacteria	Fusobacteriia	S19	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S19	0.881723653906
+Bacteria	Ignavibacteriae	Ignavibacteria	S19	0
+Bacteria	Lentisphaerae	Lentisphaeria	S19	0
+Bacteria	Nitrospirae	Nitrospira (class)	S19	0.0436092069938
+Bacteria	Planctomycetes	Phycisphaerae	S19	0.00136278771856
+Bacteria	Planctomycetes	Planctomycetia	S19	0.40611074013
+Bacteria	Proteobacteria	Alphaproteobacteria	S19	34.8805516565
+Bacteria	Proteobacteria	Betaproteobacteria	S19	20.3137137328
+Bacteria	Proteobacteria	Deltaproteobacteria	S19	0.239850638466
+Bacteria	Proteobacteria	Epsilonproteobacteria	S19	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S19	2.93680753349
+Bacteria	Spirochaetes	Spirochaetia	S19	0
+Bacteria	TM7	TM7 (class)	S19	0.0299813298083
+Bacteria	Tenericutes	Mollicutes	S19	0.0109023017485
+Bacteria	Verrucomicrobia	Opitutae	S19	0.036795268401
+Bacteria	Verrucomicrobia	Spartobacteria	S19	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S19	0.267106392837
+No Hit	No Hit	No Hit	S19	3.67816405239
+Bacteria	Acidobacteria	Acidobacteria (class)	S2	0.00354446531741
+Bacteria	Acidobacteria	Acidobacteriia	S2	2.69733810655
+Bacteria	Acidobacteria	Holophagae	S2	0.184312196505
+Bacteria	Acidobacteria	Solibacteres	S2	0.0708893063481
+Bacteria	Actinobacteria	Actinobacteria (class)	S2	7.3512210683
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S2	0
+Bacteria	Bacteroidetes	Bacteroidia	S2	0.102789494205
+Bacteria	Bacteroidetes	Cytophagia	S2	0.127600751427
+Bacteria	Bacteroidetes	Flavobacteriia	S2	0.251657037536
+Bacteria	Bacteroidetes	Sphingobacteriia	S2	2.37833622798
+Bacteria	Chlamydiae	Chlamydiia	S2	0
+Bacteria	Chloroflexi	Anaerolineae	S2	0
+Bacteria	Chloroflexi	Caldilineae	S2	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S2	0.187856661823
+Bacteria	Chloroflexi	Ktedonobacteria	S2	0
+Bacteria	Chloroflexi	Thermomicrobia	S2	0.166589869918
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S2	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S2	0.0248112572218
+Bacteria	Cyanobacteria	Gloeobacteria	S2	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S2	0.361535462376
+Bacteria	Deinococcus-Thermus	Deinococci	S2	3.6649771382
+Bacteria	Fibrobacteres	Fibrobacteria	S2	0
+Bacteria	Firmicutes	Bacilli	S2	3.87055612661
+Bacteria	Firmicutes	Clostridia	S2	0.106333959522
+Bacteria	Firmicutes	Erysipelotrichia	S2	0
+Bacteria	Firmicutes	Negativicutes	S2	0
+Bacteria	Fusobacteria	Fusobacteriia	S2	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S2	1.20866267324
+Bacteria	Ignavibacteriae	Ignavibacteria	S2	0
+Bacteria	Lentisphaerae	Lentisphaeria	S2	0
+Bacteria	Nitrospirae	Nitrospira (class)	S2	0.155956473966
+Bacteria	Planctomycetes	Phycisphaerae	S2	0.0212667919044
+Bacteria	Planctomycetes	Planctomycetia	S2	0.304824017297
+Bacteria	Proteobacteria	Alphaproteobacteria	S2	16.6979761103
+Bacteria	Proteobacteria	Betaproteobacteria	S2	53.8404281714
+Bacteria	Proteobacteria	Deltaproteobacteria	S2	0.659270549038
+Bacteria	Proteobacteria	Epsilonproteobacteria	S2	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S2	0.871938468082
+Bacteria	Spirochaetes	Spirochaetia	S2	0
+Bacteria	TM7	TM7 (class)	S2	0.0248112572218
+Bacteria	Tenericutes	Mollicutes	S2	0
+Bacteria	Verrucomicrobia	Opitutae	S2	0.0886116329352
+Bacteria	Verrucomicrobia	Spartobacteria	S2	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S2	0.0460780491263
+No Hit	No Hit	No Hit	S2	4.52982667565
+Bacteria	Acidobacteria	Acidobacteria (class)	S20	0.00245386729486
+Bacteria	Acidobacteria	Acidobacteriia	S20	6.09786022772
+Bacteria	Acidobacteria	Holophagae	S20	0.517765999215
+Bacteria	Acidobacteria	Solibacteres	S20	0.0539850804868
+Bacteria	Actinobacteria	Actinobacteria (class)	S20	16.6617589321
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S20	0.00245386729486
+Bacteria	Bacteroidetes	Bacteroidia	S20	0.277287004319
+Bacteria	Bacteroidetes	Cytophagia	S20	0.507950530035
+Bacteria	Bacteroidetes	Flavobacteriia	S20	0.0907930899097
+Bacteria	Bacteroidetes	Sphingobacteriia	S20	5.78131134668
+Bacteria	Chlamydiae	Chlamydiia	S20	0
+Bacteria	Chloroflexi	Anaerolineae	S20	0
+Bacteria	Chloroflexi	Caldilineae	S20	0.0392618767177
+Bacteria	Chloroflexi	Chloroflexi (class)	S20	0.402434236356
+Bacteria	Chloroflexi	Ktedonobacteria	S20	0
+Bacteria	Chloroflexi	Thermomicrobia	S20	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S20	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S20	0
+Bacteria	Cyanobacteria	Gloeobacteria	S20	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S20	0.780329799764
+Bacteria	Deinococcus-Thermus	Deinococci	S20	0.880938358854
+Bacteria	Fibrobacteres	Fibrobacteria	S20	0
+Bacteria	Firmicutes	Bacilli	S20	0.969277581468
+Bacteria	Firmicutes	Clostridia	S20	0.0907930899097
+Bacteria	Firmicutes	Erysipelotrichia	S20	0
+Bacteria	Firmicutes	Negativicutes	S20	0
+Bacteria	Fusobacteria	Fusobacteriia	S20	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S20	2.3851590106
+Bacteria	Ignavibacteriae	Ignavibacteria	S20	0
+Bacteria	Lentisphaerae	Lentisphaeria	S20	0
+Bacteria	Nitrospirae	Nitrospira (class)	S20	0.0466234786023
+Bacteria	Planctomycetes	Phycisphaerae	S20	0.0245386729486
+Bacteria	Planctomycetes	Planctomycetia	S20	0.579112681586
+Bacteria	Proteobacteria	Alphaproteobacteria	S20	27.0367098547
+Bacteria	Proteobacteria	Betaproteobacteria	S20	28.8010404397
+Bacteria	Proteobacteria	Deltaproteobacteria	S20	0.4294267766
+Bacteria	Proteobacteria	Epsilonproteobacteria	S20	0.0147232037691
+Bacteria	Proteobacteria	Gammaproteobacteria	S20	0.358264625049
+Bacteria	Spirochaetes	Spirochaetia	S20	0.00490773458971
+Bacteria	TM7	TM7 (class)	S20	0.0122693364743
+Bacteria	Tenericutes	Mollicutes	S20	0
+Bacteria	Verrucomicrobia	Opitutae	S20	0.0490773458971
+Bacteria	Verrucomicrobia	Spartobacteria	S20	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S20	0.17667844523
+No Hit	No Hit	No Hit	S20	6.92481350609
+Bacteria	Acidobacteria	Acidobacteria (class)	S21	0
+Bacteria	Acidobacteria	Acidobacteriia	S21	0.875140948182
+Bacteria	Acidobacteria	Holophagae	S21	0.358471196082
+Bacteria	Acidobacteria	Solibacteres	S21	0.0201955603427
+Bacteria	Actinobacteria	Actinobacteria (class)	S21	7.9351722513
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S21	0
+Bacteria	Bacteroidetes	Bacteroidia	S21	0.0471229741329
+Bacteria	Bacteroidetes	Cytophagia	S21	0.444302327538
+Bacteria	Bacteroidetes	Flavobacteriia	S21	0.0673185344755
+Bacteria	Bacteroidetes	Sphingobacteriia	S21	1.45239738131
+Bacteria	Chlamydiae	Chlamydiia	S21	0
+Bacteria	Chloroflexi	Anaerolineae	S21	0
+Bacteria	Chloroflexi	Caldilineae	S21	0.0201955603427
+Bacteria	Chloroflexi	Chloroflexi (class)	S21	0.459448997795
+Bacteria	Chloroflexi	Ktedonobacteria	S21	0.00336592672378
+Bacteria	Chloroflexi	Thermomicrobia	S21	0.138002995675
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S21	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S21	0
+Bacteria	Cyanobacteria	Gloeobacteria	S21	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S21	0.779212036554
+Bacteria	Deinococcus-Thermus	Deinococci	S21	0.0790992780087
+Bacteria	Fibrobacteres	Fibrobacteria	S21	0
+Bacteria	Firmicutes	Bacilli	S21	0.134637068951
+Bacteria	Firmicutes	Clostridia	S21	0.0201955603427
+Bacteria	Firmicutes	Erysipelotrichia	S21	0
+Bacteria	Firmicutes	Negativicutes	S21	0
+Bacteria	Fusobacteria	Fusobacteriia	S21	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S21	0.50825493529
+Bacteria	Ignavibacteriae	Ignavibacteria	S21	0
+Bacteria	Lentisphaerae	Lentisphaeria	S21	0
+Bacteria	Nitrospirae	Nitrospira (class)	S21	0.11612447197
+Bacteria	Planctomycetes	Phycisphaerae	S21	0.00168296336189
+Bacteria	Planctomycetes	Planctomycetia	S21	0.14305188576
+Bacteria	Proteobacteria	Alphaproteobacteria	S21	8.64033389993
+Bacteria	Proteobacteria	Betaproteobacteria	S21	73.6952826537
+Bacteria	Proteobacteria	Deltaproteobacteria	S21	0.00168296336189
+Bacteria	Proteobacteria	Epsilonproteobacteria	S21	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S21	0.270957101264
+Bacteria	Spirochaetes	Spirochaetia	S21	0
+Bacteria	TM7	TM7 (class)	S21	0.0269274137902
+Bacteria	Tenericutes	Mollicutes	S21	0
+Bacteria	Verrucomicrobia	Opitutae	S21	0.00673185344755
+Bacteria	Verrucomicrobia	Spartobacteria	S21	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S21	0.00168296336189
+No Hit	No Hit	No Hit	S21	3.75300829701
+Bacteria	Acidobacteria	Acidobacteria (class)	S22	0.105376853974
+Bacteria	Acidobacteria	Acidobacteriia	S22	4.50090887537
+Bacteria	Acidobacteria	Holophagae	S22	0.359598514186
+Bacteria	Acidobacteria	Solibacteres	S22	0.147527595564
+Bacteria	Actinobacteria	Actinobacteria (class)	S22	11.677072631
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S22	0
+Bacteria	Bacteroidetes	Bacteroidia	S22	0.0395163202403
+Bacteria	Bacteroidetes	Cytophagia	S22	0.105376853974
+Bacteria	Bacteroidetes	Flavobacteriia	S22	0.273979820332
+Bacteria	Bacteroidetes	Sphingobacteriia	S22	3.13232698438
+Bacteria	Chlamydiae	Chlamydiia	S22	0
+Bacteria	Chloroflexi	Anaerolineae	S22	0
+Bacteria	Chloroflexi	Caldilineae	S22	0.00395163202403
+Bacteria	Chloroflexi	Chloroflexi (class)	S22	0.26212492426
+Bacteria	Chloroflexi	Ktedonobacteria	S22	0.0052688426987
+Bacteria	Chloroflexi	Thermomicrobia	S22	0.0355646882162
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S22	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S22	0
+Bacteria	Cyanobacteria	Gloeobacteria	S22	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S22	1.26583945836
+Bacteria	Deinococcus-Thermus	Deinococci	S22	0.869359045286
+Bacteria	Fibrobacteres	Fibrobacteria	S22	0
+Bacteria	Firmicutes	Bacilli	S22	1.08142996391
+Bacteria	Firmicutes	Clostridia	S22	0.435996733318
+Bacteria	Firmicutes	Erysipelotrichia	S22	0.0052688426987
+Bacteria	Firmicutes	Negativicutes	S22	0
+Bacteria	Fusobacteria	Fusobacteriia	S22	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S22	3.48797386654
+Bacteria	Ignavibacteriae	Ignavibacteria	S22	0
+Bacteria	Lentisphaerae	Lentisphaeria	S22	0
+Bacteria	Nitrospirae	Nitrospira (class)	S22	0.296372401802
+Bacteria	Planctomycetes	Phycisphaerae	S22	0.0724465871071
+Bacteria	Planctomycetes	Planctomycetia	S22	0.438631154667
+Bacteria	Proteobacteria	Alphaproteobacteria	S22	22.9945467478
+Bacteria	Proteobacteria	Betaproteobacteria	S22	35.5159514213
+Bacteria	Proteobacteria	Deltaproteobacteria	S22	0.50712610975
+Bacteria	Proteobacteria	Epsilonproteobacteria	S22	0.00263442134935
+Bacteria	Proteobacteria	Gammaproteobacteria	S22	0.983956373982
+Bacteria	Spirochaetes	Spirochaetia	S22	0.00131721067468
+Bacteria	TM7	TM7 (class)	S22	0.0184409494455
+Bacteria	Tenericutes	Mollicutes	S22	0
+Bacteria	Verrucomicrobia	Opitutae	S22	0.0408335309149
+Bacteria	Verrucomicrobia	Spartobacteria	S22	0.0052688426987
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S22	0.123817803419
+No Hit	No Hit	No Hit	S22	11.2041939988
+Bacteria	Acidobacteria	Acidobacteria (class)	S23	0
+Bacteria	Acidobacteria	Acidobacteriia	S23	0.726149213469
+Bacteria	Acidobacteria	Holophagae	S23	0.175655965245
+Bacteria	Acidobacteria	Solibacteres	S23	0.0109784978278
+Bacteria	Actinobacteria	Actinobacteria (class)	S23	17.0652906949
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S23	0.00156835683255
+Bacteria	Bacteroidetes	Bacteroidia	S23	0.0188202819906
+Bacteria	Bacteroidetes	Cytophagia	S23	0.034503850316
+Bacteria	Bacteroidetes	Flavobacteriia	S23	0.00941014099528
+Bacteria	Bacteroidetes	Sphingobacteriia	S23	0.156835683255
+Bacteria	Chlamydiae	Chlamydiia	S23	0
+Bacteria	Chloroflexi	Anaerolineae	S23	0
+Bacteria	Chloroflexi	Caldilineae	S23	0.00627342733019
+Bacteria	Chloroflexi	Chloroflexi (class)	S23	0.123900189771
+Bacteria	Chloroflexi	Ktedonobacteria	S23	0
+Bacteria	Chloroflexi	Thermomicrobia	S23	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S23	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S23	0
+Bacteria	Cyanobacteria	Gloeobacteria	S23	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S23	0.0580292028042
+Bacteria	Deinococcus-Thermus	Deinococci	S23	0.017251925158
+Bacteria	Fibrobacteres	Fibrobacteria	S23	0
+Bacteria	Firmicutes	Bacilli	S23	6.76589137561
+Bacteria	Firmicutes	Clostridia	S23	0.0533241323066
+Bacteria	Firmicutes	Erysipelotrichia	S23	0
+Bacteria	Firmicutes	Negativicutes	S23	0
+Bacteria	Fusobacteria	Fusobacteriia	S23	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S23	0.152130612757
+Bacteria	Ignavibacteriae	Ignavibacteria	S23	0
+Bacteria	Lentisphaerae	Lentisphaeria	S23	0
+Bacteria	Nitrospirae	Nitrospira (class)	S23	0.302692868681
+Bacteria	Planctomycetes	Phycisphaerae	S23	0.00470507049764
+Bacteria	Planctomycetes	Planctomycetia	S23	0.0972381236179
+Bacteria	Proteobacteria	Alphaproteobacteria	S23	3.22140493405
+Bacteria	Proteobacteria	Betaproteobacteria	S23	70.0506579257
+Bacteria	Proteobacteria	Deltaproteobacteria	S23	0.0282304229858
+Bacteria	Proteobacteria	Epsilonproteobacteria	S23	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S23	0.0925330531202
+Bacteria	Spirochaetes	Spirochaetia	S23	0
+Bacteria	TM7	TM7 (class)	S23	0.00313671366509
+Bacteria	Tenericutes	Mollicutes	S23	0
+Bacteria	Verrucomicrobia	Opitutae	S23	0.034503850316
+Bacteria	Verrucomicrobia	Spartobacteria	S23	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S23	0.0266620661533
+No Hit	No Hit	No Hit	S23	0.762221420618
+Bacteria	Acidobacteria	Acidobacteria (class)	S24	0.0210417046586
+Bacteria	Acidobacteria	Acidobacteriia	S24	10.8294639976
+Bacteria	Acidobacteria	Holophagae	S24	1.02683518734
+Bacteria	Acidobacteria	Solibacteres	S24	0.0519028714913
+Bacteria	Actinobacteria	Actinobacteria (class)	S24	15.1935135438
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S24	0.00841668186345
+Bacteria	Bacteroidetes	Bacteroidia	S24	0.151500273542
+Bacteria	Bacteroidetes	Cytophagia	S24	0.653695624728
+Bacteria	Bacteroidetes	Flavobacteriia	S24	0.304403327395
+Bacteria	Bacteroidetes	Sphingobacteriia	S24	3.97127105924
+Bacteria	Chlamydiae	Chlamydiia	S24	0
+Bacteria	Chloroflexi	Anaerolineae	S24	0.00140278031058
+Bacteria	Chloroflexi	Caldilineae	S24	0.0182361440375
+Bacteria	Chloroflexi	Chloroflexi (class)	S24	0.396986827893
+Bacteria	Chloroflexi	Ktedonobacteria	S24	0.00420834093173
+Bacteria	Chloroflexi	Thermomicrobia	S24	0.00981946217403
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S24	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S24	0.0280556062115
+Bacteria	Cyanobacteria	Gloeobacteria	S24	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S24	2.27530966375
+Bacteria	Deinococcus-Thermus	Deinococci	S24	0.4376674569
+Bacteria	Fibrobacteres	Fibrobacteria	S24	0
+Bacteria	Firmicutes	Bacilli	S24	10.4549216547
+Bacteria	Firmicutes	Clostridia	S24	0.1458891523
+Bacteria	Firmicutes	Erysipelotrichia	S24	0
+Bacteria	Firmicutes	Negativicutes	S24	0
+Bacteria	Fusobacteria	Fusobacteriia	S24	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S24	3.48310351116
+Bacteria	Ignavibacteriae	Ignavibacteria	S24	0
+Bacteria	Lentisphaerae	Lentisphaeria	S24	0
+Bacteria	Nitrospirae	Nitrospira (class)	S24	0.2917783046
+Bacteria	Planctomycetes	Phycisphaerae	S24	0.108014083914
+Bacteria	Planctomycetes	Planctomycetia	S24	0.627042798827
+Bacteria	Proteobacteria	Alphaproteobacteria	S24	21.5705528357
+Bacteria	Proteobacteria	Betaproteobacteria	S24	20.4328980038
+Bacteria	Proteobacteria	Deltaproteobacteria	S24	0.339472835159
+Bacteria	Proteobacteria	Epsilonproteobacteria	S24	0.0168333637269
+Bacteria	Proteobacteria	Gammaproteobacteria	S24	1.04366855107
+Bacteria	Spirochaetes	Spirochaetia	S24	0
+Bacteria	TM7	TM7 (class)	S24	0.0252500455904
+Bacteria	Tenericutes	Mollicutes	S24	0.00140278031058
+Bacteria	Verrucomicrobia	Opitutae	S24	0.127653008262
+Bacteria	Verrucomicrobia	Spartobacteria	S24	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S24	0.307208888016
+No Hit	No Hit	No Hit	S24	5.64057962882
+Bacteria	Acidobacteria	Acidobacteria (class)	S25	0
+Bacteria	Acidobacteria	Acidobacteriia	S25	11.5956431091
+Bacteria	Acidobacteria	Holophagae	S25	0.898267765632
+Bacteria	Acidobacteria	Solibacteres	S25	0.0292278014848
+Bacteria	Actinobacteria	Actinobacteria (class)	S25	17.4275637653
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S25	0
+Bacteria	Bacteroidetes	Bacteroidia	S25	0.187057929503
+Bacteria	Bacteroidetes	Cytophagia	S25	0.763819878802
+Bacteria	Bacteroidetes	Flavobacteriia	S25	0.605989750784
+Bacteria	Bacteroidetes	Sphingobacteriia	S25	3.09424991719
+Bacteria	Chlamydiae	Chlamydiia	S25	0
+Bacteria	Chloroflexi	Anaerolineae	S25	0.00584556029695
+Bacteria	Chloroflexi	Caldilineae	S25	0.0116911205939
+Bacteria	Chloroflexi	Chloroflexi (class)	S25	0.53779154732
+Bacteria	Chloroflexi	Ktedonobacteria	S25	0
+Bacteria	Chloroflexi	Thermomicrobia	S25	0.0409189220787
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S25	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S25	0.0194852009898
+Bacteria	Cyanobacteria	Gloeobacteria	S25	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S25	1.26458954424
+Bacteria	Deinococcus-Thermus	Deinococci	S25	0.559225268409
+Bacteria	Fibrobacteres	Fibrobacteria	S25	0
+Bacteria	Firmicutes	Bacilli	S25	1.55297051889
+Bacteria	Firmicutes	Clostridia	S25	0.859297363652
+Bacteria	Firmicutes	Erysipelotrichia	S25	0
+Bacteria	Firmicutes	Negativicutes	S25	0
+Bacteria	Fusobacteria	Fusobacteriia	S25	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S25	2.02646090294
+Bacteria	Ignavibacteriae	Ignavibacteria	S25	0
+Bacteria	Lentisphaerae	Lentisphaeria	S25	0
+Bacteria	Nitrospirae	Nitrospira (class)	S25	0.444262582569
+Bacteria	Planctomycetes	Phycisphaerae	S25	0.0526100426726
+Bacteria	Planctomycetes	Planctomycetia	S25	1.05609789365
+Bacteria	Proteobacteria	Alphaproteobacteria	S25	34.5180335535
+Bacteria	Proteobacteria	Betaproteobacteria	S25	9.46980768107
+Bacteria	Proteobacteria	Deltaproteobacteria	S25	1.04830381325
+Bacteria	Proteobacteria	Epsilonproteobacteria	S25	0.00389704019797
+Bacteria	Proteobacteria	Gammaproteobacteria	S25	1.71469768711
+Bacteria	Spirochaetes	Spirochaetia	S25	0
+Bacteria	TM7	TM7 (class)	S25	0.0155881607919
+Bacteria	Tenericutes	Mollicutes	S25	0.00389704019797
+Bacteria	Verrucomicrobia	Opitutae	S25	0.247462052571
+Bacteria	Verrucomicrobia	Spartobacteria	S25	0.0604041230685
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S25	0.177315329008
+No Hit	No Hit	No Hit	S25	9.70752713314
+Bacteria	Acidobacteria	Acidobacteria (class)	S26	0.0423276528396
+Bacteria	Acidobacteria	Acidobacteriia	S26	7.21042364459
+Bacteria	Acidobacteria	Holophagae	S26	0.57970481063
+Bacteria	Acidobacteria	Solibacteres	S26	0.138024954912
+Bacteria	Actinobacteria	Actinobacteria (class)	S26	19.4118296588
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S26	0
+Bacteria	Bacteroidetes	Bacteroidia	S26	0.0404873201075
+Bacteria	Bacteroidetes	Cytophagia	S26	0.103058633001
+Bacteria	Bacteroidetes	Flavobacteriia	S26	0.150907284037
+Bacteria	Bacteroidetes	Sphingobacteriia	S26	1.91578637418
+Bacteria	Chlamydiae	Chlamydiia	S26	0
+Bacteria	Chloroflexi	Anaerolineae	S26	0
+Bacteria	Chloroflexi	Caldilineae	S26	0.00368066546432
+Bacteria	Chloroflexi	Chloroflexi (class)	S26	0.380948875557
+Bacteria	Chloroflexi	Ktedonobacteria	S26	0.0386469873753
+Bacteria	Chloroflexi	Thermomicrobia	S26	0.0478486510361
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S26	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S26	0.0386469873753
+Bacteria	Cyanobacteria	Gloeobacteria	S26	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S26	3.03470867533
+Bacteria	Deinococcus-Thermus	Deinococci	S26	0.774780080239
+Bacteria	Fibrobacteres	Fibrobacteria	S26	0
+Bacteria	Firmicutes	Bacilli	S26	4.383672568
+Bacteria	Firmicutes	Clostridia	S26	0.279730575288
+Bacteria	Firmicutes	Erysipelotrichia	S26	0
+Bacteria	Firmicutes	Negativicutes	S26	0
+Bacteria	Fusobacteria	Fusobacteriia	S26	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S26	2.69976811808
+Bacteria	Ignavibacteriae	Ignavibacteria	S26	0
+Bacteria	Lentisphaerae	Lentisphaeria	S26	0
+Bacteria	Nitrospirae	Nitrospira (class)	S26	0.362545548235
+Bacteria	Planctomycetes	Phycisphaerae	S26	0.0662519783577
+Bacteria	Planctomycetes	Planctomycetia	S26	0.390150539217
+Bacteria	Proteobacteria	Alphaproteobacteria	S26	23.2783687291
+Bacteria	Proteobacteria	Betaproteobacteria	S26	26.0517501564
+Bacteria	Proteobacteria	Deltaproteobacteria	S26	0.336780889985
+Bacteria	Proteobacteria	Epsilonproteobacteria	S26	0.00368066546432
+Bacteria	Proteobacteria	Gammaproteobacteria	S26	0.693805440024
+Bacteria	Spirochaetes	Spirochaetia	S26	0
+Bacteria	TM7	TM7 (class)	S26	0.0110419963929
+Bacteria	Tenericutes	Mollicutes	S26	0.00920166366079
+Bacteria	Verrucomicrobia	Opitutae	S26	0.080974640215
+Bacteria	Verrucomicrobia	Spartobacteria	S26	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S26	0.16194928043
+No Hit	No Hit	No Hit	S26	7.27851595568
+Bacteria	Acidobacteria	Acidobacteria (class)	S27	0.00335638047929
+Bacteria	Acidobacteria	Acidobacteriia	S27	5.90555145331
+Bacteria	Acidobacteria	Holophagae	S27	0.23494663355
+Bacteria	Acidobacteria	Solibacteres	S27	0.0839095119823
+Bacteria	Actinobacteria	Actinobacteria (class)	S27	17.8005638719
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S27	0
+Bacteria	Bacteroidetes	Bacteroidia	S27	0.110760555817
+Bacteria	Bacteroidetes	Cytophagia	S27	0.0855877022219
+Bacteria	Bacteroidetes	Flavobacteriia	S27	0.251728535947
+Bacteria	Bacteroidetes	Sphingobacteriia	S27	4.10317513593
+Bacteria	Chlamydiae	Chlamydiia	S27	0
+Bacteria	Chloroflexi	Anaerolineae	S27	0
+Bacteria	Chloroflexi	Caldilineae	S27	0.00503457071894
+Bacteria	Chloroflexi	Chloroflexi (class)	S27	0.273545009062
+Bacteria	Chloroflexi	Ktedonobacteria	S27	0.00503457071894
+Bacteria	Chloroflexi	Thermomicrobia	S27	0.0268510438343
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S27	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S27	0.00167819023965
+Bacteria	Cyanobacteria	Gloeobacteria	S27	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S27	1.48687655233
+Bacteria	Deinococcus-Thermus	Deinococci	S27	3.45203732295
+Bacteria	Fibrobacteres	Fibrobacteria	S27	0
+Bacteria	Firmicutes	Bacilli	S27	3.75746794657
+Bacteria	Firmicutes	Clostridia	S27	0.112438746056
+Bacteria	Firmicutes	Erysipelotrichia	S27	0
+Bacteria	Firmicutes	Negativicutes	S27	0
+Bacteria	Fusobacteria	Fusobacteriia	S27	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S27	2.1715781701
+Bacteria	Ignavibacteriae	Ignavibacteria	S27	0
+Bacteria	Lentisphaerae	Lentisphaeria	S27	0
+Bacteria	Nitrospirae	Nitrospira (class)	S27	0.255084916426
+Bacteria	Planctomycetes	Phycisphaerae	S27	0.0788749412633
+Bacteria	Planctomycetes	Planctomycetia	S27	0.636034100826
+Bacteria	Proteobacteria	Alphaproteobacteria	S27	29.4086057595
+Bacteria	Proteobacteria	Betaproteobacteria	S27	21.3986037457
+Bacteria	Proteobacteria	Deltaproteobacteria	S27	0.718265422568
+Bacteria	Proteobacteria	Epsilonproteobacteria	S27	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S27	0.797140363832
+Bacteria	Spirochaetes	Spirochaetia	S27	0
+Bacteria	TM7	TM7 (class)	S27	0.0201382828757
+Bacteria	Tenericutes	Mollicutes	S27	0
+Bacteria	Verrucomicrobia	Opitutae	S27	0.0100691414379
+Bacteria	Verrucomicrobia	Spartobacteria	S27	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S27	0.454789554944
+No Hit	No Hit	No Hit	S27	6.35027186682
+Bacteria	Acidobacteria	Acidobacteria (class)	S28	0
+Bacteria	Acidobacteria	Acidobacteriia	S28	9.07826040866
+Bacteria	Acidobacteria	Holophagae	S28	3.6294490234
+Bacteria	Acidobacteria	Solibacteres	S28	0.245143508335
+Bacteria	Actinobacteria	Actinobacteria (class)	S28	6.6970556277
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S28	0
+Bacteria	Bacteroidetes	Bacteroidia	S28	0.0583044019823
+Bacteria	Bacteroidetes	Cytophagia	S28	0.099382503379
+Bacteria	Bacteroidetes	Flavobacteriia	S28	0.0119259004055
+Bacteria	Bacteroidetes	Sphingobacteriia	S28	1.16741313969
+Bacteria	Chlamydiae	Chlamydiia	S28	0
+Bacteria	Chloroflexi	Anaerolineae	S28	0.0106008003604
+Bacteria	Chloroflexi	Caldilineae	S28	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S28	0.0318024010813
+Bacteria	Chloroflexi	Ktedonobacteria	S28	1.01370153447
+Bacteria	Chloroflexi	Thermomicrobia	S28	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S28	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S28	0
+Bacteria	Cyanobacteria	Gloeobacteria	S28	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S28	2.36265338033
+Bacteria	Deinococcus-Thermus	Deinococci	S28	0.00530040018021
+Bacteria	Fibrobacteres	Fibrobacteria	S28	0
+Bacteria	Firmicutes	Bacilli	S28	0.390904513291
+Bacteria	Firmicutes	Clostridia	S28	0.748681525455
+Bacteria	Firmicutes	Erysipelotrichia	S28	0.00132510004505
+Bacteria	Firmicutes	Negativicutes	S28	0
+Bacteria	Fusobacteria	Fusobacteriia	S28	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S28	5.92849760157
+Bacteria	Ignavibacteriae	Ignavibacteria	S28	0
+Bacteria	Lentisphaerae	Lentisphaeria	S28	0
+Bacteria	Nitrospirae	Nitrospira (class)	S28	0.343200911669
+Bacteria	Planctomycetes	Phycisphaerae	S28	0
+Bacteria	Planctomycetes	Planctomycetia	S28	0.504863117165
+Bacteria	Proteobacteria	Alphaproteobacteria	S28	25.4670977659
+Bacteria	Proteobacteria	Betaproteobacteria	S28	9.1617417115
+Bacteria	Proteobacteria	Deltaproteobacteria	S28	0.263694908966
+Bacteria	Proteobacteria	Epsilonproteobacteria	S28	0.023851800811
+Bacteria	Proteobacteria	Gammaproteobacteria	S28	3.76990962818
+Bacteria	Spirochaetes	Spirochaetia	S28	0
+Bacteria	TM7	TM7 (class)	S28	0.00795060027032
+Bacteria	Tenericutes	Mollicutes	S28	0
+Bacteria	Verrucomicrobia	Opitutae	S28	0.0530040018021
+Bacteria	Verrucomicrobia	Spartobacteria	S28	0.00132510004505
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S28	0.0795060027032
+No Hit	No Hit	No Hit	S28	28.8434526807
+Bacteria	Acidobacteria	Acidobacteria (class)	S29	0.00291014914514
+Bacteria	Acidobacteria	Acidobacteriia	S29	4.16078574027
+Bacteria	Acidobacteria	Holophagae	S29	1.17570025464
+Bacteria	Acidobacteria	Solibacteres	S29	0.213168424882
+Bacteria	Actinobacteria	Actinobacteria (class)	S29	11.6587850127
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S29	0
+Bacteria	Bacteroidetes	Bacteroidia	S29	0
+Bacteria	Bacteroidetes	Cytophagia	S29	0.0567479083303
+Bacteria	Bacteroidetes	Flavobacteriia	S29	0.0640232811932
+Bacteria	Bacteroidetes	Sphingobacteriia	S29	0.953801382321
+Bacteria	Chlamydiae	Chlamydiia	S29	0
+Bacteria	Chloroflexi	Anaerolineae	S29	0.00145507457257
+Bacteria	Chloroflexi	Caldilineae	S29	0.000727537286286
+Bacteria	Chloroflexi	Chloroflexi (class)	S29	0.00145507457257
+Bacteria	Chloroflexi	Ktedonobacteria	S29	5.65296471444
+Bacteria	Chloroflexi	Thermomicrobia	S29	0.000727537286286
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S29	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S29	0.000727537286286
+Bacteria	Cyanobacteria	Gloeobacteria	S29	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S29	1.61877046199
+Bacteria	Deinococcus-Thermus	Deinococci	S29	0.00218261185886
+Bacteria	Fibrobacteres	Fibrobacteria	S29	0
+Bacteria	Firmicutes	Bacilli	S29	0.364496180429
+Bacteria	Firmicutes	Clostridia	S29	0.52309930884
+Bacteria	Firmicutes	Erysipelotrichia	S29	0.00436522371772
+Bacteria	Firmicutes	Negativicutes	S29	0
+Bacteria	Fusobacteria	Fusobacteriia	S29	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S29	2.67151691524
+Bacteria	Ignavibacteriae	Ignavibacteria	S29	0
+Bacteria	Lentisphaerae	Lentisphaeria	S29	0
+Bacteria	Nitrospirae	Nitrospira (class)	S29	0.192797380866
+Bacteria	Planctomycetes	Phycisphaerae	S29	0
+Bacteria	Planctomycetes	Planctomycetia	S29	0.159330665697
+Bacteria	Proteobacteria	Alphaproteobacteria	S29	20.8890505638
+Bacteria	Proteobacteria	Betaproteobacteria	S29	6.29246998909
+Bacteria	Proteobacteria	Deltaproteobacteria	S29	0.252455438341
+Bacteria	Proteobacteria	Epsilonproteobacteria	S29	0.00145507457257
+Bacteria	Proteobacteria	Gammaproteobacteria	S29	3.45725718443
+Bacteria	Spirochaetes	Spirochaetia	S29	0
+Bacteria	TM7	TM7 (class)	S29	0.0225536558749
+Bacteria	Tenericutes	Mollicutes	S29	0
+Bacteria	Verrucomicrobia	Opitutae	S29	0.0181884321571
+Bacteria	Verrucomicrobia	Spartobacteria	S29	0.00436522371772
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S29	0.308475809385
+No Hit	No Hit	No Hit	S29	39.273190251
+Bacteria	Acidobacteria	Acidobacteria (class)	S3	0.101854270044
+Bacteria	Acidobacteria	Acidobacteriia	S3	3.48132671716
+Bacteria	Acidobacteria	Holophagae	S3	0.253329851136
+Bacteria	Acidobacteria	Solibacteres	S3	0.0705144946461
+Bacteria	Actinobacteria	Actinobacteria (class)	S3	6.3959258292
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S3	0
+Bacteria	Bacteroidetes	Bacteroidia	S3	0.313397753983
+Bacteria	Bacteroidetes	Cytophagia	S3	0.770436145208
+Bacteria	Bacteroidetes	Flavobacteriia	S3	3.34029772787
+Bacteria	Bacteroidetes	Sphingobacteriia	S3	2.16244450248
+Bacteria	Chlamydiae	Chlamydiia	S3	0
+Bacteria	Chloroflexi	Anaerolineae	S3	0.0104465917994
+Bacteria	Chloroflexi	Caldilineae	S3	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S3	0.148863933142
+Bacteria	Chloroflexi	Ktedonobacteria	S3	0.00261164794986
+Bacteria	Chloroflexi	Thermomicrobia	S3	0.036563071298
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S3	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S3	0.284669626534
+Bacteria	Cyanobacteria	Gloeobacteria	S3	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S3	0.253329851136
+Bacteria	Deinococcus-Thermus	Deinococci	S3	1.54348393837
+Bacteria	Fibrobacteres	Fibrobacteria	S3	0
+Bacteria	Firmicutes	Bacilli	S3	4.16296683207
+Bacteria	Firmicutes	Clostridia	S3	1.11778532254
+Bacteria	Firmicutes	Erysipelotrichia	S3	0
+Bacteria	Firmicutes	Negativicutes	S3	0
+Bacteria	Fusobacteria	Fusobacteriia	S3	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S3	0.475319926874
+Bacteria	Ignavibacteriae	Ignavibacteria	S3	0
+Bacteria	Lentisphaerae	Lentisphaeria	S3	0
+Bacteria	Nitrospirae	Nitrospira (class)	S3	0.127970749543
+Bacteria	Planctomycetes	Phycisphaerae	S3	0.0130582397493
+Bacteria	Planctomycetes	Planctomycetia	S3	0.396970488378
+Bacteria	Proteobacteria	Alphaproteobacteria	S3	37.6651867328
+Bacteria	Proteobacteria	Betaproteobacteria	S3	23.7790545834
+Bacteria	Proteobacteria	Deltaproteobacteria	S3	0.321232697832
+Bacteria	Proteobacteria	Epsilonproteobacteria	S3	0.0130582397493
+Bacteria	Proteobacteria	Gammaproteobacteria	S3	10.1984852442
+Bacteria	Spirochaetes	Spirochaetia	S3	0.00522329589971
+Bacteria	TM7	TM7 (class)	S3	0.211543483938
+Bacteria	Tenericutes	Mollicutes	S3	0.0104465917994
+Bacteria	Verrucomicrobia	Opitutae	S3	0.127970749543
+Bacteria	Verrucomicrobia	Spartobacteria	S3	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S3	0.0574562548968
+No Hit	No Hit	No Hit	S3	2.14677461478
+Bacteria	Acidobacteria	Acidobacteria (class)	S30	0.051490980045
+Bacteria	Acidobacteria	Acidobacteriia	S30	16.2350156731
+Bacteria	Acidobacteria	Holophagae	S30	1.51762888554
+Bacteria	Acidobacteria	Solibacteres	S30	0.396570881399
+Bacteria	Actinobacteria	Actinobacteria (class)	S30	12.0272089179
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S30	0
+Bacteria	Bacteroidetes	Bacteroidia	S30	0
+Bacteria	Bacteroidetes	Cytophagia	S30	0.00722680421684
+Bacteria	Bacteroidetes	Flavobacteriia	S30	0.0614278358431
+Bacteria	Bacteroidetes	Sphingobacteriia	S30	2.52576807379
+Bacteria	Chlamydiae	Chlamydiia	S30	0
+Bacteria	Chloroflexi	Anaerolineae	S30	0
+Bacteria	Chloroflexi	Caldilineae	S30	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S30	0.00993685579816
+Bacteria	Chloroflexi	Ktedonobacteria	S30	1.21771651054
+Bacteria	Chloroflexi	Thermomicrobia	S30	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S30	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S30	0.00180670105421
+Bacteria	Cyanobacteria	Gloeobacteria	S30	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S30	0.168926548569
+Bacteria	Deinococcus-Thermus	Deinococci	S30	0.0225837631776
+Bacteria	Fibrobacteres	Fibrobacteria	S30	0
+Bacteria	Firmicutes	Bacilli	S30	0.16531314646
+Bacteria	Firmicutes	Clostridia	S30	0.118338919051
+Bacteria	Firmicutes	Erysipelotrichia	S30	0
+Bacteria	Firmicutes	Negativicutes	S30	0
+Bacteria	Fusobacteria	Fusobacteriia	S30	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S30	1.08944073569
+Bacteria	Ignavibacteriae	Ignavibacteria	S30	0
+Bacteria	Lentisphaerae	Lentisphaeria	S30	0.000903350527105
+Bacteria	Nitrospirae	Nitrospira (class)	S30	0.174346651731
+Bacteria	Planctomycetes	Phycisphaerae	S30	0
+Bacteria	Planctomycetes	Planctomycetia	S30	1.0063324872
+Bacteria	Proteobacteria	Alphaproteobacteria	S30	38.6661126117
+Bacteria	Proteobacteria	Betaproteobacteria	S30	9.45898336932
+Bacteria	Proteobacteria	Deltaproteobacteria	S30	0.541106965736
+Bacteria	Proteobacteria	Epsilonproteobacteria	S30	0.00451675263553
+Bacteria	Proteobacteria	Gammaproteobacteria	S30	4.60618433771
+Bacteria	Spirochaetes	Spirochaetia	S30	0
+Bacteria	TM7	TM7 (class)	S30	0.0424574747739
+Bacteria	Tenericutes	Mollicutes	S30	0.0334239695029
+Bacteria	Verrucomicrobia	Opitutae	S30	0.0307139179216
+Bacteria	Verrucomicrobia	Spartobacteria	S30	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S30	0.152666239081
+No Hit	No Hit	No Hit	S30	9.66585064002
+Bacteria	Acidobacteria	Acidobacteria (class)	S31	0.0344768143424
+Bacteria	Acidobacteria	Acidobacteriia	S31	9.0349534056
+Bacteria	Acidobacteria	Holophagae	S31	1.82524311224
+Bacteria	Acidobacteria	Solibacteres	S31	0.384315077522
+Bacteria	Actinobacteria	Actinobacteria (class)	S31	16.6299928004
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S31	0
+Bacteria	Bacteroidetes	Bacteroidia	S31	0.00405609580498
+Bacteria	Bacteroidetes	Cytophagia	S31	0.00507011975623
+Bacteria	Bacteroidetes	Flavobacteriia	S31	0.0851780119046
+Bacteria	Bacteroidetes	Sphingobacteriia	S31	1.55652676516
+Bacteria	Chlamydiae	Chlamydiia	S31	0
+Bacteria	Chloroflexi	Anaerolineae	S31	0.00304207185374
+Bacteria	Chloroflexi	Caldilineae	S31	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S31	0.17948223937
+Bacteria	Chloroflexi	Ktedonobacteria	S31	0.566839388746
+Bacteria	Chloroflexi	Thermomicrobia	S31	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S31	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S31	0
+Bacteria	Cyanobacteria	Gloeobacteria	S31	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S31	1.9530101301
+Bacteria	Deinococcus-Thermus	Deinococci	S31	0.053743269416
+Bacteria	Fibrobacteres	Fibrobacteria	S31	0
+Bacteria	Firmicutes	Bacilli	S31	0.299137065617
+Bacteria	Firmicutes	Clostridia	S31	0.369104718253
+Bacteria	Firmicutes	Erysipelotrichia	S31	0
+Bacteria	Firmicutes	Negativicutes	S31	0
+Bacteria	Fusobacteria	Fusobacteriia	S31	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S31	5.28407880994
+Bacteria	Ignavibacteriae	Ignavibacteria	S31	0
+Bacteria	Lentisphaerae	Lentisphaeria	S31	0
+Bacteria	Nitrospirae	Nitrospira (class)	S31	0.358964478741
+Bacteria	Planctomycetes	Phycisphaerae	S31	0.00507011975623
+Bacteria	Planctomycetes	Planctomycetia	S31	0.495857712159
+Bacteria	Proteobacteria	Alphaproteobacteria	S31	29.283997688
+Bacteria	Proteobacteria	Betaproteobacteria	S31	11.8610381577
+Bacteria	Proteobacteria	Deltaproteobacteria	S31	0.673311903627
+Bacteria	Proteobacteria	Epsilonproteobacteria	S31	0.00709816765872
+Bacteria	Proteobacteria	Gammaproteobacteria	S31	3.69611730229
+Bacteria	Spirochaetes	Spirochaetia	S31	0.00304207185374
+Bacteria	TM7	TM7 (class)	S31	0.00709816765872
+Bacteria	Tenericutes	Mollicutes	S31	0
+Bacteria	Verrucomicrobia	Opitutae	S31	0.0527292454648
+Bacteria	Verrucomicrobia	Spartobacteria	S31	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S31	0.0740237484409
+No Hit	No Hit	No Hit	S31	15.2134013405
+Bacteria	Acidobacteria	Acidobacteria (class)	S32	0.0367994953212
+Bacteria	Acidobacteria	Acidobacteriia	S32	11.5103564294
+Bacteria	Acidobacteria	Holophagae	S32	0.947587004521
+Bacteria	Acidobacteria	Solibacteres	S32	0.370623488592
+Bacteria	Actinobacteria	Actinobacteria (class)	S32	11.2816738513
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S32	0
+Bacteria	Bacteroidetes	Bacteroidia	S32	0.109084218274
+Bacteria	Bacteroidetes	Cytophagia	S32	0.0972558090632
+Bacteria	Bacteroidetes	Flavobacteriia	S32	0.109084218274
+Bacteria	Bacteroidetes	Sphingobacteriia	S32	3.3658395542
+Bacteria	Chlamydiae	Chlamydiia	S32	0
+Bacteria	Chloroflexi	Anaerolineae	S32	0
+Bacteria	Chloroflexi	Caldilineae	S32	0.00131426769004
+Bacteria	Chloroflexi	Chloroflexi (class)	S32	0.0801703290926
+Bacteria	Chloroflexi	Ktedonobacteria	S32	0.136683839764
+Bacteria	Chloroflexi	Thermomicrobia	S32	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S32	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S32	0.00131426769004
+Bacteria	Cyanobacteria	Gloeobacteria	S32	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S32	0.457365156135
+Bacteria	Deinococcus-Thermus	Deinococci	S32	0.0801703290926
+Bacteria	Fibrobacteres	Fibrobacteria	S32	0
+Bacteria	Firmicutes	Bacilli	S32	0.0841131321628
+Bacteria	Firmicutes	Clostridia	S32	0.30096730102
+Bacteria	Firmicutes	Erysipelotrichia	S32	0.00394280307013
+Bacteria	Firmicutes	Negativicutes	S32	0
+Bacteria	Fusobacteria	Fusobacteriia	S32	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S32	2.12254231942
+Bacteria	Ignavibacteriae	Ignavibacteria	S32	0
+Bacteria	Lentisphaerae	Lentisphaeria	S32	0.00262853538009
+Bacteria	Nitrospirae	Nitrospira (class)	S32	0.136683839764
+Bacteria	Planctomycetes	Phycisphaerae	S32	0
+Bacteria	Planctomycetes	Planctomycetia	S32	0.954158342971
+Bacteria	Proteobacteria	Alphaproteobacteria	S32	37.8601093471
+Bacteria	Proteobacteria	Betaproteobacteria	S32	15.7278414467
+Bacteria	Proteobacteria	Deltaproteobacteria	S32	0.349595205551
+Bacteria	Proteobacteria	Epsilonproteobacteria	S32	0.0131426769004
+Bacteria	Proteobacteria	Gammaproteobacteria	S32	6.9564188834
+Bacteria	Spirochaetes	Spirochaetia	S32	0
+Bacteria	TM7	TM7 (class)	S32	0.0170854799706
+Bacteria	Tenericutes	Mollicutes	S32	0
+Bacteria	Verrucomicrobia	Opitutae	S32	0.0867416675428
+Bacteria	Verrucomicrobia	Spartobacteria	S32	0.00131426769004
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S32	0.0841131321628
+No Hit	No Hit	No Hit	S32	6.71327936074
+Bacteria	Acidobacteria	Acidobacteria (class)	S33	0
+Bacteria	Acidobacteria	Acidobacteriia	S33	7.69741207697
+Bacteria	Acidobacteria	Holophagae	S33	1.34925901349
+Bacteria	Acidobacteria	Solibacteres	S33	0.313352503134
+Bacteria	Actinobacteria	Actinobacteria (class)	S33	13.5147091351
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S33	0
+Bacteria	Bacteroidetes	Bacteroidia	S33	0.0479245004792
+Bacteria	Bacteroidetes	Cytophagia	S33	0.0479245004792
+Bacteria	Bacteroidetes	Flavobacteriia	S33	0.0221190002212
+Bacteria	Bacteroidetes	Sphingobacteriia	S33	1.86905551869
+Bacteria	Chlamydiae	Chlamydiia	S33	0
+Bacteria	Chloroflexi	Anaerolineae	S33	0.0589840005898
+Bacteria	Chloroflexi	Caldilineae	S33	0.00368650003687
+Bacteria	Chloroflexi	Chloroflexi (class)	S33	0.110595001106
+Bacteria	Chloroflexi	Ktedonobacteria	S33	0.0737300007373
+Bacteria	Chloroflexi	Thermomicrobia	S33	0.0258055002581
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S33	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S33	0.0221190002212
+Bacteria	Cyanobacteria	Gloeobacteria	S33	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S33	3.86345203863
+Bacteria	Deinococcus-Thermus	Deinococci	S33	0.0258055002581
+Bacteria	Fibrobacteres	Fibrobacteria	S33	0
+Bacteria	Firmicutes	Bacilli	S33	0.0995355009954
+Bacteria	Firmicutes	Clostridia	S33	0.261741502617
+Bacteria	Firmicutes	Erysipelotrichia	S33	0.0258055002581
+Bacteria	Firmicutes	Negativicutes	S33	0
+Bacteria	Fusobacteria	Fusobacteriia	S33	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S33	3.199882032
+Bacteria	Ignavibacteriae	Ignavibacteria	S33	0
+Bacteria	Lentisphaerae	Lentisphaeria	S33	0
+Bacteria	Nitrospirae	Nitrospira (class)	S33	0.154833001548
+Bacteria	Planctomycetes	Phycisphaerae	S33	0.0405515004055
+Bacteria	Planctomycetes	Planctomycetia	S33	0.549288505493
+Bacteria	Proteobacteria	Alphaproteobacteria	S33	32.7287473273
+Bacteria	Proteobacteria	Betaproteobacteria	S33	19.0481456905
+Bacteria	Proteobacteria	Deltaproteobacteria	S33	0.545602005456
+Bacteria	Proteobacteria	Epsilonproteobacteria	S33	0.0479245004792
+Bacteria	Proteobacteria	Gammaproteobacteria	S33	2.8201725282
+Bacteria	Spirochaetes	Spirochaetia	S33	0
+Bacteria	TM7	TM7 (class)	S33	0.081103000811
+Bacteria	Tenericutes	Mollicutes	S33	0
+Bacteria	Verrucomicrobia	Opitutae	S33	0.103222001032
+Bacteria	Verrucomicrobia	Spartobacteria	S33	0.0221190002212
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S33	0.121654501217
+No Hit	No Hit	No Hit	S33	11.103738111
+Bacteria	Acidobacteria	Acidobacteria (class)	S34	0.127951872138
+Bacteria	Acidobacteria	Acidobacteriia	S34	12.1116548442
+Bacteria	Acidobacteria	Holophagae	S34	3.59948819251
+Bacteria	Acidobacteria	Solibacteres	S34	0.424261470773
+Bacteria	Actinobacteria	Actinobacteria (class)	S34	10.0778935081
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S34	0.0101014635898
+Bacteria	Bacteroidetes	Bacteroidia	S34	0.156011493221
+Bacteria	Bacteroidetes	Cytophagia	S34	0.0594863966957
+Bacteria	Bacteroidetes	Flavobacteriia	S34	0.0987698662117
+Bacteria	Bacteroidetes	Sphingobacteriia	S34	3.95303941816
+Bacteria	Chlamydiae	Chlamydiia	S34	0
+Bacteria	Chloroflexi	Anaerolineae	S34	0
+Bacteria	Chloroflexi	Caldilineae	S34	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S34	0.0415282392027
+Bacteria	Chloroflexi	Ktedonobacteria	S34	0.996677740864
+Bacteria	Chloroflexi	Thermomicrobia	S34	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S34	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S34	0
+Bacteria	Cyanobacteria	Gloeobacteria	S34	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S34	1.75540989494
+Bacteria	Deinococcus-Thermus	Deinococci	S34	0.127951872138
+Bacteria	Fibrobacteres	Fibrobacteria	S34	0
+Bacteria	Firmicutes	Bacilli	S34	0.153766723534
+Bacteria	Firmicutes	Clostridia	S34	0.511807488552
+Bacteria	Firmicutes	Erysipelotrichia	S34	0.0224476968663
+Bacteria	Firmicutes	Negativicutes	S34	0
+Bacteria	Fusobacteria	Fusobacteriia	S34	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S34	2.15834605369
+Bacteria	Ignavibacteriae	Ignavibacteria	S34	0
+Bacteria	Lentisphaerae	Lentisphaeria	S34	0.0112238484332
+Bacteria	Nitrospirae	Nitrospira (class)	S34	0.289575289575
+Bacteria	Planctomycetes	Phycisphaerae	S34	0
+Bacteria	Planctomycetes	Planctomycetia	S34	1.31543503637
+Bacteria	Proteobacteria	Alphaproteobacteria	S34	34.1384573943
+Bacteria	Proteobacteria	Betaproteobacteria	S34	9.09019484601
+Bacteria	Proteobacteria	Deltaproteobacteria	S34	0.565681961031
+Bacteria	Proteobacteria	Epsilonproteobacteria	S34	0.0145910029631
+Bacteria	Proteobacteria	Gammaproteobacteria	S34	7.80618658526
+Bacteria	Spirochaetes	Spirochaetia	S34	0
+Bacteria	TM7	TM7 (class)	S34	0.510685103708
+Bacteria	Tenericutes	Mollicutes	S34	0.00224476968663
+Bacteria	Verrucomicrobia	Opitutae	S34	0.355795995331
+Bacteria	Verrucomicrobia	Spartobacteria	S34	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S34	0.144787644788
+No Hit	No Hit	No Hit	S34	9.36854628715
+Bacteria	Acidobacteria	Acidobacteria (class)	S35	0
+Bacteria	Acidobacteria	Acidobacteriia	S35	5.08241247163
+Bacteria	Acidobacteria	Holophagae	S35	0.457640361648
+Bacteria	Acidobacteria	Solibacteres	S35	0.230680507497
+Bacteria	Actinobacteria	Actinobacteria (class)	S35	8.04777318897
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S35	0
+Bacteria	Bacteroidetes	Bacteroidia	S35	0
+Bacteria	Bacteroidetes	Cytophagia	S35	0.401830561447
+Bacteria	Bacteroidetes	Flavobacteriia	S35	0.189753320683
+Bacteria	Bacteroidetes	Sphingobacteriia	S35	2.32912899505
+Bacteria	Chlamydiae	Chlamydiia	S35	0
+Bacteria	Chloroflexi	Anaerolineae	S35	0
+Bacteria	Chloroflexi	Caldilineae	S35	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S35	0
+Bacteria	Chloroflexi	Ktedonobacteria	S35	0.535774081929
+Bacteria	Chloroflexi	Thermomicrobia	S35	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S35	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S35	0
+Bacteria	Cyanobacteria	Gloeobacteria	S35	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S35	0.107898947055
+Bacteria	Deinococcus-Thermus	Deinococci	S35	0.0148826133869
+Bacteria	Fibrobacteres	Fibrobacteria	S35	0
+Bacteria	Firmicutes	Bacilli	S35	0.368344681326
+Bacteria	Firmicutes	Clostridia	S35	0.357182721286
+Bacteria	Firmicutes	Erysipelotrichia	S35	0
+Bacteria	Firmicutes	Negativicutes	S35	0
+Bacteria	Fusobacteria	Fusobacteriia	S35	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S35	1.41012761841
+Bacteria	Ignavibacteriae	Ignavibacteria	S35	0
+Bacteria	Lentisphaerae	Lentisphaeria	S35	0
+Bacteria	Nitrospirae	Nitrospira (class)	S35	0.0744130669346
+Bacteria	Planctomycetes	Phycisphaerae	S35	0
+Bacteria	Planctomycetes	Planctomycetia	S35	0.141384827176
+Bacteria	Proteobacteria	Alphaproteobacteria	S35	19.1613647356
+Bacteria	Proteobacteria	Betaproteobacteria	S35	28.7569297169
+Bacteria	Proteobacteria	Deltaproteobacteria	S35	0.264166387618
+Bacteria	Proteobacteria	Epsilonproteobacteria	S35	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S35	1.62964616587
+Bacteria	Spirochaetes	Spirochaetia	S35	0
+Bacteria	TM7	TM7 (class)	S35	0.0260445734271
+Bacteria	Tenericutes	Mollicutes	S35	0
+Bacteria	Verrucomicrobia	Opitutae	S35	0
+Bacteria	Verrucomicrobia	Spartobacteria	S35	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S35	0.930163336682
+No Hit	No Hit	No Hit	S35	29.4824571195
+Bacteria	Acidobacteria	Acidobacteria (class)	S36	0.16013180079
+Bacteria	Acidobacteria	Acidobacteriia	S36	15.9954731972
+Bacteria	Acidobacteria	Holophagae	S36	0.224800412647
+Bacteria	Acidobacteria	Solibacteres	S36	0.124718037154
+Bacteria	Actinobacteria	Actinobacteria (class)	S36	6.70166983594
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S36	0
+Bacteria	Bacteroidetes	Bacteroidia	S36	0
+Bacteria	Bacteroidetes	Cytophagia	S36	1.37805732411
+Bacteria	Bacteroidetes	Flavobacteriia	S36	0.0623590185768
+Bacteria	Bacteroidetes	Sphingobacteriia	S36	5.58690614583
+Bacteria	Chlamydiae	Chlamydiia	S36	0
+Bacteria	Chloroflexi	Anaerolineae	S36	0
+Bacteria	Chloroflexi	Caldilineae	S36	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S36	0
+Bacteria	Chloroflexi	Ktedonobacteria	S36	0.0161671529644
+Bacteria	Chloroflexi	Thermomicrobia	S36	0.01231783083
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S36	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S36	0
+Bacteria	Cyanobacteria	Gloeobacteria	S36	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S36	0.00230959328062
+Bacteria	Deinococcus-Thermus	Deinococci	S36	0.0415726790512
+Bacteria	Fibrobacteres	Fibrobacteria	S36	0
+Bacteria	Firmicutes	Bacilli	S36	0.119328986166
+Bacteria	Firmicutes	Clostridia	S36	0.0654384762843
+Bacteria	Firmicutes	Erysipelotrichia	S36	0
+Bacteria	Firmicutes	Negativicutes	S36	0
+Bacteria	Fusobacteria	Fusobacteriia	S36	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S36	0.410337739524
+Bacteria	Ignavibacteriae	Ignavibacteria	S36	0
+Bacteria	Lentisphaerae	Lentisphaeria	S36	0
+Bacteria	Nitrospirae	Nitrospira (class)	S36	0.00692877984187
+Bacteria	Planctomycetes	Phycisphaerae	S36	0
+Bacteria	Planctomycetes	Planctomycetia	S36	0.312564957311
+Bacteria	Proteobacteria	Alphaproteobacteria	S36	22.4800412647
+Bacteria	Proteobacteria	Betaproteobacteria	S36	42.7544209465
+Bacteria	Proteobacteria	Deltaproteobacteria	S36	0.0739069849799
+Bacteria	Proteobacteria	Epsilonproteobacteria	S36	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S36	1.69832092568
+Bacteria	Spirochaetes	Spirochaetia	S36	0
+Bacteria	TM7	TM7 (class)	S36	0.0238657972331
+Bacteria	Tenericutes	Mollicutes	S36	0.00384932213437
+Bacteria	Verrucomicrobia	Opitutae	S36	0.00461918656125
+Bacteria	Verrucomicrobia	Spartobacteria	S36	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S36	0.0030794577075
+No Hit	No Hit	No Hit	S36	1.73681414703
+Bacteria	Acidobacteria	Acidobacteria (class)	S37	0.00177664072771
+Bacteria	Acidobacteria	Acidobacteriia	S37	16.2260597662
+Bacteria	Acidobacteria	Holophagae	S37	0.00888320363856
+Bacteria	Acidobacteria	Solibacteres	S37	1.04288810717
+Bacteria	Actinobacteria	Actinobacteria (class)	S37	15.666417937
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S37	0
+Bacteria	Bacteroidetes	Bacteroidia	S37	0
+Bacteria	Bacteroidetes	Cytophagia	S37	0.0142131258217
+Bacteria	Bacteroidetes	Flavobacteriia	S37	0.0302028923711
+Bacteria	Bacteroidetes	Sphingobacteriia	S37	1.93120847102
+Bacteria	Chlamydiae	Chlamydiia	S37	0
+Bacteria	Chloroflexi	Anaerolineae	S37	0
+Bacteria	Chloroflexi	Caldilineae	S37	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S37	0
+Bacteria	Chloroflexi	Ktedonobacteria	S37	0.0213196887325
+Bacteria	Chloroflexi	Thermomicrobia	S37	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S37	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S37	0
+Bacteria	Cyanobacteria	Gloeobacteria	S37	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S37	0
+Bacteria	Deinococcus-Thermus	Deinococci	S37	0
+Bacteria	Fibrobacteres	Fibrobacteria	S37	0
+Bacteria	Firmicutes	Bacilli	S37	0.31091212735
+Bacteria	Firmicutes	Clostridia	S37	0.0675123476531
+Bacteria	Firmicutes	Erysipelotrichia	S37	0
+Bacteria	Firmicutes	Negativicutes	S37	0
+Bacteria	Fusobacteria	Fusobacteriia	S37	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S37	0.824361297658
+Bacteria	Ignavibacteriae	Ignavibacteria	S37	0
+Bacteria	Lentisphaerae	Lentisphaeria	S37	0
+Bacteria	Nitrospirae	Nitrospira (class)	S37	0.079948832747
+Bacteria	Planctomycetes	Phycisphaerae	S37	0
+Bacteria	Planctomycetes	Planctomycetia	S37	0.355328145542
+Bacteria	Proteobacteria	Alphaproteobacteria	S37	43.3660235227
+Bacteria	Proteobacteria	Betaproteobacteria	S37	3.64389013254
+Bacteria	Proteobacteria	Deltaproteobacteria	S37	0.0337561738265
+Bacteria	Proteobacteria	Epsilonproteobacteria	S37	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S37	5.4685001599
+Bacteria	Spirochaetes	Spirochaetia	S37	0
+Bacteria	TM7	TM7 (class)	S37	0.0408627367374
+Bacteria	Tenericutes	Mollicutes	S37	0
+Bacteria	Verrucomicrobia	Opitutae	S37	0
+Bacteria	Verrucomicrobia	Spartobacteria	S37	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S37	0
+No Hit	No Hit	No Hit	S37	10.8659346907
+Bacteria	Acidobacteria	Acidobacteria (class)	S38	0.00183049606443
+Bacteria	Acidobacteria	Acidobacteriia	S38	12.386966868
+Bacteria	Acidobacteria	Holophagae	S38	1.93117334798
+Bacteria	Acidobacteria	Solibacteres	S38	0.463115504302
+Bacteria	Actinobacteria	Actinobacteria (class)	S38	12.130697419
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S38	0
+Bacteria	Bacteroidetes	Bacteroidia	S38	0.0118982244188
+Bacteria	Bacteroidetes	Cytophagia	S38	0.0192202086766
+Bacteria	Bacteroidetes	Flavobacteriia	S38	0.0228812008054
+Bacteria	Bacteroidetes	Sphingobacteriia	S38	0.53267435475
+Bacteria	Chlamydiae	Chlamydiia	S38	0
+Bacteria	Chloroflexi	Anaerolineae	S38	0.0109829763866
+Bacteria	Chloroflexi	Caldilineae	S38	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S38	0.00183049606443
+Bacteria	Chloroflexi	Ktedonobacteria	S38	0.288303130148
+Bacteria	Chloroflexi	Thermomicrobia	S38	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S38	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S38	0.000915248032217
+Bacteria	Cyanobacteria	Gloeobacteria	S38	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S38	0.77613033132
+Bacteria	Deinococcus-Thermus	Deinococci	S38	0.000915248032217
+Bacteria	Fibrobacteres	Fibrobacteria	S38	0
+Bacteria	Firmicutes	Bacilli	S38	0.472267984624
+Bacteria	Firmicutes	Clostridia	S38	0.583928244554
+Bacteria	Firmicutes	Erysipelotrichia	S38	0
+Bacteria	Firmicutes	Negativicutes	S38	0
+Bacteria	Fusobacteria	Fusobacteriia	S38	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S38	2.41442430899
+Bacteria	Ignavibacteriae	Ignavibacteria	S38	0
+Bacteria	Lentisphaerae	Lentisphaeria	S38	0.000915248032217
+Bacteria	Nitrospirae	Nitrospira (class)	S38	0.170236133992
+Bacteria	Planctomycetes	Phycisphaerae	S38	0
+Bacteria	Planctomycetes	Planctomycetia	S38	0.160168405638
+Bacteria	Proteobacteria	Alphaproteobacteria	S38	39.8151198975
+Bacteria	Proteobacteria	Betaproteobacteria	S38	7.24693391909
+Bacteria	Proteobacteria	Deltaproteobacteria	S38	0.12813472451
+Bacteria	Proteobacteria	Epsilonproteobacteria	S38	0.00915248032217
+Bacteria	Proteobacteria	Gammaproteobacteria	S38	3.60333150284
+Bacteria	Spirochaetes	Spirochaetia	S38	0
+Bacteria	TM7	TM7 (class)	S38	0.00640673622552
+Bacteria	Tenericutes	Mollicutes	S38	0
+Bacteria	Verrucomicrobia	Opitutae	S38	0.0393556653853
+Bacteria	Verrucomicrobia	Spartobacteria	S38	0.0109829763866
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S38	0.0475928976753
+No Hit	No Hit	No Hit	S38	16.7115138202
+Bacteria	Acidobacteria	Acidobacteria (class)	S39	0.016855547954
+Bacteria	Acidobacteria	Acidobacteriia	S39	19.2093756507
+Bacteria	Acidobacteria	Holophagae	S39	2.79901246319
+Bacteria	Acidobacteria	Solibacteres	S39	0.126912361066
+Bacteria	Actinobacteria	Actinobacteria (class)	S39	37.2765400518
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S39	0.000991502820826
+Bacteria	Bacteroidetes	Bacteroidia	S39	0.0208215592373
+Bacteria	Bacteroidetes	Cytophagia	S39	0
+Bacteria	Bacteroidetes	Flavobacteriia	S39	0.000991502820826
+Bacteria	Bacteroidetes	Sphingobacteriia	S39	0.619689263016
+Bacteria	Chlamydiae	Chlamydiia	S39	0
+Bacteria	Chloroflexi	Anaerolineae	S39	0
+Bacteria	Chloroflexi	Caldilineae	S39	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S39	0.0317280902664
+Bacteria	Chloroflexi	Ktedonobacteria	S39	0.0347025987289
+Bacteria	Chloroflexi	Thermomicrobia	S39	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S39	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S39	0
+Bacteria	Cyanobacteria	Gloeobacteria	S39	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S39	0.287535818039
+Bacteria	Deinococcus-Thermus	Deinococci	S39	0.00198300564165
+Bacteria	Fibrobacteres	Fibrobacteria	S39	0
+Bacteria	Firmicutes	Bacilli	S39	1.94037102036
+Bacteria	Firmicutes	Clostridia	S39	0.623655274299
+Bacteria	Firmicutes	Erysipelotrichia	S39	0
+Bacteria	Firmicutes	Negativicutes	S39	0
+Bacteria	Fusobacteria	Fusobacteriia	S39	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S39	0.617706257374
+Bacteria	Ignavibacteriae	Ignavibacteria	S39	0
+Bacteria	Lentisphaerae	Lentisphaeria	S39	0
+Bacteria	Nitrospirae	Nitrospira (class)	S39	0.0307365874456
+Bacteria	Planctomycetes	Phycisphaerae	S39	0
+Bacteria	Planctomycetes	Planctomycetia	S39	0.107082304649
+Bacteria	Proteobacteria	Alphaproteobacteria	S39	19.9123511506
+Bacteria	Proteobacteria	Betaproteobacteria	S39	6.98712037836
+Bacteria	Proteobacteria	Deltaproteobacteria	S39	0.226062643148
+Bacteria	Proteobacteria	Epsilonproteobacteria	S39	0.00694051974578
+Bacteria	Proteobacteria	Gammaproteobacteria	S39	3.75581268529
+Bacteria	Spirochaetes	Spirochaetia	S39	0
+Bacteria	TM7	TM7 (class)	S39	0.00297450846248
+Bacteria	Tenericutes	Mollicutes	S39	0
+Bacteria	Verrucomicrobia	Opitutae	S39	0.0317280902664
+Bacteria	Verrucomicrobia	Spartobacteria	S39	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S39	0.0307365874456
+No Hit	No Hit	No Hit	S39	5.29958257731
+Bacteria	Acidobacteria	Acidobacteria (class)	S4	0.0586523754212
+Bacteria	Acidobacteria	Acidobacteriia	S4	10.1963129507
+Bacteria	Acidobacteria	Holophagae	S4	3.36043609766
+Bacteria	Acidobacteria	Solibacteres	S4	0.180557312571
+Bacteria	Actinobacteria	Actinobacteria (class)	S4	7.99857394224
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S4	0.00115004657689
+Bacteria	Bacteroidetes	Bacteroidia	S4	0.0770531206514
+Bacteria	Bacteroidetes	Cytophagia	S4	0.125355076881
+Bacteria	Bacteroidetes	Flavobacteriia	S4	0.317412855221
+Bacteria	Bacteroidetes	Sphingobacteriia	S4	3.65829816108
+Bacteria	Chlamydiae	Chlamydiia	S4	0
+Bacteria	Chloroflexi	Anaerolineae	S4	0
+Bacteria	Chloroflexi	Caldilineae	S4	0.00920037261509
+Bacteria	Chloroflexi	Chloroflexi (class)	S4	0.102354145343
+Bacteria	Chloroflexi	Ktedonobacteria	S4	0.0333513507297
+Bacteria	Chloroflexi	Thermomicrobia	S4	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S4	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S4	0
+Bacteria	Cyanobacteria	Gloeobacteria	S4	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S4	0.764780973629
+Bacteria	Deinococcus-Thermus	Deinococci	S4	0.0172506986533
+Bacteria	Fibrobacteres	Fibrobacteria	S4	0
+Bacteria	Firmicutes	Bacilli	S4	0.27716122503
+Bacteria	Firmicutes	Clostridia	S4	0.428967373179
+Bacteria	Firmicutes	Erysipelotrichia	S4	0
+Bacteria	Firmicutes	Negativicutes	S4	0
+Bacteria	Fusobacteria	Fusobacteriia	S4	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S4	2.14368681932
+Bacteria	Ignavibacteriae	Ignavibacteria	S4	0
+Bacteria	Lentisphaerae	Lentisphaeria	S4	0.00460018630755
+Bacteria	Nitrospirae	Nitrospira (class)	S4	0.492219934907
+Bacteria	Planctomycetes	Phycisphaerae	S4	0.0241509781146
+Bacteria	Planctomycetes	Planctomycetia	S4	0.750980414707
+Bacteria	Proteobacteria	Alphaproteobacteria	S4	41.5143813324
+Bacteria	Proteobacteria	Betaproteobacteria	S4	13.8684116707
+Bacteria	Proteobacteria	Deltaproteobacteria	S4	0.440467838947
+Bacteria	Proteobacteria	Epsilonproteobacteria	S4	0.00345013973066
+Bacteria	Proteobacteria	Gammaproteobacteria	S4	7.32464664819
+Bacteria	Spirochaetes	Spirochaetia	S4	0.00230009315377
+Bacteria	TM7	TM7 (class)	S4	0.0552022356905
+Bacteria	Tenericutes	Mollicutes	S4	0
+Bacteria	Verrucomicrobia	Opitutae	S4	0.215058709878
+Bacteria	Verrucomicrobia	Spartobacteria	S4	0.00115004657689
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S4	0.132255356342
+No Hit	No Hit	No Hit	S4	5.42016951687
+Bacteria	Acidobacteria	Acidobacteria (class)	S40	0
+Bacteria	Acidobacteria	Acidobacteriia	S40	1.65105410314
+Bacteria	Acidobacteria	Holophagae	S40	0.0489805914406
+Bacteria	Acidobacteria	Solibacteres	S40	0.0489805914406
+Bacteria	Actinobacteria	Actinobacteria (class)	S40	33.2659850201
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S40	0
+Bacteria	Bacteroidetes	Bacteroidia	S40	0.079593461091
+Bacteria	Bacteroidetes	Cytophagia	S40	0.922467805465
+Bacteria	Bacteroidetes	Flavobacteriia	S40	0.608175677055
+Bacteria	Bacteroidetes	Sphingobacteriia	S40	2.0224902549
+Bacteria	Chlamydiae	Chlamydiia	S40	0
+Bacteria	Chloroflexi	Anaerolineae	S40	0
+Bacteria	Chloroflexi	Caldilineae	S40	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S40	0
+Bacteria	Chloroflexi	Ktedonobacteria	S40	0.00204085797669
+Bacteria	Chloroflexi	Thermomicrobia	S40	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S40	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S40	0
+Bacteria	Cyanobacteria	Gloeobacteria	S40	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S40	1.33472111676
+Bacteria	Deinococcus-Thermus	Deinococci	S40	0.140819200392
+Bacteria	Fibrobacteres	Fibrobacteria	S40	0
+Bacteria	Firmicutes	Bacilli	S40	0.887773219862
+Bacteria	Firmicutes	Clostridia	S40	0.855119492235
+Bacteria	Firmicutes	Erysipelotrichia	S40	0
+Bacteria	Firmicutes	Negativicutes	S40	0
+Bacteria	Fusobacteria	Fusobacteriia	S40	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S40	4.07355252148
+Bacteria	Ignavibacteriae	Ignavibacteria	S40	0
+Bacteria	Lentisphaerae	Lentisphaeria	S40	0
+Bacteria	Nitrospirae	Nitrospira (class)	S40	0.0183677217902
+Bacteria	Planctomycetes	Phycisphaerae	S40	0
+Bacteria	Planctomycetes	Planctomycetia	S40	0.0204085797669
+Bacteria	Proteobacteria	Alphaproteobacteria	S40	5.69399375497
+Bacteria	Proteobacteria	Betaproteobacteria	S40	40.7477703627
+Bacteria	Proteobacteria	Deltaproteobacteria	S40	0.255107247087
+Bacteria	Proteobacteria	Epsilonproteobacteria	S40	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S40	1.29390395722
+Bacteria	Spirochaetes	Spirochaetia	S40	0
+Bacteria	TM7	TM7 (class)	S40	0.0326537276271
+Bacteria	Tenericutes	Mollicutes	S40	0
+Bacteria	Verrucomicrobia	Opitutae	S40	0
+Bacteria	Verrucomicrobia	Spartobacteria	S40	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S40	0.369395293782
+No Hit	No Hit	No Hit	S40	5.62664544174
+Bacteria	Acidobacteria	Acidobacteria (class)	S41	0
+Bacteria	Acidobacteria	Acidobacteriia	S41	6.07344265703
+Bacteria	Acidobacteria	Holophagae	S41	1.03173159386
+Bacteria	Acidobacteria	Solibacteres	S41	0.109150445698
+Bacteria	Actinobacteria	Actinobacteria (class)	S41	29.3666675329
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S41	0
+Bacteria	Bacteroidetes	Bacteroidia	S41	0
+Bacteria	Bacteroidetes	Cytophagia	S41	0.0259882013566
+Bacteria	Bacteroidetes	Flavobacteriia	S41	0.0181917409496
+Bacteria	Bacteroidetes	Sphingobacteriia	S41	0.220899711531
+Bacteria	Chlamydiae	Chlamydiia	S41	0.00259882013566
+Bacteria	Chloroflexi	Anaerolineae	S41	0
+Bacteria	Chloroflexi	Caldilineae	S41	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S41	0
+Bacteria	Chloroflexi	Ktedonobacteria	S41	0.296265495465
+Bacteria	Chloroflexi	Thermomicrobia	S41	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S41	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S41	0
+Bacteria	Cyanobacteria	Gloeobacteria	S41	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S41	0.0467787624419
+Bacteria	Deinococcus-Thermus	Deinococci	S41	0.00779646040698
+Bacteria	Fibrobacteres	Fibrobacteria	S41	0
+Bacteria	Firmicutes	Bacilli	S41	0.751059019205
+Bacteria	Firmicutes	Clostridia	S41	1.48392629746
+Bacteria	Firmicutes	Erysipelotrichia	S41	0
+Bacteria	Firmicutes	Negativicutes	S41	0
+Bacteria	Fusobacteria	Fusobacteriia	S41	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S41	0.821227162868
+Bacteria	Ignavibacteriae	Ignavibacteria	S41	0
+Bacteria	Lentisphaerae	Lentisphaeria	S41	0
+Bacteria	Nitrospirae	Nitrospira (class)	S41	0.0389823020349
+Bacteria	Planctomycetes	Phycisphaerae	S41	0
+Bacteria	Planctomycetes	Planctomycetia	S41	0.0545752228488
+Bacteria	Proteobacteria	Alphaproteobacteria	S41	6.94404740248
+Bacteria	Proteobacteria	Betaproteobacteria	S41	4.95075235843
+Bacteria	Proteobacteria	Deltaproteobacteria	S41	0.098755165155
+Bacteria	Proteobacteria	Epsilonproteobacteria	S41	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S41	15.0289768445
+Bacteria	Spirochaetes	Spirochaetia	S41	0
+Bacteria	TM7	TM7 (class)	S41	0.114348085969
+Bacteria	Tenericutes	Mollicutes	S41	0
+Bacteria	Verrucomicrobia	Opitutae	S41	0
+Bacteria	Verrucomicrobia	Spartobacteria	S41	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S41	0.244289092752
+No Hit	No Hit	No Hit	S41	32.2695496245
+Bacteria	Acidobacteria	Acidobacteria (class)	S42	0
+Bacteria	Acidobacteria	Acidobacteriia	S42	7.52724131204
+Bacteria	Acidobacteria	Holophagae	S42	0.125407574618
+Bacteria	Acidobacteria	Solibacteres	S42	0.0640972048045
+Bacteria	Actinobacteria	Actinobacteria (class)	S42	19.4186662208
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S42	0
+Bacteria	Bacteroidetes	Bacteroidia	S42	0.044589359864
+Bacteria	Bacteroidetes	Cytophagia	S42	0.549006493326
+Bacteria	Bacteroidetes	Flavobacteriia	S42	0.59359585319
+Bacteria	Bacteroidetes	Sphingobacteriia	S42	6.10316863139
+Bacteria	Chlamydiae	Chlamydiia	S42	0
+Bacteria	Chloroflexi	Anaerolineae	S42	0
+Bacteria	Chloroflexi	Caldilineae	S42	0.0250815149235
+Bacteria	Chloroflexi	Chloroflexi (class)	S42	0.225733634312
+Bacteria	Chloroflexi	Ktedonobacteria	S42	0
+Bacteria	Chloroflexi	Thermomicrobia	S42	0.119833904635
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S42	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S42	0
+Bacteria	Cyanobacteria	Gloeobacteria	S42	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S42	0.889000362289
+Bacteria	Deinococcus-Thermus	Deinococci	S42	0.273109829167
+Bacteria	Fibrobacteres	Fibrobacteria	S42	0
+Bacteria	Firmicutes	Bacilli	S42	0.830476827467
+Bacteria	Firmicutes	Clostridia	S42	0.0863918847365
+Bacteria	Firmicutes	Erysipelotrichia	S42	0
+Bacteria	Firmicutes	Negativicutes	S42	0
+Bacteria	Fusobacteria	Fusobacteriia	S42	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S42	1.81980324945
+Bacteria	Ignavibacteriae	Ignavibacteria	S42	0
+Bacteria	Lentisphaerae	Lentisphaeria	S42	0
+Bacteria	Nitrospirae	Nitrospira (class)	S42	0.103112894686
+Bacteria	Planctomycetes	Phycisphaerae	S42	0.0027868349915
+Bacteria	Planctomycetes	Planctomycetia	S42	0.158849594516
+Bacteria	Proteobacteria	Alphaproteobacteria	S42	12.6828860463
+Bacteria	Proteobacteria	Betaproteobacteria	S42	39.7960036786
+Bacteria	Proteobacteria	Deltaproteobacteria	S42	0.225733634312
+Bacteria	Proteobacteria	Epsilonproteobacteria	S42	0.0027868349915
+Bacteria	Proteobacteria	Gammaproteobacteria	S42	1.47144887551
+Bacteria	Spirochaetes	Spirochaetia	S42	0
+Bacteria	TM7	TM7 (class)	S42	0.011147339966
+Bacteria	Tenericutes	Mollicutes	S42	0.0418025248725
+Bacteria	Verrucomicrobia	Opitutae	S42	0.133768079592
+Bacteria	Verrucomicrobia	Spartobacteria	S42	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S42	0.0640972048045
+No Hit	No Hit	No Hit	S42	6.61037259984
+Bacteria	Acidobacteria	Acidobacteria (class)	S43	0
+Bacteria	Acidobacteria	Acidobacteriia	S43	2.32366448169
+Bacteria	Acidobacteria	Holophagae	S43	0.0785021784355
+Bacteria	Acidobacteria	Solibacteres	S43	0.0314008713742
+Bacteria	Actinobacteria	Actinobacteria (class)	S43	10.986379872
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S43	0
+Bacteria	Bacteroidetes	Bacteroidia	S43	0.0471013070613
+Bacteria	Bacteroidetes	Cytophagia	S43	0.612316991797
+Bacteria	Bacteroidetes	Flavobacteriia	S43	0.494563724143
+Bacteria	Bacteroidetes	Sphingobacteriia	S43	4.16846567492
+Bacteria	Chlamydiae	Chlamydiia	S43	0
+Bacteria	Chloroflexi	Anaerolineae	S43	0
+Bacteria	Chloroflexi	Caldilineae	S43	0.0549515249048
+Bacteria	Chloroflexi	Chloroflexi (class)	S43	0.180555010402
+Bacteria	Chloroflexi	Ktedonobacteria	S43	0.0274757624524
+Bacteria	Chloroflexi	Thermomicrobia	S43	0.0314008713742
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S43	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S43	0
+Bacteria	Cyanobacteria	Gloeobacteria	S43	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S43	0.117753267653
+Bacteria	Deinococcus-Thermus	Deinococci	S43	0.368960238647
+Bacteria	Fibrobacteres	Fibrobacteria	S43	0
+Bacteria	Firmicutes	Bacilli	S43	0.314008713742
+Bacteria	Firmicutes	Clostridia	S43	0.0628017427484
+Bacteria	Firmicutes	Erysipelotrichia	S43	0
+Bacteria	Firmicutes	Negativicutes	S43	0
+Bacteria	Fusobacteria	Fusobacteriia	S43	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S43	0.580916120422
+Bacteria	Ignavibacteriae	Ignavibacteria	S43	0
+Bacteria	Lentisphaerae	Lentisphaeria	S43	0
+Bacteria	Nitrospirae	Nitrospira (class)	S43	0.0471013070613
+Bacteria	Planctomycetes	Phycisphaerae	S43	0
+Bacteria	Planctomycetes	Planctomycetia	S43	0.117753267653
+Bacteria	Proteobacteria	Alphaproteobacteria	S43	15.3118499038
+Bacteria	Proteobacteria	Betaproteobacteria	S43	57.3262158025
+Bacteria	Proteobacteria	Deltaproteobacteria	S43	0.549515249048
+Bacteria	Proteobacteria	Epsilonproteobacteria	S43	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S43	0.777171566511
+Bacteria	Spirochaetes	Spirochaetia	S43	0
+Bacteria	TM7	TM7 (class)	S43	0.0196255446089
+Bacteria	Tenericutes	Mollicutes	S43	0.0785021784355
+Bacteria	Verrucomicrobia	Opitutae	S43	0.0785021784355
+Bacteria	Verrucomicrobia	Spartobacteria	S43	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S43	0.0588766338266
+No Hit	No Hit	No Hit	S43	5.15366801429
+Bacteria	Acidobacteria	Acidobacteria (class)	S44	0
+Bacteria	Acidobacteria	Acidobacteriia	S44	2.7316252588
+Bacteria	Acidobacteria	Holophagae	S44	0.0504658385093
+Bacteria	Acidobacteria	Solibacteres	S44	0.0155279503106
+Bacteria	Actinobacteria	Actinobacteria (class)	S44	6.36645962733
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S44	0
+Bacteria	Bacteroidetes	Bacteroidia	S44	0.0569358178054
+Bacteria	Bacteroidetes	Cytophagia	S44	0.870859213251
+Bacteria	Bacteroidetes	Flavobacteriia	S44	0.39466873706
+Bacteria	Bacteroidetes	Sphingobacteriia	S44	4.016563147
+Bacteria	Chlamydiae	Chlamydiia	S44	0
+Bacteria	Chloroflexi	Anaerolineae	S44	0.00129399585921
+Bacteria	Chloroflexi	Caldilineae	S44	0.0194099378882
+Bacteria	Chloroflexi	Chloroflexi (class)	S44	0.11516563147
+Bacteria	Chloroflexi	Ktedonobacteria	S44	0.00517598343685
+Bacteria	Chloroflexi	Thermomicrobia	S44	0.0103519668737
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S44	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S44	0
+Bacteria	Cyanobacteria	Gloeobacteria	S44	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S44	0.203157349896
+Bacteria	Deinococcus-Thermus	Deinococci	S44	0.260093167702
+Bacteria	Fibrobacteres	Fibrobacteria	S44	0
+Bacteria	Firmicutes	Bacilli	S44	0.540890269151
+Bacteria	Firmicutes	Clostridia	S44	0.078933747412
+Bacteria	Firmicutes	Erysipelotrichia	S44	0
+Bacteria	Firmicutes	Negativicutes	S44	0
+Bacteria	Fusobacteria	Fusobacteriia	S44	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S44	0.679347826087
+Bacteria	Ignavibacteriae	Ignavibacteria	S44	0
+Bacteria	Lentisphaerae	Lentisphaeria	S44	0
+Bacteria	Nitrospirae	Nitrospira (class)	S44	0.0414078674948
+Bacteria	Planctomycetes	Phycisphaerae	S44	0.00258799171843
+Bacteria	Planctomycetes	Planctomycetia	S44	0.11516563147
+Bacteria	Proteobacteria	Alphaproteobacteria	S44	10.6055900621
+Bacteria	Proteobacteria	Betaproteobacteria	S44	69.3724120083
+Bacteria	Proteobacteria	Deltaproteobacteria	S44	0.121635610766
+Bacteria	Proteobacteria	Epsilonproteobacteria	S44	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S44	0.632763975155
+Bacteria	Spirochaetes	Spirochaetia	S44	0
+Bacteria	TM7	TM7 (class)	S44	0.00646997929607
+Bacteria	Tenericutes	Mollicutes	S44	0.00776397515528
+Bacteria	Verrucomicrobia	Opitutae	S44	0.0388198757764
+Bacteria	Verrucomicrobia	Spartobacteria	S44	0.00129399585921
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S44	0.0336438923395
+No Hit	No Hit	No Hit	S44	2.60351966874
+Bacteria	Acidobacteria	Acidobacteria (class)	S45	0.0119042895123
+Bacteria	Acidobacteria	Acidobacteriia	S45	6.4223641919
+Bacteria	Acidobacteria	Holophagae	S45	0.0833300265862
+Bacteria	Acidobacteria	Solibacteres	S45	0.0178564342685
+Bacteria	Actinobacteria	Actinobacteria (class)	S45	37.2207452085
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S45	0
+Bacteria	Bacteroidetes	Bacteroidia	S45	0
+Bacteria	Bacteroidetes	Cytophagia	S45	0.0337288202849
+Bacteria	Bacteroidetes	Flavobacteriia	S45	0.0277766755287
+Bacteria	Bacteroidetes	Sphingobacteriia	S45	1.09717868339
+Bacteria	Chlamydiae	Chlamydiia	S45	0
+Bacteria	Chloroflexi	Anaerolineae	S45	0
+Bacteria	Chloroflexi	Caldilineae	S45	0.00198404825205
+Bacteria	Chloroflexi	Chloroflexi (class)	S45	0.075393833578
+Bacteria	Chloroflexi	Ktedonobacteria	S45	0
+Bacteria	Chloroflexi	Thermomicrobia	S45	0.00793619300821
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S45	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S45	0
+Bacteria	Cyanobacteria	Gloeobacteria	S45	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S45	0.158723860164
+Bacteria	Deinococcus-Thermus	Deinococci	S45	0.533708979802
+Bacteria	Fibrobacteres	Fibrobacteria	S45	0
+Bacteria	Firmicutes	Bacilli	S45	1.98008015555
+Bacteria	Firmicutes	Clostridia	S45	0.0634895440657
+Bacteria	Firmicutes	Erysipelotrichia	S45	0
+Bacteria	Firmicutes	Negativicutes	S45	0
+Bacteria	Fusobacteria	Fusobacteriia	S45	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S45	0.924566485457
+Bacteria	Ignavibacteriae	Ignavibacteria	S45	0
+Bacteria	Lentisphaerae	Lentisphaeria	S45	0
+Bacteria	Nitrospirae	Nitrospira (class)	S45	0.156739811912
+Bacteria	Planctomycetes	Phycisphaerae	S45	0.0119042895123
+Bacteria	Planctomycetes	Planctomycetia	S45	0.192452680449
+Bacteria	Proteobacteria	Alphaproteobacteria	S45	24.4613308996
+Bacteria	Proteobacteria	Betaproteobacteria	S45	21.7669933733
+Bacteria	Proteobacteria	Deltaproteobacteria	S45	0.035712868537
+Bacteria	Proteobacteria	Epsilonproteobacteria	S45	0.00595214475616
+Bacteria	Proteobacteria	Gammaproteobacteria	S45	0.636879488909
+Bacteria	Spirochaetes	Spirochaetia	S45	0
+Bacteria	TM7	TM7 (class)	S45	0.234117693742
+Bacteria	Tenericutes	Mollicutes	S45	0.00793619300821
+Bacteria	Verrucomicrobia	Opitutae	S45	0.00396809650411
+Bacteria	Verrucomicrobia	Spartobacteria	S45	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S45	0.037696916789
+No Hit	No Hit	No Hit	S45	3.78754811317
+Bacteria	Acidobacteria	Acidobacteria (class)	S46	0.0232865967252
+Bacteria	Acidobacteria	Acidobacteriia	S46	0.804000392195
+Bacteria	Acidobacteria	Holophagae	S46	0.0306402588489
+Bacteria	Acidobacteria	Solibacteres	S46	0.00490244141583
+Bacteria	Actinobacteria	Actinobacteria (class)	S46	4.28228257672
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S46	0.00122561035396
+Bacteria	Bacteroidetes	Bacteroidia	S46	0.00122561035396
+Bacteria	Bacteroidetes	Cytophagia	S46	0.0110304931856
+Bacteria	Bacteroidetes	Flavobacteriia	S46	0.00980488283165
+Bacteria	Bacteroidetes	Sphingobacteriia	S46	5.1745269144
+Bacteria	Chlamydiae	Chlamydiia	S46	0
+Bacteria	Chloroflexi	Anaerolineae	S46	0
+Bacteria	Chloroflexi	Caldilineae	S46	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S46	0.00612805176978
+Bacteria	Chloroflexi	Ktedonobacteria	S46	0.0477988038043
+Bacteria	Chloroflexi	Thermomicrobia	S46	0.00122561035396
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S46	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S46	0.00122561035396
+Bacteria	Cyanobacteria	Gloeobacteria	S46	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S46	0.083341504069
+Bacteria	Deinococcus-Thermus	Deinococci	S46	0.639768604765
+Bacteria	Fibrobacteres	Fibrobacteria	S46	0
+Bacteria	Firmicutes	Bacilli	S46	5.80081380528
+Bacteria	Firmicutes	Clostridia	S46	0.0220609863712
+Bacteria	Firmicutes	Erysipelotrichia	S46	0
+Bacteria	Firmicutes	Negativicutes	S46	0
+Bacteria	Fusobacteria	Fusobacteriia	S46	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S46	0.125012256104
+Bacteria	Ignavibacteriae	Ignavibacteria	S46	0
+Bacteria	Lentisphaerae	Lentisphaeria	S46	0
+Bacteria	Nitrospirae	Nitrospira (class)	S46	0.0428963623885
+Bacteria	Planctomycetes	Phycisphaerae	S46	0
+Bacteria	Planctomycetes	Planctomycetia	S46	0.026963427787
+Bacteria	Proteobacteria	Alphaproteobacteria	S46	6.07657613492
+Bacteria	Proteobacteria	Betaproteobacteria	S46	30.9491126581
+Bacteria	Proteobacteria	Deltaproteobacteria	S46	0.185067163447
+Bacteria	Proteobacteria	Epsilonproteobacteria	S46	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S46	44.6281498186
+Bacteria	Spirochaetes	Spirochaetia	S46	0
+Bacteria	TM7	TM7 (class)	S46	0
+Bacteria	Tenericutes	Mollicutes	S46	0.00122561035396
+Bacteria	Verrucomicrobia	Opitutae	S46	0.00122561035396
+Bacteria	Verrucomicrobia	Spartobacteria	S46	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S46	0.00857927247769
+No Hit	No Hit	No Hit	S46	1.00990293166
+Bacteria	Acidobacteria	Acidobacteria (class)	S47	0.0597937116947
+Bacteria	Acidobacteria	Acidobacteriia	S47	3.24630026409
+Bacteria	Acidobacteria	Holophagae	S47	0.433504409786
+Bacteria	Acidobacteria	Solibacteres	S47	0.0124570232697
+Bacteria	Actinobacteria	Actinobacteria (class)	S47	7.18271961732
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S47	0
+Bacteria	Bacteroidetes	Bacteroidia	S47	0
+Bacteria	Bacteroidetes	Cytophagia	S47	0.00498280930789
+Bacteria	Bacteroidetes	Flavobacteriia	S47	0
+Bacteria	Bacteroidetes	Sphingobacteriia	S47	0.632816782102
+Bacteria	Chlamydiae	Chlamydiia	S47	0
+Bacteria	Chloroflexi	Anaerolineae	S47	0
+Bacteria	Chloroflexi	Caldilineae	S47	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S47	0.0124570232697
+Bacteria	Chloroflexi	Ktedonobacteria	S47	0
+Bacteria	Chloroflexi	Thermomicrobia	S47	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S47	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S47	0
+Bacteria	Cyanobacteria	Gloeobacteria	S47	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S47	0.0398624744631
+Bacteria	Deinococcus-Thermus	Deinococci	S47	0
+Bacteria	Fibrobacteres	Fibrobacteria	S47	0
+Bacteria	Firmicutes	Bacilli	S47	70.4469579949
+Bacteria	Firmicutes	Clostridia	S47	0.493298121481
+Bacteria	Firmicutes	Erysipelotrichia	S47	0
+Bacteria	Firmicutes	Negativicutes	S47	0
+Bacteria	Fusobacteria	Fusobacteriia	S47	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S47	0.17688973043
+Bacteria	Ignavibacteriae	Ignavibacteria	S47	0
+Bacteria	Lentisphaerae	Lentisphaeria	S47	0.0274054511934
+Bacteria	Nitrospirae	Nitrospira (class)	S47	0.00996561861578
+Bacteria	Planctomycetes	Phycisphaerae	S47	0
+Bacteria	Planctomycetes	Planctomycetia	S47	0.254123274702
+Bacteria	Proteobacteria	Alphaproteobacteria	S47	10.1101200857
+Bacteria	Proteobacteria	Betaproteobacteria	S47	2.82027006826
+Bacteria	Proteobacteria	Deltaproteobacteria	S47	0.231700632817
+Bacteria	Proteobacteria	Epsilonproteobacteria	S47	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S47	1.63436145299
+Bacteria	Spirochaetes	Spirochaetia	S47	0
+Bacteria	TM7	TM7 (class)	S47	0
+Bacteria	Tenericutes	Mollicutes	S47	0.00498280930789
+Bacteria	Verrucomicrobia	Opitutae	S47	0.0697593303104
+Bacteria	Verrucomicrobia	Spartobacteria	S47	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S47	0.0797249489262
+No Hit	No Hit	No Hit	S47	2.01554636504
+Bacteria	Acidobacteria	Acidobacteria (class)	S48	0.00850759728437
+Bacteria	Acidobacteria	Acidobacteriia	S48	1.77808783243
+Bacteria	Acidobacteria	Holophagae	S48	0.0867774923006
+Bacteria	Acidobacteria	Solibacteres	S48	0.0068060778275
+Bacteria	Actinobacteria	Actinobacteria (class)	S48	1.97376256997
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S48	0
+Bacteria	Bacteroidetes	Bacteroidia	S48	0.328393255177
+Bacteria	Bacteroidetes	Cytophagia	S48	0.535978628916
+Bacteria	Bacteroidetes	Flavobacteriia	S48	9.89773868064
+Bacteria	Bacteroidetes	Sphingobacteriia	S48	1.79169998809
+Bacteria	Chlamydiae	Chlamydiia	S48	0
+Bacteria	Chloroflexi	Anaerolineae	S48	0.0595531809906
+Bacteria	Chloroflexi	Caldilineae	S48	0.0663592588181
+Bacteria	Chloroflexi	Chloroflexi (class)	S48	0.874581000834
+Bacteria	Chloroflexi	Ktedonobacteria	S48	0
+Bacteria	Chloroflexi	Thermomicrobia	S48	0.00170151945687
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S48	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S48	0.0714638171887
+Bacteria	Cyanobacteria	Gloeobacteria	S48	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S48	0.00510455837062
+Bacteria	Deinococcus-Thermus	Deinococci	S48	0.0340303891375
+Bacteria	Fibrobacteres	Fibrobacteria	S48	0
+Bacteria	Firmicutes	Bacilli	S48	0.185465620799
+Bacteria	Firmicutes	Clostridia	S48	5.19473890184
+Bacteria	Firmicutes	Erysipelotrichia	S48	0.0748668561025
+Bacteria	Firmicutes	Negativicutes	S48	0
+Bacteria	Fusobacteria	Fusobacteriia	S48	0.112300284154
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S48	0.229705126678
+Bacteria	Ignavibacteriae	Ignavibacteria	S48	0.673801704922
+Bacteria	Lentisphaerae	Lentisphaeria	S48	0
+Bacteria	Nitrospirae	Nitrospira (class)	S48	0.0476425447925
+Bacteria	Planctomycetes	Phycisphaerae	S48	0
+Bacteria	Planctomycetes	Planctomycetia	S48	0.0714638171887
+Bacteria	Proteobacteria	Alphaproteobacteria	S48	12.7052457845
+Bacteria	Proteobacteria	Betaproteobacteria	S48	47.4740943663
+Bacteria	Proteobacteria	Deltaproteobacteria	S48	3.51193615899
+Bacteria	Proteobacteria	Epsilonproteobacteria	S48	0.0493440642494
+Bacteria	Proteobacteria	Gammaproteobacteria	S48	7.89675179936
+Bacteria	Spirochaetes	Spirochaetia	S48	0.0119106361981
+Bacteria	TM7	TM7 (class)	S48	0.0068060778275
+Bacteria	Tenericutes	Mollicutes	S48	0.100389647956
+Bacteria	Verrucomicrobia	Opitutae	S48	0.00850759728437
+Bacteria	Verrucomicrobia	Spartobacteria	S48	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S48	0.0119106361981
+No Hit	No Hit	No Hit	S48	4.11257252727
+Bacteria	Acidobacteria	Acidobacteria (class)	S49	0
+Bacteria	Acidobacteria	Acidobacteriia	S49	3.29752026476
+Bacteria	Acidobacteria	Holophagae	S49	0.0815386829105
+Bacteria	Acidobacteria	Solibacteres	S49	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S49	1.24466401266
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S49	0
+Bacteria	Bacteroidetes	Bacteroidia	S49	0.717060770301
+Bacteria	Bacteroidetes	Cytophagia	S49	0.43407357667
+Bacteria	Bacteroidetes	Flavobacteriia	S49	3.72439925176
+Bacteria	Bacteroidetes	Sphingobacteriia	S49	1.0072425536
+Bacteria	Chlamydiae	Chlamydiia	S49	0
+Bacteria	Chloroflexi	Anaerolineae	S49	0
+Bacteria	Chloroflexi	Caldilineae	S49	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S49	0.731449949638
+Bacteria	Chloroflexi	Ktedonobacteria	S49	0
+Bacteria	Chloroflexi	Thermomicrobia	S49	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S49	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S49	0.338145714423
+Bacteria	Cyanobacteria	Gloeobacteria	S49	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S49	0
+Bacteria	Deinococcus-Thermus	Deinococci	S49	0
+Bacteria	Fibrobacteres	Fibrobacteria	S49	0
+Bacteria	Firmicutes	Bacilli	S49	0.899323708571
+Bacteria	Firmicutes	Clostridia	S49	22.8164420356
+Bacteria	Firmicutes	Erysipelotrichia	S49	0.810590435992
+Bacteria	Firmicutes	Negativicutes	S49	0
+Bacteria	Fusobacteria	Fusobacteriia	S49	0.00719458966857
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S49	0.223032279726
+Bacteria	Ignavibacteriae	Ignavibacteria	S49	0
+Bacteria	Lentisphaerae	Lentisphaeria	S49	0
+Bacteria	Nitrospirae	Nitrospira (class)	S49	0.0719458966857
+Bacteria	Planctomycetes	Phycisphaerae	S49	0
+Bacteria	Planctomycetes	Planctomycetia	S49	0.15108638304
+Bacteria	Proteobacteria	Alphaproteobacteria	S49	6.59743872608
+Bacteria	Proteobacteria	Betaproteobacteria	S49	26.3274017939
+Bacteria	Proteobacteria	Deltaproteobacteria	S49	0.208643100389
+Bacteria	Proteobacteria	Epsilonproteobacteria	S49	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S49	17.6027627224
+Bacteria	Spirochaetes	Spirochaetia	S49	0
+Bacteria	TM7	TM7 (class)	S49	0
+Bacteria	Tenericutes	Mollicutes	S49	7.127440165
+Bacteria	Verrucomicrobia	Opitutae	S49	0.00479639311238
+Bacteria	Verrucomicrobia	Spartobacteria	S49	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S49	0.038371144899
+No Hit	No Hit	No Hit	S49	5.53743584824
+Bacteria	Acidobacteria	Acidobacteria (class)	S5	0.177867231473
+Bacteria	Acidobacteria	Acidobacteriia	S5	9.76982576032
+Bacteria	Acidobacteria	Holophagae	S5	0.757105912915
+Bacteria	Acidobacteria	Solibacteres	S5	0.278502638754
+Bacteria	Actinobacteria	Actinobacteria (class)	S5	10.4087435786
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S5	0
+Bacteria	Bacteroidetes	Bacteroidia	S5	0.250418339048
+Bacteria	Bacteroidetes	Cytophagia	S5	0.259779772283
+Bacteria	Bacteroidetes	Flavobacteriia	S5	0.367436254491
+Bacteria	Bacteroidetes	Sphingobacteriia	S5	4.3729595001
+Bacteria	Chlamydiae	Chlamydiia	S5	0
+Bacteria	Chloroflexi	Anaerolineae	S5	0.152123290076
+Bacteria	Chloroflexi	Caldilineae	S5	0.00702107492657
+Bacteria	Chloroflexi	Chloroflexi (class)	S5	0.225844576805
+Bacteria	Chloroflexi	Ktedonobacteria	S5	0.00117017915443
+Bacteria	Chloroflexi	Thermomicrobia	S5	0.0678703909569
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S5	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S5	0.00234035830886
+Bacteria	Cyanobacteria	Gloeobacteria	S5	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S5	2.50769392794
+Bacteria	Deinococcus-Thermus	Deinococci	S5	0.23520601004
+Bacteria	Fibrobacteres	Fibrobacteria	S5	0
+Bacteria	Firmicutes	Bacilli	S5	0.200100635407
+Bacteria	Firmicutes	Clostridia	S5	6.28035152182
+Bacteria	Firmicutes	Erysipelotrichia	S5	0
+Bacteria	Firmicutes	Negativicutes	S5	0
+Bacteria	Fusobacteria	Fusobacteriia	S5	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S5	1.63708063705
+Bacteria	Ignavibacteriae	Ignavibacteria	S5	0
+Bacteria	Lentisphaerae	Lentisphaeria	S5	0
+Bacteria	Nitrospirae	Nitrospira (class)	S5	0.183718127245
+Bacteria	Planctomycetes	Phycisphaerae	S5	0.0374457329417
+Bacteria	Planctomycetes	Planctomycetia	S5	0.864762395123
+Bacteria	Proteobacteria	Alphaproteobacteria	S5	21.2492832653
+Bacteria	Proteobacteria	Betaproteobacteria	S5	29.6230852944
+Bacteria	Proteobacteria	Deltaproteobacteria	S5	0.553494740045
+Bacteria	Proteobacteria	Epsilonproteobacteria	S5	0.00351053746329
+Bacteria	Proteobacteria	Gammaproteobacteria	S5	1.55516809624
+Bacteria	Spirochaetes	Spirochaetia	S5	0.00117017915443
+Bacteria	TM7	TM7 (class)	S5	0.00585089577214
+Bacteria	Tenericutes	Mollicutes	S5	0.0280842997063
+Bacteria	Verrucomicrobia	Opitutae	S5	0.326479984086
+Bacteria	Verrucomicrobia	Spartobacteria	S5	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S5	0.340522133939
+No Hit	No Hit	No Hit	S5	7.26798272816
+Bacteria	Acidobacteria	Acidobacteria (class)	S50	0
+Bacteria	Acidobacteria	Acidobacteriia	S50	6.33399059609
+Bacteria	Acidobacteria	Holophagae	S50	0.539966631276
+Bacteria	Acidobacteria	Solibacteres	S50	0.230547550432
+Bacteria	Actinobacteria	Actinobacteria (class)	S50	13.4339450933
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S50	0
+Bacteria	Bacteroidetes	Bacteroidia	S50	0.0682542090096
+Bacteria	Bacteroidetes	Cytophagia	S50	0.297284999242
+Bacteria	Bacteroidetes	Flavobacteriia	S50	0.227514030032
+Bacteria	Bacteroidetes	Sphingobacteriia	S50	1.56681328682
+Bacteria	Chlamydiae	Chlamydiia	S50	0
+Bacteria	Chloroflexi	Anaerolineae	S50	0
+Bacteria	Chloroflexi	Caldilineae	S50	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S50	0
+Bacteria	Chloroflexi	Ktedonobacteria	S50	0.0849385712119
+Bacteria	Chloroflexi	Thermomicrobia	S50	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S50	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S50	0
+Bacteria	Cyanobacteria	Gloeobacteria	S50	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S50	0.721977855301
+Bacteria	Deinococcus-Thermus	Deinococci	S50	0.0166843622023
+Bacteria	Fibrobacteres	Fibrobacteria	S50	0
+Bacteria	Firmicutes	Bacilli	S50	4.02244805096
+Bacteria	Firmicutes	Clostridia	S50	4.48961019263
+Bacteria	Firmicutes	Erysipelotrichia	S50	0
+Bacteria	Firmicutes	Negativicutes	S50	0
+Bacteria	Fusobacteria	Fusobacteriia	S50	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S50	5.18276960413
+Bacteria	Ignavibacteriae	Ignavibacteria	S50	0
+Bacteria	Lentisphaerae	Lentisphaeria	S50	0
+Bacteria	Nitrospirae	Nitrospira (class)	S50	0.320036402245
+Bacteria	Planctomycetes	Phycisphaerae	S50	0
+Bacteria	Planctomycetes	Planctomycetia	S50	0.304868800243
+Bacteria	Proteobacteria	Alphaproteobacteria	S50	13.2625511907
+Bacteria	Proteobacteria	Betaproteobacteria	S50	10.8251175489
+Bacteria	Proteobacteria	Deltaproteobacteria	S50	1.08751706355
+Bacteria	Proteobacteria	Epsilonproteobacteria	S50	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S50	6.74806613074
+Bacteria	Spirochaetes	Spirochaetia	S50	0
+Bacteria	TM7	TM7 (class)	S50	0.0485363264068
+Bacteria	Tenericutes	Mollicutes	S50	0.0106173214015
+Bacteria	Verrucomicrobia	Opitutae	S50	0.00151676020021
+Bacteria	Verrucomicrobia	Spartobacteria	S50	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S50	0.185044744426
+No Hit	No Hit	No Hit	S50	29.9893826786
+Bacteria	Acidobacteria	Acidobacteria (class)	S51	0.111554931808
+Bacteria	Acidobacteria	Acidobacteriia	S51	5.75407535356
+Bacteria	Acidobacteria	Holophagae	S51	1.94681348735
+Bacteria	Acidobacteria	Solibacteres	S51	0.349058980172
+Bacteria	Actinobacteria	Actinobacteria (class)	S51	14.3725934722
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S51	0
+Bacteria	Bacteroidetes	Bacteroidia	S51	0
+Bacteria	Bacteroidetes	Cytophagia	S51	0.00359854618734
+Bacteria	Bacteroidetes	Flavobacteriia	S51	0.0323869156861
+Bacteria	Bacteroidetes	Sphingobacteriia	S51	2.11234661197
+Bacteria	Chlamydiae	Chlamydiia	S51	0
+Bacteria	Chloroflexi	Anaerolineae	S51	0
+Bacteria	Chloroflexi	Caldilineae	S51	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S51	0
+Bacteria	Chloroflexi	Ktedonobacteria	S51	2.42542013027
+Bacteria	Chloroflexi	Thermomicrobia	S51	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S51	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S51	0.010795638562
+Bacteria	Cyanobacteria	Gloeobacteria	S51	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S51	0.0395840080607
+Bacteria	Deinococcus-Thermus	Deinococci	S51	0.00719709237468
+Bacteria	Fibrobacteres	Fibrobacteria	S51	0
+Bacteria	Firmicutes	Bacilli	S51	3.24229011479
+Bacteria	Firmicutes	Clostridia	S51	5.19989924071
+Bacteria	Firmicutes	Erysipelotrichia	S51	0
+Bacteria	Firmicutes	Negativicutes	S51	0
+Bacteria	Fusobacteria	Fusobacteriia	S51	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S51	1.03638130195
+Bacteria	Ignavibacteriae	Ignavibacteria	S51	0
+Bacteria	Lentisphaerae	Lentisphaeria	S51	0
+Bacteria	Nitrospirae	Nitrospira (class)	S51	0.453416819605
+Bacteria	Planctomycetes	Phycisphaerae	S51	0
+Bacteria	Planctomycetes	Planctomycetia	S51	0.129547662744
+Bacteria	Proteobacteria	Alphaproteobacteria	S51	14.1962647091
+Bacteria	Proteobacteria	Betaproteobacteria	S51	3.00838461262
+Bacteria	Proteobacteria	Deltaproteobacteria	S51	0.143941847494
+Bacteria	Proteobacteria	Epsilonproteobacteria	S51	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S51	14.1638777934
+Bacteria	Spirochaetes	Spirochaetia	S51	0
+Bacteria	TM7	TM7 (class)	S51	0.0143941847494
+Bacteria	Tenericutes	Mollicutes	S51	0
+Bacteria	Verrucomicrobia	Opitutae	S51	0.0179927309367
+Bacteria	Verrucomicrobia	Spartobacteria	S51	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S51	0.010795638562
+No Hit	No Hit	No Hit	S51	31.2173881752
+Bacteria	Acidobacteria	Acidobacteria (class)	S52	0.00180086081147
+Bacteria	Acidobacteria	Acidobacteriia	S52	7.20164238506
+Bacteria	Acidobacteria	Holophagae	S52	0.754560680005
+Bacteria	Acidobacteria	Solibacteres	S52	0.185488663581
+Bacteria	Actinobacteria	Actinobacteria (class)	S52	7.32410092024
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S52	0
+Bacteria	Bacteroidetes	Bacteroidia	S52	0.0216103297376
+Bacteria	Bacteroidetes	Cytophagia	S52	1.31642925318
+Bacteria	Bacteroidetes	Flavobacteriia	S52	0.381782492031
+Bacteria	Bacteroidetes	Sphingobacteriia	S52	8.67654738965
+Bacteria	Chlamydiae	Chlamydiia	S52	0
+Bacteria	Chloroflexi	Anaerolineae	S52	0.00180086081147
+Bacteria	Chloroflexi	Caldilineae	S52	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S52	0.00360172162294
+Bacteria	Chloroflexi	Ktedonobacteria	S52	0.192692106827
+Bacteria	Chloroflexi	Thermomicrobia	S52	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S52	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S52	0.00180086081147
+Bacteria	Cyanobacteria	Gloeobacteria	S52	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S52	0.262925678474
+Bacteria	Deinococcus-Thermus	Deinococci	S52	0.142268004106
+Bacteria	Fibrobacteres	Fibrobacteria	S52	0
+Bacteria	Firmicutes	Bacilli	S52	6.03288371842
+Bacteria	Firmicutes	Clostridia	S52	2.20065191161
+Bacteria	Firmicutes	Erysipelotrichia	S52	0
+Bacteria	Firmicutes	Negativicutes	S52	0
+Bacteria	Fusobacteria	Fusobacteriia	S52	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S52	2.88858074159
+Bacteria	Ignavibacteriae	Ignavibacteria	S52	0
+Bacteria	Lentisphaerae	Lentisphaeria	S52	0
+Bacteria	Nitrospirae	Nitrospira (class)	S52	0.0558266851555
+Bacteria	Planctomycetes	Phycisphaerae	S52	0
+Bacteria	Planctomycetes	Planctomycetia	S52	0.0450215202867
+Bacteria	Proteobacteria	Alphaproteobacteria	S52	12.8023195087
+Bacteria	Proteobacteria	Betaproteobacteria	S52	22.2064146662
+Bacteria	Proteobacteria	Deltaproteobacteria	S52	0.446613481244
+Bacteria	Proteobacteria	Epsilonproteobacteria	S52	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S52	11.5255091934
+Bacteria	Spirochaetes	Spirochaetia	S52	0
+Bacteria	TM7	TM7 (class)	S52	0.345765275802
+Bacteria	Tenericutes	Mollicutes	S52	0
+Bacteria	Verrucomicrobia	Opitutae	S52	0.0360172162294
+Bacteria	Verrucomicrobia	Spartobacteria	S52	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S52	0.0252120513606
+No Hit	No Hit	No Hit	S52	14.920131823
+Bacteria	Acidobacteria	Acidobacteria (class)	S53	0
+Bacteria	Acidobacteria	Acidobacteriia	S53	6.78159792254
+Bacteria	Acidobacteria	Holophagae	S53	0.826379324313
+Bacteria	Acidobacteria	Solibacteres	S53	0.229407676203
+Bacteria	Actinobacteria	Actinobacteria (class)	S53	5.05933471774
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S53	0
+Bacteria	Bacteroidetes	Bacteroidia	S53	0.188898885795
+Bacteria	Bacteroidetes	Cytophagia	S53	0.296353782455
+Bacteria	Bacteroidetes	Flavobacteriia	S53	0.817424749592
+Bacteria	Bacteroidetes	Sphingobacteriia	S53	4.54551269204
+Bacteria	Chlamydiae	Chlamydiia	S53	0
+Bacteria	Chloroflexi	Anaerolineae	S53	0.0166299244831
+Bacteria	Chloroflexi	Caldilineae	S53	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S53	0
+Bacteria	Chloroflexi	Ktedonobacteria	S53	0.135171437465
+Bacteria	Chloroflexi	Thermomicrobia	S53	0.00639612480119
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S53	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S53	4.95912876252
+Bacteria	Cyanobacteria	Gloeobacteria	S53	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S53	0.606779039473
+Bacteria	Deinococcus-Thermus	Deinococci	S53	0.0550066732902
+Bacteria	Fibrobacteres	Fibrobacteria	S53	0
+Bacteria	Firmicutes	Bacilli	S53	1.44168653019
+Bacteria	Firmicutes	Clostridia	S53	2.28000528746
+Bacteria	Firmicutes	Erysipelotrichia	S53	0
+Bacteria	Firmicutes	Negativicutes	S53	0
+Bacteria	Fusobacteria	Fusobacteriia	S53	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S53	2.19003313193
+Bacteria	Ignavibacteriae	Ignavibacteria	S53	0
+Bacteria	Lentisphaerae	Lentisphaeria	S53	0
+Bacteria	Nitrospirae	Nitrospira (class)	S53	0.286119982773
+Bacteria	Planctomycetes	Phycisphaerae	S53	0
+Bacteria	Planctomycetes	Planctomycetia	S53	0.3249231399
+Bacteria	Proteobacteria	Alphaproteobacteria	S53	12.6762665393
+Bacteria	Proteobacteria	Betaproteobacteria	S53	9.79459911222
+Bacteria	Proteobacteria	Deltaproteobacteria	S53	0.598250873071
+Bacteria	Proteobacteria	Epsilonproteobacteria	S53	0.000426408320079
+Bacteria	Proteobacteria	Gammaproteobacteria	S53	11.1147592712
+Bacteria	Spirochaetes	Spirochaetia	S53	0
+Bacteria	TM7	TM7 (class)	S53	0.0695045561729
+Bacteria	Tenericutes	Mollicutes	S53	0
+Bacteria	Verrucomicrobia	Opitutae	S53	0.0123658412823
+Bacteria	Verrucomicrobia	Spartobacteria	S53	0.0183355577634
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S53	0.10958693826
+No Hit	No Hit	No Hit	S53	34.5591151175
+Bacteria	Acidobacteria	Acidobacteria (class)	S54	1.2994202914
+Bacteria	Acidobacteria	Acidobacteriia	S54	26.4829414489
+Bacteria	Acidobacteria	Holophagae	S54	1.57516781739
+Bacteria	Acidobacteria	Solibacteres	S54	0.150649710146
+Bacteria	Actinobacteria	Actinobacteria (class)	S54	4.85539224819
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S54	0.0425864905006
+Bacteria	Bacteroidetes	Bacteroidia	S54	0.0143729405439
+Bacteria	Bacteroidetes	Cytophagia	S54	0.000532331131257
+Bacteria	Bacteroidetes	Flavobacteriia	S54	0.123500822452
+Bacteria	Bacteroidetes	Sphingobacteriia	S54	4.39918446871
+Bacteria	Chlamydiae	Chlamydiia	S54	0
+Bacteria	Chloroflexi	Anaerolineae	S54	0
+Bacteria	Chloroflexi	Caldilineae	S54	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S54	0.0574917621757
+Bacteria	Chloroflexi	Ktedonobacteria	S54	2.09898165055
+Bacteria	Chloroflexi	Thermomicrobia	S54	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S54	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S54	0.00798496696885
+Bacteria	Cyanobacteria	Gloeobacteria	S54	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S54	0.00106466226251
+Bacteria	Deinococcus-Thermus	Deinococci	S54	0.0106466226251
+Bacteria	Fibrobacteres	Fibrobacteria	S54	0
+Bacteria	Firmicutes	Bacilli	S54	0.304493407079
+Bacteria	Firmicutes	Clostridia	S54	0.50837623035
+Bacteria	Firmicutes	Erysipelotrichia	S54	0
+Bacteria	Firmicutes	Negativicutes	S54	0
+Bacteria	Fusobacteria	Fusobacteriia	S54	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S54	0.402974666361
+Bacteria	Ignavibacteriae	Ignavibacteria	S54	0
+Bacteria	Lentisphaerae	Lentisphaeria	S54	0.0356661857942
+Bacteria	Nitrospirae	Nitrospira (class)	S54	0.179395591234
+Bacteria	Planctomycetes	Phycisphaerae	S54	0
+Bacteria	Planctomycetes	Planctomycetia	S54	0.816063624217
+Bacteria	Proteobacteria	Alphaproteobacteria	S54	29.196765556
+Bacteria	Proteobacteria	Betaproteobacteria	S54	8.22877462697
+Bacteria	Proteobacteria	Deltaproteobacteria	S54	0.888460658068
+Bacteria	Proteobacteria	Epsilonproteobacteria	S54	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S54	5.95252670971
+Bacteria	Spirochaetes	Spirochaetia	S54	0
+Bacteria	TM7	TM7 (class)	S54	0.0463128084193
+Bacteria	Tenericutes	Mollicutes	S54	0.00319398678754
+Bacteria	Verrucomicrobia	Opitutae	S54	0.0585564244383
+Bacteria	Verrucomicrobia	Spartobacteria	S54	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S54	0.0361985169255
+No Hit	No Hit	No Hit	S54	12.2223227737
+Bacteria	Acidobacteria	Acidobacteria (class)	S55	0.0212024837195
+Bacteria	Acidobacteria	Acidobacteriia	S55	4.13448432531
+Bacteria	Acidobacteria	Holophagae	S55	0.517946388005
+Bacteria	Acidobacteria	Solibacteres	S55	0.0333181887021
+Bacteria	Actinobacteria	Actinobacteria (class)	S55	1.24185976071
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S55	0
+Bacteria	Bacteroidetes	Bacteroidia	S55	0.0302892624565
+Bacteria	Bacteroidetes	Cytophagia	S55	3.25609571407
+Bacteria	Bacteroidetes	Flavobacteriia	S55	0.215053763441
+Bacteria	Bacteroidetes	Sphingobacteriia	S55	6.33651370589
+Bacteria	Chlamydiae	Chlamydiia	S55	0
+Bacteria	Chloroflexi	Anaerolineae	S55	0.321066182038
+Bacteria	Chloroflexi	Caldilineae	S55	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S55	0.733000151446
+Bacteria	Chloroflexi	Ktedonobacteria	S55	0.0484628199303
+Bacteria	Chloroflexi	Thermomicrobia	S55	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S55	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S55	5.29759200363
+Bacteria	Cyanobacteria	Gloeobacteria	S55	0.224140542178
+Bacteria	Deferribacteres	Deferribacteres (class)	S55	0.093896713615
+Bacteria	Deinococcus-Thermus	Deinococci	S55	0.311979403302
+Bacteria	Fibrobacteres	Fibrobacteria	S55	0
+Bacteria	Firmicutes	Bacilli	S55	1.08435559594
+Bacteria	Firmicutes	Clostridia	S55	0.136301681054
+Bacteria	Firmicutes	Erysipelotrichia	S55	0
+Bacteria	Firmicutes	Negativicutes	S55	0
+Bacteria	Fusobacteria	Fusobacteriia	S55	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S55	0.390731485688
+Bacteria	Ignavibacteriae	Ignavibacteria	S55	0
+Bacteria	Lentisphaerae	Lentisphaeria	S55	0.00302892624565
+Bacteria	Nitrospirae	Nitrospira (class)	S55	0.042404967439
+Bacteria	Planctomycetes	Phycisphaerae	S55	0
+Bacteria	Planctomycetes	Planctomycetia	S55	0.357413296986
+Bacteria	Proteobacteria	Alphaproteobacteria	S55	20.0484628199
+Bacteria	Proteobacteria	Betaproteobacteria	S55	35.9230652734
+Bacteria	Proteobacteria	Deltaproteobacteria	S55	0.660305921551
+Bacteria	Proteobacteria	Epsilonproteobacteria	S55	0.0484628199303
+Bacteria	Proteobacteria	Gammaproteobacteria	S55	6.80599727397
+Bacteria	Spirochaetes	Spirochaetia	S55	0
+Bacteria	TM7	TM7 (class)	S55	0.00302892624565
+Bacteria	Tenericutes	Mollicutes	S55	0
+Bacteria	Verrucomicrobia	Opitutae	S55	0.0363471149478
+Bacteria	Verrucomicrobia	Spartobacteria	S55	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S55	0.0393760411934
+No Hit	No Hit	No Hit	S55	11.6038164471
+Bacteria	Acidobacteria	Acidobacteria (class)	S56	0
+Bacteria	Acidobacteria	Acidobacteriia	S56	0.018143645836
+Bacteria	Acidobacteria	Holophagae	S56	0
+Bacteria	Acidobacteria	Solibacteres	S56	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S56	57.2509784609
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S56	0
+Bacteria	Bacteroidetes	Bacteroidia	S56	0.0129597470257
+Bacteria	Bacteroidetes	Cytophagia	S56	4.30781991136
+Bacteria	Bacteroidetes	Flavobacteriia	S56	3.22697700941
+Bacteria	Bacteroidetes	Sphingobacteriia	S56	0.0311033928618
+Bacteria	Chlamydiae	Chlamydiia	S56	0
+Bacteria	Chloroflexi	Anaerolineae	S56	0
+Bacteria	Chloroflexi	Caldilineae	S56	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S56	0
+Bacteria	Chloroflexi	Ktedonobacteria	S56	0
+Bacteria	Chloroflexi	Thermomicrobia	S56	0.235867395868
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S56	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S56	0
+Bacteria	Cyanobacteria	Gloeobacteria	S56	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S56	0.0259194940515
+Bacteria	Deinococcus-Thermus	Deinococci	S56	5.82929421218
+Bacteria	Fibrobacteres	Fibrobacteria	S56	0
+Bacteria	Firmicutes	Bacilli	S56	15.2458464011
+Bacteria	Firmicutes	Clostridia	S56	0.00259194940515
+Bacteria	Firmicutes	Erysipelotrichia	S56	0
+Bacteria	Firmicutes	Negativicutes	S56	0
+Bacteria	Fusobacteria	Fusobacteriia	S56	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S56	0.287706383971
+Bacteria	Ignavibacteriae	Ignavibacteria	S56	0.00259194940515
+Bacteria	Lentisphaerae	Lentisphaeria	S56	0
+Bacteria	Nitrospirae	Nitrospira (class)	S56	0
+Bacteria	Planctomycetes	Phycisphaerae	S56	0
+Bacteria	Planctomycetes	Planctomycetia	S56	0
+Bacteria	Proteobacteria	Alphaproteobacteria	S56	1.48777895855
+Bacteria	Proteobacteria	Betaproteobacteria	S56	1.98284129494
+Bacteria	Proteobacteria	Deltaproteobacteria	S56	0.0103677976206
+Bacteria	Proteobacteria	Epsilonproteobacteria	S56	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S56	7.43630284337
+Bacteria	Spirochaetes	Spirochaetia	S56	0
+Bacteria	TM7	TM7 (class)	S56	0.754257276898
+Bacteria	Tenericutes	Mollicutes	S56	0
+Bacteria	Verrucomicrobia	Opitutae	S56	0
+Bacteria	Verrucomicrobia	Spartobacteria	S56	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S56	0
+No Hit	No Hit	No Hit	S56	1.85065187528
+Bacteria	Acidobacteria	Acidobacteria (class)	S57	0.0108983114883
+Bacteria	Acidobacteria	Acidobacteriia	S57	9.00418495161
+Bacteria	Acidobacteria	Holophagae	S57	2.55674387515
+Bacteria	Acidobacteria	Solibacteres	S57	0.110436223081
+Bacteria	Actinobacteria	Actinobacteria (class)	S57	4.0883199163
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S57	0
+Bacteria	Bacteroidetes	Bacteroidia	S57	0.173646429713
+Bacteria	Bacteroidetes	Cytophagia	S57	1.05350344387
+Bacteria	Bacteroidetes	Flavobacteriia	S57	0.252840826528
+Bacteria	Bacteroidetes	Sphingobacteriia	S57	6.43073033218
+Bacteria	Chlamydiae	Chlamydiia	S57	0
+Bacteria	Chloroflexi	Anaerolineae	S57	0.345839751228
+Bacteria	Chloroflexi	Caldilineae	S57	0.0174372983812
+Bacteria	Chloroflexi	Chloroflexi (class)	S57	0.107530006684
+Bacteria	Chloroflexi	Ktedonobacteria	S57	0.124967305066
+Bacteria	Chloroflexi	Thermomicrobia	S57	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S57	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S57	0
+Bacteria	Cyanobacteria	Gloeobacteria	S57	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S57	3.19175215787
+Bacteria	Deinococcus-Thermus	Deinococci	S57	0.0152576360836
+Bacteria	Fibrobacteres	Fibrobacteria	S57	0
+Bacteria	Firmicutes	Bacilli	S57	0.0828271673109
+Bacteria	Firmicutes	Clostridia	S57	0.690226394257
+Bacteria	Firmicutes	Erysipelotrichia	S57	0
+Bacteria	Firmicutes	Negativicutes	S57	0
+Bacteria	Fusobacteria	Fusobacteriia	S57	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S57	4.3665901363
+Bacteria	Ignavibacteriae	Ignavibacteria	S57	0
+Bacteria	Lentisphaerae	Lentisphaeria	S57	0
+Bacteria	Nitrospirae	Nitrospira (class)	S57	0.49260367927
+Bacteria	Planctomycetes	Phycisphaerae	S57	0.00944520328984
+Bacteria	Planctomycetes	Planctomycetia	S57	0.717108895928
+Bacteria	Proteobacteria	Alphaproteobacteria	S57	28.3675782499
+Bacteria	Proteobacteria	Betaproteobacteria	S57	22.8530326368
+Bacteria	Proteobacteria	Deltaproteobacteria	S57	0.619750646633
+Bacteria	Proteobacteria	Epsilonproteobacteria	S57	0.0203435147781
+Bacteria	Proteobacteria	Gammaproteobacteria	S57	5.43244499985
+Bacteria	Spirochaetes	Spirochaetia	S57	0
+Bacteria	TM7	TM7 (class)	S57	0.0188904065797
+Bacteria	Tenericutes	Mollicutes	S57	0.00435932459531
+Bacteria	Verrucomicrobia	Opitutae	S57	0.544189020314
+Bacteria	Verrucomicrobia	Spartobacteria	S57	0.00363277049609
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S57	0.800662617338
+No Hit	No Hit	No Hit	S57	7.49222587114
+Bacteria	Acidobacteria	Acidobacteria (class)	S58	0
+Bacteria	Acidobacteria	Acidobacteriia	S58	0.00449721172873
+Bacteria	Acidobacteria	Holophagae	S58	0
+Bacteria	Acidobacteria	Solibacteres	S58	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S58	25.7173052707
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S58	0
+Bacteria	Bacteroidetes	Bacteroidia	S58	0.00899442345746
+Bacteria	Bacteroidetes	Cytophagia	S58	0.337290879655
+Bacteria	Bacteroidetes	Flavobacteriia	S58	2.3722791869
+Bacteria	Bacteroidetes	Sphingobacteriia	S58	3.83162439288
+Bacteria	Chlamydiae	Chlamydiia	S58	0
+Bacteria	Chloroflexi	Anaerolineae	S58	0
+Bacteria	Chloroflexi	Caldilineae	S58	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S58	0
+Bacteria	Chloroflexi	Ktedonobacteria	S58	0
+Bacteria	Chloroflexi	Thermomicrobia	S58	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S58	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S58	0
+Bacteria	Cyanobacteria	Gloeobacteria	S58	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S58	0
+Bacteria	Deinococcus-Thermus	Deinococci	S58	0
+Bacteria	Fibrobacteres	Fibrobacteria	S58	0
+Bacteria	Firmicutes	Bacilli	S58	0.861216046051
+Bacteria	Firmicutes	Clostridia	S58	0.00449721172873
+Bacteria	Firmicutes	Erysipelotrichia	S58	0
+Bacteria	Firmicutes	Negativicutes	S58	0
+Bacteria	Fusobacteria	Fusobacteriia	S58	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S58	0.0134916351862
+Bacteria	Ignavibacteriae	Ignavibacteria	S58	0
+Bacteria	Lentisphaerae	Lentisphaeria	S58	0
+Bacteria	Nitrospirae	Nitrospira (class)	S58	0
+Bacteria	Planctomycetes	Phycisphaerae	S58	0
+Bacteria	Planctomycetes	Planctomycetia	S58	0
+Bacteria	Proteobacteria	Alphaproteobacteria	S58	5.75418240691
+Bacteria	Proteobacteria	Betaproteobacteria	S58	58.4165317503
+Bacteria	Proteobacteria	Deltaproteobacteria	S58	0.00224860586436
+Bacteria	Proteobacteria	Epsilonproteobacteria	S58	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S58	0.591383342328
+Bacteria	Spirochaetes	Spirochaetia	S58	0
+Bacteria	TM7	TM7 (class)	S58	0.764525993884
+Bacteria	Tenericutes	Mollicutes	S58	0
+Bacteria	Verrucomicrobia	Opitutae	S58	0
+Bacteria	Verrucomicrobia	Spartobacteria	S58	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S58	0
+No Hit	No Hit	No Hit	S58	1.31993164238
+Bacteria	Acidobacteria	Acidobacteria (class)	S59	0
+Bacteria	Acidobacteria	Acidobacteriia	S59	2.10333071073
+Bacteria	Acidobacteria	Holophagae	S59	0.178337267244
+Bacteria	Acidobacteria	Solibacteres	S59	0.115394702334
+Bacteria	Actinobacteria	Actinobacteria (class)	S59	25.559926567
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S59	0
+Bacteria	Bacteroidetes	Bacteroidia	S59	0.0419617099397
+Bacteria	Bacteroidetes	Cytophagia	S59	0.104904274849
+Bacteria	Bacteroidetes	Flavobacteriia	S59	0.66089693155
+Bacteria	Bacteroidetes	Sphingobacteriia	S59	12.3682140047
+Bacteria	Chlamydiae	Chlamydiia	S59	0
+Bacteria	Chloroflexi	Anaerolineae	S59	0.00524521374246
+Bacteria	Chloroflexi	Caldilineae	S59	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S59	0.0734329923944
+Bacteria	Chloroflexi	Ktedonobacteria	S59	0.0786782061369
+Bacteria	Chloroflexi	Thermomicrobia	S59	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S59	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S59	0
+Bacteria	Cyanobacteria	Gloeobacteria	S59	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S59	0.0104904274849
+Bacteria	Deinococcus-Thermus	Deinococci	S59	0.0104904274849
+Bacteria	Fibrobacteres	Fibrobacteria	S59	0
+Bacteria	Firmicutes	Bacilli	S59	0.807762916339
+Bacteria	Firmicutes	Clostridia	S59	0.183582480986
+Bacteria	Firmicutes	Erysipelotrichia	S59	0
+Bacteria	Firmicutes	Negativicutes	S59	0
+Bacteria	Fusobacteria	Fusobacteriia	S59	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S59	2.28691319171
+Bacteria	Ignavibacteriae	Ignavibacteria	S59	0
+Bacteria	Lentisphaerae	Lentisphaeria	S59	0
+Bacteria	Nitrospirae	Nitrospira (class)	S59	0.687123000262
+Bacteria	Planctomycetes	Phycisphaerae	S59	0.173092053501
+Bacteria	Planctomycetes	Planctomycetia	S59	0.141620771046
+Bacteria	Proteobacteria	Alphaproteobacteria	S59	25.2924206661
+Bacteria	Proteobacteria	Betaproteobacteria	S59	20.6031995804
+Bacteria	Proteobacteria	Deltaproteobacteria	S59	0.131130343562
+Bacteria	Proteobacteria	Epsilonproteobacteria	S59	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S59	4.15420928403
+Bacteria	Spirochaetes	Spirochaetia	S59	0
+Bacteria	TM7	TM7 (class)	S59	0.257015473381
+Bacteria	Tenericutes	Mollicutes	S59	0
+Bacteria	Verrucomicrobia	Opitutae	S59	0.0104904274849
+Bacteria	Verrucomicrobia	Spartobacteria	S59	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S59	0.0104904274849
+No Hit	No Hit	No Hit	S59	3.94964594807
+Bacteria	Acidobacteria	Acidobacteria (class)	S6	0.00429627083691
+Bacteria	Acidobacteria	Acidobacteriia	S6	13.0434782609
+Bacteria	Acidobacteria	Holophagae	S6	1.75645872716
+Bacteria	Acidobacteria	Solibacteres	S6	0.0687403333906
+Bacteria	Actinobacteria	Actinobacteria (class)	S6	11.432376697
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S6	0
+Bacteria	Bacteroidetes	Bacteroidia	S6	0.238443031449
+Bacteria	Bacteroidetes	Cytophagia	S6	0.257060205075
+Bacteria	Bacteroidetes	Flavobacteriia	S6	0.211233316148
+Bacteria	Bacteroidetes	Sphingobacteriia	S6	3.26015352008
+Bacteria	Chlamydiae	Chlamydiia	S6	0
+Bacteria	Chloroflexi	Anaerolineae	S6	0.00358022569743
+Bacteria	Chloroflexi	Caldilineae	S6	0.0179011284871
+Bacteria	Chloroflexi	Chloroflexi (class)	S6	0.224838173798
+Bacteria	Chloroflexi	Ktedonobacteria	S6	0.00572836111588
+Bacteria	Chloroflexi	Thermomicrobia	S6	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S6	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S6	0.00214813541846
+Bacteria	Cyanobacteria	Gloeobacteria	S6	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S6	1.16715357736
+Bacteria	Deinococcus-Thermus	Deinococci	S6	0.072320559088
+Bacteria	Fibrobacteres	Fibrobacteria	S6	0
+Bacteria	Firmicutes	Bacilli	S6	8.6591338718
+Bacteria	Firmicutes	Clostridia	S6	1.00604342098
+Bacteria	Firmicutes	Erysipelotrichia	S6	0
+Bacteria	Firmicutes	Negativicutes	S6	0
+Bacteria	Fusobacteria	Fusobacteriia	S6	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S6	2.92289625938
+Bacteria	Ignavibacteriae	Ignavibacteria	S6	0
+Bacteria	Lentisphaerae	Lentisphaeria	S6	0
+Bacteria	Nitrospirae	Nitrospira (class)	S6	0.330096809303
+Bacteria	Planctomycetes	Phycisphaerae	S6	0.0601477917168
+Bacteria	Planctomycetes	Planctomycetia	S6	0.599329781749
+Bacteria	Proteobacteria	Alphaproteobacteria	S6	24.9584693819
+Bacteria	Proteobacteria	Betaproteobacteria	S6	21.9847339176
+Bacteria	Proteobacteria	Deltaproteobacteria	S6	0.44538007676
+Bacteria	Proteobacteria	Epsilonproteobacteria	S6	0.00716045139486
+Bacteria	Proteobacteria	Gammaproteobacteria	S6	1.25522712952
+Bacteria	Spirochaetes	Spirochaetia	S6	0.000716045139486
+Bacteria	TM7	TM7 (class)	S6	0.131036260526
+Bacteria	Tenericutes	Mollicutes	S6	0
+Bacteria	Verrucomicrobia	Opitutae	S6	0.16755456264
+Bacteria	Verrucomicrobia	Spartobacteria	S6	0.00143209027897
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S6	0.149653434152
+No Hit	No Hit	No Hit	S6	5.55507819213
+Bacteria	Acidobacteria	Acidobacteria (class)	S60	0
+Bacteria	Acidobacteria	Acidobacteriia	S60	0
+Bacteria	Acidobacteria	Holophagae	S60	0
+Bacteria	Acidobacteria	Solibacteres	S60	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S60	26.2965011755
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S60	0
+Bacteria	Bacteroidetes	Bacteroidia	S60	0
+Bacteria	Bacteroidetes	Cytophagia	S60	2.58435900982
+Bacteria	Bacteroidetes	Flavobacteriia	S60	6.70204674319
+Bacteria	Bacteroidetes	Sphingobacteriia	S60	13.9572673213
+Bacteria	Chlamydiae	Chlamydiia	S60	0
+Bacteria	Chloroflexi	Anaerolineae	S60	0
+Bacteria	Chloroflexi	Caldilineae	S60	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S60	0
+Bacteria	Chloroflexi	Ktedonobacteria	S60	0
+Bacteria	Chloroflexi	Thermomicrobia	S60	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S60	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S60	0
+Bacteria	Cyanobacteria	Gloeobacteria	S60	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S60	0
+Bacteria	Deinococcus-Thermus	Deinococci	S60	0
+Bacteria	Fibrobacteres	Fibrobacteria	S60	0
+Bacteria	Firmicutes	Bacilli	S60	0.309431613885
+Bacteria	Firmicutes	Clostridia	S60	0.00172866823399
+Bacteria	Firmicutes	Erysipelotrichia	S60	0
+Bacteria	Firmicutes	Negativicutes	S60	0
+Bacteria	Fusobacteria	Fusobacteriia	S60	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S60	0.00864334116996
+Bacteria	Ignavibacteriae	Ignavibacteria	S60	0
+Bacteria	Lentisphaerae	Lentisphaeria	S60	0
+Bacteria	Nitrospirae	Nitrospira (class)	S60	0
+Bacteria	Planctomycetes	Phycisphaerae	S60	0
+Bacteria	Planctomycetes	Planctomycetia	S60	0
+Bacteria	Proteobacteria	Alphaproteobacteria	S60	3.18939289172
+Bacteria	Proteobacteria	Betaproteobacteria	S60	39.2303969022
+Bacteria	Proteobacteria	Deltaproteobacteria	S60	0.0691467293597
+Bacteria	Proteobacteria	Epsilonproteobacteria	S60	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S60	0.222998202185
+Bacteria	Spirochaetes	Spirochaetia	S60	0
+Bacteria	TM7	TM7 (class)	S60	0.0449453740838
+Bacteria	Tenericutes	Mollicutes	S60	0
+Bacteria	Verrucomicrobia	Opitutae	S60	0
+Bacteria	Verrucomicrobia	Spartobacteria	S60	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S60	0.00345733646799
+No Hit	No Hit	No Hit	S60	7.37968469091
+Bacteria	Acidobacteria	Acidobacteria (class)	S61	0
+Bacteria	Acidobacteria	Acidobacteriia	S61	0.00322154569763
+Bacteria	Acidobacteria	Holophagae	S61	0
+Bacteria	Acidobacteria	Solibacteres	S61	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S61	45.3803034696
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S61	0
+Bacteria	Bacteroidetes	Bacteroidia	S61	0.00161077284881
+Bacteria	Bacteroidetes	Cytophagia	S61	1.17264263394
+Bacteria	Bacteroidetes	Flavobacteriia	S61	1.49640797655
+Bacteria	Bacteroidetes	Sphingobacteriia	S61	8.98489095068
+Bacteria	Chlamydiae	Chlamydiia	S61	0
+Bacteria	Chloroflexi	Anaerolineae	S61	0
+Bacteria	Chloroflexi	Caldilineae	S61	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S61	0
+Bacteria	Chloroflexi	Ktedonobacteria	S61	0
+Bacteria	Chloroflexi	Thermomicrobia	S61	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S61	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S61	0.172352694823
+Bacteria	Cyanobacteria	Gloeobacteria	S61	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S61	0
+Bacteria	Deinococcus-Thermus	Deinococci	S61	0
+Bacteria	Fibrobacteres	Fibrobacteria	S61	0
+Bacteria	Firmicutes	Bacilli	S61	0.214232788892
+Bacteria	Firmicutes	Clostridia	S61	0.00483231854644
+Bacteria	Firmicutes	Erysipelotrichia	S61	0
+Bacteria	Firmicutes	Negativicutes	S61	0
+Bacteria	Fusobacteria	Fusobacteriia	S61	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S61	0.0467124126156
+Bacteria	Ignavibacteriae	Ignavibacteria	S61	0
+Bacteria	Lentisphaerae	Lentisphaeria	S61	0
+Bacteria	Nitrospirae	Nitrospira (class)	S61	0.00161077284881
+Bacteria	Planctomycetes	Phycisphaerae	S61	0
+Bacteria	Planctomycetes	Planctomycetia	S61	0
+Bacteria	Proteobacteria	Alphaproteobacteria	S61	4.95795882865
+Bacteria	Proteobacteria	Betaproteobacteria	S61	35.4740504494
+Bacteria	Proteobacteria	Deltaproteobacteria	S61	0.00322154569763
+Bacteria	Proteobacteria	Epsilonproteobacteria	S61	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S61	0.657195322316
+Bacteria	Spirochaetes	Spirochaetia	S61	0
+Bacteria	TM7	TM7 (class)	S61	0.0789278695918
+Bacteria	Tenericutes	Mollicutes	S61	0
+Bacteria	Verrucomicrobia	Opitutae	S61	0.00161077284881
+Bacteria	Verrucomicrobia	Spartobacteria	S61	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S61	0
+No Hit	No Hit	No Hit	S61	1.34821687446
+Bacteria	Acidobacteria	Acidobacteria (class)	S62	0
+Bacteria	Acidobacteria	Acidobacteriia	S62	0.010846155038
+Bacteria	Acidobacteria	Holophagae	S62	0
+Bacteria	Acidobacteria	Solibacteres	S62	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S62	21.5683540185
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S62	0
+Bacteria	Bacteroidetes	Bacteroidia	S62	0.0077472535986
+Bacteria	Bacteroidetes	Cytophagia	S62	0.206076945723
+Bacteria	Bacteroidetes	Flavobacteriia	S62	3.04312121353
+Bacteria	Bacteroidetes	Sphingobacteriia	S62	4.72582469515
+Bacteria	Chlamydiae	Chlamydiia	S62	0
+Bacteria	Chloroflexi	Anaerolineae	S62	0
+Bacteria	Chloroflexi	Caldilineae	S62	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S62	0
+Bacteria	Chloroflexi	Ktedonobacteria	S62	0
+Bacteria	Chloroflexi	Thermomicrobia	S62	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S62	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S62	0.00154945071972
+Bacteria	Cyanobacteria	Gloeobacteria	S62	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S62	0
+Bacteria	Deinococcus-Thermus	Deinococci	S62	0
+Bacteria	Fibrobacteres	Fibrobacteria	S62	0
+Bacteria	Firmicutes	Bacilli	S62	0.573296766296
+Bacteria	Firmicutes	Clostridia	S62	0.00464835215916
+Bacteria	Firmicutes	Erysipelotrichia	S62	0
+Bacteria	Firmicutes	Negativicutes	S62	0
+Bacteria	Fusobacteria	Fusobacteriia	S62	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S62	0.119307705418
+Bacteria	Ignavibacteriae	Ignavibacteria	S62	0
+Bacteria	Lentisphaerae	Lentisphaeria	S62	0
+Bacteria	Nitrospirae	Nitrospira (class)	S62	0
+Bacteria	Planctomycetes	Phycisphaerae	S62	0
+Bacteria	Planctomycetes	Planctomycetia	S62	0
+Bacteria	Proteobacteria	Alphaproteobacteria	S62	5.43082477262
+Bacteria	Proteobacteria	Betaproteobacteria	S62	60.7260726073
+Bacteria	Proteobacteria	Deltaproteobacteria	S62	0.0294395636747
+Bacteria	Proteobacteria	Epsilonproteobacteria	S62	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S62	0.323835200421
+Bacteria	Spirochaetes	Spirochaetia	S62	0
+Bacteria	TM7	TM7 (class)	S62	0.520615441826
+Bacteria	Tenericutes	Mollicutes	S62	0
+Bacteria	Verrucomicrobia	Opitutae	S62	0
+Bacteria	Verrucomicrobia	Spartobacteria	S62	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S62	0.0123956057578
+No Hit	No Hit	No Hit	S62	2.69604425231
+Bacteria	Acidobacteria	Acidobacteria (class)	S7	0
+Bacteria	Acidobacteria	Acidobacteriia	S7	0.0167553302894
+Bacteria	Acidobacteria	Holophagae	S7	0.00418883257236
+Bacteria	Acidobacteria	Solibacteres	S7	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S7	35.8333682403
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S7	0
+Bacteria	Bacteroidetes	Bacteroidia	S7	0
+Bacteria	Bacteroidetes	Cytophagia	S7	0.102626398023
+Bacteria	Bacteroidetes	Flavobacteriia	S7	0
+Bacteria	Bacteroidetes	Sphingobacteriia	S7	3.43484270934
+Bacteria	Chlamydiae	Chlamydiia	S7	0
+Bacteria	Chloroflexi	Anaerolineae	S7	0
+Bacteria	Chloroflexi	Caldilineae	S7	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S7	0
+Bacteria	Chloroflexi	Ktedonobacteria	S7	0
+Bacteria	Chloroflexi	Thermomicrobia	S7	0
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S7	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S7	0
+Bacteria	Cyanobacteria	Gloeobacteria	S7	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S7	0
+Bacteria	Deinococcus-Thermus	Deinococci	S7	0
+Bacteria	Fibrobacteres	Fibrobacteria	S7	0
+Bacteria	Firmicutes	Bacilli	S7	40.4976333096
+Bacteria	Firmicutes	Clostridia	S7	0
+Bacteria	Firmicutes	Erysipelotrichia	S7	0
+Bacteria	Firmicutes	Negativicutes	S7	0
+Bacteria	Fusobacteria	Fusobacteriia	S7	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S7	0
+Bacteria	Ignavibacteriae	Ignavibacteria	S7	0
+Bacteria	Lentisphaerae	Lentisphaeria	S7	0
+Bacteria	Nitrospirae	Nitrospira (class)	S7	0
+Bacteria	Planctomycetes	Phycisphaerae	S7	0
+Bacteria	Planctomycetes	Planctomycetia	S7	0
+Bacteria	Proteobacteria	Alphaproteobacteria	S7	10.5265362543
+Bacteria	Proteobacteria	Betaproteobacteria	S7	8.36719306329
+Bacteria	Proteobacteria	Deltaproteobacteria	S7	0
+Bacteria	Proteobacteria	Epsilonproteobacteria	S7	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S7	1.09956855025
+Bacteria	Spirochaetes	Spirochaetia	S7	0
+Bacteria	TM7	TM7 (class)	S7	0
+Bacteria	Tenericutes	Mollicutes	S7	0
+Bacteria	Verrucomicrobia	Opitutae	S7	0
+Bacteria	Verrucomicrobia	Spartobacteria	S7	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S7	0.0376994931513
+No Hit	No Hit	No Hit	S7	0.0795878188749
+Bacteria	Acidobacteria	Acidobacteria (class)	S8	0.0145787774654
+Bacteria	Acidobacteria	Acidobacteriia	S8	9.41164219515
+Bacteria	Acidobacteria	Holophagae	S8	0.0624804748516
+Bacteria	Acidobacteria	Solibacteres	S8	0.0520670623763
+Bacteria	Actinobacteria	Actinobacteria (class)	S8	11.6505258773
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S8	0
+Bacteria	Bacteroidetes	Bacteroidia	S8	0.0124960949703
+Bacteria	Bacteroidetes	Cytophagia	S8	0.0520670623763
+Bacteria	Bacteroidetes	Flavobacteriia	S8	0.358221389149
+Bacteria	Bacteroidetes	Sphingobacteriia	S8	2.85952306571
+Bacteria	Chlamydiae	Chlamydiia	S8	0
+Bacteria	Chloroflexi	Anaerolineae	S8	0
+Bacteria	Chloroflexi	Caldilineae	S8	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S8	0.422784546496
+Bacteria	Chloroflexi	Ktedonobacteria	S8	0
+Bacteria	Chloroflexi	Thermomicrobia	S8	0.19785483703
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S8	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S8	0.00624804748516
+Bacteria	Cyanobacteria	Gloeobacteria	S8	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S8	1.49953139644
+Bacteria	Deinococcus-Thermus	Deinococci	S8	4.4611059044
+Bacteria	Fibrobacteres	Fibrobacteria	S8	0
+Bacteria	Firmicutes	Bacilli	S8	0.418619181506
+Bacteria	Firmicutes	Clostridia	S8	0.122878267208
+Bacteria	Firmicutes	Erysipelotrichia	S8	0
+Bacteria	Firmicutes	Negativicutes	S8	0
+Bacteria	Fusobacteria	Fusobacteriia	S8	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S8	0.574820368635
+Bacteria	Ignavibacteriae	Ignavibacteria	S8	0
+Bacteria	Lentisphaerae	Lentisphaeria	S8	0
+Bacteria	Nitrospirae	Nitrospira (class)	S8	0.131208997188
+Bacteria	Planctomycetes	Phycisphaerae	S8	0.00416536499011
+Bacteria	Planctomycetes	Planctomycetia	S8	0.241591169426
+Bacteria	Proteobacteria	Alphaproteobacteria	S8	24.7818390086
+Bacteria	Proteobacteria	Betaproteobacteria	S8	32.4856815578
+Bacteria	Proteobacteria	Deltaproteobacteria	S8	1.02676247006
+Bacteria	Proteobacteria	Epsilonproteobacteria	S8	0.00416536499011
+Bacteria	Proteobacteria	Gammaproteobacteria	S8	0.479016973862
+Bacteria	Spirochaetes	Spirochaetia	S8	0
+Bacteria	TM7	TM7 (class)	S8	0
+Bacteria	Tenericutes	Mollicutes	S8	0
+Bacteria	Verrucomicrobia	Opitutae	S8	0.0458190148912
+Bacteria	Verrucomicrobia	Spartobacteria	S8	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S8	0.129126314693
+No Hit	No Hit	No Hit	S8	8.49317921483
+Bacteria	Acidobacteria	Acidobacteria (class)	S9	0
+Bacteria	Acidobacteria	Acidobacteriia	S9	4.70350001151
+Bacteria	Acidobacteria	Holophagae	S9	0.0897438847596
+Bacteria	Acidobacteria	Solibacteres	S9	0
+Bacteria	Actinobacteria	Actinobacteria (class)	S9	13.0611869204
+Bacteria	Bacteroidetes	Bacteroidetes (class)	S9	0
+Bacteria	Bacteroidetes	Bacteroidia	S9	0.271532779529
+Bacteria	Bacteroidetes	Cytophagia	S9	2.22288699174
+Bacteria	Bacteroidetes	Flavobacteriia	S9	0.37048116529
+Bacteria	Bacteroidetes	Sphingobacteriia	S9	1.8961272062
+Bacteria	Chlamydiae	Chlamydiia	S9	0
+Bacteria	Chloroflexi	Anaerolineae	S9	0
+Bacteria	Chloroflexi	Caldilineae	S9	0
+Bacteria	Chloroflexi	Chloroflexi (class)	S9	0.18639114527
+Bacteria	Chloroflexi	Ktedonobacteria	S9	0
+Bacteria	Chloroflexi	Thermomicrobia	S9	0.018409002002
+Bacteria	Chrysiogenetes	Chrysiogenetes (class)	S9	0
+Bacteria	Cyanobacteria	Cyanobacteria (class)	S9	0.00230112525025
+Bacteria	Cyanobacteria	Gloeobacteria	S9	0
+Bacteria	Deferribacteres	Deferribacteres (class)	S9	0.303748533033
+Bacteria	Deinococcus-Thermus	Deinococci	S9	3.46319350162
+Bacteria	Fibrobacteres	Fibrobacteria	S9	0
+Bacteria	Firmicutes	Bacilli	S9	1.46351565916
+Bacteria	Firmicutes	Clostridia	S9	0.340566537037
+Bacteria	Firmicutes	Erysipelotrichia	S9	0.0115056262512
+Bacteria	Firmicutes	Negativicutes	S9	0
+Bacteria	Fusobacteria	Fusobacteriia	S9	0
+Bacteria	Gemmatimonadetes	Gemmatimonadetes (class)	S9	1.59237867317
+Bacteria	Ignavibacteriae	Ignavibacteria	S9	0
+Bacteria	Lentisphaerae	Lentisphaeria	S9	0
+Bacteria	Nitrospirae	Nitrospira (class)	S9	0.18869227052
+Bacteria	Planctomycetes	Phycisphaerae	S9	0.00230112525025
+Bacteria	Planctomycetes	Planctomycetia	S9	0.538463308558
+Bacteria	Proteobacteria	Alphaproteobacteria	S9	43.2473479531
+Bacteria	Proteobacteria	Betaproteobacteria	S9	14.3613226868
+Bacteria	Proteobacteria	Deltaproteobacteria	S9	0.998688358607
+Bacteria	Proteobacteria	Epsilonproteobacteria	S9	0
+Bacteria	Proteobacteria	Gammaproteobacteria	S9	4.19265020595
+Bacteria	Spirochaetes	Spirochaetia	S9	0
+Bacteria	TM7	TM7 (class)	S9	0.0138067515015
+Bacteria	Tenericutes	Mollicutes	S9	0
+Bacteria	Verrucomicrobia	Opitutae	S9	0.0529258807557
+Bacteria	Verrucomicrobia	Spartobacteria	S9	0
+Bacteria	Verrucomicrobia	Verrucomicrobiae	S9	0.0322157535035
+No Hit	No Hit	No Hit	S9	6.37411694319
