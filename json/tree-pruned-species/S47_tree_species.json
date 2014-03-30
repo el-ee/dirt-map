@@ -1,0 +1,4281 @@
+{
+  "children":[
+    {
+      "children":[
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"No Hit",
+                                  "percent":"2.01554636504"
+                                }
+                              ],
+                              "name":"No Hit"
+                            }
+                          ],
+                          "name":"No Hit"
+                        }
+                      ],
+                      "name":"No Hit"
+                    }
+                  ],
+                  "name":"No Hit"
+                }
+              ],
+              "name":"No Hit"
+            }
+          ],
+          "name":"No Hit"
+        }
+      ],
+      "name":"No Hit"
+    },
+    {
+      "children":[
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Opitutus terrae",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Opitutus terrae"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Opitutus sp",
+                                  "percent":"0.0548109023868"
+                                }
+                              ],
+                              "name":"Opitutus sp"
+                            }
+                          ],
+                          "name":"Opitutus"
+                        }
+                      ],
+                      "name":"Opitutaceae"
+                    }
+                  ],
+                  "name":"Opitutales"
+                }
+              ],
+              "name":"Opitutae"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Verrucomicrobium sp",
+                                  "percent":"0.0797249489262"
+                                }
+                              ],
+                              "name":"Verrucomicrobium sp"
+                            }
+                          ],
+                          "name":"Verrucomicrobium"
+                        }
+                      ],
+                      "name":"Verrucomicrobiaceae"
+                    }
+                  ],
+                  "name":"Verrucomicrobiales"
+                }
+              ],
+              "name":"Verrucomicrobiae"
+            }
+          ],
+          "name":"Verrucomicrobia"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Victivallis sp",
+                                  "percent":"0.0274054511934"
+                                }
+                              ],
+                              "name":"Victivallis sp"
+                            }
+                          ],
+                          "name":"Victivallis"
+                        }
+                      ],
+                      "name":"Victivallaceae"
+                    }
+                  ],
+                  "name":"Lentisphaerales"
+                }
+              ],
+              "name":"Lentisphaeria"
+            }
+          ],
+          "name":"Lentisphaerae"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Derxia sp",
+                                  "percent":"0.274054511934"
+                                }
+                              ],
+                              "name":"Derxia sp"
+                            }
+                          ],
+                          "name":"Derxia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Alcaligenes sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Alcaligenes sp"
+                            }
+                          ],
+                          "name":"Alcaligenes"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Achromobacter sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Achromobacter sp"
+                            }
+                          ],
+                          "name":"Achromobacter"
+                        }
+                      ],
+                      "name":"Alcaligenaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Herminiimonas glaciei",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Herminiimonas glaciei"
+                            }
+                          ],
+                          "name":"Herminiimonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Janthinobacterium agaricidamnosum",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Janthinobacterium agaricidamnosum"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Janthinobacterium sp",
+                                  "percent":"0.044845283771"
+                                }
+                              ],
+                              "name":"Janthinobacterium sp"
+                            }
+                          ],
+                          "name":"Janthinobacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Herbaspirillum sp",
+                                  "percent":"0.0224226418855"
+                                }
+                              ],
+                              "name":"Herbaspirillum sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Herbaspirillum frisingense",
+                                  "percent":"0.0573023070407"
+                                }
+                              ],
+                              "name":"Herbaspirillum frisingense"
+                            }
+                          ],
+                          "name":"Herbaspirillum"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Massilia sp",
+                                  "percent":"0.495789526135"
+                                }
+                              ],
+                              "name":"Massilia sp"
+                            }
+                          ],
+                          "name":"Massilia"
+                        }
+                      ],
+                      "name":"Oxalobacteraceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Burkholderia andropogonis",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Burkholderia andropogonis"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Burkholderia sp",
+                                  "percent":"0.204295181623"
+                                }
+                              ],
+                              "name":"Burkholderia sp"
+                            }
+                          ],
+                          "name":"Burkholderia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Ralstonia sp",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Ralstonia sp"
+                            }
+                          ],
+                          "name":"Ralstonia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Lautropia sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Lautropia sp"
+                            }
+                          ],
+                          "name":"Lautropia"
+                        }
+                      ],
+                      "name":"Burkholderiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Polaromonas sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Polaromonas sp"
+                            }
+                          ],
+                          "name":"Polaromonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Curvibacter delicatus",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Curvibacter delicatus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Curvibacter sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Curvibacter sp"
+                            }
+                          ],
+                          "name":"Curvibacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Comamonas sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Comamonas sp"
+                            }
+                          ],
+                          "name":"Comamonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Variovorax paradoxus",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Variovorax paradoxus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Variovorax sp",
+                                  "percent":"0.201803776969"
+                                }
+                              ],
+                              "name":"Variovorax sp"
+                            }
+                          ],
+                          "name":"Variovorax"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Ramlibacter sp",
+                                  "percent":"0.274054511934"
+                                }
+                              ],
+                              "name":"Ramlibacter sp"
+                            }
+                          ],
+                          "name":"Ramlibacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Schlegelella thermodepolymerans",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Schlegelella thermodepolymerans"
+                            }
+                          ],
+                          "name":"Schlegelella"
+                        }
+                      ],
+                      "name":"Comamonadaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Leptothrix sp",
+                                  "percent":"0.044845283771"
+                                }
+                              ],
+                              "name":"Leptothrix sp"
+                            }
+                          ],
+                          "name":"Leptothrix"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Aquabacterium sp",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Aquabacterium sp"
+                            }
+                          ],
+                          "name":"Aquabacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Ideonella sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Ideonella sp"
+                            }
+                          ],
+                          "name":"Ideonella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylibium petroleiphilum",
+                                  "percent":"0.144501469929"
+                                }
+                              ],
+                              "name":"Methylibium petroleiphilum"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylibium fulvum",
+                                  "percent":"0.0373710698092"
+                                }
+                              ],
+                              "name":"Methylibium fulvum"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylibium sp",
+                                  "percent":"0.112113209427"
+                                }
+                              ],
+                              "name":"Methylibium sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylibium subsaxonicum",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Methylibium subsaxonicum"
+                            }
+                          ],
+                          "name":"Methylibium"
+                        }
+                      ],
+                      "name":"Burkholderiales (family)"
+                    }
+                  ],
+                  "name":"Burkholderiales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylophilus sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Methylophilus sp"
+                            }
+                          ],
+                          "name":"Methylophilus"
+                        }
+                      ],
+                      "name":"Methylophilaceae"
+                    }
+                  ],
+                  "name":"Methylophilales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Nitrosovibrio sp",
+                                  "percent":"0.665205042603"
+                                }
+                              ],
+                              "name":"Nitrosovibrio sp"
+                            }
+                          ],
+                          "name":"Nitrosovibrio"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Nitrosospira sp",
+                                  "percent":"0.0373710698092"
+                                }
+                              ],
+                              "name":"Nitrosospira sp"
+                            }
+                          ],
+                          "name":"Nitrosospira"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Nitrosomonas sp",
+                                  "percent":"0.0298968558473"
+                                }
+                              ],
+                              "name":"Nitrosomonas sp"
+                            }
+                          ],
+                          "name":"Nitrosomonas"
+                        }
+                      ],
+                      "name":"Nitrosomonadaceae"
+                    }
+                  ],
+                  "name":"Nitrosomonadales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Azonexus sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Azonexus sp"
+                            }
+                          ],
+                          "name":"Azonexus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sterolibacterium sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Sterolibacterium sp"
+                            }
+                          ],
+                          "name":"Sterolibacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Ferribacterium sp",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Ferribacterium sp"
+                            }
+                          ],
+                          "name":"Ferribacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Denitratisoma sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Denitratisoma sp"
+                            }
+                          ],
+                          "name":"Denitratisoma"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Azospira sp",
+                                  "percent":"0.0323882605013"
+                                }
+                              ],
+                              "name":"Azospira sp"
+                            }
+                          ],
+                          "name":"Azospira"
+                        }
+                      ],
+                      "name":"Rhodocyclaceae"
+                    }
+                  ],
+                  "name":"Rhodocyclales"
+                }
+              ],
+              "name":"Betaproteobacteria"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Microvirga sp",
+                                  "percent":"0.0672679256565"
+                                }
+                              ],
+                              "name":"Microvirga sp"
+                            }
+                          ],
+                          "name":"Microvirga"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylobacterium sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Methylobacterium sp"
+                            }
+                          ],
+                          "name":"Methylobacterium"
+                        }
+                      ],
+                      "name":"Methylobacteriaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Ochrobactrum tritici",
+                                  "percent":"0.0772335442723"
+                                }
+                              ],
+                              "name":"Ochrobactrum tritici"
+                            }
+                          ],
+                          "name":"Ochrobactrum"
+                        }
+                      ],
+                      "name":"Brucellaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Agrobacterium tumefaciens",
+                                  "percent":"0.0298968558473"
+                                }
+                              ],
+                              "name":"Agrobacterium tumefaciens"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Agrobacterium sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Agrobacterium sp"
+                            }
+                          ],
+                          "name":"Agrobacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kaistia sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Kaistia sp"
+                            }
+                          ],
+                          "name":"Kaistia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sinorhizobium fredii",
+                                  "percent":"0.0274054511934"
+                                }
+                              ],
+                              "name":"Sinorhizobium fredii"
+                            }
+                          ],
+                          "name":"Sinorhizobium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhizobium sp",
+                                  "percent":"0.819672131148"
+                                }
+                              ],
+                              "name":"Rhizobium sp"
+                            }
+                          ],
+                          "name":"Rhizobium"
+                        }
+                      ],
+                      "name":"Rhizobiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylosinus sp",
+                                  "percent":"0.0249140465394"
+                                }
+                              ],
+                              "name":"Methylosinus sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylosinus trichosporium",
+                                  "percent":"0.089690567542"
+                                }
+                              ],
+                              "name":"Methylosinus trichosporium"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylosinus sporium",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Methylosinus sporium"
+                            }
+                          ],
+                          "name":"Methylosinus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylocystis heyeri",
+                                  "percent":"0.0772335442723"
+                                }
+                              ],
+                              "name":"Methylocystis heyeri"
+                            }
+                          ],
+                          "name":"Methylocystis"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Pleomorphomonas sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Pleomorphomonas sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Pleomorphomonas oryzae",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Pleomorphomonas oryzae"
+                            }
+                          ],
+                          "name":"Pleomorphomonas"
+                        }
+                      ],
+                      "name":"Methylocystaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Chelatococcus sp",
+                                  "percent":"0.159449897852"
+                                }
+                              ],
+                              "name":"Chelatococcus sp"
+                            }
+                          ],
+                          "name":"Chelatococcus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylocapsa sp",
+                                  "percent":"0.089690567542"
+                                }
+                              ],
+                              "name":"Methylocapsa sp"
+                            }
+                          ],
+                          "name":"Methylocapsa"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Beijerinckia derxii",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Beijerinckia derxii"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Beijerinckia indica",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Beijerinckia indica"
+                            }
+                          ],
+                          "name":"Beijerinckia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylocella tundrae",
+                                  "percent":"0.0373710698092"
+                                }
+                              ],
+                              "name":"Methylocella tundrae"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Methylocella sp",
+                                  "percent":"0.117096018735"
+                                }
+                              ],
+                              "name":"Methylocella sp"
+                            }
+                          ],
+                          "name":"Methylocella"
+                        }
+                      ],
+                      "name":"Beijerinckiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodopseudomonas sp",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Rhodopseudomonas sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodopseudomonas palustris",
+                                  "percent":"0.0921819721959"
+                                }
+                              ],
+                              "name":"Rhodopseudomonas palustris"
+                            }
+                          ],
+                          "name":"Rhodopseudomonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Afipia sp",
+                                  "percent":"0.401116149285"
+                                }
+                              ],
+                              "name":"Afipia sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Afipia broomeae",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Afipia broomeae"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Afipia felis",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Afipia felis"
+                            }
+                          ],
+                          "name":"Afipia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Nitrobacter sp",
+                                  "percent":"0.104638995466"
+                                }
+                              ],
+                              "name":"Nitrobacter sp"
+                            }
+                          ],
+                          "name":"Nitrobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Bosea sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Bosea sp"
+                            }
+                          ],
+                          "name":"Bosea"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodoblastus sphagnicola",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Rhodoblastus sphagnicola"
+                            }
+                          ],
+                          "name":"Rhodoblastus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Bradyrhizobium elkanii",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Bradyrhizobium elkanii"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Bradyrhizobium sp",
+                                  "percent":"2.18247047685"
+                                }
+                              ],
+                              "name":"Bradyrhizobium sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Bradyrhizobium japonicum",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Bradyrhizobium japonicum"
+                            }
+                          ],
+                          "name":"Bradyrhizobium"
+                        }
+                      ],
+                      "name":"Bradyrhizobiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodobium sp",
+                                  "percent":"0.0224226418855"
+                                }
+                              ],
+                              "name":"Rhodobium sp"
+                            }
+                          ],
+                          "name":"Rhodobium"
+                        }
+                      ],
+                      "name":"Rhodobiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Mesorhizobium sp",
+                                  "percent":"0.0174398325776"
+                                }
+                              ],
+                              "name":"Mesorhizobium sp"
+                            }
+                          ],
+                          "name":"Mesorhizobium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Parvibaculum sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Parvibaculum sp"
+                            }
+                          ],
+                          "name":"Parvibaculum"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Phyllobacterium sp",
+                                  "percent":"0.104638995466"
+                                }
+                              ],
+                              "name":"Phyllobacterium sp"
+                            }
+                          ],
+                          "name":"Phyllobacterium"
+                        }
+                      ],
+                      "name":"Phyllobacteriaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Blastochloris sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Blastochloris sp"
+                            }
+                          ],
+                          "name":"Blastochloris"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Hyphomicrobium sp",
+                                  "percent":"0.0822163535801"
+                                }
+                              ],
+                              "name":"Hyphomicrobium sp"
+                            }
+                          ],
+                          "name":"Hyphomicrobium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodoplanes sp",
+                                  "percent":"0.381184912053"
+                                }
+                              ],
+                              "name":"Rhodoplanes sp"
+                            }
+                          ],
+                          "name":"Rhodoplanes"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Devosia insulae",
+                                  "percent":"0.0174398325776"
+                                }
+                              ],
+                              "name":"Devosia insulae"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Devosia sp",
+                                  "percent":"0.149484279237"
+                                }
+                              ],
+                              "name":"Devosia sp"
+                            }
+                          ],
+                          "name":"Devosia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Prosthecomicrobium mishustinii",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Prosthecomicrobium mishustinii"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Prosthecomicrobium enhydrum",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Prosthecomicrobium enhydrum"
+                            }
+                          ],
+                          "name":"Prosthecomicrobium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodomicrobium sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Rhodomicrobium sp"
+                            }
+                          ],
+                          "name":"Rhodomicrobium"
+                        }
+                      ],
+                      "name":"Hyphomicrobiaceae"
+                    }
+                  ],
+                  "name":"Rhizobiales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Parvularcula sp",
+                                  "percent":"0.256614679356"
+                                }
+                              ],
+                              "name":"Parvularcula sp"
+                            }
+                          ],
+                          "name":"Parvularcula"
+                        }
+                      ],
+                      "name":"Parvularculaceae"
+                    }
+                  ],
+                  "name":"Parvularculales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kaistobacter sp",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Kaistobacter sp"
+                            }
+                          ],
+                          "name":"Kaistobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingomonas faeni",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Sphingomonas faeni"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingomonas sp",
+                                  "percent":"0.0597937116947"
+                                }
+                              ],
+                              "name":"Sphingomonas sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingomonas melonis",
+                                  "percent":"0.102147590812"
+                                }
+                              ],
+                              "name":"Sphingomonas melonis"
+                            }
+                          ],
+                          "name":"Sphingomonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sandarakinorhabdus sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Sandarakinorhabdus sp"
+                            }
+                          ],
+                          "name":"Sandarakinorhabdus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingobium sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Sphingobium sp"
+                            }
+                          ],
+                          "name":"Sphingobium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Novosphingobium lentum",
+                                  "percent":"0.0298968558473"
+                                }
+                              ],
+                              "name":"Novosphingobium lentum"
+                            }
+                          ],
+                          "name":"Novosphingobium"
+                        }
+                      ],
+                      "name":"Sphingomonadaceae"
+                    }
+                  ],
+                  "name":"Sphingomonadales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Odyssella thessalonicensis",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Odyssella thessalonicensis"
+                            }
+                          ],
+                          "name":"Odyssella"
+                        }
+                      ],
+                      "name":"Rickettsiales (family)"
+                    }
+                  ],
+                  "name":"Rickettsiales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Gluconacetobacter diazotrophicus",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Gluconacetobacter diazotrophicus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Gluconacetobacter maltiaceti",
+                                  "percent":"0.0548109023868"
+                                }
+                              ],
+                              "name":"Gluconacetobacter maltiaceti"
+                            }
+                          ],
+                          "name":"Gluconacetobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kozakia baliensis",
+                                  "percent":"0.0199312372316"
+                                }
+                              ],
+                              "name":"Kozakia baliensis"
+                            }
+                          ],
+                          "name":"Kozakia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Acidiphilium sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Acidiphilium sp"
+                            }
+                          ],
+                          "name":"Acidiphilium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Oleomonas sp",
+                                  "percent":"0.513229358712"
+                                }
+                              ],
+                              "name":"Oleomonas sp"
+                            }
+                          ],
+                          "name":"Oleomonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Acidisoma sibirica",
+                                  "percent":"0.0274054511934"
+                                }
+                              ],
+                              "name":"Acidisoma sibirica"
+                            }
+                          ],
+                          "name":"Acidisoma"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Acetobacter sp",
+                                  "percent":"0.144501469929"
+                                }
+                              ],
+                              "name":"Acetobacter sp"
+                            }
+                          ],
+                          "name":"Acetobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Acidisphaera rubrifaciens",
+                                  "percent":"0.134535851313"
+                                }
+                              ],
+                              "name":"Acidisphaera rubrifaciens"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Acidisphaera sp",
+                                  "percent":"0.421047386517"
+                                }
+                              ],
+                              "name":"Acidisphaera sp"
+                            }
+                          ],
+                          "name":"Acidisphaera"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Ameyamaea chiangmaiensis",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Ameyamaea chiangmaiensis"
+                            }
+                          ],
+                          "name":"Ameyamaea"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Roseomonas sp",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Roseomonas sp"
+                            }
+                          ],
+                          "name":"Roseomonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodopila globiformis",
+                                  "percent":"0.0398624744631"
+                                }
+                              ],
+                              "name":"Rhodopila globiformis"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodopila sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Rhodopila sp"
+                            }
+                          ],
+                          "name":"Rhodopila"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Acidocella sp",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Acidocella sp"
+                            }
+                          ],
+                          "name":"Acidocella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodovastum atsumiense",
+                                  "percent":"0.166924111814"
+                                }
+                              ],
+                              "name":"Rhodovastum atsumiense"
+                            }
+                          ],
+                          "name":"Rhodovastum"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Gluconobacter oxydans",
+                                  "percent":"0.660222233295"
+                                }
+                              ],
+                              "name":"Gluconobacter oxydans"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Gluconobacter sp",
+                                  "percent":"0.226717823509"
+                                }
+                              ],
+                              "name":"Gluconobacter sp"
+                            }
+                          ],
+                          "name":"Gluconobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Asaia lannaensis",
+                                  "percent":"0.0373710698092"
+                                }
+                              ],
+                              "name":"Asaia lannaensis"
+                            }
+                          ],
+                          "name":"Asaia"
+                        }
+                      ],
+                      "name":"Acetobacteraceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Magnetospirillum sp",
+                                  "percent":"0.0174398325776"
+                                }
+                              ],
+                              "name":"Magnetospirillum sp"
+                            }
+                          ],
+                          "name":"Magnetospirillum"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Telmatospirillum siberiense",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Telmatospirillum siberiense"
+                            }
+                          ],
+                          "name":"Telmatospirillum"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Azospirillum halopraeferens",
+                                  "percent":"0.0174398325776"
+                                }
+                              ],
+                              "name":"Azospirillum halopraeferens"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Azospirillum sp",
+                                  "percent":"0.154467088545"
+                                }
+                              ],
+                              "name":"Azospirillum sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Azospirillum amazonense",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Azospirillum amazonense"
+                            }
+                          ],
+                          "name":"Azospirillum"
+                        }
+                      ],
+                      "name":"Rhodospirillaceae"
+                    }
+                  ],
+                  "name":"Rhodospirillales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodobacter sp",
+                                  "percent":"0.0199312372316"
+                                }
+                              ],
+                              "name":"Rhodobacter sp"
+                            }
+                          ],
+                          "name":"Rhodobacter"
+                        }
+                      ],
+                      "name":"Rhodobacteraceae"
+                    }
+                  ],
+                  "name":"Rhodobacterales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Micavibrio aeruginosavorus",
+                                  "percent":"0.0348796651552"
+                                }
+                              ],
+                              "name":"Micavibrio aeruginosavorus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Micavibrio sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Micavibrio sp"
+                            }
+                          ],
+                          "name":"Micavibrio"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Reyranella massiliensis",
+                                  "percent":"0.331356818975"
+                                }
+                              ],
+                              "name":"Reyranella massiliensis"
+                            }
+                          ],
+                          "name":"Reyranella"
+                        }
+                      ],
+                      "name":"Alphaproteobacteria (family)"
+                    }
+                  ],
+                  "name":"Alphaproteobacteria (order)"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Phenylobacterium sp",
+                                  "percent":"0.159449897852"
+                                }
+                              ],
+                              "name":"Phenylobacterium sp"
+                            }
+                          ],
+                          "name":"Phenylobacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Asticcacaulis sp",
+                                  "percent":"0.0174398325776"
+                                }
+                              ],
+                              "name":"Asticcacaulis sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Asticcacaulis benevestitus",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Asticcacaulis benevestitus"
+                            }
+                          ],
+                          "name":"Asticcacaulis"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Brevundimonas diminuta",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Brevundimonas diminuta"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Brevundimonas vesicularis",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Brevundimonas vesicularis"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Brevundimonas sp",
+                                  "percent":"0.0323882605013"
+                                }
+                              ],
+                              "name":"Brevundimonas sp"
+                            }
+                          ],
+                          "name":"Brevundimonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Caulobacter fusiformis",
+                                  "percent":"0.0523194977328"
+                                }
+                              ],
+                              "name":"Caulobacter fusiformis"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Caulobacter ginsengisoli",
+                                  "percent":"0.139518660621"
+                                }
+                              ],
+                              "name":"Caulobacter ginsengisoli"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Caulobacter henricii",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Caulobacter henricii"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Caulobacter crescentus",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Caulobacter crescentus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Caulobacter sp",
+                                  "percent":"0.787283870646"
+                                }
+                              ],
+                              "name":"Caulobacter sp"
+                            }
+                          ],
+                          "name":"Caulobacter"
+                        }
+                      ],
+                      "name":"Caulobacteraceae"
+                    }
+                  ],
+                  "name":"Caulobacterales"
+                }
+              ],
+              "name":"Alphaproteobacteria"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Moritella sp",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Moritella sp"
+                            }
+                          ],
+                          "name":"Moritella"
+                        }
+                      ],
+                      "name":"Moritellaceae"
+                    }
+                  ],
+                  "name":"Alteromonadales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Cardiobacterium sp",
+                                  "percent":"0.0323882605013"
+                                }
+                              ],
+                              "name":"Cardiobacterium sp"
+                            }
+                          ],
+                          "name":"Cardiobacterium"
+                        }
+                      ],
+                      "name":"Cardiobacteriaceae"
+                    }
+                  ],
+                  "name":"Cardiobacteriales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Legionella sp",
+                                  "percent":"0.0348796651552"
+                                }
+                              ],
+                              "name":"Legionella sp"
+                            }
+                          ],
+                          "name":"Legionella"
+                        }
+                      ],
+                      "name":"Legionellaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rickettsiella sp",
+                                  "percent":"0.0174398325776"
+                                }
+                              ],
+                              "name":"Rickettsiella sp"
+                            }
+                          ],
+                          "name":"Rickettsiella"
+                        }
+                      ],
+                      "name":"Coxiellaceae"
+                    }
+                  ],
+                  "name":"Legionellales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Escherichia sp",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Escherichia sp"
+                            }
+                          ],
+                          "name":"Escherichia"
+                        }
+                      ],
+                      "name":"Enterobacteriaceae"
+                    }
+                  ],
+                  "name":"Enterobacteriales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Xanthomonas sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Xanthomonas sp"
+                            }
+                          ],
+                          "name":"Xanthomonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kaistibacter ginsenosidimutans",
+                                  "percent":"0.406098958593"
+                                }
+                              ],
+                              "name":"Kaistibacter ginsenosidimutans"
+                            }
+                          ],
+                          "name":"Kaistibacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Thermomonas sp",
+                                  "percent":"0.127061637351"
+                                }
+                              ],
+                              "name":"Thermomonas sp"
+                            }
+                          ],
+                          "name":"Thermomonas"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Lysobacter sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Lysobacter sp"
+                            }
+                          ],
+                          "name":"Lysobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Dokdonella sp",
+                                  "percent":"0.174398325776"
+                                }
+                              ],
+                              "name":"Dokdonella sp"
+                            }
+                          ],
+                          "name":"Dokdonella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Dyella yeojuensis",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Dyella yeojuensis"
+                            }
+                          ],
+                          "name":"Dyella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Rhodanobacter sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Rhodanobacter sp"
+                            }
+                          ],
+                          "name":"Rhodanobacter"
+                        }
+                      ],
+                      "name":"Xanthomonadaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Steroidobacter sp",
+                                  "percent":"0.0348796651552"
+                                }
+                              ],
+                              "name":"Steroidobacter sp"
+                            }
+                          ],
+                          "name":"Steroidobacter"
+                        }
+                      ],
+                      "name":"Sinobacteraceae"
+                    }
+                  ],
+                  "name":"Xanthomonadales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Pseudomonas sp",
+                                  "percent":"0.747421396183"
+                                }
+                              ],
+                              "name":"Pseudomonas sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Pseudomonas fluorescens",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Pseudomonas fluorescens"
+                            }
+                          ],
+                          "name":"Pseudomonas"
+                        }
+                      ],
+                      "name":"Pseudomonadaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Acinetobacter calcoaceticus",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Acinetobacter calcoaceticus"
+                            }
+                          ],
+                          "name":"Acinetobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Alkanindiges sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Alkanindiges sp"
+                            }
+                          ],
+                          "name":"Alkanindiges"
+                        }
+                      ],
+                      "name":"Moraxellaceae"
+                    }
+                  ],
+                  "name":"Pseudomonadales"
+                }
+              ],
+              "name":"Gammaproteobacteria"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Hippea sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Hippea sp"
+                            }
+                          ],
+                          "name":"Hippea"
+                        }
+                      ],
+                      "name":"Desulfurellaceae"
+                    }
+                  ],
+                  "name":"Desulfurellales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Vampirovibrio chlorellavorus",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Vampirovibrio chlorellavorus"
+                            }
+                          ],
+                          "name":"Vampirovibrio"
+                        }
+                      ],
+                      "name":"Bdellovibrionaceae"
+                    }
+                  ],
+                  "name":"Bdellovibrionales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Geobacter sp",
+                                  "percent":"0.0647765210025"
+                                }
+                              ],
+                              "name":"Geobacter sp"
+                            }
+                          ],
+                          "name":"Geobacter"
+                        }
+                      ],
+                      "name":"Geobacteraceae"
+                    }
+                  ],
+                  "name":"Desulfuromonadales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kofleria sp",
+                                  "percent":"0.112113209427"
+                                }
+                              ],
+                              "name":"Kofleria sp"
+                            }
+                          ],
+                          "name":"Kofleria"
+                        }
+                      ],
+                      "name":"Kofleriaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Anaeromyxobacter sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Anaeromyxobacter sp"
+                            }
+                          ],
+                          "name":"Anaeromyxobacter"
+                        }
+                      ],
+                      "name":"Myxococcaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Chondromyces sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Chondromyces sp"
+                            }
+                          ],
+                          "name":"Chondromyces"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Polyangium sp",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Polyangium sp"
+                            }
+                          ],
+                          "name":"Polyangium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Byssovorax sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Byssovorax sp"
+                            }
+                          ],
+                          "name":"Byssovorax"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sorangium sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Sorangium sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Sorangium cellulosum",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Sorangium cellulosum"
+                            }
+                          ],
+                          "name":"Sorangium"
+                        }
+                      ],
+                      "name":"Polyangiaceae"
+                    }
+                  ],
+                  "name":"Myxococcales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Desulfofustis sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Desulfofustis sp"
+                            }
+                          ],
+                          "name":"Desulfofustis"
+                        }
+                      ],
+                      "name":"Desulfobulbaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Desulforegula sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Desulforegula sp"
+                            }
+                          ],
+                          "name":"Desulforegula"
+                        }
+                      ],
+                      "name":"Desulfobacteraceae"
+                    }
+                  ],
+                  "name":"Desulfobacterales"
+                }
+              ],
+              "name":"Deltaproteobacteria"
+            }
+          ],
+          "name":"Proteobacteria"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Thermacetogenium sp",
+                                  "percent":"0.0298968558473"
+                                }
+                              ],
+                              "name":"Thermacetogenium sp"
+                            }
+                          ],
+                          "name":"Thermacetogenium"
+                        }
+                      ],
+                      "name":"Thermoanaerobacteraceae"
+                    }
+                  ],
+                  "name":"Thermoanaerobacterales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Eubacterium sp",
+                                  "percent":"0.0921819721959"
+                                }
+                              ],
+                              "name":"Eubacterium sp"
+                            }
+                          ],
+                          "name":"Eubacterium"
+                        }
+                      ],
+                      "name":"Eubacteriaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Candidatus Arthromitus sp",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Candidatus Arthromitus sp"
+                            }
+                          ],
+                          "name":"Candidatus Arthromitus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Clostridium sp",
+                                  "percent":"0.0398624744631"
+                                }
+                              ],
+                              "name":"Clostridium sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Clostridium estertheticum",
+                                  "percent":"0.151975683891"
+                                }
+                              ],
+                              "name":"Clostridium estertheticum"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Clostridium bowmanii",
+                                  "percent":"0.0249140465394"
+                                }
+                              ],
+                              "name":"Clostridium bowmanii"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Clostridium akagii",
+                                  "percent":"0.146992874583"
+                                }
+                              ],
+                              "name":"Clostridium akagii"
+                            }
+                          ],
+                          "name":"Clostridium"
+                        }
+                      ],
+                      "name":"Clostridiaceae"
+                    }
+                  ],
+                  "name":"Clostridiales"
+                }
+              ],
+              "name":"Clostridia"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Bacillus niacini",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Bacillus niacini"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Bacillus sp",
+                                  "percent":"36.5464148687"
+                                }
+                              ],
+                              "name":"Bacillus sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Bacillus subtilis",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Bacillus subtilis"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Bacillus senegalensis",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Bacillus senegalensis"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Bacillus novalis",
+                                  "percent":"23.830285515"
+                                }
+                              ],
+                              "name":"Bacillus novalis"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Bacillus pocheonensis",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Bacillus pocheonensis"
+                            }
+                          ],
+                          "name":"Bacillus"
+                        }
+                      ],
+                      "name":"Bacillaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Paenibacillus sp",
+                                  "percent":"0.0249140465394"
+                                }
+                              ],
+                              "name":"Paenibacillus sp"
+                            }
+                          ],
+                          "name":"Paenibacillus"
+                        }
+                      ],
+                      "name":"Paenibacillaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Pullulanibacillus mentitum",
+                                  "percent":"2.76047635657"
+                                }
+                              ],
+                              "name":"Pullulanibacillus mentitum"
+                            }
+                          ],
+                          "name":"Pullulanibacillus"
+                        }
+                      ],
+                      "name":"Bacillales (family)"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sporosarcina psychrophila",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Sporosarcina psychrophila"
+                            }
+                          ],
+                          "name":"Sporosarcina"
+                        }
+                      ],
+                      "name":"Planococcaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Alicyclobacillus sp",
+                                  "percent":"0.697593303104"
+                                }
+                              ],
+                              "name":"Alicyclobacillus sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Alicyclobacillus acidiphilus",
+                                  "percent":"6.39294434202"
+                                }
+                              ],
+                              "name":"Alicyclobacillus acidiphilus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Alicyclobacillus pomorum",
+                                  "percent":"0.169415516468"
+                                }
+                              ],
+                              "name":"Alicyclobacillus pomorum"
+                            }
+                          ],
+                          "name":"Alicyclobacillus"
+                        }
+                      ],
+                      "name":"Alicyclobacillaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Staphylococcus sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Staphylococcus sp"
+                            }
+                          ],
+                          "name":"Staphylococcus"
+                        }
+                      ],
+                      "name":"Staphylococcaceae"
+                    }
+                  ],
+                  "name":"Bacillales"
+                }
+              ],
+              "name":"Bacilli"
+            }
+          ],
+          "name":"Firmicutes"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Nitrospira sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Nitrospira sp"
+                            }
+                          ],
+                          "name":"Nitrospira"
+                        }
+                      ],
+                      "name":"Nitrospiraceae"
+                    }
+                  ],
+                  "name":"Nitrospirales"
+                }
+              ],
+              "name":"Nitrospira (class)"
+            }
+          ],
+          "name":"Nitrospirae"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Mucilaginibacter sp",
+                                  "percent":"0.0523194977328"
+                                }
+                              ],
+                              "name":"Mucilaginibacter sp"
+                            }
+                          ],
+                          "name":"Mucilaginibacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Pedobacter sp",
+                                  "percent":"0.0224226418855"
+                                }
+                              ],
+                              "name":"Pedobacter sp"
+                            }
+                          ],
+                          "name":"Pedobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingoterrabacterium composti",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Sphingoterrabacterium composti"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingoterrabacterium sp",
+                                  "percent":"0.0249140465394"
+                                }
+                              ],
+                              "name":"Sphingoterrabacterium sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingoterrabacterium koreensis",
+                                  "percent":"0.044845283771"
+                                }
+                              ],
+                              "name":"Sphingoterrabacterium koreensis"
+                            }
+                          ],
+                          "name":"Sphingoterrabacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sphingobacterium sp",
+                                  "percent":"0.0747421396183"
+                                }
+                              ],
+                              "name":"Sphingobacterium sp"
+                            }
+                          ],
+                          "name":"Sphingobacterium"
+                        }
+                      ],
+                      "name":"Sphingobacteriaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sediminibacterium sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Sediminibacterium sp"
+                            }
+                          ],
+                          "name":"Sediminibacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Flavosolibacter sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Flavosolibacter sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Flavisolibacter sp",
+                                  "percent":"0.0647765210025"
+                                }
+                              ],
+                              "name":"Flavisolibacter sp"
+                            }
+                          ],
+                          "name":"Flavisolibacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Niastella sp",
+                                  "percent":"0.0647765210025"
+                                }
+                              ],
+                              "name":"Niastella sp"
+                            }
+                          ],
+                          "name":"Niastella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Chitinophaga soli",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Chitinophaga soli"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Chitinophaga sp",
+                                  "percent":"0.24664906074"
+                                }
+                              ],
+                              "name":"Chitinophaga sp"
+                            }
+                          ],
+                          "name":"Chitinophaga"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Segetibacter sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Segetibacter sp"
+                            }
+                          ],
+                          "name":"Segetibacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Terrimonas sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Terrimonas sp"
+                            }
+                          ],
+                          "name":"Terrimonas"
+                        }
+                      ],
+                      "name":"Chitinophagaceae"
+                    }
+                  ],
+                  "name":"Sphingobacteriales"
+                }
+              ],
+              "name":"Sphingobacteriia"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Roseivirga sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Roseivirga sp"
+                            }
+                          ],
+                          "name":"Roseivirga"
+                        }
+                      ],
+                      "name":"Flammeovirgaceae"
+                    }
+                  ],
+                  "name":"Cytophagales"
+                }
+              ],
+              "name":"Cytophagia"
+            }
+          ],
+          "name":"Bacteroidetes"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Roseiflexus sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Roseiflexus sp"
+                            }
+                          ],
+                          "name":"Roseiflexus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Chloroflexus sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Chloroflexus sp"
+                            }
+                          ],
+                          "name":"Chloroflexus"
+                        }
+                      ],
+                      "name":"Chloroflexaceae"
+                    }
+                  ],
+                  "name":"Chloroflexales"
+                }
+              ],
+              "name":"Chloroflexi (class)"
+            }
+          ],
+          "name":"Chloroflexi"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Pirellula sp",
+                                  "percent":"0.239174846779"
+                                }
+                              ],
+                              "name":"Pirellula sp"
+                            }
+                          ],
+                          "name":"Pirellula"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Planctomyces sp",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Planctomyces sp"
+                            }
+                          ],
+                          "name":"Planctomyces"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Gemmata sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Gemmata sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Gemmata obscuriglobus",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Gemmata obscuriglobus"
+                            }
+                          ],
+                          "name":"Gemmata"
+                        }
+                      ],
+                      "name":"Planctomycetaceae"
+                    }
+                  ],
+                  "name":"Planctomycetales"
+                }
+              ],
+              "name":"Planctomycetia"
+            }
+          ],
+          "name":"Planctomycetes"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Patulibacter sp",
+                                  "percent":"0.685136279835"
+                                }
+                              ],
+                              "name":"Patulibacter sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Patulibacter americanus",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Patulibacter americanus"
+                            }
+                          ],
+                          "name":"Patulibacter"
+                        }
+                      ],
+                      "name":"Patulibacteraceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Solirubrobacter sp",
+                                  "percent":"1.36030694105"
+                                }
+                              ],
+                              "name":"Solirubrobacter sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Solirubrobacter soli",
+                                  "percent":"0.0548109023868"
+                                }
+                              ],
+                              "name":"Solirubrobacter soli"
+                            }
+                          ],
+                          "name":"Solirubrobacter"
+                        }
+                      ],
+                      "name":"Solirubrobacteraceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Conexibacter sp",
+                                  "percent":"0.236683442125"
+                                }
+                              ],
+                              "name":"Conexibacter sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Conexibacter woesei",
+                                  "percent":"0.109621804774"
+                                }
+                              ],
+                              "name":"Conexibacter woesei"
+                            }
+                          ],
+                          "name":"Conexibacter"
+                        }
+                      ],
+                      "name":"Conexibacteraceae"
+                    }
+                  ],
+                  "name":"Solirubrobacterales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Iamia majanohamensis",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Iamia majanohamensis"
+                            }
+                          ],
+                          "name":"Iamia"
+                        }
+                      ],
+                      "name":"Iamiaceae"
+                    }
+                  ],
+                  "name":"Acidimicrobiales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Thermoleophilum album",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Thermoleophilum album"
+                            }
+                          ],
+                          "name":"Thermoleophilum"
+                        }
+                      ],
+                      "name":"Thermoleophilaceae"
+                    }
+                  ],
+                  "name":"Thermoleophilales"
+                },
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinoplanes teichomyceticus",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Actinoplanes teichomyceticus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinoplanes sp",
+                                  "percent":"0.0573023070407"
+                                }
+                              ],
+                              "name":"Actinoplanes sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinoplanes brasiliensis",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Actinoplanes brasiliensis"
+                            }
+                          ],
+                          "name":"Actinoplanes"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Micromonospora sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Micromonospora sp"
+                            }
+                          ],
+                          "name":"Micromonospora"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Luedemannella flava",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Luedemannella flava"
+                            }
+                          ],
+                          "name":"Luedemannella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Couchioplanes caeruleus",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Couchioplanes caeruleus"
+                            }
+                          ],
+                          "name":"Couchioplanes"
+                        }
+                      ],
+                      "name":"Micromonosporaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinomadura sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Actinomadura sp"
+                            }
+                          ],
+                          "name":"Actinomadura"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinocorallia sp",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Actinocorallia sp"
+                            }
+                          ],
+                          "name":"Actinocorallia"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinoallomurus spadix",
+                                  "percent":"0.528177786636"
+                                }
+                              ],
+                              "name":"Actinoallomurus spadix"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinoallomurus sp",
+                                  "percent":"0.0224226418855"
+                                }
+                              ],
+                              "name":"Actinoallomurus sp"
+                            }
+                          ],
+                          "name":"Actinoallomurus"
+                        }
+                      ],
+                      "name":"Thermomonosporaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Cryocola sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Cryocola sp"
+                            }
+                          ],
+                          "name":"Cryocola"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Labedella sp",
+                                  "percent":"0.0498280930789"
+                                }
+                              ],
+                              "name":"Labedella sp"
+                            }
+                          ],
+                          "name":"Labedella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Cryobacterium sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Cryobacterium sp"
+                            }
+                          ],
+                          "name":"Cryobacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Frigoribacterium sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Frigoribacterium sp"
+                            }
+                          ],
+                          "name":"Frigoribacterium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Leifsonia ginsengi",
+                                  "percent":"0.558074642483"
+                                }
+                              ],
+                              "name":"Leifsonia ginsengi"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Leifsonia sp",
+                                  "percent":"0.0797249489262"
+                                }
+                              ],
+                              "name":"Leifsonia sp"
+                            }
+                          ],
+                          "name":"Leifsonia"
+                        }
+                      ],
+                      "name":"Microbacteriaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Frankia sp",
+                                  "percent":"0.117096018735"
+                                }
+                              ],
+                              "name":"Frankia sp"
+                            }
+                          ],
+                          "name":"Frankia"
+                        }
+                      ],
+                      "name":"Frankiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Streptacidiphilus sp",
+                                  "percent":"0.154467088545"
+                                }
+                              ],
+                              "name":"Streptacidiphilus sp"
+                            }
+                          ],
+                          "name":"Streptacidiphilus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Streptomyces sp",
+                                  "percent":"2.32198913748"
+                                }
+                              ],
+                              "name":"Streptomyces sp"
+                            }
+                          ],
+                          "name":"Streptomyces"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kitasatospora sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Kitasatospora sp"
+                            }
+                          ],
+                          "name":"Kitasatospora"
+                        }
+                      ],
+                      "name":"Streptomycetaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Actinoalloteichus cyanogriseus",
+                                  "percent":"0.0573023070407"
+                                }
+                              ],
+                              "name":"Actinoalloteichus cyanogriseus"
+                            }
+                          ],
+                          "name":"Actinoalloteichus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kutzneria albida",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Kutzneria albida"
+                            }
+                          ],
+                          "name":"Kutzneria"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Pseudonocardia spinosispora",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Pseudonocardia spinosispora"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Pseudonocardia sp",
+                                  "percent":"0.0747421396183"
+                                }
+                              ],
+                              "name":"Pseudonocardia sp"
+                            }
+                          ],
+                          "name":"Pseudonocardia"
+                        }
+                      ],
+                      "name":"Pseudonocardiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Sporichthya polymorpha",
+                                  "percent":"0.0224226418855"
+                                }
+                              ],
+                              "name":"Sporichthya polymorpha"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Sporichthya sp",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Sporichthya sp"
+                            }
+                          ],
+                          "name":"Sporichthya"
+                        }
+                      ],
+                      "name":"Sporichthyaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kineococcus sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Kineococcus sp"
+                            }
+                          ],
+                          "name":"Kineococcus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kineosporia rhamnosa",
+                                  "percent":"0.0573023070407"
+                                }
+                              ],
+                              "name":"Kineosporia rhamnosa"
+                            }
+                          ],
+                          "name":"Kineosporia"
+                        }
+                      ],
+                      "name":"Kineosporiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Janibacter anophelis",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Janibacter anophelis"
+                            }
+                          ],
+                          "name":"Janibacter"
+                        }
+                      ],
+                      "name":"Intrasporangiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Humicoccus sp",
+                                  "percent":"0.0697593303104"
+                                }
+                              ],
+                              "name":"Humicoccus sp"
+                            }
+                          ],
+                          "name":"Humicoccus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Nakamurella sp",
+                                  "percent":"0.0224226418855"
+                                }
+                              ],
+                              "name":"Nakamurella sp"
+                            }
+                          ],
+                          "name":"Nakamurella"
+                        }
+                      ],
+                      "name":"Nakamurellaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Nocardioides sp",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Nocardioides sp"
+                            }
+                          ],
+                          "name":"Nocardioides"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Aeromicrobium panaciterrae",
+                                  "percent":"0.0149484279237"
+                                }
+                              ],
+                              "name":"Aeromicrobium panaciterrae"
+                            }
+                          ],
+                          "name":"Aeromicrobium"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Kribbella alba",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Kribbella alba"
+                            }
+                          ],
+                          "name":"Kribbella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Friedmanniella sp",
+                                  "percent":"0.00996561861578"
+                                }
+                              ],
+                              "name":"Friedmanniella sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Friedmanniella capsulata",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Friedmanniella capsulata"
+                            }
+                          ],
+                          "name":"Friedmanniella"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Marmoricola sp",
+                                  "percent":"0.112113209427"
+                                }
+                              ],
+                              "name":"Marmoricola sp"
+                            }
+                          ],
+                          "name":"Marmoricola"
+                        }
+                      ],
+                      "name":"Nocardioidaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Cryptosporangium minutisporangium",
+                                  "percent":"0.0996561861578"
+                                }
+                              ],
+                              "name":"Cryptosporangium minutisporangium"
+                            }
+                          ],
+                          "name":"Cryptosporangium"
+                        }
+                      ],
+                      "name":"Cryptosporangiaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Microlunatus sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Microlunatus sp"
+                            }
+                          ],
+                          "name":"Microlunatus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Propionibacterium acnes",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Propionibacterium acnes"
+                            }
+                          ],
+                          "name":"Propionibacterium"
+                        }
+                      ],
+                      "name":"Propionibacteriaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Blastococcus sp",
+                                  "percent":"0.0298968558473"
+                                }
+                              ],
+                              "name":"Blastococcus sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Blastococcus saxobsidens",
+                                  "percent":"0.0597937116947"
+                                }
+                              ],
+                              "name":"Blastococcus saxobsidens"
+                            }
+                          ],
+                          "name":"Blastococcus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Modestobacter versicolor",
+                                  "percent":"0.0473366884249"
+                                }
+                              ],
+                              "name":"Modestobacter versicolor"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Modestobacter sp",
+                                  "percent":"0.0323882605013"
+                                }
+                              ],
+                              "name":"Modestobacter sp"
+                            }
+                          ],
+                          "name":"Modestobacter"
+                        }
+                      ],
+                      "name":"Geodermatophilaceae"
+                    },
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Dietzia sp",
+                                  "percent":"0.00249140465394"
+                                }
+                              ],
+                              "name":"Dietzia sp"
+                            }
+                          ],
+                          "name":"Dietzia"
+                        }
+                      ],
+                      "name":"Dietziaceae"
+                    }
+                  ],
+                  "name":"Actinomycetales"
+                }
+              ],
+              "name":"Actinobacteria (class)"
+            }
+          ],
+          "name":"Actinobacteria"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Candidatus Phytoplasma sp",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Candidatus Phytoplasma sp"
+                            }
+                          ],
+                          "name":"Candidatus Phytoplasma"
+                        }
+                      ],
+                      "name":"Acholeplasmataceae"
+                    }
+                  ],
+                  "name":"Acholeplasmatales"
+                }
+              ],
+              "name":"Mollicutes"
+            }
+          ],
+          "name":"Tenericutes"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Deferribacter sp",
+                                  "percent":"0.0398624744631"
+                                }
+                              ],
+                              "name":"Deferribacter sp"
+                            }
+                          ],
+                          "name":"Deferribacter"
+                        }
+                      ],
+                      "name":"Deferribacteraceae"
+                    }
+                  ],
+                  "name":"Deferribacterales"
+                }
+              ],
+              "name":"Deferribacteres (class)"
+            }
+          ],
+          "name":"Deferribacteres"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Gemmatimonas sp",
+                                  "percent":"0.17688973043"
+                                }
+                              ],
+                              "name":"Gemmatimonas sp"
+                            }
+                          ],
+                          "name":"Gemmatimonas"
+                        }
+                      ],
+                      "name":"Gemmatimonadaceae"
+                    }
+                  ],
+                  "name":"Gemmatimonadales"
+                }
+              ],
+              "name":"Gemmatimonadetes (class)"
+            }
+          ],
+          "name":"Gemmatimonadetes"
+        },
+        {
+          "children":[
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Solibacter sp",
+                                  "percent":"0.00747421396183"
+                                }
+                              ],
+                              "name":"Solibacter sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Solibacter usitatus",
+                                  "percent":"0.00498280930789"
+                                }
+                              ],
+                              "name":"Solibacter usitatus"
+                            }
+                          ],
+                          "name":"Solibacter"
+                        }
+                      ],
+                      "name":"Solibacteraceae"
+                    }
+                  ],
+                  "name":"Solibacterales"
+                }
+              ],
+              "name":"Solibacteres"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Holophaga sp",
+                                  "percent":"0.433504409786"
+                                }
+                              ],
+                              "name":"Holophaga sp"
+                            }
+                          ],
+                          "name":"Holophaga"
+                        }
+                      ],
+                      "name":"Holophagaceae"
+                    }
+                  ],
+                  "name":"Holophagales"
+                }
+              ],
+              "name":"Holophagae"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Terriglobus sp",
+                                  "percent":"0.216752204893"
+                                }
+                              ],
+                              "name":"Terriglobus sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Terriglobus roseus",
+                                  "percent":"0.0498280930789"
+                                }
+                              ],
+                              "name":"Terriglobus roseus"
+                            }
+                          ],
+                          "name":"Terriglobus"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Edaphobacter modestus",
+                                  "percent":"0.0249140465394"
+                                }
+                              ],
+                              "name":"Edaphobacter modestus"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Edaphobacter sp",
+                                  "percent":"0.226717823509"
+                                }
+                              ],
+                              "name":"Edaphobacter sp"
+                            }
+                          ],
+                          "name":"Edaphobacter"
+                        },
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Acidobacterium sp",
+                                  "percent":"2.7156310728"
+                                }
+                              ],
+                              "name":"Acidobacterium sp"
+                            },
+                            {
+                              "children":[
+                                {
+                                  "name":"Acidobacterium capsulatum",
+                                  "percent":"0.0124570232697"
+                                }
+                              ],
+                              "name":"Acidobacterium capsulatum"
+                            }
+                          ],
+                          "name":"Acidobacterium"
+                        }
+                      ],
+                      "name":"Acidobacteriaceae"
+                    }
+                  ],
+                  "name":"Acidobacteriales"
+                }
+              ],
+              "name":"Acidobacteriia"
+            },
+            {
+              "children":[
+                {
+                  "children":[
+                    {
+                      "children":[
+                        {
+                          "children":[
+                            {
+                              "children":[
+                                {
+                                  "name":"Koribacter sp",
+                                  "percent":"0.0597937116947"
+                                }
+                              ],
+                              "name":"Koribacter sp"
+                            }
+                          ],
+                          "name":"Koribacter"
+                        }
+                      ],
+                      "name":"Acidobacteria (family)"
+                    }
+                  ],
+                  "name":"Acidobacteria (order)"
+                }
+              ],
+              "name":"Acidobacteria (class)"
+            }
+          ],
+          "name":"Acidobacteria"
+        }
+      ],
+      "name":"Bacteria"
+    }
+  ],
+  "name":"S47"
+}
