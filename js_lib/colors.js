@@ -7,23 +7,32 @@ c_blue = "#1f77b4";
 c_turq = "#17becf";
 c_green = "#2ca02c";
 
-c2_blue =  "#477fb3";
-c2_turq = "#43B48A";
-c2_green = "#75ab26";
-c2_yellow = "#e2c716";
+c2_blue = "#51ACEB";
+c2_green = "#94C93D";
+c2_yellow = "#"
 c2_orange = "#F1AA4D";
 c2_red = "#F77064";
-c2_pink = "#E377BE";
-c2_purple = "#7155C9";
+c2_pink = "#FF78C2";
+c2_purple = "#9263F6";
+
+c2_blue = "#53B0F0";
+c2_green = "#94C93D";
+c2_yellow = "#fbd400"
+c2_orange = "#f89e35";
+// c2_red = "#d96652";
+c2_red = "#f6745e"
+c2_pink = "#F897D3";
+// c2_purple = "#7B76E4";
+c2_purple = "#A18DF9"
 
 
 c3_blue =  "#3563AB";
-c3_green = "#437D05";
-c3_yellow = "#F2C04A";
+c3_green = "#6a9129";
+c3_yellow = "#F2b940";
 // c3_orange = "#C98411";
-c3_orange = "#F1AA4D";
-c3_red = "#AA2124";
-c3_pink = "#E36AB9";
+c3_orange = c2_orange;
+c3_red = "#c82e18";
+c3_pink = c2_pink;
 c3_purple = "#582BC5";
 
 c_grey = "#999999"
@@ -45,9 +54,9 @@ var clusters_bright = {
 	"Proteobacteria" : c2_green,
 	"Bacteroidetes" : c2_red,
 	// "Deinococcus-Thermus" : c2_orange,
-	"Gemmatimonadetes" : c2_pink,
+	// "Gemmatimonadetes" : c2_pink,
 	"Other" : c2_purple,
-	"No Hit" : c_grey
+	"No Hit" : c2_pink
 }
 
 
@@ -58,9 +67,9 @@ var clusters_darker = {
 	"Proteobacteria" : c3_green,
 	"Bacteroidetes" : c3_red,
 	// "Deinococcus-Thermus" : c2_orange,
-	"Gemmatimonadetes" : c3_pink,
+//	"Gemmatimonadetes" : c3_pink,
 	"Other" : c3_purple,
-	"No Hit" : c_grey
+	"No Hit" : c3_pink
 }
 
 function drawLegend(colors) {
