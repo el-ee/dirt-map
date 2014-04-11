@@ -1,0 +1,57 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+ 
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+ 
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+ 
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# PROJECT SPECIFIC #
+####################
+
+# things that are hanging around as old examples
+Bars/
+ClusteredCircles.html
+
+# libraries that are not used
+d3-tip/
+
+# keynote file for testing colors
+Colors.key/
+
+# things that haven't worked out ;)
+site-network_C1_Straight.html
+old-charts/
+
+
