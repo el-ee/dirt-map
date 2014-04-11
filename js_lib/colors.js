@@ -35,6 +35,14 @@ c3_red = "#c82e18";
 c3_pink = c2_pink;
 c3_purple = "#582BC5";
 
+c3_blue = "#2B6DAF";
+c3_green = "#427B02";
+c3_yellow = "#F9BE46";
+c3_orange = "#F8A949";
+c3_red = "#B63835";
+c3_pink = "#E770B9";
+c3_purple = "#4C3AC6";
+
 c_grey = "#999999"
 
 // var clusters_bright = {"Actinobacteria": c2_purple, 
