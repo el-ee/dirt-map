@@ -1,10 +1,11 @@
 ---
 layout: default
-title: index 2
+title: home page
 ---
 
-# heading
+# dirt-map.com
 
-some paragraph stuff
+an archive of dirt & microbes from along the PCT in California
 
-[a link to a diagram](./ClusteredCircles_S1_ClassShade.html)
+[Sample 1 : ./ClusteredCircles.html?s=1](./ClusteredCircles.html?s=1)
+[Sample 2 : ./ClusteredCircles.html?s=2](./ClusteredCircles.html?s=2)
