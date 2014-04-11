@@ -36,8 +36,8 @@ d3.select("#description").append("h2")
 d3.select("#description").append("p")
 	.text("Each circle represents a particular species of bacteria found in the sample, scaled by abundance percentage. Colors are coded at the Phylum level.")
 	
-var width = 1024
-    height = 768,
+var width = 700
+    height = 700,
     padding = 1.5, // separation between same-color nodes
     clusterPadding = 5, // separation between different-color nodes
     maxRadius = 50;
@@ -45,9 +45,7 @@ var width = 1024
 var nodes; 
 var clusters = {};
 
-var SCALE_FACTOR = 400;
-
-
+var SCALE_FACTOR = 1000;
 
 d3.json(file_name, function(error, json) {
   if (error) return console.warn(error);
