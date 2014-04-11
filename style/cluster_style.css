@@ -19,7 +19,7 @@ padding-top: .5em;
 	float: left;
 	padding: 0;
 	margin: 20px;
-	border: solid 1px #ddd;
+/*  border: solid 1px #ddd;*/
 }
 
 #description{
@@ -37,7 +37,7 @@ h2{
 }
 
 circle {
-	stroke: #eee;
+	stroke: #fff;
 }
 
 circle:hover {
