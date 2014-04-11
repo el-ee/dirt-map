@@ -1,0 +1,3242 @@
+[
+  {
+    "Class":"Acidobacteriia",
+    "Family":"Acidobacteriaceae",
+    "Genus":"Acidobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Acidobacteriales",
+    "Percent":"1.62888463785",
+    "Phylum":"Acidobacteria",
+    "Species":"Acidobacterium sp"
+  },
+  {
+    "Class":"Acidobacteriia",
+    "Family":"Acidobacteriaceae",
+    "Genus":"Terriglobus",
+    "Kingdom":"Bacteria",
+    "Order":"Acidobacteriales",
+    "Percent":"0.021191537131",
+    "Phylum":"Acidobacteria",
+    "Species":"Terriglobus sp"
+  },
+  {
+    "Class":"Holophagae",
+    "Family":"Holophagaceae",
+    "Genus":"Holophaga",
+    "Kingdom":"Bacteria",
+    "Order":"Holophagales",
+    "Percent":"0.0177550716503",
+    "Phylum":"Acidobacteria",
+    "Species":"Holophaga sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Cellulomonadaceae",
+    "Genus":"Cellulomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0120276291825",
+    "Phylum":"Actinobacteria",
+    "Species":"Cellulomonas sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Dietziaceae",
+    "Genus":"Dietzia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0916390794854",
+    "Phylum":"Actinobacteria",
+    "Species":"Dietzia sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Geodermatophilaceae",
+    "Genus":"Blastococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0114548849357",
+    "Phylum":"Actinobacteria",
+    "Species":"Blastococcus saxobsidens"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Geodermatophilaceae",
+    "Genus":"Blastococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0315009335731",
+    "Phylum":"Actinobacteria",
+    "Species":"Blastococcus sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Geodermatophilaceae",
+    "Genus":"Modestobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.013173117676",
+    "Phylum":"Actinobacteria",
+    "Species":"Modestobacter versicolor"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Janibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0395193530281",
+    "Phylum":"Actinobacteria",
+    "Species":"Janibacter anophelis"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Kineosporiaceae",
+    "Genus":"Kineococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0658655883802",
+    "Phylum":"Actinobacteria",
+    "Species":"Kineococcus xinjiangensis"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Kineosporiaceae",
+    "Genus":"Kineosporia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0252007468585",
+    "Phylum":"Actinobacteria",
+    "Species":"Kineosporia rhamnosa"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Cryobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0337919105603",
+    "Phylum":"Actinobacteria",
+    "Species":"Cryobacterium sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Frigoribacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0538379591977",
+    "Phylum":"Actinobacteria",
+    "Species":"Frigoribacterium sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Leifsonia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0103093964421",
+    "Phylum":"Actinobacteria",
+    "Species":"Leifsonia kribbensis"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Microbacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0309281893263",
+    "Phylum":"Actinobacteria",
+    "Species":"Microbacterium sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Microterricola",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0641473556398",
+    "Phylum":"Actinobacteria",
+    "Species":"Microterricola viridarii"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Rhodoglobus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0366556317942",
+    "Phylum":"Actinobacteria",
+    "Species":"Rhodoglobus sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Micrococcaceae",
+    "Genus":"Arthrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0166095831567",
+    "Phylum":"Actinobacteria",
+    "Species":"Arthrobacter sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Actinoplanes",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0486832609766",
+    "Phylum":"Actinobacteria",
+    "Species":"Actinoplanes sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Nakamurellaceae",
+    "Genus":"Nakamurella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.117412570591",
+    "Phylum":"Actinobacteria",
+    "Species":"Nakamurella sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Aeromicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0137458619228",
+    "Phylum":"Actinobacteria",
+    "Species":"Aeromicrobium sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Marmoricola",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0120276291825",
+    "Phylum":"Actinobacteria",
+    "Species":"Marmoricola sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Nocardioides",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0326464220667",
+    "Phylum":"Actinobacteria",
+    "Species":"Nocardioides sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Propionibacteriaceae",
+    "Genus":"Ponticoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.034364654807",
+    "Phylum":"Actinobacteria",
+    "Species":"Ponticoccus sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Pseudonocardia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0194733043907",
+    "Phylum":"Actinobacteria",
+    "Species":"Pseudonocardia sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Sporichthyaceae",
+    "Genus":"Sporichthya",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0206187928842",
+    "Phylum":"Actinobacteria",
+    "Species":"Sporichthya polymorpha"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Streptomycetaceae",
+    "Genus":"Streptomyces",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0486832609766",
+    "Phylum":"Actinobacteria",
+    "Species":"Streptomyces sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Streptosporangiaceae",
+    "Genus":"Streptosporangium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Percent":"0.0114548849357",
+    "Phylum":"Actinobacteria",
+    "Species":"Streptosporangium sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Conexibacteraceae",
+    "Genus":"Conexibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Solirubrobacterales",
+    "Percent":"0.0108821406889",
+    "Phylum":"Actinobacteria",
+    "Species":"Conexibacter sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Patulibacteraceae",
+    "Genus":"Patulibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Solirubrobacterales",
+    "Percent":"0.0229097698714",
+    "Phylum":"Actinobacteria",
+    "Species":"Patulibacter sp"
+  },
+  {
+    "Class":"Actinobacteria (class)",
+    "Family":"Solirubrobacteraceae",
+    "Genus":"Solirubrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Solirubrobacterales",
+    "Percent":"0.0240552583649",
+    "Phylum":"Actinobacteria",
+    "Species":"Solirubrobacter sp"
+  },
+  {
+    "Class":"Bacteroidia",
+    "Family":"Bacteroidaceae",
+    "Genus":"Bacteroides",
+    "Kingdom":"Bacteria",
+    "Order":"Bacteroidales",
+    "Percent":"0.0366556317942",
+    "Phylum":"Bacteroidetes",
+    "Species":"Bacteroides sp"
+  },
+  {
+    "Class":"Bacteroidia",
+    "Family":"Porphyromonadaceae",
+    "Genus":"Paludibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Bacteroidales",
+    "Percent":"1.29554748623",
+    "Phylum":"Bacteroidetes",
+    "Species":"Paludibacter propionicigenes"
+  },
+  {
+    "Class":"Bacteroidia",
+    "Family":"Porphyromonadaceae",
+    "Genus":"Proteiniphilum",
+    "Kingdom":"Bacteria",
+    "Order":"Bacteroidales",
+    "Percent":"0.0967937777065",
+    "Phylum":"Bacteroidetes",
+    "Species":"Proteiniphilum sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cyclobacteriaceae",
+    "Genus":"Aquiflexum",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.17812346075",
+    "Phylum":"Bacteroidetes",
+    "Species":"Aquiflexum sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Arcicella",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.084766148524",
+    "Phylum":"Bacteroidetes",
+    "Species":"Arcicella sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Cytophaga",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.979965406247",
+    "Phylum":"Bacteroidetes",
+    "Species":"Cytophaga sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Dyadobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.0183278158971",
+    "Phylum":"Bacteroidetes",
+    "Species":"Dyadobacter hamtensis"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Dyadobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.0366556317942",
+    "Phylum":"Bacteroidetes",
+    "Species":"Dyadobacter sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Emticicia",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.0727385193416",
+    "Phylum":"Bacteroidetes",
+    "Species":"Emticicia sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Flectobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.562434850342",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flectobacillus sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Flexibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.14604978293",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flexibacter sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Leadbetterella",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.0778932175626",
+    "Phylum":"Bacteroidetes",
+    "Species":"Leadbetterella sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Runella",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.0355101433006",
+    "Phylum":"Bacteroidetes",
+    "Species":"Runella limosa"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Runella",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.112830616616",
+    "Phylum":"Bacteroidetes",
+    "Species":"Runella sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Spirosoma",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.0286372123392",
+    "Phylum":"Bacteroidetes",
+    "Species":"Spirosoma sp"
+  },
+  {
+    "Class":"Cytophagia",
+    "Family":"Flammeovirgaceae",
+    "Genus":"Flexithrix",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Percent":"0.0189005601439",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flexithrix sp"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Cryomorphaceae",
+    "Genus":"Crocinitomix",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.109966895383",
+    "Phylum":"Bacteroidetes",
+    "Species":"Crocinitomix sp"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Cryomorphaceae",
+    "Genus":"Fluviicola",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.0246280026117",
+    "Phylum":"Bacteroidetes",
+    "Species":"Fluviicola sp"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.0332191663135",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium columnare"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.0332191663135",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium hercynium"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.0549834476913",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium psychrophilum"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.021191537131",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium saccharophilum"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.0400920972749",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium saliperosum"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.0681565653673",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium soli"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"8.40960377553",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium sp"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.0194733043907",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavobacterium terrigena"
+  },
+  {
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Percent":"0.021191537131",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flexibacter aurantiacus"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Chitinophaga",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.597372249396",
+    "Phylum":"Bacteroidetes",
+    "Species":"Chitinophaga sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Flavisolibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.292672310107",
+    "Phylum":"Bacteroidetes",
+    "Species":"Flavisolibacter sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Niastella",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.562434850342",
+    "Phylum":"Bacteroidetes",
+    "Species":"Niastella sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Sediminibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.0171823274035",
+    "Phylum":"Bacteroidetes",
+    "Species":"Sediminibacterium sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Segetibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.0194733043907",
+    "Phylum":"Bacteroidetes",
+    "Species":"Segetibacter sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Terrimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.0166095831567",
+    "Phylum":"Bacteroidetes",
+    "Species":"Terrimonas lutea"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Terrimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.0624291228995",
+    "Phylum":"Bacteroidetes",
+    "Species":"Terrimonas sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Saprospiraceae",
+    "Genus":"Haliscomenobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.103093964421",
+    "Phylum":"Bacteroidetes",
+    "Species":"Haliscomenobacter sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Mucilaginibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.0904935909919",
+    "Phylum":"Bacteroidetes",
+    "Species":"Mucilaginibacter sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Pedobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.396911763021",
+    "Phylum":"Bacteroidetes",
+    "Species":"Pedobacter sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Sphingobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.063574611393",
+    "Phylum":"Bacteroidetes",
+    "Species":"Sphingobacterium sp"
+  },
+  {
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Sphingoterrabacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Percent":"0.0509742379638",
+    "Phylum":"Bacteroidetes",
+    "Species":"Sphingoterrabacterium sp"
+  },
+  {
+    "Class":"Caldilineae",
+    "Family":"Caldilineaceae",
+    "Genus":"Caldilinea",
+    "Kingdom":"Bacteria",
+    "Order":"Caldilineales",
+    "Percent":"0.0148913504164",
+    "Phylum":"Chloroflexi",
+    "Species":"Caldilinea sp"
+  },
+  {
+    "Class":"Chloroflexi (class)",
+    "Family":"Chloroflexaceae",
+    "Genus":"Chloroflexus",
+    "Kingdom":"Bacteria",
+    "Order":"Chloroflexales",
+    "Percent":"0.0486832609766",
+    "Phylum":"Chloroflexi",
+    "Species":"Chloroflexus sp"
+  },
+  {
+    "Class":"Chloroflexi (class)",
+    "Family":"Chloroflexaceae",
+    "Genus":"Roseiflexus",
+    "Kingdom":"Bacteria",
+    "Order":"Chloroflexales",
+    "Percent":"0.0137458619228",
+    "Phylum":"Chloroflexi",
+    "Species":"Roseiflexus sp"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Chroococcales (family)",
+    "Genus":"Chamaesiphon",
+    "Kingdom":"Bacteria",
+    "Order":"Chroococcales",
+    "Percent":"0.466213816882",
+    "Phylum":"Cyanobacteria",
+    "Species":"Chamaesiphon subglobosus"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Chroococcales (family)",
+    "Genus":"Synechocystis",
+    "Kingdom":"Bacteria",
+    "Order":"Chroococcales",
+    "Percent":"0.376292970137",
+    "Phylum":"Cyanobacteria",
+    "Species":"Synechocystis sp"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Nostocaceae",
+    "Genus":"Nostoc",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Percent":"0.757740638495",
+    "Phylum":"Cyanobacteria",
+    "Species":"Nostoc commune"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Rivulariaceae",
+    "Genus":"Calothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Percent":"0.0234825141181",
+    "Phylum":"Cyanobacteria",
+    "Species":"Calothrix sp"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Phormidium",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Percent":"0.0154640946632",
+    "Phylum":"Cyanobacteria",
+    "Species":"Phormidium autumnale"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Phormidium",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Percent":"0.0412375857685",
+    "Phylum":"Cyanobacteria",
+    "Species":"Phormidium priestleyi"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Pleurocapsales (family)",
+    "Genus":"Pleurocapsa",
+    "Kingdom":"Bacteria",
+    "Order":"Pleurocapsales",
+    "Percent":"1.09737797684",
+    "Phylum":"Cyanobacteria",
+    "Species":"Pleurocapsa sp"
+  },
+  {
+    "Class":"Cyanobacteria (class)",
+    "Family":"Prochloraceae",
+    "Genus":"Prochloron",
+    "Kingdom":"Bacteria",
+    "Order":"Prochlorales",
+    "Percent":"0.0337919105603",
+    "Phylum":"Cyanobacteria",
+    "Species":"Prochloron sp"
+  },
+  {
+    "Class":"Bacilli",
+    "Family":"Bacillaceae",
+    "Genus":"Bacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Percent":"0.0469650282363",
+    "Phylum":"Firmicutes",
+    "Species":"Bacillus sp"
+  },
+  {
+    "Class":"Bacilli",
+    "Family":"Bacillales (family)",
+    "Genus":"Exiguobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Percent":"0.518906287586",
+    "Phylum":"Firmicutes",
+    "Species":"Exiguobacterium sibiricum"
+  },
+  {
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Paenibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Percent":"0.0750294963287",
+    "Phylum":"Firmicutes",
+    "Species":"Paenibacillus borealis"
+  },
+  {
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Paenibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Percent":"0.158650156359",
+    "Phylum":"Firmicutes",
+    "Species":"Paenibacillus sp"
+  },
+  {
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Paenibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Percent":"0.206760673089",
+    "Phylum":"Firmicutes",
+    "Species":"Paenibacillus wynnii"
+  },
+  {
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Ureibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Percent":"0.0452467954959",
+    "Phylum":"Firmicutes",
+    "Species":"Ureibacillus sp"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.323600499433",
+    "Phylum":"Firmicutes",
+    "Species":"Clostridium magnum"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.0389466087813",
+    "Phylum":"Firmicutes",
+    "Species":"Clostridium nexile"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.0103093964421",
+    "Phylum":"Firmicutes",
+    "Species":"Clostridium nitrophenolicum"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.0274917238456",
+    "Phylum":"Firmicutes",
+    "Species":"Clostridium phytofermentans"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.0137458619228",
+    "Phylum":"Firmicutes",
+    "Species":"Clostridium puniceum"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"4.45938670546",
+    "Phylum":"Firmicutes",
+    "Species":"Clostridium sp"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Clostridiales (family)",
+    "Genus":"Fusibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.428412696594",
+    "Phylum":"Firmicutes",
+    "Species":"Fusibacter sp"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Eubacteriaceae",
+    "Genus":"Eubacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.234252396935",
+    "Phylum":"Firmicutes",
+    "Species":"Eubacterium sp"
+  },
+  {
+    "Class":"Clostridia",
+    "Family":"Peptostreptococcaceae",
+    "Genus":"Sporacetigenium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Percent":"0.636318858177",
+    "Phylum":"Firmicutes",
+    "Species":"Sporacetigenium sp"
+  },
+  {
+    "Class":"Gemmatimonadetes (class)",
+    "Family":"Gemmatimonadaceae",
+    "Genus":"Gemmatimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Gemmatimonadales",
+    "Percent":"0.087629869758",
+    "Phylum":"Gemmatimonadetes",
+    "Species":"Gemmatimonas sp"
+  },
+  {
+    "Class":"Nitrospira (class)",
+    "Family":"Nitrospiraceae",
+    "Genus":"Nitrospira",
+    "Kingdom":"Bacteria",
+    "Order":"Nitrospirales",
+    "Percent":"0.0618563786527",
+    "Phylum":"Nitrospirae",
+    "Species":"Nitrospira sp"
+  },
+  {
+    "Class":"Planctomycetia",
+    "Family":"Planctomycetaceae",
+    "Genus":"Pirellula",
+    "Kingdom":"Bacteria",
+    "Order":"Planctomycetales",
+    "Percent":"0.0383738645345",
+    "Phylum":"Planctomycetes",
+    "Species":"Pirellula sp"
+  },
+  {
+    "Class":"Planctomycetia",
+    "Family":"Planctomycetaceae",
+    "Genus":"Planctomyces",
+    "Kingdom":"Bacteria",
+    "Order":"Planctomycetales",
+    "Percent":"0.0206187928842",
+    "Phylum":"Planctomycetes",
+    "Species":"Planctomyces sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Alphaproteobacteria (family)",
+    "Genus":"Reyranella",
+    "Kingdom":"Bacteria",
+    "Order":"Alphaproteobacteria (order)",
+    "Percent":"0.0435285627556",
+    "Phylum":"Proteobacteria",
+    "Species":"Reyranella massiliensis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Asticcacaulis",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.241698072143",
+    "Phylum":"Proteobacteria",
+    "Species":"Asticcacaulis benevestitus"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Asticcacaulis",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.165523087321",
+    "Phylum":"Proteobacteria",
+    "Species":"Asticcacaulis biprosthecium"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Asticcacaulis",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.168959552801",
+    "Phylum":"Proteobacteria",
+    "Species":"Asticcacaulis excentricus"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Brevundimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.0206187928842",
+    "Phylum":"Proteobacteria",
+    "Species":"Brevundimonas lenta"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Brevundimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.164377598827",
+    "Phylum":"Proteobacteria",
+    "Species":"Brevundimonas sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Brevundimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.0183278158971",
+    "Phylum":"Proteobacteria",
+    "Species":"Brevundimonas vesicularis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Caulobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.0778932175626",
+    "Phylum":"Proteobacteria",
+    "Species":"Caulobacter fusiformis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Caulobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.0103093964421",
+    "Phylum":"Proteobacteria",
+    "Species":"Caulobacter ginsengisoli"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Caulobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"1.74171525447",
+    "Phylum":"Proteobacteria",
+    "Species":"Caulobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Phenylobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Percent":"0.0229097698714",
+    "Phylum":"Proteobacteria",
+    "Species":"Phenylobacterium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Parvularculaceae",
+    "Genus":"Parvularcula",
+    "Kingdom":"Bacteria",
+    "Order":"Parvularculales",
+    "Percent":"0.0486832609766",
+    "Phylum":"Proteobacteria",
+    "Species":"Parvularcula sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Aurantimonadaceae",
+    "Genus":"Fulvimarina",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.184423647464",
+    "Phylum":"Proteobacteria",
+    "Species":"Fulvimarina sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Chelatococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0962210334597",
+    "Phylum":"Proteobacteria",
+    "Species":"Chelatococcus sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Methylocapsa",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0526924707041",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylocapsa acidiphila"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Methylocapsa",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.212488115557",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylocapsa sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Afipia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.261171376534",
+    "Phylum":"Proteobacteria",
+    "Species":"Afipia sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Bosea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0824751715369",
+    "Phylum":"Proteobacteria",
+    "Species":"Bosea sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Bradyrhizobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.47194125935",
+    "Phylum":"Proteobacteria",
+    "Species":"Bradyrhizobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Nitrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0171823274035",
+    "Phylum":"Proteobacteria",
+    "Species":"Nitrobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Rhodopseudomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0813296830433",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodopseudomonas sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Brucellaceae",
+    "Genus":"Mycoplana",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.317300312718",
+    "Phylum":"Proteobacteria",
+    "Species":"Mycoplana sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Brucellaceae",
+    "Genus":"Ochrobactrum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0252007468585",
+    "Phylum":"Proteobacteria",
+    "Species":"Ochrobactrum sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Blastochloris",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0148913504164",
+    "Phylum":"Proteobacteria",
+    "Species":"Blastochloris sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Devosia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.205042440349",
+    "Phylum":"Proteobacteria",
+    "Species":"Devosia sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Hyphomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.81386957468",
+    "Phylum":"Proteobacteria",
+    "Species":"Hyphomicrobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Hyphomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.186141880205",
+    "Phylum":"Proteobacteria",
+    "Species":"Hyphomicrobium sulfonivorans"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Hyphomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0332191663135",
+    "Phylum":"Proteobacteria",
+    "Species":"Hyphomicrobium vulgare"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Pedomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0120276291825",
+    "Phylum":"Proteobacteria",
+    "Species":"Pedomicrobium americanum"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Pedomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0807569387965",
+    "Phylum":"Proteobacteria",
+    "Species":"Pedomicrobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Prosthecomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0864843812644",
+    "Phylum":"Proteobacteria",
+    "Species":"Prosthecomicrobium enhydrum"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Prosthecomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0698747981077",
+    "Phylum":"Proteobacteria",
+    "Species":"Prosthecomicrobium mishustinii"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Rhodomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0572744246784",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodomicrobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Rhodoplanes",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.101948475928",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodoplanes sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylobacteriaceae",
+    "Genus":"Meganema",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.700466213817",
+    "Phylum":"Proteobacteria",
+    "Species":"Meganema sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylobacteriaceae",
+    "Genus":"Methylobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.108248662642",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylobacterium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylobacteriaceae",
+    "Genus":"Microvirga",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0452467954959",
+    "Phylum":"Proteobacteria",
+    "Species":"Microvirga sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylocystaceae",
+    "Genus":"Methylosinus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.286372123392",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylosinus sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylocystaceae",
+    "Genus":"Pleomorphomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.235397885428",
+    "Phylum":"Proteobacteria",
+    "Species":"Pleomorphomonas sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Aminobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.029209956586",
+    "Phylum":"Proteobacteria",
+    "Species":"Aminobacter niigataensis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Mesorhizobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.209624394323",
+    "Phylum":"Proteobacteria",
+    "Species":"Mesorhizobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Parvibaculum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0859116370176",
+    "Phylum":"Proteobacteria",
+    "Species":"Parvibaculum sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Phyllobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0412375857685",
+    "Phylum":"Proteobacteria",
+    "Species":"Phyllobacterium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Agrobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.131158432514",
+    "Phylum":"Proteobacteria",
+    "Species":"Agrobacterium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Agrobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.253152957079",
+    "Phylum":"Proteobacteria",
+    "Species":"Agrobacterium tumefaciens"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Rhizobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0429558185088",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhizobium leguminosarum"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Rhizobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"1.20963584921",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhizobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Sinorhizobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.721085006701",
+    "Phylum":"Proteobacteria",
+    "Species":"Sinorhizobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiales (family)",
+    "Genus":"Nordella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.01603683891",
+    "Phylum":"Proteobacteria",
+    "Species":"Nordella oligomobilis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobiaceae",
+    "Genus":"Tepidamorphus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Percent":"0.0383738645345",
+    "Phylum":"Proteobacteria",
+    "Species":"Tepidamorphus gemmatus"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomonadaceae",
+    "Genus":"Maricaulis",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0148913504164",
+    "Phylum":"Proteobacteria",
+    "Species":"Maricaulis sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Amaricoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0509742379638",
+    "Phylum":"Proteobacteria",
+    "Species":"Amaricoccus sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Catellibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.186714624452",
+    "Phylum":"Proteobacteria",
+    "Species":"Catellibacterium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Loktanella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.13173117676",
+    "Phylum":"Proteobacteria",
+    "Species":"Loktanella sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Oceanicola",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0441013070024",
+    "Phylum":"Proteobacteria",
+    "Species":"Oceanicola sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Pannonibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0114548849357",
+    "Phylum":"Proteobacteria",
+    "Species":"Pannonibacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Paracoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0223370256246",
+    "Phylum":"Proteobacteria",
+    "Species":"Paracoccus aminovorans"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Paracoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0137458619228",
+    "Phylum":"Proteobacteria",
+    "Species":"Paracoccus sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Paracoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0200460486374",
+    "Phylum":"Proteobacteria",
+    "Species":"Paracoccus yeei"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Rhodobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.013173117676",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodobacter blasticus"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Rhodobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0567016804316",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodobacter capsulatus"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Rhodobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"1.10596914054",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Rhodobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0154640946632",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodobacter sphaeroides"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Rhodobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0200460486374",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodobacter veldkampii"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Ruegeria",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0349373990538",
+    "Phylum":"Proteobacteria",
+    "Species":"Ruegeria sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Tetracoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Percent":"0.0183278158971",
+    "Phylum":"Proteobacteria",
+    "Species":"Tetracoccus cechii"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0177550716503",
+    "Phylum":"Proteobacteria",
+    "Species":"Acetobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acidisphaera",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0326464220667",
+    "Phylum":"Proteobacteria",
+    "Species":"Acidisphaera rubrifaciens"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acidisphaera",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0664383326269",
+    "Phylum":"Proteobacteria",
+    "Species":"Acidisphaera sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acidocella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0378011202877",
+    "Phylum":"Proteobacteria",
+    "Species":"Acidocella sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Ameyamaea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0446740512492",
+    "Phylum":"Proteobacteria",
+    "Species":"Ameyamaea chiangmaiensis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Asaia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0274917238456",
+    "Phylum":"Proteobacteria",
+    "Species":"Asaia lannaensis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Gluconobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0240552583649",
+    "Phylum":"Proteobacteria",
+    "Species":"Gluconobacter oxydans"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Gluconobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0240552583649",
+    "Phylum":"Proteobacteria",
+    "Species":"Gluconobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Oleomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0492560052234",
+    "Phylum":"Proteobacteria",
+    "Species":"Oleomonas sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Rhodovastum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0143186061696",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodovastum atsumiense"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Roseomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0103093964421",
+    "Phylum":"Proteobacteria",
+    "Species":"Roseomonas aquatica"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Roseomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0252007468585",
+    "Phylum":"Proteobacteria",
+    "Species":"Roseomonas sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Azospirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0137458619228",
+    "Phylum":"Proteobacteria",
+    "Species":"Azospirillum sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Defluviicoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0217642813778",
+    "Phylum":"Proteobacteria",
+    "Species":"Defluviicoccus sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Magnetospirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.087629869758",
+    "Phylum":"Proteobacteria",
+    "Species":"Magnetospirillum sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Skermanella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0229097698714",
+    "Phylum":"Proteobacteria",
+    "Species":"Skermanella aerolata"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Skermanella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.0114548849357",
+    "Phylum":"Proteobacteria",
+    "Species":"Skermanella sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Tistrella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Percent":"0.084766148524",
+    "Phylum":"Proteobacteria",
+    "Species":"Tistrella sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Holosporaceae",
+    "Genus":"Holospora",
+    "Kingdom":"Bacteria",
+    "Order":"Rickettsiales",
+    "Percent":"0.079611450303",
+    "Phylum":"Proteobacteria",
+    "Species":"Holospora sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Rickettsiales (family)",
+    "Genus":"Odyssella",
+    "Kingdom":"Bacteria",
+    "Order":"Rickettsiales",
+    "Percent":"0.0137458619228",
+    "Phylum":"Proteobacteria",
+    "Species":"Odyssella thessalonicensis"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Erythrobacteraceae",
+    "Genus":"Altererythrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.288090356132",
+    "Phylum":"Proteobacteria",
+    "Species":"Altererythrobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Erythrobacteraceae",
+    "Genus":"Erythrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0962210334597",
+    "Phylum":"Proteobacteria",
+    "Species":"Erythrobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Erythrobacteraceae",
+    "Genus":"Porphyrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.123140013059",
+    "Phylum":"Proteobacteria",
+    "Species":"Porphyrobacter sanguineus"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Erythrobacteraceae",
+    "Genus":"Porphyrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0108821406889",
+    "Phylum":"Proteobacteria",
+    "Species":"Porphyrobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Blastomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0297827008328",
+    "Phylum":"Proteobacteria",
+    "Species":"Blastomonas sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Kaistobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0315009335731",
+    "Phylum":"Proteobacteria",
+    "Species":"Kaistobacter sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Lutibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0355101433006",
+    "Phylum":"Proteobacteria",
+    "Species":"Lutibacterium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Novosphingobium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.416385067412",
+    "Phylum":"Proteobacteria",
+    "Species":"Novosphingobium hassiacum"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Novosphingobium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0108821406889",
+    "Phylum":"Proteobacteria",
+    "Species":"Novosphingobium lentum"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Novosphingobium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.620282019267",
+    "Phylum":"Proteobacteria",
+    "Species":"Novosphingobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Novosphingobium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0360828875474",
+    "Phylum":"Proteobacteria",
+    "Species":"Novosphingobium tardaugens"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sandarakinorhabdus",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0664383326269",
+    "Phylum":"Proteobacteria",
+    "Species":"Sandarakinorhabdus sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingobium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0200460486374",
+    "Phylum":"Proteobacteria",
+    "Species":"Sphingobium aromaticiconvertens"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingobium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.202178719115",
+    "Phylum":"Proteobacteria",
+    "Species":"Sphingobium sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0120276291825",
+    "Phylum":"Proteobacteria",
+    "Species":"Sphingomonas oligophenolica"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.013173117676",
+    "Phylum":"Proteobacteria",
+    "Species":"Sphingomonas sanxanigenens"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"2.51205626639",
+    "Phylum":"Proteobacteria",
+    "Species":"Sphingomonas sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingopyxis",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.483968888533",
+    "Phylum":"Proteobacteria",
+    "Species":"Sphingopyxis sp"
+  },
+  {
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingosinicella",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Percent":"0.0538379591977",
+    "Phylum":"Proteobacteria",
+    "Species":"Sphingosinicella sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Betaproteobacteria (family)",
+    "Genus":"Aquamonas",
+    "Kingdom":"Bacteria",
+    "Order":"Betaproteobacteria (order)",
+    "Percent":"0.0223370256246",
+    "Phylum":"Proteobacteria",
+    "Species":"Aquamonas fontana"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Betaproteobacteria (family)",
+    "Genus":"Ferrovum",
+    "Kingdom":"Bacteria",
+    "Order":"Betaproteobacteria (order)",
+    "Percent":"0.0143186061696",
+    "Phylum":"Proteobacteria",
+    "Species":"Ferrovum myxofaciens"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Azohydromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0727385193416",
+    "Phylum":"Proteobacteria",
+    "Species":"Azohydromonas australica"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Derxia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.403211949736",
+    "Phylum":"Proteobacteria",
+    "Species":"Derxia sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Burkholderia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0263462353521",
+    "Phylum":"Proteobacteria",
+    "Species":"Burkholderia cepacia"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Burkholderia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.184423647464",
+    "Phylum":"Proteobacteria",
+    "Species":"Burkholderia sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Ralstonia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0246280026117",
+    "Phylum":"Proteobacteria",
+    "Species":"Ralstonia sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Aquabacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.60023597063",
+    "Phylum":"Proteobacteria",
+    "Species":"Aquabacterium sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Aquincola",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0120276291825",
+    "Phylum":"Proteobacteria",
+    "Species":"Aquincola tertiaricarbonis"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Ideonella",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.480532423052",
+    "Phylum":"Proteobacteria",
+    "Species":"Ideonella sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Leptothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0114548849357",
+    "Phylum":"Proteobacteria",
+    "Species":"Leptothrix cholodnii"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Leptothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.479959678805",
+    "Phylum":"Proteobacteria",
+    "Species":"Leptothrix discophora"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Leptothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.131158432514",
+    "Phylum":"Proteobacteria",
+    "Species":"Leptothrix sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Methylibium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0108821406889",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylibium aquaticum"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Methylibium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.431849162075",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylibium fulvum"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Methylibium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.452467954959",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylibium petroleiphilum"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Methylibium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.335055384369",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylibium sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Methylibium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0246280026117",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylibium subsaxonicum"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Paucibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"2.57047617957",
+    "Phylum":"Proteobacteria",
+    "Species":"Paucibacter sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Paucibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0870571255112",
+    "Phylum":"Proteobacteria",
+    "Species":"Paucibacter toxinivorans"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Rubrivivax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.042383074262",
+    "Phylum":"Proteobacteria",
+    "Species":"Rubrivivax gelatinosus"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Acidovorax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0297827008328",
+    "Phylum":"Proteobacteria",
+    "Species":"Acidovorax delafieldii"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Acidovorax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.266326074755",
+    "Phylum":"Proteobacteria",
+    "Species":"Acidovorax sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Albidiferax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.450176977972",
+    "Phylum":"Proteobacteria",
+    "Species":"Albidiferax ferrireducens"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Caenimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0589926574188",
+    "Phylum":"Proteobacteria",
+    "Species":"Caenimonas koreensis"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Comamonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"1.68673180678",
+    "Phylum":"Proteobacteria",
+    "Species":"Comamonas sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Curvibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0114548849357",
+    "Phylum":"Proteobacteria",
+    "Species":"Curvibacter delicatus"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Curvibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0521197264573",
+    "Phylum":"Proteobacteria",
+    "Species":"Curvibacter sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Giesbergeria",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.364838085201",
+    "Phylum":"Proteobacteria",
+    "Species":"Giesbergeria kuznetsovii"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Hydrogenophaga",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"2.00174114251",
+    "Phylum":"Proteobacteria",
+    "Species":"Hydrogenophaga sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Pelomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.189005601439",
+    "Phylum":"Proteobacteria",
+    "Species":"Pelomonas saccharophila"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Pelomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0555561919381",
+    "Phylum":"Proteobacteria",
+    "Species":"Pelomonas sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Polaromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.362547108214",
+    "Phylum":"Proteobacteria",
+    "Species":"Polaromonas naphthalenivorans"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Polaromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0693020538609",
+    "Phylum":"Proteobacteria",
+    "Species":"Polaromonas rhizosphaerae"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Polaromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.586490108707",
+    "Phylum":"Proteobacteria",
+    "Species":"Polaromonas sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Ramlibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0498287494702",
+    "Phylum":"Proteobacteria",
+    "Species":"Ramlibacter sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Rhodoferax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0555561919381",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodoferax fermentans"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Rhodoferax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.562434850342",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodoferax sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Schlegelella",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0750294963287",
+    "Phylum":"Proteobacteria",
+    "Species":"Schlegelella sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Variovorax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.142613317449",
+    "Phylum":"Proteobacteria",
+    "Species":"Variovorax paradoxus"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Variovorax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.122567268812",
+    "Phylum":"Proteobacteria",
+    "Species":"Variovorax sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Duganella",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0830479157837",
+    "Phylum":"Proteobacteria",
+    "Species":"Duganella sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Duganella",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0194733043907",
+    "Phylum":"Proteobacteria",
+    "Species":"Duganella zoogloeoides"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Herbaspirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0154640946632",
+    "Phylum":"Proteobacteria",
+    "Species":"Herbaspirillum autotrophicum"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Herbaspirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.437576604543",
+    "Phylum":"Proteobacteria",
+    "Species":"Herbaspirillum sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Janthinobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0154640946632",
+    "Phylum":"Proteobacteria",
+    "Species":"Janthinobacterium lividum"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Janthinobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.146622527177",
+    "Phylum":"Proteobacteria",
+    "Species":"Janthinobacterium sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Massilia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"1.70563236692",
+    "Phylum":"Proteobacteria",
+    "Species":"Massilia sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Massilia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0349373990538",
+    "Phylum":"Proteobacteria",
+    "Species":"Massilia timonae"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Undibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Percent":"0.0315009335731",
+    "Phylum":"Proteobacteria",
+    "Species":"Undibacterium sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Hydrogenophilaceae",
+    "Genus":"Thiobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Hydrogenophilales",
+    "Percent":"0.123140013059",
+    "Phylum":"Proteobacteria",
+    "Species":"Thiobacillus sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Methylophilaceae",
+    "Genus":"Methylophilus",
+    "Kingdom":"Bacteria",
+    "Order":"Methylophilales",
+    "Percent":"0.203896951855",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylophilus sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Deefgea",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Percent":"0.0200460486374",
+    "Phylum":"Proteobacteria",
+    "Species":"Deefgea sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Formivibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Percent":"0.184423647464",
+    "Phylum":"Proteobacteria",
+    "Species":"Formivibrio citricus"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Laribacter",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Percent":"0.103666708668",
+    "Phylum":"Proteobacteria",
+    "Species":"Laribacter sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Vogesella",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Percent":"0.362547108214",
+    "Phylum":"Proteobacteria",
+    "Species":"Vogesella sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Nitrosomonadaceae",
+    "Genus":"Nitrosospira",
+    "Kingdom":"Bacteria",
+    "Order":"Nitrosomonadales",
+    "Percent":"0.0400920972749",
+    "Phylum":"Proteobacteria",
+    "Species":"Nitrosospira sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Nitrosomonadaceae",
+    "Genus":"Nitrosovibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Nitrosomonadales",
+    "Percent":"0.0882026140047",
+    "Phylum":"Proteobacteria",
+    "Species":"Nitrosovibrio sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Azonexus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.0337919105603",
+    "Phylum":"Proteobacteria",
+    "Species":"Azonexus sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Azovibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"1.16267082097",
+    "Phylum":"Proteobacteria",
+    "Species":"Azovibrio sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Dechloromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.392902553294",
+    "Phylum":"Proteobacteria",
+    "Species":"Dechloromonas aromatica"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Dechloromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.126003734292",
+    "Phylum":"Proteobacteria",
+    "Species":"Dechloromonas denitrificans"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Dechloromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"2.20162888464",
+    "Phylum":"Proteobacteria",
+    "Species":"Dechloromonas sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Denitratisoma",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.16380485458",
+    "Phylum":"Proteobacteria",
+    "Species":"Denitratisoma sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Ferribacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.0887753582515",
+    "Phylum":"Proteobacteria",
+    "Species":"Ferribacterium sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Propionivibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.158650156359",
+    "Phylum":"Proteobacteria",
+    "Species":"Propionivibrio limicola"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Quatrionicoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.458195397427",
+    "Phylum":"Proteobacteria",
+    "Species":"Quatrionicoccus australiensis"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Rhodocyclus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.1958785324",
+    "Phylum":"Proteobacteria",
+    "Species":"Rhodocyclus sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Sterolibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.108821406889",
+    "Phylum":"Proteobacteria",
+    "Species":"Sterolibacterium sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Thauera",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"0.188432857192",
+    "Phylum":"Proteobacteria",
+    "Species":"Thauera sp"
+  },
+  {
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Zoogloea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Percent":"1.40436889311",
+    "Phylum":"Proteobacteria",
+    "Species":"Zoogloea sp"
+  },
+  {
+    "Class":"Deltaproteobacteria",
+    "Family":"Bdellovibrionaceae",
+    "Genus":"Bdellovibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Bdellovibrionales",
+    "Percent":"0.0103093964421",
+    "Phylum":"Proteobacteria",
+    "Species":"Bdellovibrio sp"
+  },
+  {
+    "Class":"Deltaproteobacteria",
+    "Family":"Geobacteraceae",
+    "Genus":"Geopsychrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Desulfuromonadales",
+    "Percent":"0.0103093964421",
+    "Phylum":"Proteobacteria",
+    "Species":"Geopsychrobacter sp"
+  },
+  {
+    "Class":"Deltaproteobacteria",
+    "Family":"Syntrophobacteraceae",
+    "Genus":"Desulforhabdus",
+    "Kingdom":"Bacteria",
+    "Order":"Syntrophobacterales",
+    "Percent":"0.0452467954959",
+    "Phylum":"Proteobacteria",
+    "Species":"Desulforhabdus sp"
+  },
+  {
+    "Class":"Epsilonproteobacteria",
+    "Family":"Campylobacteraceae",
+    "Genus":"Arcobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Campylobacterales",
+    "Percent":"0.329327941901",
+    "Phylum":"Proteobacteria",
+    "Species":"Arcobacter sp"
+  },
+  {
+    "Class":"Epsilonproteobacteria",
+    "Family":"Helicobacteraceae",
+    "Genus":"Wolinella",
+    "Kingdom":"Bacteria",
+    "Order":"Campylobacterales",
+    "Percent":"0.0114548849357",
+    "Phylum":"Proteobacteria",
+    "Species":"Wolinella sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Aeromonadaceae",
+    "Genus":"Aeromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Aeromonadales",
+    "Percent":"0.0836206600305",
+    "Phylum":"Proteobacteria",
+    "Species":"Aeromonas media"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Aeromonadaceae",
+    "Genus":"Aeromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Aeromonadales",
+    "Percent":"4.21367942359",
+    "Phylum":"Proteobacteria",
+    "Species":"Aeromonas salmonicida"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Aeromonadaceae",
+    "Genus":"Aeromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Aeromonadales",
+    "Percent":"0.383165901099",
+    "Phylum":"Proteobacteria",
+    "Species":"Aeromonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Alteromonadaceae",
+    "Genus":"Haliea",
+    "Kingdom":"Bacteria",
+    "Order":"Alteromonadales",
+    "Percent":"0.013173117676",
+    "Phylum":"Proteobacteria",
+    "Species":"Haliea rubra"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Moritellaceae",
+    "Genus":"Moritella",
+    "Kingdom":"Bacteria",
+    "Order":"Alteromonadales",
+    "Percent":"0.0303554450796",
+    "Phylum":"Proteobacteria",
+    "Species":"Moritella sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Chromatiaceae",
+    "Genus":"Rheinheimera",
+    "Kingdom":"Bacteria",
+    "Order":"Chromatiales",
+    "Percent":"0.281217425171",
+    "Phylum":"Proteobacteria",
+    "Species":"Rheinheimera soli"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Chromatiaceae",
+    "Genus":"Rheinheimera",
+    "Kingdom":"Bacteria",
+    "Order":"Chromatiales",
+    "Percent":"0.0985120104469",
+    "Phylum":"Proteobacteria",
+    "Species":"Rheinheimera sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Ectothiorhodospiraceae",
+    "Genus":"Thiorhodospira",
+    "Kingdom":"Bacteria",
+    "Order":"Chromatiales",
+    "Percent":"0.0200460486374",
+    "Phylum":"Proteobacteria",
+    "Species":"Thiorhodospira sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Escherichia",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Percent":"0.0148913504164",
+    "Phylum":"Proteobacteria",
+    "Species":"Escherichia sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Klebsiella",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Percent":"0.328182453407",
+    "Phylum":"Proteobacteria",
+    "Species":"Klebsiella pneumoniae"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Rahnella",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Percent":"0.0183278158971",
+    "Phylum":"Proteobacteria",
+    "Species":"Rahnella sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Methylococcaceae",
+    "Genus":"Methylohalobius",
+    "Kingdom":"Bacteria",
+    "Order":"Methylococcales",
+    "Percent":"0.0721657750948",
+    "Phylum":"Proteobacteria",
+    "Species":"Methylohalobius sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Acinetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"0.0704475423544",
+    "Phylum":"Proteobacteria",
+    "Species":"Acinetobacter calcoaceticus"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Acinetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"0.0154640946632",
+    "Phylum":"Proteobacteria",
+    "Species":"Acinetobacter junii"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Acinetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"1.88318308343",
+    "Phylum":"Proteobacteria",
+    "Species":"Acinetobacter sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Cellvibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"0.0647200998866",
+    "Phylum":"Proteobacteria",
+    "Species":"Cellvibrio gandavensis"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Cellvibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"0.0824751715369",
+    "Phylum":"Proteobacteria",
+    "Species":"Cellvibrio sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Pseudomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"5.59800226807",
+    "Phylum":"Proteobacteria",
+    "Species":"Pseudomonas argentinensis"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Pseudomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"3.13978396087",
+    "Phylum":"Proteobacteria",
+    "Species":"Pseudomonas fluorescens"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Pseudomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"0.0143186061696",
+    "Phylum":"Proteobacteria",
+    "Species":"Pseudomonas putida"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Pseudomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Percent":"7.63468080963",
+    "Phylum":"Proteobacteria",
+    "Species":"Pseudomonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Thiotrichaceae",
+    "Genus":"Beggiatoa",
+    "Kingdom":"Bacteria",
+    "Order":"Thiotrichales",
+    "Percent":"0.0578471689252",
+    "Phylum":"Proteobacteria",
+    "Species":"Beggiatoa sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Sinobacteraceae",
+    "Genus":"Steroidobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0148913504164",
+    "Phylum":"Proteobacteria",
+    "Species":"Steroidobacter sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Aquimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0360828875474",
+    "Phylum":"Proteobacteria",
+    "Species":"Aquimonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Arenimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0481105167299",
+    "Phylum":"Proteobacteria",
+    "Species":"Arenimonas oryziterrae"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Arenimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0137458619228",
+    "Phylum":"Proteobacteria",
+    "Species":"Arenimonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Aspromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.034364654807",
+    "Phylum":"Proteobacteria",
+    "Species":"Aspromonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Dokdonella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0126003734292",
+    "Phylum":"Proteobacteria",
+    "Species":"Dokdonella koreensis"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Dokdonella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0303554450796",
+    "Phylum":"Proteobacteria",
+    "Species":"Dokdonella sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Dyella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0750294963287",
+    "Phylum":"Proteobacteria",
+    "Species":"Dyella sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Lysobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.393475297541",
+    "Phylum":"Proteobacteria",
+    "Species":"Lysobacter ginsengisoli"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Lysobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.932427633764",
+    "Phylum":"Proteobacteria",
+    "Species":"Lysobacter sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Pseudoxanthomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0910663352387",
+    "Phylum":"Proteobacteria",
+    "Species":"Pseudoxanthomonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Stenotrophomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0458195397427",
+    "Phylum":"Proteobacteria",
+    "Species":"Stenotrophomonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Thermomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.844797764006",
+    "Phylum":"Proteobacteria",
+    "Species":"Thermomonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Xanthomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0733112635884",
+    "Phylum":"Proteobacteria",
+    "Species":"Xanthomonas axonopodis"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Xanthomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0939300564726",
+    "Phylum":"Proteobacteria",
+    "Species":"Xanthomonas sp"
+  },
+  {
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Xylella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Percent":"0.0223370256246",
+    "Phylum":"Proteobacteria",
+    "Species":"Xylella sp"
+  },
+  {
+    "Class":"TM7 (class)",
+    "Family":"TM7 (family)",
+    "Genus":"TM7 (genus)",
+    "Kingdom":"Bacteria",
+    "Order":"TM7 (order)",
+    "Percent":"0.021191537131",
+    "Phylum":"TM7",
+    "Species":"TM7 uncultured"
+  },
+  {
+    "Class":"Mollicutes",
+    "Family":"Mollicutes (family) (family)",
+    "Genus":"Mollicutes (genus)",
+    "Kingdom":"Bacteria",
+    "Order":"Mollicutes (family)",
+    "Percent":"0.0206187928842",
+    "Phylum":"Tenericutes",
+    "Species":"Mollicutes sp"
+  },
+  {
+    "Class":"Opitutae",
+    "Family":"Opitutaceae",
+    "Genus":"Opitutus",
+    "Kingdom":"Bacteria",
+    "Order":"Opitutales",
+    "Percent":"0.0177550716503",
+    "Phylum":"Verrucomicrobia",
+    "Species":"Opitutus sp"
+  },
+  {
+    "Class":"Verrucomicrobiae",
+    "Family":"Verrucomicrobiaceae",
+    "Genus":"Verrucomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Verrucomicrobiales",
+    "Percent":"0.021191537131",
+    "Phylum":"Verrucomicrobia",
+    "Species":"Verrucomicrobium sp"
+  },
+  {
+    "Class":"No Hit",
+    "Family":"No Hit",
+    "Genus":"No Hit",
+    "Kingdom":"No Hit",
+    "Order":"No Hit",
+    "Percent":"2.15122739092",
+    "Phylum":"No Hit",
+    "Species":"No Hit"
+  }
+]
