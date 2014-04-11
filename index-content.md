@@ -11,6 +11,6 @@ an archive of dirt & microbes from along the PCT in California
 
 these diagrams show the proportion of different bacteria species as present in each sample:
 
-* Sample 1 : <./ClusteredCircles.html?s=1>
-* Sample 2 : ./ClusteredCircles.html?s=2
-* [Sample 3 : ./ClusteredCircles.html?s=3](./ClusteredCircles.html?s=3)
+* Sample 1: [./ClusteredSpecies.html?s=3](./ClusteredSpecies.html?s=3)
+* Sample 2: [./ClusteredSpecies.html?s=3](./ClusteredSpecies.html?s=3)
+* Sample 3: [./ClusteredSpecies.html?s=3](./ClusteredSpecies.html?s=3)
