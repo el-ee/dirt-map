@@ -14,6 +14,7 @@
 	<link href="style/tipsy.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 <body>
+  <div id="header"></div>
 	<div id="graph"></div>
 	<div id="legend"></div>
   <div><p id="tooltip"></p></div>
@@ -26,12 +27,18 @@ var color_dict = sites_bright;
 var url_obj = urlObject(document.URL);
 var bacteria_number = url_obj["parameters"]["b"];
 
-var num_bacteria = 1247;
+var num_bacteria = 431;
 
 // Default to sample 1
-if  (!bacteria_number || bacteria_number < 1 || bacteria_number > num_bacteria) {bacteria_number = "1"; alert("you did not specify a valid bacteria number; default is to display data from bacteria # 1");}
+if  (!bacteria_number || bacteria_number < 1 || bacteria_number > num_bacteria) {bacteria_number = 1; console.log("Requested sample out of range; default is to display data from genus # 1");}
 
 var file_name = "json/cluster-samples-genus-trimmed/cluster-samples-genus_row_" + bacteria_number + ".json";
+
+var home_link = d3.select("#header").append("a")
+  .attr("href", "http://dirtmap.org");
+
+home_link.append("h2")
+    .text("\u00AB dirtmap.org");
 
 d3.select("#description").append("h2")
 	.text("File: " + file_name);
@@ -74,14 +81,17 @@ function visualizeit() {
 
     links_par.append("a")
         .attr("href", "./ClusteredSamples-Genus.html?b="+(bacteria_number-1).toString())
-        .text("<< prev  ");
+        .text("\u00AB prev  ");
+        
+    links_par.append("span")
+        .text(" . . . ");
 
     links_par.append("a")
       .attr("href", "./ClusteredSamples-Genus.html?b="+(bacteria_number+1).toString())
-      .text("  next >>");
+      .text("  next \u00bB");
   
     d3.select("#description").append("p")
-     	.text("This graph represents the distribution of bacteria in different samples. Each circle represents a particular soil sample. Size indicates what percentage of this sample consisted of the bacteria in this graph. Colors are coded based on the location of the sample.")
+     	.text("This graph represents the distribution of bacteria across the samples. Each circle represents a particular soil sample. Size indicates what percentage of this sample consisted of the bacteria in this graph. Colors are coded based on the location of the sample.")
   
   
   
