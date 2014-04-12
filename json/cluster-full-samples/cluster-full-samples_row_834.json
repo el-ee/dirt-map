@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.028818443804",
+      "sample":"S50"
+    },
+    {
+      "percent":"0.0395840080607",
+      "sample":"S51"
+    },
+    {
+      "percent":"0.0144068864917",
+      "sample":"S52"
+    },
+    {
+      "percent":"0.0437363323961",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Roseomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":834,
+    "Species":"Roseomonas gilardii"
+  }
+}

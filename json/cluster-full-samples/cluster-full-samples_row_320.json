@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0881801265908",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacteroidia",
+    "Family":"Porphyromonadaceae",
+    "Genus":"Petrimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Bacteroidales",
+    "Phylum":"Bacteroidetes",
+    "Row":320,
+    "Species":"Petrimonas sp"
+  }
+}

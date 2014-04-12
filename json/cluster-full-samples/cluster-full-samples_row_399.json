@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0700576628456",
+      "sample":"S36"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Mucilaginibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":399,
+    "Species":"Mucilaginibacter gracilis"
+  }
+}

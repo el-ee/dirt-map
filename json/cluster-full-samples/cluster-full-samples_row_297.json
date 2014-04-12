@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0763457172036",
+      "sample":"S39"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Thermomonosporaceae",
+    "Genus":"Actinomadura",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":297,
+    "Species":"Actinomadura echinospora"
+  }
+}

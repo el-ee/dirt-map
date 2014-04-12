@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0143186061696",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0127039165427",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0149426068057",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.120135805693",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0280842997063",
+      "sample":"S5"
+    },
+    {
+      "percent":"0.0484628199303",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.0508587869453",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Pseudomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1187,
+    "Species":"Pseudomonas putida"
+  }
+}

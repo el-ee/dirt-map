@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0261164794986",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.700534855661",
+      "sample":"S52"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Cytophaga",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":329,
+    "Species":"Cytophaga hutchinsonii"
+  }
+}

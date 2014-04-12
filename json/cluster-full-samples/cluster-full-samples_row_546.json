@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0452467954959",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0283969899191",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Ureibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":546,
+    "Species":"Ureibacillus sp"
+  }
+}

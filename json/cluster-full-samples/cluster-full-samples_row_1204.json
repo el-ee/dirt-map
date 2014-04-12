@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.164897313945",
+      "sample":"S19"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Dyella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1204,
+    "Species":"Dyella japonica"
+  }
+}

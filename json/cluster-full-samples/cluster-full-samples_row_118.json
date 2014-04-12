@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0244515384093",
+      "sample":"S15"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Actinoplanes",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":118,
+    "Species":"Actinoplanes durhamensis"
+  }
+}

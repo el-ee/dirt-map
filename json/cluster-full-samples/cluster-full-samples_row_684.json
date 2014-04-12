@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0172144298237",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0332191663135",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0978948862999",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0901805312144",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Hyphomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":684,
+    "Species":"Hyphomicrobium vulgare"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.758580401421",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Phormidium",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":473,
+    "Species":"Phormidium murrayi"
+  }
+}

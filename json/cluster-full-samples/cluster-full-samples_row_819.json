@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0142131258217",
+      "sample":"S37"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Gluconobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":819,
+    "Species":"Gluconobacter cerinus"
+  }
+}

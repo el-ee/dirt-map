@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0757231561411",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Frateuria",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1208,
+    "Species":"Frateuria sp"
+  }
+}

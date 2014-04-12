@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0404023220703",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0853140748383",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.0208353760173",
+      "sample":"S46"
+    },
+    {
+      "percent":"23.830285515",
+      "sample":"S47"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Bacillaceae",
+    "Genus":"Bacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":502,
+    "Species":"Bacillus novalis"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0421300977418",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.151486982448",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0910663352387",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0448373525038",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.624183860016",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0153136751119",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.112715238141",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0345168787537",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Pseudoxanthomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1224,
+    "Species":"Pseudoxanthomonas sp"
+  }
+}

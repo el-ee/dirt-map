@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0340303891375",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0527603242362",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Lachnospiraceae",
+    "Genus":"Blautia",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":578,
+    "Species":"Blautia luti"
+  }
+}

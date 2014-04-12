@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0233908180407",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0263313110886",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0595924395331",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.100108011275",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0210417046586",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0157529930687",
+      "sample":"S6"
+    },
+    {
+      "percent":"0.092154316592",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylocystaceae",
+    "Genus":"Methylocystis",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":717,
+    "Species":"Methylocystis rosea"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0494520028061",
+      "sample":"S4"
+    }
+  ],
+  "taxa":{
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":361,
+    "Species":"Flavobacterium aquidurense"
+  }
+}

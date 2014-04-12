@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.456582750387",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Pigmentiphaga",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":924,
+    "Species":"Pigmentiphaga kullae"
+  }
+}

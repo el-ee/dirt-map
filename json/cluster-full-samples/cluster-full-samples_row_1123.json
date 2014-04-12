@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0157987866532",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.020951981867",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0538048230046",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0147232037691",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0154305834163",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0105141415203",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0479245004792",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0101014635898",
+      "sample":"S34"
+    }
+  ],
+  "taxa":{
+    "Class":"Epsilonproteobacteria",
+    "Family":"Helicobacteraceae",
+    "Genus":"Helicobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Campylobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":1123,
+    "Species":"Helicobacter sp"
+  }
+}

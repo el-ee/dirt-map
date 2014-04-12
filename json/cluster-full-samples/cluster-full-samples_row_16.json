@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0153569589608",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.044589359864",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0117753267653",
+      "sample":"S43"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Acidothermaceae",
+    "Genus":"Acidothermus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":16,
+    "Species":"Acidothermus cellulolyticus"
+  }
+}

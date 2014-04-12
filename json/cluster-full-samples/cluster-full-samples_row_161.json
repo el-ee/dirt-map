@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.017177071064",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0194852009898",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0220839927859",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0117473316775",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0104465917994",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0110595001106",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0172506986533",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0143209027897",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Mycobacteriaceae",
+    "Genus":"Mycobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":161,
+    "Species":"Mycobacterium neglectum"
+  }
+}

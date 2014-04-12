@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0116593903434",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.020371044016",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0260445734271",
+      "sample":"S35"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Thauera",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1073,
+    "Species":"Thauera butanivorans"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.18779342723",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Microbacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":90,
+    "Species":"Microbacterium esteraromaticum"
+  }
+}

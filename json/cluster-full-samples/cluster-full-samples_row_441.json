@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.466213816882",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.478430135129",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.405876116917",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Chroococcales (family)",
+    "Genus":"Chamaesiphon",
+    "Kingdom":"Bacteria",
+    "Order":"Chroococcales",
+    "Phylum":"Cyanobacteria",
+    "Row":441,
+    "Species":"Chamaesiphon subglobosus"
+  }
+}

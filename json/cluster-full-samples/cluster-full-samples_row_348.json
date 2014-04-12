@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.225755791127",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0196255446089",
+      "sample":"S43"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Spirosoma",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":348,
+    "Species":"Spirosoma rigui"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0357319085944",
+      "sample":"S48"
+    },
+    {
+      "percent":"4.05121692025",
+      "sample":"S56"
+    },
+    {
+      "percent":"0.0984375654505",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Pontibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":343,
+    "Species":"Pontibacter korlensis"
+  }
+}

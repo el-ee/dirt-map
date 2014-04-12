@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0206573157884",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.135374362178",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Devosia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":674,
+    "Species":"Devosia ginsengisoli"
+  }
+}

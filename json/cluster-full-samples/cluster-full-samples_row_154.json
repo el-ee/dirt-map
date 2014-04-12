@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0180670105421",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.162243832199",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0700435007004",
+      "sample":"S33"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Mycobacteriaceae",
+    "Genus":"Mycobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":154,
+    "Species":"Mycobacterium kubicae"
+  }
+}

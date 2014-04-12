@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.033442019898",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0471013070613",
+      "sample":"S43"
+    },
+    {
+      "percent":"0.0439958592133",
+      "sample":"S44"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Spirosoma",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":347,
+    "Species":"Spirosoma escalantus"
+  }
+}

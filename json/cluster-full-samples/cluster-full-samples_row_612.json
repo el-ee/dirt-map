@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0168413416072",
+      "sample":"S16"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Alphaproteobacteria (family)",
+    "Genus":"Micavibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Alphaproteobacteria (order)",
+    "Phylum":"Proteobacteria",
+    "Row":612,
+    "Species":"Micavibrio sp"
+  }
+}

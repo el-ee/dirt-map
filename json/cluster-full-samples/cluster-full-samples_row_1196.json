@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0110172350871",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0360828875474",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0515629553794",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Aquimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1196,
+    "Species":"Aquimonas sp"
+  }
+}

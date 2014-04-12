@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0127039165427",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0839368794666",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Ottowia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":982,
+    "Species":"Ottowia sp"
+  }
+}

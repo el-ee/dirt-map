@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.017177071064",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0314267756128",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0153136751119",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0479639311238",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Zoogloea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1076,
+    "Species":"Zoogloea ramigera"
+  }
+}

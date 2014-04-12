@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0125468546604",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.046291750249",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0954774848503",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0472207231516",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.573917853686",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.114364872266",
+      "sample":"S61"
+    },
+    {
+      "percent":"0.0991648460621",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Adhaeribacter",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":326,
+    "Species":"Adhaeribacter sp"
+  }
+}

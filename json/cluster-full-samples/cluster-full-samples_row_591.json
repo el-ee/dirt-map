@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0784653668816",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0112222424846",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0565070828706",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0104465917994",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0626705006267",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.021325312023",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0158640451332",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.088733272579",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Thermodesulfobiaceae",
+    "Genus":"Thermodesulfobium",
+    "Kingdom":"Bacteria",
+    "Order":"Thermoanaerobacterales",
+    "Phylum":"Firmicutes",
+    "Row":591,
+    "Species":"Thermodesulfobium sp"
+  }
+}

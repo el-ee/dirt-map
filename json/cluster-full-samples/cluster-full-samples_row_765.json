@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0231673912155",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0294920002949",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.020700838384",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0221973993241",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Xanthobacteraceae",
+    "Genus":"Labrys",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":765,
+    "Species":"Labrys monachus"
+  }
+}

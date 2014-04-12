@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0126390293225",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0448373525038",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0461023736136",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0643011632665",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0153136751119",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0351053746329",
+      "sample":"S5"
+    },
+    {
+      "percent":"0.0393760411934",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.0116248655875",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Pedomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":686,
+    "Species":"Pedomicrobium ferrugineum"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0220848056537",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.018281535649",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0183997476606",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0297607237808",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.0138067515015",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylobacteriaceae",
+    "Genus":"Methylobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":703,
+    "Species":"Methylobacterium extorquens"
+  }
+}

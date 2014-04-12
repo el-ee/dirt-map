@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.114045773826",
+      "sample":"S56"
+    },
+    {
+      "percent":"0.0121006776379",
+      "sample":"S60"
+    },
+    {
+      "percent":"1.14145687597",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Sanguibacteraceae",
+    "Genus":"Sanguibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":261,
+    "Species":"Sanguibacter antarcticus"
+  }
+}

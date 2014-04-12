@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.169415516468",
+      "sample":"S47"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Alicyclobacillaceae",
+    "Genus":"Alicyclobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":493,
+    "Species":"Alicyclobacillus pomorum"
+  }
+}

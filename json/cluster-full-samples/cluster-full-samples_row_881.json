@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0218255763815",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Blastomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":881,
+    "Species":"Blastomonas natatoria"
+  }
+}

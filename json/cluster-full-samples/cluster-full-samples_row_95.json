@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"1.93380104335",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0472069236821",
+      "sample":"S59"
+    },
+    {
+      "percent":"2.30431475591",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.386585483715",
+      "sample":"S61"
+    },
+    {
+      "percent":"2.34431893894",
+      "sample":"S62"
+    },
+    {
+      "percent":"0.157081221464",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Okibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":95,
+    "Species":"Okibacterium fritillariae"
+  }
+}

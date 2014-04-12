@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"2.0043899202",
+      "sample":"S48"
+    },
+    {
+      "percent":"1.3539300318",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Chitinimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":940,
+    "Species":"Chitinimonas taiwanensis"
+  }
+}

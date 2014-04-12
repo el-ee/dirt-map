@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0412375857685",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.855375090079",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.708768741481",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Phormidium",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":474,
+    "Species":"Phormidium priestleyi"
+  }
+}

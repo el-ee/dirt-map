@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0200411910437",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Nostocaceae",
+    "Genus":"Anabaenopsis",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":453,
+    "Species":"Anabaenopsis nadsonii"
+  }
+}

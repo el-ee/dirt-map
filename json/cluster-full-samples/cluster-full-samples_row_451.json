@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.877974731043",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Nostocaceae",
+    "Genus":"Anabaena",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":451,
+    "Species":"Anabaena cylindrica"
+  }
+}

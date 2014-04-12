@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0453420735578",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.141028989292",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0204085797669",
+      "sample":"S40"
+    },
+    {
+      "percent":"0.0257849234036",
+      "sample":"S50"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Leifsonia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":85,
+    "Species":"Leifsonia kafniensis"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.017722326587",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0119259004055",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.0130582397493",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.151146501511",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0654735923178",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.0257378174331",
+      "sample":"S46"
+    },
+    {
+      "percent":"0.0262260687123",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.023629489603",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardiaceae",
+    "Genus":"Rhodococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":178,
+    "Species":"Rhodococcus erythropolis"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.013173117676",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Rhodobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":789,
+    "Species":"Rhodobacter blasticus"
+  }
+}

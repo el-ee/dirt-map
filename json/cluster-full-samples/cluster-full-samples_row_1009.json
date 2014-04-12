@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0170115040296",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.028529234074",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0119042895123",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.010795638562",
+      "sample":"S51"
+    },
+    {
+      "percent":"0.0684327108358",
+      "sample":"S52"
+    },
+    {
+      "percent":"0.0123658412823",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Herminiimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":1009,
+    "Species":"Herminiimonas glaciei"
+  }
+}

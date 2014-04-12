@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0137715438589",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0681565653673",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0545585627716",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":371,
+    "Species":"Flavobacterium soli"
+  }
+}

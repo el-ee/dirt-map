@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0148850660259",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.017722326587",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.054844606947",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Gluconacetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":817,
+    "Species":"Gluconacetobacter sacchari"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.43558898096",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0263801621181",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0308752056129",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.0121727673713",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Lysobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1215,
+    "Species":"Lysobacter brunescens"
+  }
+}

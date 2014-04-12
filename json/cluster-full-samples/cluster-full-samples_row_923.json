@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"4.32078079839",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Pigmentiphaga",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":923,
+    "Species":"Pigmentiphaga daeguensis"
+  }
+}

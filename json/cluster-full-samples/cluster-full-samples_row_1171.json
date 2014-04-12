@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0704475423544",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.054844606947",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0238085790246",
+      "sample":"S45"
+    },
+    {
+      "percent":"33.7091871752",
+      "sample":"S46"
+    },
+    {
+      "percent":"0.153484579596",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0271488876941",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Acinetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1171,
+    "Species":"Acinetobacter calcoaceticus"
+  }
+}

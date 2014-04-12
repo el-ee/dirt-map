@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0145761004956",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.0156698876991",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Alkanindiges",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1174,
+    "Species":"Alkanindiges sp"
+  }
+}
