@@ -31,7 +31,7 @@ var num_bacteria = 1247;
 // Default to sample 1
 if  (!bacteria_number || bacteria_number < 1 || bacteria_number > num_bacteria) {bacteria_number = "1"; alert("you did not specify a valid bacteria number; default is to display data from bacteria # 1");}
 
-var file_name = "json/cluster-full-samples/cluster-full-samples_row_" + bacteria_number + ".json";
+var file_name = "json/cluster-samples-species-full/cluster-full-samples_row_" + bacteria_number + ".json";
 
 d3.select("#description").append("h2")
 	.text("File: " + file_name);
