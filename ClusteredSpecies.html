@@ -14,6 +14,7 @@
 	<link href="style/tipsy.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 <body>
+  <div id="header"></div>
 	<div id="graph"></div>
 	<div id="legend"></div>
 	<div id="description"></div>
@@ -25,6 +26,12 @@ var color_dict = clusters_bright;
 var url_obj = urlObject(document.URL);
 var sample_num = url_obj["parameters"]["s"];
 
+var home_link = d3.select("#header").append("a")
+  .attr("href", "http://dirtmap.org");
+
+home_link.append("h2")
+    .text("\u00AB dirtmap.org");
+
 // Default to sample 1
 if  (!sample_num) {sample_num = 1; alert("you did not specify a sample number; default is to display sample 1");}
 
@@ -33,9 +40,23 @@ var file_name = "json/cluster-species/cluster-species_S" + sample_num + ".json";
 d3.select("#description").append("h2")
 	.text("File: " + file_name);
 	
-d3.select("#description").append("p")
-	.text("Each circle represents a particular species of bacteria found in the sample, scaled by abundance percentage. Colors are coded at the Phylum level.")
-	
+  var links_par = d3.select("#description").append("p");
+  
+  links_par.append("a")
+      .attr("href", "./ClusteredSamples.html?b="+(sample_num-1).toString())
+      .text("\u00AB prev  ");
+    
+  links_par.append("span")
+      .text(" . . . ");
+
+  links_par.append("a")
+    .attr("href", "./ClusteredSamples.html?b="+(sample_num+1).toString())
+    .text("  next \u00bB");
+    
+    d3.select("#description").append("p")
+    	.text("Each circle represents a particular species of bacteria found in the sample, scaled by abundance percentage. Colors are coded at the Phylum level.")
+      
+  
 var width = 700
     height = 700,
     padding = 1.5, // separation between same-color nodes
@@ -122,6 +143,8 @@ function visualizeit() {
 	      var i = d3.interpolate(0, d.radius);
 	      return function(t) { return d.radius = i(t); };
 	    });
+      
+      
 
 	$('svg circle').tipsy({ 
 	        gravity: 'w', 
