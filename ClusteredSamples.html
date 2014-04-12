@@ -189,38 +189,7 @@ function visualizeit() {
 	
 }
 
-function drawLegend(colors) {
 
-	var key_dim = {
-		radius: 5, spacing: 5, text_w: 200
-	};
-	
-	
-	var legend = d3.select("#legend").append("svg")
-		.attr("width", key_dim.text_w)
-		.attr("height", (key_dim.radius*2 + key_dim.spacing) * d3.keys(colors).length);
-			
-	var key_element = legend.selectAll("key_element")
-		.data(d3.entries(colors))
-		.enter().append("g")
-		.attr("transform", function(d, i) {
-			return "translate(0," + i * (key_dim.radius*2 + key_dim.spacing) + ")";
-		});
-		
-		
-	key_element.append("circle")
-		.attr("r", key_dim.radius)
-		.style("fill", function(d) {return d.value});
-	
-		
-	key_element.append("text")
-		.attr("x", key_dim.radius*2 + key_dim.spacing)
-		.attr("y", key_dim.radius)
-		.attr("font-size", key_dim.radius*2 + key_dim.spacing/2)
-		.attr("text-anchor", "center")
-		.text(function(d) { return d.key});
-
-}
 
 // Move d to be adjacent to the cluster node.
 function cluster(alpha) {

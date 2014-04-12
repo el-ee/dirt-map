@@ -21,10 +21,15 @@
 
 <script>
 
-var color_dict = clusters_bright;
+/** File and page layout setup **/
 
 var url_obj = urlObject(document.URL);
+
 var sample_num = url_obj["parameters"]["s"];
+// Default to sample 1
+if  (!sample_num) {sample_num = 1; alert("you did not specify a sample number; default is to display sample 1");}
+var file_name = "json/cluster-species/cluster-species_S" + sample_num + ".json";
+
 
 var home_link = d3.select("#header").append("a")
   .attr("href", "http://dirtmap.org");
@@ -32,10 +37,6 @@ var home_link = d3.select("#header").append("a")
 home_link.append("h2")
     .text("\u00AB dirtmap.org");
 
-// Default to sample 1
-if  (!sample_num) {sample_num = 1; alert("you did not specify a sample number; default is to display sample 1");}
-
-var file_name = "json/cluster-species/cluster-species_S" + sample_num + ".json";
 
 d3.select("#description").append("h2")
 	.text("File: " + file_name);
@@ -43,20 +44,25 @@ d3.select("#description").append("h2")
   var links_par = d3.select("#description").append("p");
   
   links_par.append("a")
-      .attr("href", "./ClusteredSamples.html?b="+(sample_num-1).toString())
+      .attr("href", "./ClusteredSpecies.html?b="+(sample_num-1).toString())
       .text("\u00AB prev  ");
     
   links_par.append("span")
       .text(" . . . ");
 
   links_par.append("a")
-    .attr("href", "./ClusteredSamples.html?b="+(sample_num+1).toString())
+    .attr("href", "./ClusteredSpecies.html?b="+(sample_num+1).toString())
     .text("  next \u00bB");
     
     d3.select("#description").append("p")
     	.text("Each circle represents a particular species of bacteria found in the sample, scaled by abundance percentage. Colors are coded at the Phylum level.")
       
   
+  
+/** Graph setup **/
+
+var color_dict = clusters_bright;
+      
 var width = 700
     height = 700,
     padding = 1.5, // separation between same-color nodes
