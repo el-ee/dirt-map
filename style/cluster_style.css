@@ -49,3 +49,11 @@ circle:hover {
   fill: none;
   stroke: #bbb;
 }
+
+a, a:link, a:active, a:visited {
+  color: #333;
+}
+
+a:hover {
+  color: #666;
+}
