@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0141778612696",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0122693364743",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0526100426726",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Aneurinibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":515,
+    "Species":"Aneurinibacillus terranovensis"
+  }
+}

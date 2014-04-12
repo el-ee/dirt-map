@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0184409494455",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0244902957203",
+      "sample":"S40"
+    },
+    {
+      "percent":"0.0250815149235",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0257926272767",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.0117017915443",
+      "sample":"S5"
+    },
+    {
+      "percent":"0.0251898233114",
+      "sample":"S51"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Terrabacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":56,
+    "Species":"Terrabacter sp"
+  }
+}

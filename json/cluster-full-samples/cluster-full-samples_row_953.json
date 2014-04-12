@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0114548849357",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.105367778384",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0187167140256",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0287783586743",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Leptothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":953,
+    "Species":"Leptothrix cholodnii"
+  }
+}

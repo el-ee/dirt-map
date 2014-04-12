@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0112093381259",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0204182334825",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0191855724495",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Alteromonadaceae",
+    "Genus":"Haliea",
+    "Kingdom":"Bacteria",
+    "Order":"Alteromonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1130,
+    "Species":"Haliea salexigens"
+  }
+}

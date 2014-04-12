@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0170115040296",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.1961867393",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0265020009011",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.061855461026",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0123462332765",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.112575507963",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.0252120513606",
+      "sample":"S52"
+    },
+    {
+      "percent":"0.0157771078429",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Mycobacteriaceae",
+    "Genus":"Mycobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":162,
+    "Species":"Mycobacterium riyadhense"
+  }
+}

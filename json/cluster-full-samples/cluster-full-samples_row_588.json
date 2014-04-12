@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.372150025781",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Thermoanaerobacteraceae",
+    "Genus":"Moorella",
+    "Kingdom":"Bacteria",
+    "Order":"Thermoanaerobacterales",
+    "Phylum":"Firmicutes",
+    "Row":588,
+    "Species":"Moorella sp"
+  }
+}

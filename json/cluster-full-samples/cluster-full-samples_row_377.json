@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0594863966957",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0621025151519",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.166087312952",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Chitinophaga",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":377,
+    "Species":"Chitinophaga arvensicola"
+  }
+}

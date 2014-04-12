@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0151446312282",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Chromobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Phylum":"Proteobacteria",
+    "Row":1041,
+    "Species":"Chromobacterium violaceum"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0221183013145",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0100246319528",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Haliangiaceae",
+    "Genus":"Haliangium",
+    "Kingdom":"Bacteria",
+    "Order":"Myxococcales",
+    "Phylum":"Proteobacteria",
+    "Row":1106,
+    "Species":"Haliangium sp"
+  }
+}

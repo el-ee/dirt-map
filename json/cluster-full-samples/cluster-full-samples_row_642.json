@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0526924707041",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0194323172391",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0108402063253",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.024872970188",
+      "sample":"S37"
+    },
+    {
+      "percent":"0.132718517636",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0287783586743",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0106466226251",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.108152886762",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Methylocapsa",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":642,
+    "Species":"Methylocapsa acidiphila"
+  }
+}

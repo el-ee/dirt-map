@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0936464982407",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0104904274849",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Chryseobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":358,
+    "Species":"Chryseobacterium soli"
+  }
+}

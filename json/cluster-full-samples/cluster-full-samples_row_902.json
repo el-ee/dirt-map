@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0562001031618",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0159897665494",
+      "sample":"S37"
+    },
+    {
+      "percent":"0.0630301284014",
+      "sample":"S52"
+    },
+    {
+      "percent":"0.0104134124753",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":902,
+    "Species":"Sphingomonas phyllosphaerae"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0283969899191",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0196309383589",
+      "sample":"S20"
+    }
+  ],
+  "taxa":{
+    "Class":"Deinococci",
+    "Family":"Thermaceae",
+    "Genus":"Thermus",
+    "Kingdom":"Bacteria",
+    "Order":"Thermales",
+    "Phylum":"Deinococcus-Thermus",
+    "Row":490,
+    "Species":"Thermus sp"
+  }
+}

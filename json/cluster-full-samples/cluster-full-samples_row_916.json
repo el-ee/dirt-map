@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.126533194555",
+      "sample":"S40"
+    },
+    {
+      "percent":"0.0529498648385",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.129528594418",
+      "sample":"S43"
+    },
+    {
+      "percent":"0.078933747412",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0134817138935",
+      "sample":"S46"
+    },
+    {
+      "percent":"0.0238212723962",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0289957657654",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Betaproteobacteria (family)",
+    "Genus":"Nitrotoga",
+    "Kingdom":"Bacteria",
+    "Order":"Betaproteobacteria (order)",
+    "Phylum":"Proteobacteria",
+    "Row":916,
+    "Species":"Nitrotoga arctica"
+  }
+}

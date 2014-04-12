@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0733546152279",
+      "sample":"S15"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Kineosporiaceae",
+    "Genus":"Kineosporia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":66,
+    "Species":"Kineosporia mikuniensis"
+  }
+}

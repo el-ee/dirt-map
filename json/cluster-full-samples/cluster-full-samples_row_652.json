@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0420032087697",
+      "sample":"S12"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Bosea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":652,
+    "Species":"Bosea minatitlanensis"
+  }
+}

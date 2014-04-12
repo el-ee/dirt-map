@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.145323078014",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.138344927028",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0167819023965",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0104465917994",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0153136751119",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0253123777527",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Massilia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":1020,
+    "Species":"Massilia dura"
+  }
+}

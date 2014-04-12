@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0148850660259",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0106333959522",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0312856564467",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0145507457257",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0128888125107",
+      "sample":"S6"
+    },
+    {
+      "percent":"0.0520670623763",
+      "sample":"S8"
+    },
+    {
+      "percent":"0.110454012012",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Micromonospora",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":139,
+    "Species":"Micromonospora matsumotoense"
+  }
+}

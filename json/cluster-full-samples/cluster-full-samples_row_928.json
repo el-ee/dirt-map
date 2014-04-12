@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0552873880962",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0248112572218",
+      "sample":"S2"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Burkholderia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":928,
+    "Species":"Burkholderia acidipaludis"
+  }
+}

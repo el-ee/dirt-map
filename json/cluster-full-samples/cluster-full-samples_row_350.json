@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.333181887021",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Spirosoma",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":350,
+    "Species":"Spirosoma spitsbergense"
+  }
+}

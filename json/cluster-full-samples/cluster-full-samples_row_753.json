@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0152378049942",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0392488999979",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.012265089467",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0138810394916",
+      "sample":"S39"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Shinella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":753,
+    "Species":"Shinella zoogloeoides"
+  }
+}

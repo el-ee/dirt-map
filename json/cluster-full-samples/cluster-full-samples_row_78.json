@@ -1,0 +1,50 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0282316649108",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.024530178934",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0122693364743",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0136396406929",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0540521891137",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0168219461698",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0447158150256",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.128172079968",
+      "sample":"S6"
+    },
+    {
+      "percent":"0.657646713861",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Cryocola",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":78,
+    "Species":"Cryocola sp"
+  }
+}

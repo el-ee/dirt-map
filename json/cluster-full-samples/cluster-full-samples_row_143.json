@@ -1,0 +1,54 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0106321900185",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0820468169184",
+      "sample":"S18"
+    },
+    {
+      "percent":"0.077978236983",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0196309383589",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0210753707948",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0128823291251",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0167819023965",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0156698876991",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0139341749575",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0895553472873",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Pseudosporangium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":143,
+    "Species":"Pseudosporangium ferrugineum"
+  }
+}

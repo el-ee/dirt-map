@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.140949696196",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0913067771433",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.565080489326",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0892352538743",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.0143941847494",
+      "sample":"S51"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Fulvimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1209,
+    "Species":"Fulvimonas sp"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0127586280222",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0286185420897",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0106333959522",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.017251925158",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.0589167730442",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0214337210888",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0460083183039",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.134865185516",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0921625009216",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.023629489603",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Kribbella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":191,
+    "Species":"Kribbella jejuensis"
+  }
+}

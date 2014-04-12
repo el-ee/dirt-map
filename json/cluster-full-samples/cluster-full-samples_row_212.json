@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"1.08861875016",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Propionibacteriaceae",
+    "Genus":"Aestuariimicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":212,
+    "Species":"Aestuariimicrobium kwangyangense"
+  }
+}

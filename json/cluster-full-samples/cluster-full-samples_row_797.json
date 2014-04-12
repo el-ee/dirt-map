@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0183278158971",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0663592588181",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0455657345676",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Tetracoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":797,
+    "Species":"Tetracoccus cechii"
+  }
+}

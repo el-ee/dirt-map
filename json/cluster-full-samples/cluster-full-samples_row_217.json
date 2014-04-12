@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.131164139264",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Propionibacteriaceae",
+    "Genus":"Microlunatus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":217,
+    "Species":"Microlunatus phosphovorus"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0151037121568",
+      "sample":"S27"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Legionellaceae",
+    "Genus":"Legionella",
+    "Kingdom":"Bacteria",
+    "Order":"Legionellales",
+    "Phylum":"Proteobacteria",
+    "Row":1162,
+    "Species":"Legionella wadsworthii"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.039015689881",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.357413296986",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingopyxis",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":907,
+    "Species":"Sphingopyxis alaskensis"
+  }
+}

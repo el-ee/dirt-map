@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0790247567722",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0466234786023",
+      "sample":"S20"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Thermoactinomycetaceae",
+    "Genus":"Laceyella",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":550,
+    "Species":"Laceyella sacchari"
+  }
+}

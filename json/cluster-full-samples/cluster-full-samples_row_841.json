@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0878388611237",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.0230112525025",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Roseomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":841,
+    "Species":"Roseomonas vinaceus"
+  }
+}

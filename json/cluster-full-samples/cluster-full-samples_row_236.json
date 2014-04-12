@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0915804446523",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Amycolatopsis",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":236,
+    "Species":"Amycolatopsis orientalis"
+  }
+}

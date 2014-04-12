@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.340566537037",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Micromonospora",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":138,
+    "Species":"Micromonospora coxensis"
+  }
+}

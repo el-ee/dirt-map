@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.473022409011",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0671495035733",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Vogesella",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Phylum":"Proteobacteria",
+    "Row":1048,
+    "Species":"Vogesella indigofera"
+  }
+}

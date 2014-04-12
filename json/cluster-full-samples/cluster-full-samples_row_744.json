@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0190178632072",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0261164794986",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0207355952412",
+      "sample":"S56"
+    },
+    {
+      "percent":"0.125885129819",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Kaistia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":744,
+    "Species":"Kaistia granuli"
+  }
+}

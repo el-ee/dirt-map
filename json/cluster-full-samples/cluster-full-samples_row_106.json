@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0544309375081",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micrococcaceae",
+    "Genus":"Arthrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":106,
+    "Species":"Arthrobacter ardleyensis"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.329517532999",
+      "sample":"S11"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Carnobacteriaceae",
+    "Genus":"Desemzia",
+    "Kingdom":"Bacteria",
+    "Order":"Lactobacillales",
+    "Phylum":"Firmicutes",
+    "Row":554,
+    "Species":"Desemzia incerta"
+  }
+}

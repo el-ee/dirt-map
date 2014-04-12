@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0215837690057",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0138067515015",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Nocardioides",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":207,
+    "Species":"Nocardioides terrae"
+  }
+}

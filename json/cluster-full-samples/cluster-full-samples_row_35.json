@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0604816720704",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.0130779737859",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Geodermatophilaceae",
+    "Genus":"Blastococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":35,
+    "Species":"Blastococcus aggregatus"
+  }
+}

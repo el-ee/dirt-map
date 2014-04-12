@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.426543503362",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0310917075825",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0284849837944",
+      "sample":"S36"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Silvimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Phylum":"Proteobacteria",
+    "Row":1047,
+    "Species":"Silvimonas terrae"
+  }
+}

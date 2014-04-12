@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0126003734292",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Dokdonella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1202,
+    "Species":"Dokdonella koreensis"
+  }
+}

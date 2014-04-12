@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0255172560444",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0117209738455",
+      "sample":"S18"
+    },
+    {
+      "percent":"0.0266620661533",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.0214337210888",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0478486510361",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0117473316775",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0218245307726",
+      "sample":"S45"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Streptomycetaceae",
+    "Genus":"Streptomyces",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":275,
+    "Species":"Streptomyces griseoruber"
+  }
+}

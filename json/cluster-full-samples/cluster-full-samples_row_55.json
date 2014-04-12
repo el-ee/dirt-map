@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0179052915403",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0488889806992",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0163010256062",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0103639025275",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.134696626462",
+      "sample":"S40"
+    },
+    {
+      "percent":"0.0555533510575",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.0143209027897",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Terrabacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":55,
+    "Species":"Terrabacter lapilli"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0270748724357",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Deinococci",
+    "Family":"Deinococcaceae",
+    "Genus":"Deinococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Deinococcales",
+    "Phylum":"Deinococcus-Thermus",
+    "Row":487,
+    "Species":"Deinococcus yavapaiensis"
+  }
+}

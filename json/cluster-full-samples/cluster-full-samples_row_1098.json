@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0271683760103",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0145761004956",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.0101402395125",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0110595001106",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0108983114883",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Cystobacteraceae",
+    "Genus":"Cystobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Myxococcales",
+    "Phylum":"Proteobacteria",
+    "Row":1098,
+    "Species":"Cystobacter sp"
+  }
+}

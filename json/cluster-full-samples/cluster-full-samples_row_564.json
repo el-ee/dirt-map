@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0389466087813",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":564,
+    "Species":"Clostridium nexile"
+  }
+}

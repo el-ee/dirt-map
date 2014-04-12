@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0110172350871",
+      "sample":"S12"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Luteimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1214,
+    "Species":"Luteimonas sp"
+  }
+}

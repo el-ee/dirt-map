@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0361494460629",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0267907973611",
+      "sample":"S18"
+    },
+    {
+      "percent":"0.0218046034969",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.22403054822",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0292544788607",
+      "sample":"S5"
+    },
+    {
+      "percent":"0.0697491935249",
+      "sample":"S57"
+    },
+    {
+      "percent":"0.0170439579169",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Mucilaginibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":397,
+    "Species":"Mucilaginibacter daejeonensis"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0337919105603",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0230931196088",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0126250227952",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0315644415019",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0336953422669",
+      "sample":"S56"
+    },
+    {
+      "percent":"0.17539125742",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.068187778652",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.288687595077",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.808607970104",
+      "sample":"S61"
+    },
+    {
+      "percent":"0.209175847162",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Cryobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":77,
+    "Species":"Cryobacterium sp"
+  }
+}

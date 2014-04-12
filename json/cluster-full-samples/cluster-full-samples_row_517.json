@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.676207285177",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0425335838089",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0128823291251",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.540377257166",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.261164794986",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Brevibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":517,
+    "Species":"Brevibacillus ginsengisoli"
+  }
+}

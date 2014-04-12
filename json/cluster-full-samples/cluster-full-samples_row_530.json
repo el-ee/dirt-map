@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.021264380037",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.146139007424",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0417863671977",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0136048576502",
+      "sample":"S6"
+    },
+    {
+      "percent":"0.0690337575074",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Paenibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":530,
+    "Species":"Paenibacillus phyllosphaerae"
+  }
+}

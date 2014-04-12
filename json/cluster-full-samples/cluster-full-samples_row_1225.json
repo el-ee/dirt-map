@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.133194045443",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Pseudoxanthomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1225,
+    "Species":"Pseudoxanthomonas spadix"
+  }
+}

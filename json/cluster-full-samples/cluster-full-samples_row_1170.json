@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0187167140256",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0983260588038",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Saccharospirillaceae",
+    "Genus":"Saccharospirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Oceanospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":1170,
+    "Species":"Saccharospirillum sp"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0383767488071",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.0817810086324",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Microcoleus",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":470,
+    "Species":"Microcoleus sp"
+  }
+}

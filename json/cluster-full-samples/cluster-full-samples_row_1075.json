@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0254293934726",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Zoogloea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1075,
+    "Species":"Zoogloea caeni"
+  }
+}

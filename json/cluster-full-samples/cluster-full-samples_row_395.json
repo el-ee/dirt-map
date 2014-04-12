@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.119909827809",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Saprospiraceae",
+    "Genus":"Haliscomenobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":395,
+    "Species":"Haliscomenobacter hydrossis"
+  }
+}

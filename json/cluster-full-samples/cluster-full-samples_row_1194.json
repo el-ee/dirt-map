@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0106321900185",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.017722326587",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0145310819844",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Sinobacteraceae",
+    "Genus":"Singularimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1194,
+    "Species":"Singularimonas variicoloris"
+  }
+}

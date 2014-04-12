@@ -1,0 +1,50 @@
+{
+  "distribution":[
+    {
+      "percent":"0.508169968394",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0137458619228",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0230931196088",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0130876952569",
+      "sample":"S36"
+    },
+    {
+      "percent":"1.0540249044",
+      "sample":"S46"
+    },
+    {
+      "percent":"0.277338586351",
+      "sample":"S56"
+    },
+    {
+      "percent":"0.0404749055586",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0328446964459",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.0144969556393",
+      "sample":"S61"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Aeromicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":183,
+    "Species":"Aeromicrobium sp"
+  }
+}

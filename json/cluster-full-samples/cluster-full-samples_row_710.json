@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0330914795568",
+      "sample":"S46"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylobacteriaceae",
+    "Genus":"Methylobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":710,
+    "Species":"Methylobacterium suomiense"
+  }
+}

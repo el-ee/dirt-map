@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0151486982448",
+      "sample":"S12"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Rhodovibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":865,
+    "Species":"Rhodovibrio sp"
+  }
+}

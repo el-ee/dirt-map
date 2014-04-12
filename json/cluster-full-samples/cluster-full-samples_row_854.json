@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0119106361981",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Defluviicoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":854,
+    "Species":"Defluviicoccus vanus"
+  }
+}

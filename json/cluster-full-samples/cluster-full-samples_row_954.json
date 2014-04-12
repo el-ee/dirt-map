@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.479959678805",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Leptothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":954,
+    "Species":"Leptothrix discophora"
+  }
+}

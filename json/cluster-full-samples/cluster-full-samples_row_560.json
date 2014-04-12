@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.10237862155",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.240440127691",
+      "sample":"S15"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":560,
+    "Species":"Clostridium cellulovorans"
+  }
+}

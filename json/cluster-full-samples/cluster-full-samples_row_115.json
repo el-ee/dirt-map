@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0315644415019",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.336953422669",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micrococcaceae",
+    "Genus":"Kocuria",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":115,
+    "Species":"Kocuria rosea"
+  }
+}

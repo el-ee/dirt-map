@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0697622977319",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":799,
+    "Species":"Acetobacter malorum"
+  }
+}

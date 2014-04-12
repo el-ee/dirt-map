@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0848099348781",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Chitinimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":938,
+    "Species":"Chitinimonas koreensis"
+  }
+}

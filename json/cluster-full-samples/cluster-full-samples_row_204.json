@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0106321900185",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0149426068057",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0110419963929",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0268510438343",
+      "sample":"S27"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Nocardioides",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":204,
+    "Species":"Nocardioides panacihumi"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.112300284154",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Fusobacteriia",
+    "Family":"Fusobacteriaceae",
+    "Genus":"Cetobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Fusobacteriales",
+    "Phylum":"Fusobacteria",
+    "Row":596,
+    "Species":"Cetobacterium sp"
+  }
+}

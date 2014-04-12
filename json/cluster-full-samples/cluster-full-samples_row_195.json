@@ -1,0 +1,50 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0110172350871",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0564608459717",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.0687362352182",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.237192908065",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.221171335031",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0256269449021",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.143755822111",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0157356412274",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0107406770923",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Kribbella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":195,
+    "Species":"Kribbella swartbergensis"
+  }
+}

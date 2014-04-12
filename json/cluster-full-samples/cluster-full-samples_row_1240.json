@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0206187928842",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0663592588181",
+      "sample":"S48"
+    },
+    {
+      "percent":"7.127440165",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0106173214015",
+      "sample":"S50"
+    }
+  ],
+  "taxa":{
+    "Class":"Mollicutes",
+    "Family":"Mollicutes (family) (family)",
+    "Genus":"Mollicutes (genus)",
+    "Kingdom":"Bacteria",
+    "Order":"Mollicutes (family)",
+    "Phylum":"Tenericutes",
+    "Row":1240,
+    "Species":"Mollicutes sp"
+  }
+}

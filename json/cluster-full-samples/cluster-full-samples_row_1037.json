@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.054844606947",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Andreprevotia",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Phylum":"Proteobacteria",
+    "Row":1037,
+    "Species":"Andreprevotia chitinilytica"
+  }
+}

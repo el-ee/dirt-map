@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0157712122805",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0148826133869",
+      "sample":"S35"
+    },
+    {
+      "percent":"0.0361836280631",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.011147339966",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0162077473032",
+      "sample":"S52"
+    },
+    {
+      "percent":"0.0183355577634",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.0363471149478",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Deinococci",
+    "Family":"Deinococcaceae",
+    "Genus":"Deinococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Deinococcales",
+    "Phylum":"Deinococcus-Thermus",
+    "Row":485,
+    "Species":"Deinococcus radiomollis"
+  }
+}

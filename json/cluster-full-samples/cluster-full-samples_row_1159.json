@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0112238484332",
+      "sample":"S34"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Legionellaceae",
+    "Genus":"Legionella",
+    "Kingdom":"Bacteria",
+    "Order":"Legionellales",
+    "Phylum":"Proteobacteria",
+    "Row":1159,
+    "Species":"Legionella pneumophila"
+  }
+}

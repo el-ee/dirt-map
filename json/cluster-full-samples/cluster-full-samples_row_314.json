@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0681393859279",
+      "sample":"S19"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Thermoleophilaceae",
+    "Genus":"Thermoleophilum",
+    "Kingdom":"Bacteria",
+    "Order":"Thermoleophilales",
+    "Phylum":"Actinobacteria",
+    "Row":314,
+    "Species":"Thermoleophilum sp"
+  }
+}

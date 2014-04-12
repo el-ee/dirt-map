@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0147455342096",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0252444504283",
+      "sample":"S21"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nakamurellaceae",
+    "Genus":"Saxeibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":174,
+    "Species":"Saxeibacter lacteus"
+  }
+}

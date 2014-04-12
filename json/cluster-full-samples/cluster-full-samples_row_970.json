@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0589926574188",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0104465917994",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.016721009949",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0117753267653",
+      "sample":"S43"
+    },
+    {
+      "percent":"0.0155279503106",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0302892624565",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.0283356098695",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Caenimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":970,
+    "Species":"Caenimonas koreensis"
+  }
+}

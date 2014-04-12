@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0336280143778",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0575567173486",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sandaracinobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":891,
+    "Species":"Sandaracinobacter sibiricus"
+  }
+}

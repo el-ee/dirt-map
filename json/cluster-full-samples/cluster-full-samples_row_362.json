@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.222236265588",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0332191663135",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0969866090419",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0920450100099",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Flavobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":362,
+    "Species":"Flavobacterium columnare"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0207905610853",
+      "sample":"S41"
+    },
+    {
+      "percent":"0.0807423616556",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":559,
+    "Species":"Clostridium butyricum"
+  }
+}

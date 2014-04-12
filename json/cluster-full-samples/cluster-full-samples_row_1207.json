@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0114567222318",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Dyella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1207,
+    "Species":"Dyella yeojuensis"
+  }
+}

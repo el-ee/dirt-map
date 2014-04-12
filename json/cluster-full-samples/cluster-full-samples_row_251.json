@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0297701320518",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0152123290076",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Pseudonocardia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":251,
+    "Species":"Pseudonocardia saturnea"
+  }
+}

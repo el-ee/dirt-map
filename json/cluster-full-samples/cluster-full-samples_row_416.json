@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0220344701743",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0176594444067",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0126250227952",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.073126142596",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0135502579066",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.0785669390321",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0115004657689",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.254454280741",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Sphingoterrabacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":416,
+    "Species":"Sphingoterrabacterium composti"
+  }
+}
