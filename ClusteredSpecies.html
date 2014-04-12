@@ -44,14 +44,14 @@ d3.select("#description").append("h2")
   var links_par = d3.select("#description").append("p");
   
   links_par.append("a")
-      .attr("href", "./ClusteredSpecies.html?b="+(sample_num-1).toString())
+      .attr("href", "./ClusteredSpecies.html?s="+(sample_num-1).toString())
       .text("\u00AB prev  ");
     
   links_par.append("span")
       .text(" . . . ");
 
   links_par.append("a")
-    .attr("href", "./ClusteredSpecies.html?b="+(sample_num+1).toString())
+    .attr("href", "./ClusteredSpecies.html?s="+(sample_num+1).toString())
     .text("  next \u00bB");
     
     d3.select("#description").append("p")
