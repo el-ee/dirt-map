@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0700435007004",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0112238484332",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.19751033031",
+      "sample":"S41"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Actinokineospora",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":102
+  }
+}

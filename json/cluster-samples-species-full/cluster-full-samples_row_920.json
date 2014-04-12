@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.077978236983",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.817445808305",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Azohydromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":920,
+    "Species":"Azohydromonas lata"
+  }
+}

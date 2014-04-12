@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0170151945687",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0287783586743",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0456369870227",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Holophagae",
+    "Family":"Holophagaceae",
+    "Genus":"Geothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Holophagales",
+    "Phylum":"Acidobacteria",
+    "Row":6
+  }
+}

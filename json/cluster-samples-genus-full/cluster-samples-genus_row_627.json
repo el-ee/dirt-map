@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0189585439838",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0223370256246",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0380357264145",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.054844606947",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0644026083056",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0442395058787",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Xylella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":627
+  }
+}

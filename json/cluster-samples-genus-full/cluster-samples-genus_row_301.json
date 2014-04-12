@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.184423647464",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0709924747977",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0306273502237",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Aurantimonadaceae",
+    "Genus":"Fulvimarina",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":301
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0931247726446",
+      "sample":"S29"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Streptosporangiaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":61
+  }
+}

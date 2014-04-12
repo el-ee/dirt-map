@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.069115737444",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Bacillaceae",
+    "Genus":"Bacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":498,
+    "Species":"Bacillus korlensis"
+  }
+}

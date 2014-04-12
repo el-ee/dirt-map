@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0349373990538",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0261551222939",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0170151945687",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Ruegeria",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":796,
+    "Species":"Ruegeria sp"
+  }
+}

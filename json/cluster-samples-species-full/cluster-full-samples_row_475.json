@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0328334406461",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.0726942298955",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Pseudanabaena",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":475,
+    "Species":"Pseudanabaena sp"
+  }
+}

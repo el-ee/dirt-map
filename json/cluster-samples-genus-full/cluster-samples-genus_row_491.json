@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0315009335731",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0141984949595",
+      "sample":"S14"
+    },
+    {
+      "percent":"2.89262456459",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Undibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":491
+  }
+}

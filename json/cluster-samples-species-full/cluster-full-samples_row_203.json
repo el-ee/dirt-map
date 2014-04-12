@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.234116245602",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.110181687354",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0209808549698",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0224726870419",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.0869817338359",
+      "sample":"S61"
+    },
+    {
+      "percent":"0.0526813244705",
+      "sample":"S62"
+    },
+    {
+      "percent":"0.0335106605789",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Nocardioides",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":203,
+    "Species":"Nocardioides kribbensis"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0131721067468",
+      "sample":"S22"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Bacteriovoracaceae",
+    "Genus":"Bacteriovorax",
+    "Kingdom":"Bacteria",
+    "Order":"Bdellovibrionales",
+    "Phylum":"Proteobacteria",
+    "Row":346
+  }
+}

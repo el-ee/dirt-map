@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0129548781594",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0602559103959",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0144893174214",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0809610864455",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0354056024159",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Granulibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":822,
+    "Species":"Granulibacter bethesdensis"
+  }
+}

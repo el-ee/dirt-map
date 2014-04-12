@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0381580561196",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0117435568524",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.0144569445905",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0572416270091",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.010350419192",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0174398325776",
+      "sample":"S47"
+    },
+    {
+      "percent":"0.430123554056",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Asticcacaulis",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":619,
+    "Species":"Asticcacaulis sp"
+  }
+}

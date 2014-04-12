@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.756084279311",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Plantibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":99,
+    "Species":"Plantibacter sp"
+  }
+}

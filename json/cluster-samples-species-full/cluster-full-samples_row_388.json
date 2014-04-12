@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0574562548968",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Niastella",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":388,
+    "Species":"Niastella yeongjuensis"
+  }
+}

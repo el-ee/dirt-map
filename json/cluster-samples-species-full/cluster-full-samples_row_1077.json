@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.522366473261",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0191855724495",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Zoogloea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1077,
+    "Species":"Zoogloea resiniphila"
+  }
+}

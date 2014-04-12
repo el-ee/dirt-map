@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"3.28322027771",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0283557225393",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0223925814695",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.183497749408",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.0168333637269",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.138417341342",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Ammoniphilus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":236
+  }
+}

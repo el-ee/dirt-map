@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.458195397427",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.746967041568",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Quatrionicoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1070,
+    "Species":"Quatrionicoccus australiensis"
+  }
+}

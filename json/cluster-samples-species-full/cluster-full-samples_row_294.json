@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0626882350536",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0153569589608",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.029901210999",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0149484279237",
+      "sample":"S47"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Thermomonosporaceae",
+    "Genus":"Actinocorallia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":294,
+    "Species":"Actinocorallia sp"
+  }
+}

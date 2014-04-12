@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0104465917994",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0799714144731",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0143891793371",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Defluvibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":336
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0239819655619",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Acidimicrobiaceae",
+    "Genus":"Ilumatobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Acidimicrobiales",
+    "Phylum":"Actinobacteria",
+    "Row":9
+  }
+}

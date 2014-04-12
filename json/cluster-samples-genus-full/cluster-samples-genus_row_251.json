@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0245386729486",
+      "sample":"S20"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Thermoactinomycetaceae",
+    "Genus":"Thermoflavimicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":251
+  }
+}

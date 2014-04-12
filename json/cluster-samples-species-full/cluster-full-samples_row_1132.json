@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0819406859606",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0104465917994",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.016721009949",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0129399585921",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0506247555054",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Alteromonadaceae",
+    "Genus":"Microbulbifer",
+    "Kingdom":"Bacteria",
+    "Order":"Alteromonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1132,
+    "Species":"Microbulbifer sp"
+  }
+}

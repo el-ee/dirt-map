@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"3.81183764085",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Marinibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":537,
+    "Species":"Marinibacillus sp"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0394357652055",
+      "sample":"S50"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Oleomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":265
+  }
+}

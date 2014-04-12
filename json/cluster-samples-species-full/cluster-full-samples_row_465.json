@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.112571796501",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.0363471149478",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Scytonemataceae",
+    "Genus":"Scytonema",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":465,
+    "Species":"Scytonema sp"
+  }
+}

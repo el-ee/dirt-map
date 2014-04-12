@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0297827008328",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0179349410015",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0218255763815",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Blastomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":421
+  }
+}

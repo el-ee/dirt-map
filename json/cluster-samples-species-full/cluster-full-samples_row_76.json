@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.249595250944",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.205711519845",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.465513353307",
+      "sample":"S61"
+    },
+    {
+      "percent":"0.432296750802",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Crocebacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":76,
+    "Species":"Crocebacterium ilecola"
+  }
+}

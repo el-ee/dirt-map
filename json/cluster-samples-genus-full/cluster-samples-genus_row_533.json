@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0246605438771",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0196169606789",
+      "sample":"S57"
+    },
+    {
+      "percent":"0.0157356412274",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Desulfobulbaceae",
+    "Genus":"Desulfofustis",
+    "Kingdom":"Bacteria",
+    "Order":"Desulfobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":533
+  }
+}

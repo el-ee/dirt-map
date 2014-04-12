@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0332191663135",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.020700838384",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.125912439809",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0599549139047",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.051491746176",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Pelomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":317
+  }
+}

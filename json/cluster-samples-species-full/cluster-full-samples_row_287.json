@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0360722071486",
+      "sample":"S23"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Streptosporangiaceae",
+    "Genus":"Sphaerisporangium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":287,
+    "Species":"Sphaerisporangium melleum"
+  }
+}

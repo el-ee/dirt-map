@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0155458537912",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0299813298083",
+      "sample":"S19"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Actinoplanes",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":119,
+    "Species":"Actinoplanes ferrugineus"
+  }
+}

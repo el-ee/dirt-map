@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0337402824544",
+      "sample":"S12"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Aliihoeflea",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":333
+  }
+}

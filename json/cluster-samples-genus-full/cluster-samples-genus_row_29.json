@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0495228662311",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0340303891375",
+      "sample":"S48"
+    },
+    {
+      "percent":"6.16365568544",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Knoellia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":29
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0897036329971",
+      "sample":"S4"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Streptomycetaceae",
+    "Genus":"Streptomyces",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":281,
+    "Species":"Streptomyces tauricus"
+  }
+}

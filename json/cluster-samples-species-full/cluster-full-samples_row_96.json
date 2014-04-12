@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.11166025993",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.0545326551454",
+      "sample":"S39"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Okibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":96,
+    "Species":"Okibacterium sp"
+  }
+}

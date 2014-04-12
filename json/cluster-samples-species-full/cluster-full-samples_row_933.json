@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0131823113662",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0736029809207",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.028189038141",
+      "sample":"S46"
+    },
+    {
+      "percent":"1.3249721857",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.0363471149478",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Burkholderia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":933,
+    "Species":"Burkholderia sediminicola"
+  }
+}

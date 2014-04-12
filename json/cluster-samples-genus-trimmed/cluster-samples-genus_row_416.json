@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0117435568524",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.0134686181198",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.016502265069",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Kaistibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":416
+  }
+}

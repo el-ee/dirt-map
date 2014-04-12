@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0395208438382",
+      "sample":"S19"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Parvibaculum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":239
+  }
+}

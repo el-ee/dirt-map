@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0136922817661",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0585290614004",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0120276291825",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0163010256062",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.054844606947",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0161078767517",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":901,
+    "Species":"Sphingomonas oligophenolica"
+  }
+}

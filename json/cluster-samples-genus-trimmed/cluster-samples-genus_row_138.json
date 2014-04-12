@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0463319309206",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Chroococcales (family)",
+    "Genus":"Microcystis",
+    "Kingdom":"Bacteria",
+    "Order":"Chroococcales",
+    "Phylum":"Cyanobacteria",
+    "Row":138
+  }
+}

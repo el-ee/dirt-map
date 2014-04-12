@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.146330673291",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0239819655619",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Georgfuchsia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1066,
+    "Species":"Georgfuchsia toluolica"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0442395058787",
+      "sample":"S48"
+    },
+    {
+      "percent":"7.27041808144",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Psychrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":600
+  }
+}

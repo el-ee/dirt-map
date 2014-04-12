@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.113098479454",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Bogoriellaceae",
+    "Genus":"Georgenia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":14
+  }
+}

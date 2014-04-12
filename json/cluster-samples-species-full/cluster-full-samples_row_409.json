@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0881378806971",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0208931835989",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0112430293218",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.194072908471",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0154945071972",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Pedobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":409,
+    "Species":"Pedobacter nyackensis"
+  }
+}

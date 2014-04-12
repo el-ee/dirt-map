@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0304756099884",
+      "sample":"S11"
+    },
+    {
+      "percent":"3.16561945417",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.909774241207",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Simplicispira",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":479
+  }
+}

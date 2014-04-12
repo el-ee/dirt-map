@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0167873758933",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Aeromonadaceae",
+    "Genus":"Aeromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Aeromonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1125,
+    "Species":"Aeromonas hydrophila"
+  }
+}

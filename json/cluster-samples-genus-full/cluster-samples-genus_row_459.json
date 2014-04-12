@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0817810086324",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Roseateles",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":459
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0157133878064",
+      "sample":"S34"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nakamurellaceae",
+    "Genus":"Nakamurella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":40
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0391349475081",
+      "sample":"S48"
+    },
+    {
+      "percent":"6.87903372126",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Psychrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1178,
+    "Species":"Psychrobacter psychrophilus"
+  }
+}

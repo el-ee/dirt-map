@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0137715438589",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0597704272227",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0190790280598",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.109689213894",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Erythrobacteraceae",
+    "Genus":"Porphyrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":288
+  }
+}

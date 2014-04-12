@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.155618445606",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.017177071064",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0210417046586",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0117473316775",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.936557976851",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Actinophytocola",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":104
+  }
+}

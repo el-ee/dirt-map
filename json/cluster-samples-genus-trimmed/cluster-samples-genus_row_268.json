@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0272603362108",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Roseococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":268
+  }
+}

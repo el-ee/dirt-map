@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.329327941901",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0187167140256",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Epsilonproteobacteria",
+    "Family":"Campylobacteraceae",
+    "Genus":"Arcobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Campylobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":375
+  }
+}

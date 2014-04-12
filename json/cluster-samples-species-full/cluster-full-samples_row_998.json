@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.693624110253",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Collimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":998,
+    "Species":"Collimonas fungivorans"
+  }
+}

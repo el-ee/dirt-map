@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0545206724216",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":144
+  }
+}

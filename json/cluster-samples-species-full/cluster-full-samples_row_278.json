@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.586565455372",
+      "sample":"S23"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Streptomycetaceae",
+    "Genus":"Streptomyces",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":278,
+    "Species":"Streptomyces microsporus"
+  }
+}

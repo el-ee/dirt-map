@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0298105673945",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.030228156871",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0269372362396",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0130876952569",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.298475642256",
+      "sample":"S37"
+    },
+    {
+      "percent":"0.0154376028064",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Mycobacteriaceae",
+    "Genus":"Mycobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":165,
+    "Species":"Mycobacterium scrofulaceum"
+  }
+}

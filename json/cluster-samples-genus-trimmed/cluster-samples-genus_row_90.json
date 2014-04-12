@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0733112635884",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0127039165427",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.137823076007",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0119909827809",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Runella",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":90
+  }
+}

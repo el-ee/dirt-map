@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0104465917994",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.122509400895",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0126060256803",
+      "sample":"S52"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Methylococcaceae",
+    "Genus":"Methylobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Methylococcales",
+    "Phylum":"Proteobacteria",
+    "Row":1163,
+    "Species":"Methylobacter sp"
+  }
+}

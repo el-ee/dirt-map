@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.182062581886",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Pseudoxanthomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1223,
+    "Species":"Pseudoxanthomonas mexicana"
+  }
+}

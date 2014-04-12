@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.146390123201",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.193646435925",
+      "sample":"S46"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Brevibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":518,
+    "Species":"Brevibacillus levickii"
+  }
+}

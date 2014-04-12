@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.123140013059",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.561501420769",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0527603242362",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Hydrogenophilaceae",
+    "Genus":"Thiobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Hydrogenophilales",
+    "Phylum":"Proteobacteria",
+    "Row":493
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.55384368664",
+      "sample":"S13"
+    },
+    {
+      "percent":"16.2682275272",
+      "sample":"S48"
+    },
+    {
+      "percent":"8.95486594081",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0259194940515",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Phylum":"Proteobacteria",
+    "Row":333
+  }
+}

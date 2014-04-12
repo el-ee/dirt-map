@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0778932175626",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Leadbetterella",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":153
+  }
+}

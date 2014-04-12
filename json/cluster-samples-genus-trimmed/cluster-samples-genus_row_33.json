@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0599626596165",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0238657972331",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.386200461367",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micrococcaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":33
+  }
+}

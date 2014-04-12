@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0134686181198",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0390860960097",
+      "sample":"S37"
+    },
+    {
+      "percent":"0.0676060536696",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acidiphilium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":258
+  }
+}

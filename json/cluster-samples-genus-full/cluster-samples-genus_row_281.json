@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0112238484332",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0274054511934",
+      "sample":"S47"
+    },
+    {
+      "percent":"0.0356661857942",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Lentisphaeria",
+    "Family":"Victivallaceae",
+    "Genus":"Victivallis",
+    "Kingdom":"Bacteria",
+    "Order":"Lentisphaerales",
+    "Phylum":"Lentisphaerae",
+    "Row":281
+  }
+}

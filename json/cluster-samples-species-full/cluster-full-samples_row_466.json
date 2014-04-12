@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0336862572863",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Leptolyngbya",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":466,
+    "Species":"Leptolyngbya foveolarum"
+  }
+}

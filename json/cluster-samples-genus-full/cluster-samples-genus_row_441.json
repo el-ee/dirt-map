@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0688577192946",
+      "sample":"S12"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Pusillimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":441
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.077059252317",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Oxalicibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":1026,
+    "Species":"Oxalicibacterium faecigallinarum"
+  }
+}

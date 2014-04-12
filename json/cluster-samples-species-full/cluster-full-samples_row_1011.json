@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0127922496024",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Herminiimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":1011,
+    "Species":"Herminiimonas sp"
+  }
+}

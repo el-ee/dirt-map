@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.034364654807",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0127039165427",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.189457527939",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Aspromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1200,
+    "Species":"Aspromonas sp"
+  }
+}

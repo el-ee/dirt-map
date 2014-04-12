@@ -1,0 +1,54 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0294910684193",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.037871745612",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0103093964421",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.024530178934",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0294464075383",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0168333637269",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.19131368732",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0783494384957",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0356661857942",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.0644315070069",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Leifsonia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":86,
+    "Species":"Leifsonia kribbensis"
+  }
+}

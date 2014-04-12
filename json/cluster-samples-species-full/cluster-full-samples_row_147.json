@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0140278031058",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.171469768711",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0304207185374",
+      "sample":"S31"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Virgisporangium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":147,
+    "Species":"Virgisporangium sp"
+  }
+}

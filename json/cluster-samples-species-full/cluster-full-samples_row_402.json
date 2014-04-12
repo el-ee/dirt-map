@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0136922817661",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0157402410505",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.388145816942",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Mucilaginibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":402,
+    "Species":"Mucilaginibacter rigui"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0171585449554",
+      "sample":"S46"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Phycicoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":34
+  }
+}

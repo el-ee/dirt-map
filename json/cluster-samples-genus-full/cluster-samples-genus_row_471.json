@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0102091167412",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Macromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":471
+  }
+}

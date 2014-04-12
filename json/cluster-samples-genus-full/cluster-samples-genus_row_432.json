@@ -1,0 +1,49 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0240552583649",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.017177071064",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.018281535649",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0289258307669",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.115113434697",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.024734664508",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0190153505739",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.0869817338359",
+      "sample":"S61"
+    },
+    {
+      "percent":"0.0263406622352",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Betaproteobacteria (family)",
+    "Genus":"Aquamonas",
+    "Kingdom":"Bacteria",
+    "Order":"Betaproteobacteria (order)",
+    "Phylum":"Proteobacteria",
+    "Row":432
+  }
+}

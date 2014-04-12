@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0315975733064",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0950755449662",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.082949102132",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0116911205939",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0235048315487",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0595531809906",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Flavobacteriia",
+    "Family":"Cryomorphaceae",
+    "Genus":"Crocinitomix",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":96
+  }
+}

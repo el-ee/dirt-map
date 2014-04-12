@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0242681632034",
+      "sample":"S50"
+    },
+    {
+      "percent":"0.0630301284014",
+      "sample":"S52"
+    },
+    {
+      "percent":"0.0111789537564",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Bacillaceae",
+    "Genus":"Bacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":499,
+    "Species":"Bacillus massiliensis"
+  }
+}

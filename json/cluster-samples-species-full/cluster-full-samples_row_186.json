@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0479016973862",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Friedmanniella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":186,
+    "Species":"Friedmanniella luteola"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0355101433006",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Lutibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":885,
+    "Species":"Lutibacterium sp"
+  }
+}

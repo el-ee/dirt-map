@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.252019252618",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0156698876991",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0397860912506",
+      "sample":"S5"
+    },
+    {
+      "percent":"0.0759371332582",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Halomonadaceae",
+    "Genus":"Salicola",
+    "Kingdom":"Bacteria",
+    "Order":"Oceanospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":1169,
+    "Species":"Salicola sp"
+  }
+}

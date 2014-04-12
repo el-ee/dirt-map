@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.147073242475",
+      "sample":"S46"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Gordoniaceae",
+    "Genus":"Gordonia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":26
+  }
+}

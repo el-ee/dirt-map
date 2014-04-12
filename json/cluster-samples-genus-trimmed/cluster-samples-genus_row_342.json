@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0343753035862",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0116593903434",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.020371044016",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0260445734271",
+      "sample":"S35"
+    },
+    {
+      "percent":"0.0187167140256",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Thauera",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":342
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0457134149826",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0503386417719",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.039660112833",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.0179927309367",
+      "sample":"S51"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Stella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":843,
+    "Species":"Stella vacuolata"
+  }
+}

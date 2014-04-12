@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.290210961045",
+      "sample":"S35"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Amycolatopsis",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":53
+  }
+}

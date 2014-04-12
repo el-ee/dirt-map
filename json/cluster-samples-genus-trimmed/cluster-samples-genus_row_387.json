@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0478265093374",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0494520028061",
+      "sample":"S4"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Serratia",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Phylum":"Proteobacteria",
+    "Row":387
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0441013070024",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0455846417122",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.066884039796",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.188405228245",
+      "sample":"S43"
+    },
+    {
+      "percent":"0.153985507246",
+      "sample":"S44"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Rhodobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":253
+  }
+}

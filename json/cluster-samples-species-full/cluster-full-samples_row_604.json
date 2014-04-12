@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.051531213192",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.261101693264",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0202436600537",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0469893267101",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0391747192478",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0164690382082",
+      "sample":"S6"
+    },
+    {
+      "percent":"0.036818004004",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Planctomycetia",
+    "Family":"Planctomycetaceae",
+    "Genus":"Blastopirellula",
+    "Kingdom":"Bacteria",
+    "Order":"Planctomycetales",
+    "Phylum":"Planctomycetes",
+    "Row":604,
+    "Species":"Blastopirellula sp"
+  }
+}

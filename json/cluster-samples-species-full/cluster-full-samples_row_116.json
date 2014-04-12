@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0656355711136",
+      "sample":"S21"
+    },
+    {
+      "percent":"0.0109784978278",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.0140278031058",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.158723860164",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.0128888125107",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Actinocatenispora",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":116,
+    "Species":"Actinocatenispora sp"
+  }
+}

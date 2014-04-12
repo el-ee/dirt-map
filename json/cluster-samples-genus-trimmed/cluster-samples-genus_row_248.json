@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0231673912155",
+      "sample":"S19"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Xanthobacteraceae",
+    "Genus":"Labrys",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":248
+  }
+}

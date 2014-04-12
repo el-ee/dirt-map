@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0224444849692",
+      "sample":"S24"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Mucilaginibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":400,
+    "Species":"Mucilaginibacter oryzae"
+  }
+}

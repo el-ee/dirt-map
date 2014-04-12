@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.021264380037",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0337040781935",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0210282830407",
+      "sample":"S32"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Novosphingobium",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":290
+  }
+}

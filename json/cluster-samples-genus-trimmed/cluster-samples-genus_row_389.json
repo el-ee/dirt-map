@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0118980338499",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.023249731175",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Coxiellaceae",
+    "Genus":"Aquicella",
+    "Kingdom":"Bacteria",
+    "Order":"Legionellales",
+    "Phylum":"Proteobacteria",
+    "Row":389
+  }
+}

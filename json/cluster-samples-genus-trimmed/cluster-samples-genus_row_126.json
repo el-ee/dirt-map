@@ -1,0 +1,41 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0351174368403",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0276614241682",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0168333637269",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.018281535649",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0139341749575",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0157004356871",
+      "sample":"S43"
+    },
+    {
+      "percent":"0.0322157535035",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Chloroflexi (class)",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Chloroflexales",
+    "Phylum":"Chloroflexi",
+    "Row":126
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.224601723688",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0121157049826",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Nostocaceae",
+    "Genus":"Cylindrospermum",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":456,
+    "Species":"Cylindrospermum stagnale"
+  }
+}

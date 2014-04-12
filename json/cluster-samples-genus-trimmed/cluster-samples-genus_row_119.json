@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0109829763866",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.0166299244831",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.311979403302",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Anaerolineae",
+    "Family":"Anaerolineaceae",
+    "Genus":"Bellilinea",
+    "Kingdom":"Bacteria",
+    "Order":"Anaerolineales",
+    "Phylum":"Chloroflexi",
+    "Row":119
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.733000151446",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Unknown",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Unknown",
+    "Phylum":"Cyanobacteria",
+    "Row":151
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0134512057511",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0339514233481",
+      "sample":"S3"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Brevundimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":622,
+    "Species":"Brevundimonas mediterranea"
+  }
+}

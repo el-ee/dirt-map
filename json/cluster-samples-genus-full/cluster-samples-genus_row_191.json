@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0258055002581",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.01231783083",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.235867395868",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Thermomicrobia",
+    "Family":"Sphaerobacteraceae",
+    "Genus":"Sphaerobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphaerobacterales",
+    "Phylum":"Chloroflexi",
+    "Row":191
+  }
+}

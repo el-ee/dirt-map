@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"1.24183979416",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0584556029695",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Enterobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Phylum":"Proteobacteria",
+    "Row":575
+  }
+}

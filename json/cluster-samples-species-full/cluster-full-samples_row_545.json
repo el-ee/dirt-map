@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.487286488168",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Sporosarcina",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":545,
+    "Species":"Sporosarcina ureae"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0149457841679",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Amaricoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":776,
+    "Species":"Amaricoccus tamworthensis"
+  }
+}

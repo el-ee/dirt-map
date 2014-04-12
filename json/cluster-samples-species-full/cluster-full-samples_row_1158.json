@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0191855724495",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Legionellaceae",
+    "Genus":"Legionella",
+    "Kingdom":"Bacteria",
+    "Order":"Legionellales",
+    "Phylum":"Proteobacteria",
+    "Row":1158,
+    "Species":"Legionella impletisoli"
+  }
+}

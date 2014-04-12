@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0100246319528",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Anaplasmataceae",
+    "Genus":"Anaplasma",
+    "Kingdom":"Bacteria",
+    "Order":"Rickettsiales",
+    "Phylum":"Proteobacteria",
+    "Row":413
+  }
+}

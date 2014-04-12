@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0730097244897",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.026493670161",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Desulfobacteraceae",
+    "Genus":"Desulforegula",
+    "Kingdom":"Bacteria",
+    "Order":"Desulfobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":352
+  }
+}

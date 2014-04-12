@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.112830616616",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0156930733763",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.166748906774",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.278190800518",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Saprospiraceae",
+    "Genus":"Haliscomenobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":109
+  }
+}

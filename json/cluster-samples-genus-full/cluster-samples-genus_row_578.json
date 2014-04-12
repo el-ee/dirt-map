@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.039394145215",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0872184139877",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0153136751119",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.110317041585",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Pantoea",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Phylum":"Proteobacteria",
+    "Row":578
+  }
+}

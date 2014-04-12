@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0161006520764",
+      "sample":"S4"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Gallionellaceae",
+    "Genus":"Gallionella",
+    "Kingdom":"Bacteria",
+    "Order":"Gallionellales",
+    "Phylum":"Proteobacteria",
+    "Row":492
+  }
+}

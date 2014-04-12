@@ -1,0 +1,41 @@
+{
+  "distribution":[
+    {
+      "percent":"0.042383074262",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0117209738455",
+      "sample":"S18"
+    },
+    {
+      "percent":"0.0389891184915",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.155430859612",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0141963353174",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0110595001106",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0249921899406",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Rubrivivax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":460
+  }
+}

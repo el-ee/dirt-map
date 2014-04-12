@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0103952805426",
+      "sample":"S41"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Lactobacillaceae",
+    "Genus":"Lactobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Lactobacillales",
+    "Phylum":"Firmicutes",
+    "Row":176
+  }
+}

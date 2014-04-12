@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0567016804316",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.877317530658",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.175256504058",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.299774569524",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0212024837195",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Thiotrichaceae",
+    "Genus":"Beggiatoa",
+    "Kingdom":"Bacteria",
+    "Order":"Thiotrichales",
+    "Phylum":"Proteobacteria",
+    "Row":409
+  }
+}

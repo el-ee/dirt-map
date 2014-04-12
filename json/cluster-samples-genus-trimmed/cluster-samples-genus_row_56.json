@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0105325244355",
+      "sample":"S10"
+    },
+    {
+      "percent":"2.37135553081",
+      "sample":"S23"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":56
+  }
+}

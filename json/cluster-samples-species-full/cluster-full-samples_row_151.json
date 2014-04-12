@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0175366808909",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Mycobacteriaceae",
+    "Genus":"Mycobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":151,
+    "Species":"Mycobacterium fortuitum"
+  }
+}

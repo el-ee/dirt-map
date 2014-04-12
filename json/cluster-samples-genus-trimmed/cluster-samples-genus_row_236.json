@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0595924395331",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0186032667336",
+      "sample":"S35"
+    },
+    {
+      "percent":"0.0269452549406",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0142131258217",
+      "sample":"S37"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylocystaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":236
+  }
+}

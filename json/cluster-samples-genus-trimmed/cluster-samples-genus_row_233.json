@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0129548781594",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0302031850632",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.020700838384",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0323869156861",
+      "sample":"S51"
+    },
+    {
+      "percent":"0.0676060536696",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylocystaceae",
+    "Genus":"Methylocystis",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":233
+  }
+}

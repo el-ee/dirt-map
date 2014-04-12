@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0336826832144",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0245386729486",
+      "sample":"S20"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Thermoactinomycetaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":172
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0335747517867",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Erysipelotrichia",
+    "Family":"Erysipelotrichaceae",
+    "Genus":"Erysipelothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Erysipelotrichales",
+    "Phylum":"Firmicutes",
+    "Row":191
+  }
+}

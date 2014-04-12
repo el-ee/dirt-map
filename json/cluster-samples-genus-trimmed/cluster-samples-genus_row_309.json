@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0118284092104",
+      "sample":"S32"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Ideonella",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":309
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.379729435618",
+      "sample":"S13"
+    },
+    {
+      "percent":"1.27188623269",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0311765552305",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Chromatiaceae",
+    "Genus":"Rheinheimera",
+    "Kingdom":"Bacteria",
+    "Order":"Chromatiales",
+    "Phylum":"Proteobacteria",
+    "Row":381
+  }
+}

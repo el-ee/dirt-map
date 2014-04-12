@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0105141415203",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0110595001106",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0390860960097",
+      "sample":"S37"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Methylocapsa",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":217
+  }
+}

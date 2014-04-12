@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0663592588181",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Limnobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":943,
+    "Species":"Limnobacter sp"
+  }
+}

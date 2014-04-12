@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.37278229054",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Adhaeribacter",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":327,
+    "Species":"Adhaeribacter terreus"
+  }
+}

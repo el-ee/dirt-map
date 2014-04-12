@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0143186061696",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0141963353174",
+      "sample":"S31"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Betaproteobacteria (family)",
+    "Genus":"Ferrovum",
+    "Kingdom":"Bacteria",
+    "Order":"Betaproteobacteria (order)",
+    "Phylum":"Proteobacteria",
+    "Row":433
+  }
+}

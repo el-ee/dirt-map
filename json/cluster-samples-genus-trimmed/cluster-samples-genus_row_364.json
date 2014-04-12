@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0186032667336",
+      "sample":"S35"
+    },
+    {
+      "percent":"0.0503161817693",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Myxococcaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Myxococcales",
+    "Phylum":"Proteobacteria",
+    "Row":364
+  }
+}

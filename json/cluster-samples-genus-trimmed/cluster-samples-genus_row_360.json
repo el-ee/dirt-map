@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0136450662425",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Cystobacteraceae",
+    "Genus":"Stigmatella",
+    "Kingdom":"Bacteria",
+    "Order":"Myxococcales",
+    "Phylum":"Proteobacteria",
+    "Row":360
+  }
+}

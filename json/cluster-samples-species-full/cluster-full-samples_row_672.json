@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0550861754357",
+      "sample":"S12"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Blastochloris",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":672,
+    "Species":"Blastochloris sulfoviridis"
+  }
+}

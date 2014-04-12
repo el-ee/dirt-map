@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0100082375494",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0103519668737",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0116248655875",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Subtercola",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":103,
+    "Species":"Subtercola boreus"
+  }
+}

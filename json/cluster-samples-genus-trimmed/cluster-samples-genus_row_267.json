@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0342474775416",
+      "sample":"S22"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Rhodopila",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":267
+  }
+}

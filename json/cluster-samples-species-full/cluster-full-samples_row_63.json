@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0190178632072",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.134730732857",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0109023017485",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0235048315487",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0586523754212",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0218245307726",
+      "sample":"S45"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Kineosporiaceae",
+    "Genus":"Kineococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":63,
+    "Species":"Kineococcus sp"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0540056376617",
+      "sample":"S22"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Azoarcus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1054,
+    "Species":"Azoarcus buckelii"
+  }
+}

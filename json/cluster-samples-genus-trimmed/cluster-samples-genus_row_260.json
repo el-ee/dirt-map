@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0103093964421",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0153972885375",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0106598443663",
+      "sample":"S37"
+    },
+    {
+      "percent":"0.0598024219981",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0154376028064",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.0329380764163",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acidocella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":260
+  }
+}

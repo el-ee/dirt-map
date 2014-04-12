@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0147460001475",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0151676020021",
+      "sample":"S50"
+    },
+    {
+      "percent":"0.0144068864917",
+      "sample":"S52"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Bacillaceae",
+    "Genus":"Ornithinibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":233
+  }
+}

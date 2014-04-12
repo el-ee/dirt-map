@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.136338284203",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0409189220787",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0587366583876",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0339514233481",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0143209027897",
+      "sample":"S6"
+    },
+    {
+      "percent":"0.388890167292",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Lentzea",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":110
+  }
+}

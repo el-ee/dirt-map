@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0565492397269",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Clavibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":44
+  }
+}

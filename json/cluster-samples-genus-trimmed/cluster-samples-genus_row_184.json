@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0100977801713",
+      "sample":"S21"
+    },
+    {
+      "percent":"0.017251925158",
+      "sample":"S23"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Ruminococcaceae",
+    "Genus":"Faecalibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":184
+  }
+}

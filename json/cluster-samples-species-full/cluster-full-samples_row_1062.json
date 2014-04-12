@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.126003734292",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0884790117575",
+      "sample":"S48"
+    },
+    {
+      "percent":"1.22547844021",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Dechloromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1062,
+    "Species":"Dechloromonas denitrificans"
+  }
+}

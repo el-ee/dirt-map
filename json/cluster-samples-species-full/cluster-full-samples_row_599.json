@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.673801704922",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Ignavibacteria",
+    "Family":"Ignavibacteriaceae",
+    "Genus":"Ignavibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Ignavibacteriales",
+    "Phylum":"Ignavibacteriae",
+    "Row":599,
+    "Species":"Ignavibacterium album"
+  }
+}

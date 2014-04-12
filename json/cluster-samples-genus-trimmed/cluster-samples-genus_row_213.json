@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0368650003687",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0101014635898",
+      "sample":"S34"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Phenylobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":213
+  }
+}

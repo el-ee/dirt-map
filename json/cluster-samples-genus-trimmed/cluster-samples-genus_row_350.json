@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0171425306185",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0248112572218",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0421507415896",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.461111772813",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Bdellovibrionales",
+    "Phylum":"Proteobacteria",
+    "Row":350
+  }
+}

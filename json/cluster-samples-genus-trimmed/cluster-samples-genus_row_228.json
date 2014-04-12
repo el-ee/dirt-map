@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0274917238456",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Hyphomicrobiaceae",
+    "Genus":"Rhodomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":228
+  }
+}

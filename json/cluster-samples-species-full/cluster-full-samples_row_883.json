@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.122509400895",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Caulobacter (Sphingomonadaceae)",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":883,
+    "Species":"Caulobacter leidyia"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.562434850342",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0134512057511",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Flectobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":149
+  }
+}

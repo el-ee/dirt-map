@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0463347824309",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0258055002581",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0224476968663",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0115056262512",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Erysipelotrichia",
+    "Family":"Erysipelotrichaceae",
+    "Genus":"Turicibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Erysipelotrichales",
+    "Phylum":"Firmicutes",
+    "Row":276
+  }
+}

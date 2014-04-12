@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0647606712253",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0175526873164",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Propionicimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":93
+  }
+}

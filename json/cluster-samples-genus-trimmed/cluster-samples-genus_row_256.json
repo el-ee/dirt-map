@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0199312372316",
+      "sample":"S47"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":256
+  }
+}

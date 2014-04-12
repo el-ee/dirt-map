@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0344288596473",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.082949102132",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0287281274484",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.308350783533",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Ectothiorhodospiraceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Chromatiales",
+    "Phylum":"Proteobacteria",
+    "Row":383
+  }
+}

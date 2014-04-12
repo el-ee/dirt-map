@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0144569445905",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0110595001106",
+      "sample":"S33"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Kineosporiaceae",
+    "Genus":"Kineosporia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":26
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0114548849357",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0209240978351",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.117511631253",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0545206724216",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.0322157535035",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Pannonibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":780,
+    "Species":"Pannonibacter sp"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0380357264145",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0194323172391",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0135502579066",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.0317280902664",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.0287511644222",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0921819721959",
+      "sample":"S47"
+    },
+    {
+      "percent":"0.0862376432636",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Rhodopseudomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":664,
+    "Species":"Rhodopseudomonas palustris"
+  }
+}

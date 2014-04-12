@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.035869882003",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Amaricoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":249
+  }
+}

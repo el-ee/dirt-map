@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.158650156359",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.251824879617",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0287783586743",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Propionivibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1068,
+    "Species":"Propionivibrio limicola"
+  }
+}

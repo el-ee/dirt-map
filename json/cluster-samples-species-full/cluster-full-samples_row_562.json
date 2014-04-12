@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.185000106322",
+      "sample":"S1"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Clostridium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":562,
+    "Species":"Clostridium intestinale"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0117209738455",
+      "sample":"S18"
+    },
+    {
+      "percent":"0.0670276521922",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.204313683687",
+      "sample":"S37"
+    },
+    {
+      "percent":"0.0411861614498",
+      "sample":"S38"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":218
+  }
+}
