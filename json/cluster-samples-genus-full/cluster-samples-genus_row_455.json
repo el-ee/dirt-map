@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.677204743836",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0143891793371",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Inhella",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":455
+  }
+}

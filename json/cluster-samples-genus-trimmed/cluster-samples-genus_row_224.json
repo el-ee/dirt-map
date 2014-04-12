@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0196097656633",
+      "sample":"S46"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Brucellaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":224
+  }
+}

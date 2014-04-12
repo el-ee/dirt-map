@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0223260683794",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.344729270885",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micrococcaceae",
+    "Genus":"Citricoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":66
+  }
+}

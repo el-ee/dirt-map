@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0137458619228",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Arenimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1198,
+    "Species":"Arenimonas sp"
+  }
+}

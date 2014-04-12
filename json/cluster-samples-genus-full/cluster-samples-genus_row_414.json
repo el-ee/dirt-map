@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0224476968663",
+      "sample":"S34"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Holosporaceae",
+    "Genus":"Captivus",
+    "Kingdom":"Bacteria",
+    "Order":"Rickettsiales",
+    "Phylum":"Proteobacteria",
+    "Row":414
+  }
+}

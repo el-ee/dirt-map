@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0476425447925",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Ruminococcaceae",
+    "Genus":"Sporobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":267
+  }
+}

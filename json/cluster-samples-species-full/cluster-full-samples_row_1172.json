@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0154640946632",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0171876517931",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.192420825571",
+      "sample":"S46"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Acinetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1172,
+    "Species":"Acinetobacter junii"
+  }
+}

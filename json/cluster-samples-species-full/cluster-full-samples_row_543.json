@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.097141006838",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0137715438589",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.844760403343",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.0122451478602",
+      "sample":"S40"
+    },
+    {
+      "percent":"0.290298333377",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Sporosarcina",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":543,
+    "Species":"Sporosarcina psychrophila"
+  }
+}

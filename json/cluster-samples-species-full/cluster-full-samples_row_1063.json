@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"2.20162888464",
+      "sample":"S13"
+    },
+    {
+      "percent":"1.06115067592",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.376035799969",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.311765552305",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.183718127245",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Dechloromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1063,
+    "Species":"Dechloromonas sp"
+  }
+}

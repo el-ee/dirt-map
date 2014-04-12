@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0250270028188",
+      "sample":"S22"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Erythrobacteraceae",
+    "Genus":"Erythrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":287
+  }
+}

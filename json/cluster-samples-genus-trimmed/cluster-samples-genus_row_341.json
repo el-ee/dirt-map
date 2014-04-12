@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.123712757305",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.151435231662",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.038371144899",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0140421498531",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Rhodocyclus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":341
+  }
+}

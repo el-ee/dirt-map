@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0154640946632",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0597831366717",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0202374527793",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0259300235099",
+      "sample":"S60"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Herbaspirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":1003,
+    "Species":"Herbaspirillum autotrophicum"
+  }
+}

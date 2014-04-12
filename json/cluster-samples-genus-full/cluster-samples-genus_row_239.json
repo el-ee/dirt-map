@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0269832703724",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.027890112955",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Cohnella",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":239
+  }
+}

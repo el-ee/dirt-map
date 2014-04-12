@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0144978828827",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Chroococcales (family)",
+    "Genus":"Chamaesiphon",
+    "Kingdom":"Bacteria",
+    "Order":"Chroococcales",
+    "Phylum":"Cyanobacteria",
+    "Row":135
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0126390293225",
+      "sample":"S10"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobiaceae",
+    "Genus":"Afifella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":351
+  }
+}

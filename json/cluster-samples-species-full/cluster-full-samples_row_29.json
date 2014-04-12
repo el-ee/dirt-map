@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0147455342096",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0133953986806",
+      "sample":"S18"
+    },
+    {
+      "percent":"0.0163534526227",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.146139007424",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0202436600537",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.022294679932",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.079141934812",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Cryptosporangiaceae",
+    "Genus":"Cryptosporangium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":29,
+    "Species":"Cryptosporangium japonicum"
+  }
+}

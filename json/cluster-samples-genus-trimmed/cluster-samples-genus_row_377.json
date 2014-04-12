@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0112222424846",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0368650003687",
+      "sample":"S33"
+    }
+  ],
+  "taxa":{
+    "Class":"Epsilonproteobacteria",
+    "Family":"Helicobacteraceae",
+    "Genus":"Helicobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Campylobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":377
+  }
+}

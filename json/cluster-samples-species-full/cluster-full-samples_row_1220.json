@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.11912385438",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0713348827577",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Lysobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1220,
+    "Species":"Lysobacter pocheonensis"
+  }
+}

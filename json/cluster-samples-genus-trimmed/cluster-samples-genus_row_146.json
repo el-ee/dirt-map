@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0154640946632",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0261551222939",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.855375090079",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.708768741481",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Phormidium",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":146
+  }
+}

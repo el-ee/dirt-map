@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0817810086324",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Rivulariaceae",
+    "Genus":"Rivularia",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":212
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0763161122392",
+      "sample":"S19"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Williamsiaceae",
+    "Genus":"Williamsia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":128
+  }
+}

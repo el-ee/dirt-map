@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0312436324119",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0646997929607",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0757231561411",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Pseudomonadaceae",
+    "Genus":"Rhizobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":603
+  }
+}

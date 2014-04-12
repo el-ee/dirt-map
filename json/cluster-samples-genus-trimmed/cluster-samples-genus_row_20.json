@@ -1,0 +1,41 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0141778612696",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.017177071064",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0239243255181",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0574562548968",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0105141415203",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.164531917109",
+      "sample":"S8"
+    },
+    {
+      "percent":"0.0115056262512",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Geodermatophilaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":20
+  }
+}

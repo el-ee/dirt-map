@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.128075357888",
+      "sample":"S12"
+    },
+    {
+      "percent":"2.5167828724",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Propionibacteriaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":52
+  }
+}

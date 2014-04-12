@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0179052915403",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0189005601439",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0538048230046",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.023851800811",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.0572836111588",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Flammeovirgaceae",
+    "Genus":"Flexithrix",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":352,
+    "Species":"Flexithrix sp"
+  }
+}

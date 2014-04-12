@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0103952805426",
+      "sample":"S41"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Methylococcaceae",
+    "Genus":"Methylothermus",
+    "Kingdom":"Bacteria",
+    "Order":"Methylococcales",
+    "Phylum":"Proteobacteria",
+    "Row":396
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.013082966666",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0727385193416",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Emticicia",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":148
+  }
+}

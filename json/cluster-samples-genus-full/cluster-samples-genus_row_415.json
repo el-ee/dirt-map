@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.079611450303",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.603062391176",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0370218818807",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0156698876991",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.129315478722",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.376516859322",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Holosporaceae",
+    "Genus":"Holospora",
+    "Kingdom":"Bacteria",
+    "Order":"Rickettsiales",
+    "Phylum":"Proteobacteria",
+    "Row":415
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "distribution":[
+    {
+      "percent":"0.758313382742",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0182361440375",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0294453237145",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0221190002212",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.121526371223",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.102983492352",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.172352694823",
+      "sample":"S61"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Nostocaceae",
+    "Genus":"Nostoc",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":209
+  }
+}

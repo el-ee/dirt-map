@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0181368294231",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0144569445905",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0149506054995",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.039392503713",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.0484628199303",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylocystaceae",
+    "Genus":"Pleomorphomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":235
+  }
+}

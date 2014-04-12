@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.212024837195",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Chroococcales (family)",
+    "Genus":"Aphanothece",
+    "Kingdom":"Bacteria",
+    "Order":"Chroococcales",
+    "Phylum":"Cyanobacteria",
+    "Row":195
+  }
+}

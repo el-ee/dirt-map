@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0215837690057",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0272603362108",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Leptolyngbya",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":145
+  }
+}

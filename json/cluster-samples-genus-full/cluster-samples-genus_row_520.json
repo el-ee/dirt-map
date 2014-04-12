@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.158650156359",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.260332476902",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.10072425536",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Propionivibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":520
+  }
+}

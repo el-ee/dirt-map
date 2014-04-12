@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0310917075825",
+      "sample":"S16"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Thermoactinomycetaceae",
+    "Genus":"Shimazuella",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":551,
+    "Species":"Shimazuella kribbensis"
+  }
+}

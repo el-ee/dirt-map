@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0151486982448",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0216713870435",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0250270028188",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0337110959081",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.601332261994",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Sporosarcina",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":167
+  }
+}

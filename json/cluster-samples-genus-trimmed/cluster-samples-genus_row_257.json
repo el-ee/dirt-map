@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0246142685028",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0940193261948",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0697622977319",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0175669273315",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Acetobacteraceae",
+    "Genus":"Acetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":257
+  }
+}

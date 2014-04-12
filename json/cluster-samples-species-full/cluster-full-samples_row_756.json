@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0440689403486",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.721085006701",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.090421994216",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0109023017485",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0357319085944",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.225430476282",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0138067515015",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhizobiaceae",
+    "Genus":"Sinorhizobium",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":756,
+    "Species":"Sinorhizobium sp"
+  }
+}

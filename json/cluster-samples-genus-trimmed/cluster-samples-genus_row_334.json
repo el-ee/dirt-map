@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.199077776454",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0431675380114",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Neisseriaceae",
+    "Genus":"Vogesella",
+    "Kingdom":"Bacteria",
+    "Order":"Neisseriales",
+    "Phylum":"Proteobacteria",
+    "Row":334
+  }
+}

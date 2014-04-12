@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.328182453407",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Klebsiella",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Phylum":"Proteobacteria",
+    "Row":1146,
+    "Species":"Klebsiella pneumoniae"
+  }
+}

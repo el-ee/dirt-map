@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0108821406889",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.375886471823",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0119106361981",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0335747517867",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.142359533545",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Geobacteraceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Desulfuromonadales",
+    "Phylum":"Proteobacteria",
+    "Row":357
+  }
+}

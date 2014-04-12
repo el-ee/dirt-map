@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0323288696806",
+      "sample":"S48"
+    },
+    {
+      "percent":"4.37261864648",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Planococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":538,
+    "Species":"Planococcus antarcticus"
+  }
+}

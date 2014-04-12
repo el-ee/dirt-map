@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.388792410772",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Flavobacteriia",
+    "Family":"Flavobacteriaceae",
+    "Genus":"Sejongia",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":165
+  }
+}

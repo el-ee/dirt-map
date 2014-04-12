@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.013612155655",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0983260588038",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Chitinophagaceae",
+    "Genus":"Lacibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":168
+  }
+}

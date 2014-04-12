@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0476425447925",
+      "sample":"S48"
+    },
+    {
+      "percent":"5.86817345325",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Planomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":244
+  }
+}

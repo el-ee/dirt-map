@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0161078767517",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Eubacteriaceae",
+    "Genus":"Eubacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":575,
+    "Species":"Eubacterium oxidoreducens"
+  }
+}

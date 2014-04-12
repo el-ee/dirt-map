@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0255227918531",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Vibrionaceae",
+    "Genus":"Vibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Vibrionales",
+    "Phylum":"Proteobacteria",
+    "Row":1192,
+    "Species":"Vibrio sp"
+  }
+}

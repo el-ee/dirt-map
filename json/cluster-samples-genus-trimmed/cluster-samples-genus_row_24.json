@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.173521452622",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0874427595094",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Jiangellaceae",
+    "Genus":"Jiangella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":24
+  }
+}

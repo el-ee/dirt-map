@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0254078330855",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0143729405439",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Magnetospirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":275
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0128823291251",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0134255219172",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.024573762243",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Pseudonocardia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":250,
+    "Species":"Pseudonocardia benzenivorans"
+  }
+}

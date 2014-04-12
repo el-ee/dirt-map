@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0141778612696",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0105376853974",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0625713128934",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.017958157493",
+      "sample":"S34"
+    }
+  ],
+  "taxa":{
+    "Class":"Deinococci",
+    "Family":"Trueperaceae",
+    "Genus":"Truepera",
+    "Kingdom":"Bacteria",
+    "Order":"Deinococcales",
+    "Phylum":"Deinococcus-Thermus",
+    "Row":225
+  }
+}

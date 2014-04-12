@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0412375857685",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0248112572218",
+      "sample":"S2"
+    },
+    {
+      "percent":"2.09792893479",
+      "sample":"S53"
+    },
+    {
+      "percent":"1.49931849159",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Oscillatoriales (family)",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Oscillatoriales",
+    "Phylum":"Cyanobacteria",
+    "Row":147
+  }
+}

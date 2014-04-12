@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0183278158971",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0108673504041",
+      "sample":"S15"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Rahnella",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Phylum":"Proteobacteria",
+    "Row":580
+  }
+}

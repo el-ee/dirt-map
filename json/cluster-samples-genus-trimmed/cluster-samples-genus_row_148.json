@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.802987433991",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Pleurocapsales (family)",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Pleurocapsales",
+    "Phylum":"Cyanobacteria",
+    "Row":148
+  }
+}

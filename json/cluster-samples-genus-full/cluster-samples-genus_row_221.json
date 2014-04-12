@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.142359533545",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Stigonematales (family)",
+    "Genus":"Stigonema",
+    "Kingdom":"Bacteria",
+    "Order":"Stigonematales",
+    "Phylum":"Cyanobacteria",
+    "Row":221
+  }
+}

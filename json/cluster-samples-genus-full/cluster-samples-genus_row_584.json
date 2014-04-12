@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0199687385954",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0112093381259",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0848099348781",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Coxiellaceae",
+    "Genus":"Coxiella",
+    "Kingdom":"Bacteria",
+    "Order":"Legionellales",
+    "Phylum":"Proteobacteria",
+    "Row":584
+  }
+}

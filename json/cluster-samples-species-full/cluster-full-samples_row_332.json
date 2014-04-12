@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0242248062016",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0366556317942",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0467644823756",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0443980151476",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0118284092104",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0312418262664",
+      "sample":"S57"
+    },
+    {
+      "percent":"0.0209808549698",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Dyadobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":332,
+    "Species":"Dyadobacter sp"
+  }
+}

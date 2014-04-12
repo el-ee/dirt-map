@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0684654754422",
+      "sample":"S34"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Actinospicaceae",
+    "Genus":"Actinospica",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":12
+  }
+}

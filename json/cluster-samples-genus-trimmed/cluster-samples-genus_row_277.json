@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0318965700555",
+      "sample":"S1"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Phaeospirillum",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":277
+  }
+}

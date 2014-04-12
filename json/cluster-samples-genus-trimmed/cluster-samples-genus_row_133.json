@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0141778612696",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0339514233481",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.018409002002",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Thermomicrobia",
+    "Family":"Thermomicrobiaceae",
+    "Genus":"Thermomicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Thermomicrobiales",
+    "Phylum":"Chloroflexi",
+    "Row":133
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"2.65753330508",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.325070805652",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0705144946461",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.107195725783",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.05036212768",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0151446312282",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Paucibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":458
+  }
+}

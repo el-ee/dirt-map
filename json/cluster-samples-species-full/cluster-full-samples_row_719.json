@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0382758840666",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0221183013145",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.185915842095",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0168413416072",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0913067771433",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0156698876991",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.408411175805",
+      "sample":"S7"
+    },
+    {
+      "percent":"0.423407046046",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Methylocystaceae",
+    "Genus":"Methylopila",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":719,
+    "Species":"Methylopila capsulata"
+  }
+}

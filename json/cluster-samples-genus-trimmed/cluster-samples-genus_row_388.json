@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"1.24183979416",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.332191663135",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0872184139877",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0584556029695",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0153136751119",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.110317041585",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Phylum":"Proteobacteria",
+    "Row":388
+  }
+}

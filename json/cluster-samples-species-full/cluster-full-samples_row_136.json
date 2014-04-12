@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0166843622023",
+      "sample":"S50"
+    },
+    {
+      "percent":"0.0252120513606",
+      "sample":"S52"
+    },
+    {
+      "percent":"0.026863724165",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Luedemannella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":136,
+    "Species":"Luedemannella helvata"
+  }
+}

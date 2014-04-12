@@ -1,0 +1,50 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0596295020274",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.0502000727537",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0574562548968",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0704740984807",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.662323884311",
+      "sample":"S39"
+    },
+    {
+      "percent":"0.0264510712684",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0634895440657",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.27799632835",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0837766514472",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Thermomonosporaceae",
+    "Genus":"Actinomadura",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":299,
+    "Species":"Actinomadura sp"
+  }
+}

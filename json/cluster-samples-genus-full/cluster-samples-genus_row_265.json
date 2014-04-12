@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0595531809906",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Ruminococcaceae",
+    "Genus":"Acetivibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":265
+  }
+}

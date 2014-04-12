@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.032407032326",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Thermomonosporaceae",
+    "Genus":"Thermomonospora",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":63
+  }
+}

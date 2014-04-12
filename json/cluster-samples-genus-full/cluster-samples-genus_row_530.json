@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.112755137262",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Deltaproteobacteria (family)",
+    "Genus":"Entotheonella",
+    "Kingdom":"Bacteria",
+    "Order":"Deltaproteobacteria (order)",
+    "Phylum":"Proteobacteria",
+    "Row":530
+  }
+}

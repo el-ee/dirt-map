@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0114283537456",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0157356412274",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Oxalobacteraceae",
+    "Genus":"Duganella",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":321
+  }
+}

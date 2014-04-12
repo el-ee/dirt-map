@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0326508257499",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0771529170817",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0331259891788",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0134255219172",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0164690382082",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiales (family)",
+    "Genus":"Thiobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":311
+  }
+}

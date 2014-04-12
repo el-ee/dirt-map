@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.034364654807",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0971475970916",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Propionibacteriaceae",
+    "Genus":"Ponticoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":99
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0669782051381",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0292544788607",
+      "sample":"S5"
+    },
+    {
+      "percent":"0.0203435147781",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Frondihabitans",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":50
+  }
+}

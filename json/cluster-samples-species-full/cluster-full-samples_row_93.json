@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0826292631535",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0641473556398",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0156930733763",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.120135805693",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0119106361981",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0647513070171",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.018409002002",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Microterricola",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":93,
+    "Species":"Microterricola viridarii"
+  }
+}

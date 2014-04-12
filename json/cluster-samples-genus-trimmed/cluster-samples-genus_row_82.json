@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0506615225736",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Cytophagaceae",
+    "Genus":"Arcicella",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":82
+  }
+}

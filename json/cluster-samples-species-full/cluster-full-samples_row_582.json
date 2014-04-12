@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0814545237152",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Peptostreptococcaceae",
+    "Genus":"Tepidibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":582,
+    "Species":"Tepidibacter formicigenes"
+  }
+}

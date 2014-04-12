@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.038371144899",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Verrucomicrobiae",
+    "Family":"Verrucomicrobiaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Verrucomicrobiales",
+    "Phylum":"Verrucomicrobia",
+    "Row":429
+  }
+}

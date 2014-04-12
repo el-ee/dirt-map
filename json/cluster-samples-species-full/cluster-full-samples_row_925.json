@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0399374771909",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0261164794986",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0530384492429",
+      "sample":"S57"
+    },
+    {
+      "percent":"0.348533908976",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0472069236821",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0309890143944",
+      "sample":"S62"
+    },
+    {
+      "percent":"0.753989863025",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Pigmentiphaga",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":925,
+    "Species":"Pigmentiphaga litoralis"
+  }
+}

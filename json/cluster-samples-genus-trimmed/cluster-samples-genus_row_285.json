@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0131426769004",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0263801621181",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rickettsiaceae",
+    "Genus":"Rickettsia",
+    "Kingdom":"Bacteria",
+    "Order":"Rickettsiales",
+    "Phylum":"Proteobacteria",
+    "Row":285
+  }
+}

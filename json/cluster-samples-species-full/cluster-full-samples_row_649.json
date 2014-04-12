@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0543367520206",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0530040018021",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.0167333575846",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0110595001106",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0356946732565",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.0114567222318",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Afipia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":649,
+    "Species":"Afipia felis"
+  }
+}

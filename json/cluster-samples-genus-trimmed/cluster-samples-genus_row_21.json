@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0151446312282",
+      "sample":"S55"
+    },
+    {
+      "percent":"1.08343485135",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Janibacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":21
+  }
+}

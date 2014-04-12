@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.392902553294",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0141984949595",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0935835701281",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Dechloromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1061,
+    "Species":"Dechloromonas aromatica"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0224186762519",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Chrysiogenetes (class)",
+    "Family":"Chrysiogenaceae",
+    "Genus":"Chrysiogenes",
+    "Kingdom":"Bacteria",
+    "Order":"Chrysiogenales",
+    "Phylum":"Chrysiogenetes",
+    "Row":194
+  }
+}

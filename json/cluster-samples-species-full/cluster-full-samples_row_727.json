@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0661034105228",
+      "sample":"S12"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Aminobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":727,
+    "Species":"Aminobacter sp"
+  }
+}

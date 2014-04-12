@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0371831684191",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0663592588181",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0151446312282",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.0427235114229",
+      "sample":"S58"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Cupriavidus",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":941,
+    "Species":"Cupriavidus sp"
+  }
+}

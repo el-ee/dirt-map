@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0349781710303",
+      "sample":"S16"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rickettsiales (family)",
+    "Genus":"Odyssella",
+    "Kingdom":"Bacteria",
+    "Order":"Rickettsiales",
+    "Phylum":"Proteobacteria",
+    "Row":286
+  }
+}

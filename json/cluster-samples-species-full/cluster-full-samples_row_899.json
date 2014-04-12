@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0149906649041",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.023494663355",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0626795507966",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0357319085944",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0879654840196",
+      "sample":"S7"
+    },
+    {
+      "percent":"0.0897438847596",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":899,
+    "Species":"Sphingomonas koreensis"
+  }
+}

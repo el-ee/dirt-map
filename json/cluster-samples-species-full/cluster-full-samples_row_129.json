@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0106321900185",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0600353892821",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.017177071064",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0519028714913",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.103058633001",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0134255219172",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0119042895123",
+      "sample":"S45"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Asanoa",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":129,
+    "Species":"Asanoa ishikariensis"
+  }
+}

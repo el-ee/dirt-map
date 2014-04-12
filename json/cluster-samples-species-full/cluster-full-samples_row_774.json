@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0530575337962",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0204182334825",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.018409002002",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Amaricoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":774,
+    "Species":"Amaricoccus macauensis"
+  }
+}

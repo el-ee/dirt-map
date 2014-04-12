@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.347489481904",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0233187806869",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0177162403412",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0322220312769",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Rhodocista",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":408
+  }
+}

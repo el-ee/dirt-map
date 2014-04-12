@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0382758840666",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.327529736252",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0221190002212",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0264510712684",
+      "sample":"S4"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Micromonosporaceae",
+    "Genus":"Dactylosporangium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":36
+  }
+}

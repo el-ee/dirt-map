@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.264413642091",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0605304258801",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0851416342592",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Pseudaminobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":341
+  }
+}

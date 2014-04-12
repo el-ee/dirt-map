@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"7.25995316159",
+      "sample":"S47"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Alicyclobacillaceae",
+    "Genus":"Alicyclobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":157
+  }
+}

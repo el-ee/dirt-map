@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0547691270644",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.012394389473",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.363182555281",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0168413416072",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0155881607919",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0448518164986",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0104904274849",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0479750243455",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Halanaerobiaceae",
+    "Genus":"Halothermothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Halanaerobiales",
+    "Phylum":"Firmicutes",
+    "Row":586,
+    "Species":"Halothermothrix sp"
+  }
+}

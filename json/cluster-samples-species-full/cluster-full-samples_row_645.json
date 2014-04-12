@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0640510227722",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0774163146468",
+      "sample":"S21"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Methylocella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":645,
+    "Species":"Methylocella silvestris"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0248112572218",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.046291750249",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.227976851581",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0717729765542",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0637712291065",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0496213110473",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0368650003687",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0193332187661",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Thermomonosporaceae",
+    "Genus":"Actinocorallia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":293,
+    "Species":"Actinocorallia glomerata"
+  }
+}

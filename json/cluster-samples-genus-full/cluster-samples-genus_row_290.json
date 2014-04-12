@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0155458537912",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.012265089467",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0109130592943",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0111542634637",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.012436485094",
+      "sample":"S37"
+    }
+  ],
+  "taxa":{
+    "Class":"Planctomycetia",
+    "Family":"Planctomycetales (family)",
+    "Genus":"Nostocoida (Planctomycetales)",
+    "Kingdom":"Bacteria",
+    "Order":"Planctomycetales",
+    "Phylum":"Planctomycetes",
+    "Row":290
+  }
+}

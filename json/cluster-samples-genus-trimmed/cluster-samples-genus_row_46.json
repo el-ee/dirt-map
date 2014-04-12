@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0151486982448",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0564608459717",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.143755822111",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0157356412274",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0107406770923",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Kribbella",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":46
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.021746824324",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Nostocaceae",
+    "Genus":"Aphanizomenon",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":206
+  }
+}

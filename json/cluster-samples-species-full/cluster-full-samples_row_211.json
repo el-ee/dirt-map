@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0922693438548",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.232413650275",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Promicromonosporaceae",
+    "Genus":"Promicromonospora",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":211,
+    "Species":"Promicromonospora sp"
+  }
+}

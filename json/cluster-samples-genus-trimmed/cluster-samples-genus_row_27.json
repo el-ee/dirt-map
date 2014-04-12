@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0966472605104",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Agromyces",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":27
+  }
+}

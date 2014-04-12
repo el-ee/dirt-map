@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0166095831567",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0469893267101",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0138045278851",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Methylophilaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Methylophilales",
+    "Phylum":"Proteobacteria",
+    "Row":329
+  }
+}

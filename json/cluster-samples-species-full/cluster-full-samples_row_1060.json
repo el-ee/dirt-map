@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"1.16267082097",
+      "sample":"S13"
+    },
+    {
+      "percent":"4.25209712273",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.530001438918",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.705739815235",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Rhodocyclaceae",
+    "Genus":"Azovibrio",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodocyclales",
+    "Phylum":"Proteobacteria",
+    "Row":1060,
+    "Species":"Azovibrio sp"
+  }
+}

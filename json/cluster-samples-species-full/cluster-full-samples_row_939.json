@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0417157440126",
+      "sample":"S20"
+    },
+    {
+      "percent":"0.0706519605919",
+      "sample":"S43"
+    },
+    {
+      "percent":"0.0698757763975",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.178659542972",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0983260588038",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0636074511586",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Chitinimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":939,
+    "Species":"Chitinimonas sp"
+  }
+}

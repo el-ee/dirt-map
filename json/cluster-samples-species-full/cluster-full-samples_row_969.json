@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0400235928547",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0371831684191",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.450176977972",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0552994014213",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0190178632072",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0261164794986",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.384673633197",
+      "sample":"S55"
+    },
+    {
+      "percent":"0.0112430293218",
+      "sample":"S58"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Albidiferax",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":969,
+    "Species":"Albidiferax ferrireducens"
+  }
+}

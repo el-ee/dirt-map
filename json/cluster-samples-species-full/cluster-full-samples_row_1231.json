@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0203762820077",
+      "sample":"S15"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Xanthomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1231,
+    "Species":"Xanthomonas albilineans"
+  }
+}

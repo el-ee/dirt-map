@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0584556029695",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Spartobacteria",
+    "Family":"Spartobacteria (family)",
+    "Genus":"Chthoniobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Spartobacteria (order)",
+    "Phylum":"Verrucomicrobia",
+    "Row":426
+  }
+}

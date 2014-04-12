@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0127586280222",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0131721067468",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0185514006307",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.015278283012",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0221190002212",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0367164961972",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Caulobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":212
+  }
+}

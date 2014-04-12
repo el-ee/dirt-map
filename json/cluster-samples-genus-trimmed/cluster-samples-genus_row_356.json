@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.035869882003",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Geobacteraceae",
+    "Genus":"Geopsychrobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Desulfuromonadales",
+    "Phylum":"Proteobacteria",
+    "Row":356
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0213458929813",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0183278158971",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0599549139047",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0414202545045",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Planctomycetia",
+    "Family":"Planctomycetaceae",
+    "Genus":"Planctomyces",
+    "Kingdom":"Bacteria",
+    "Order":"Planctomycetales",
+    "Phylum":"Planctomycetes",
+    "Row":204
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.518906287586",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0627722935053",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.107918845029",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Bacillales (family)",
+    "Genus":"Exiguobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":160
+  }
+}

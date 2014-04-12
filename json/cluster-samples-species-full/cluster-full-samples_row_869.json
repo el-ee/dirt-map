@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0364945912261",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.084766148524",
+      "sample":"S13"
+    },
+    {
+      "percent":"2.69323030706",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.188868659713",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0671495035733",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.117357387763",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodospirillaceae",
+    "Genus":"Tistrella",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodospirillales",
+    "Phylum":"Proteobacteria",
+    "Row":869,
+    "Species":"Tistrella sp"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0212667919044",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.0369201852722",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.153201294245",
+      "sample":"S46"
+    },
+    {
+      "percent":"0.0208268249505",
+      "sample":"S8"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Cystobacteraceae",
+    "Genus":"Melittangium",
+    "Kingdom":"Bacteria",
+    "Order":"Myxococcales",
+    "Phylum":"Proteobacteria",
+    "Row":544
+  }
+}

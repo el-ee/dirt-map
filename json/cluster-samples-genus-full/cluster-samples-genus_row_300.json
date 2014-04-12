@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0313397753983",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0230112525025",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Aurantimonadaceae",
+    "Genus":"Aurantimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":300
+  }
+}

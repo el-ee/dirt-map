@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.364838085201",
+      "sample":"S13"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Comamonadaceae",
+    "Genus":"Giesbergeria",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":976,
+    "Species":"Giesbergeria kuznetsovii"
+  }
+}

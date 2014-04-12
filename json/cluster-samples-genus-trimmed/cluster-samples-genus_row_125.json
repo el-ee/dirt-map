@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.351355444495",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Chloroflexi (class)",
+    "Family":"Oscillochloridaceae",
+    "Genus":"Oscillochloris",
+    "Kingdom":"Bacteria",
+    "Order":"Chloroflexales",
+    "Phylum":"Chloroflexi",
+    "Row":125
+  }
+}

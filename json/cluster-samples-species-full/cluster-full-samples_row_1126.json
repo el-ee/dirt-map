@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0836206600305",
+      "sample":"S13"
+    },
+    {
+      "percent":"2.71955489472",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Aeromonadaceae",
+    "Genus":"Aeromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Aeromonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1126,
+    "Species":"Aeromonas media"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0646577393612",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0333181887021",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Lapillicoccus",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":30
+  }
+}

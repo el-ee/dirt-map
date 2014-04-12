@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0200164750987",
+      "sample":"S36"
+    },
+    {
+      "percent":"1.34262979187",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Intrasporangiaceae",
+    "Genus":"Ornithinimicrobium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":32
+  }
+}

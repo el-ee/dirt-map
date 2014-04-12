@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.209579370527",
+      "sample":"S46"
+    },
+    {
+      "percent":"0.0529258807557",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Paenibacillaceae",
+    "Genus":"Brevibacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":516,
+    "Species":"Brevibacillus brevis"
+  }
+}

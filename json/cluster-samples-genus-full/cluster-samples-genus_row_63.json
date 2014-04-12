@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.133553196419",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.0803981969123",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.0100082375494",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0103519668737",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0363277049609",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Subtercola",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":63
+  }
+}

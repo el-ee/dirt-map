@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0231659654603",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0108673504041",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0119106361981",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Spirochaetia",
+    "Family":"Spirochaetaceae",
+    "Genus":"Spirochaeta",
+    "Kingdom":"Bacteria",
+    "Order":"Spirochaetales",
+    "Phylum":"Spirochaetes",
+    "Row":628
+  }
+}

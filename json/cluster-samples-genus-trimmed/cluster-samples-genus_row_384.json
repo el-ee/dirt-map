@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0336592672378",
+      "sample":"S21"
+    },
+    {
+      "percent":"0.0116911205939",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0368650003687",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0182011224025",
+      "sample":"S50"
+    },
+    {
+      "percent":"0.0207355952412",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Enterobacteriaceae",
+    "Genus":"Escherichia",
+    "Kingdom":"Bacteria",
+    "Order":"Enterobacteriales",
+    "Phylum":"Proteobacteria",
+    "Row":384
+  }
+}

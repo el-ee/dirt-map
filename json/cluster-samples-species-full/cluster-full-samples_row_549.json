@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.136026220673",
+      "sample":"S16"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Thermoactinomycetaceae",
+    "Genus":"Laceyella",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":549,
+    "Species":"Laceyella putida"
+  }
+}

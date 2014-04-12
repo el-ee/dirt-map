@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0148850660259",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.162504217535",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0208931835989",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0115004657689",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.892221337913",
+      "sample":"S7"
+    },
+    {
+      "percent":"0.0138067515015",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Stenotrophomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":418
+  }
+}

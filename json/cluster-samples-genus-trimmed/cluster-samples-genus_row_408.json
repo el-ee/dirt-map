@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0433803631556",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0183278158971",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0171876517931",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0156698876991",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.248596050606",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":408
+  }
+}

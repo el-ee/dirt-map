@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0200460486374",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0313861467527",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0238212723962",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0863350760228",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Alteromonadaceae",
+    "Genus":"Haliea",
+    "Kingdom":"Bacteria",
+    "Order":"Alteromonadales",
+    "Phylum":"Proteobacteria",
+    "Row":563
+  }
+}

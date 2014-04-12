@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0105325244355",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.101323045147",
+      "sample":"S25"
+    }
+  ],
+  "taxa":{
+    "Class":"Opitutae",
+    "Family":"Opitutaceae",
+    "Genus":"Opitutus",
+    "Kingdom":"Bacteria",
+    "Order":"Opitutales",
+    "Phylum":"Verrucomicrobia",
+    "Row":425
+  }
+}

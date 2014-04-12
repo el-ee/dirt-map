@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0261551222939",
+      "sample":"S14"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Syntrophobacteraceae",
+    "Genus":"Thermodesulforhabdus",
+    "Kingdom":"Bacteria",
+    "Order":"Syntrophobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":1120,
+    "Species":"Thermodesulforhabdus sp"
+  }
+}

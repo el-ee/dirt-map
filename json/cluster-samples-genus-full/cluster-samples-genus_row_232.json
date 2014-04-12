@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.010660208002",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Bacillaceae",
+    "Genus":"Oceanobacillus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":232
+  }
+}

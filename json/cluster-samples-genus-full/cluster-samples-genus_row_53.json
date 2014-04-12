@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0628324885854",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Leucobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":53
+  }
+}

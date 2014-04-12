@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0103677976206",
+      "sample":"S56"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacteroidia",
+    "Family":"Porphyromonadaceae",
+    "Genus":"Porphyromonas",
+    "Kingdom":"Bacteria",
+    "Order":"Bacteroidales",
+    "Phylum":"Bacteroidetes",
+    "Row":77
+  }
+}

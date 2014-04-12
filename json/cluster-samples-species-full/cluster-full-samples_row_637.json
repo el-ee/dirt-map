@@ -1,0 +1,46 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0247614331156",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0453420735578",
+      "sample":"S16"
+    },
+    {
+      "percent":"0.0197581601201",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0854470228458",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0157356412274",
+      "sample":"S59"
+    },
+    {
+      "percent":"0.0157529930687",
+      "sample":"S6"
+    },
+    {
+      "percent":"0.025772365581",
+      "sample":"S61"
+    },
+    {
+      "percent":"0.049582423031",
+      "sample":"S62"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Beijerinckiaceae",
+    "Genus":"Beijerinckia",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":637,
+    "Species":"Beijerinckia fluminensis"
+  }
+}

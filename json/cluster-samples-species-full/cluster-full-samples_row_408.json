@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0148850660259",
+      "sample":"S1"
+    },
+    {
+      "percent":"0.0421300977418",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0268545105249",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0837863642563",
+      "sample":"S25"
+    },
+    {
+      "percent":"0.0921928404389",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.697613427747",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Sphingobacteriia",
+    "Family":"Sphingobacteriaceae",
+    "Genus":"Pedobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":408,
+    "Species":"Pedobacter heparinus"
+  }
+}

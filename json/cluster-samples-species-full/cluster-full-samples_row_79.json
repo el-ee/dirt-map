@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0588906474291",
+      "sample":"S26"
+    },
+    {
+      "percent":"0.0159841901828",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Curtobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":79,
+    "Species":"Curtobacterium citreum"
+  }
+}

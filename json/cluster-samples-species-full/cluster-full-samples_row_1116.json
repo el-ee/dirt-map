@@ -1,0 +1,42 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0884732052578",
+      "sample":"S10"
+    },
+    {
+      "percent":"0.0258099572098",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0130582397493",
+      "sample":"S3"
+    },
+    {
+      "percent":"0.0110595001106",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0101014635898",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0234225697753",
+      "sample":"S54"
+    },
+    {
+      "percent":"0.0835537214101",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Polyangiaceae",
+    "Genus":"Sorangium",
+    "Kingdom":"Bacteria",
+    "Order":"Myxococcales",
+    "Phylum":"Proteobacteria",
+    "Row":1116,
+    "Species":"Sorangium sp"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0148913504164",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0138005589226",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.0435932459531",
+      "sample":"S57"
+    },
+    {
+      "percent":"0.0164690382082",
+      "sample":"S6"
+    }
+  ],
+  "taxa":{
+    "Class":"Flavobacteriia",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Flavobacteriales",
+    "Phylum":"Bacteroidetes",
+    "Row":101
+  }
+}

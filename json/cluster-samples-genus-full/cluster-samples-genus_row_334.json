@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0750549140311",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.029209956586",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0567939798381",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.013612155655",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.038371144899",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Phyllobacteriaceae",
+    "Genus":"Aminobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":334
+  }
+}

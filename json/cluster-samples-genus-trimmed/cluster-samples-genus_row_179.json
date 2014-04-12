@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0280644680924",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0769707884648",
+      "sample":"S14"
+    },
+    {
+      "percent":"0.0119106361981",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.167873758933",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Clostridiaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":179
+  }
+}

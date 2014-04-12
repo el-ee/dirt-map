@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0157771078429",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Chroococcales (family)",
+    "Genus":"Gloeocapsa",
+    "Kingdom":"Bacteria",
+    "Order":"Chroococcales",
+    "Phylum":"Cyanobacteria",
+    "Row":199
+  }
+}

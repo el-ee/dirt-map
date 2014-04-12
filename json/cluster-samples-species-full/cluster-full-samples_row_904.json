@@ -1,0 +1,26 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0177162403412",
+      "sample":"S19"
+    },
+    {
+      "percent":"0.033421488564",
+      "sample":"S57"
+    },
+    {
+      "percent":"0.0157356412274",
+      "sample":"S59"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Sphingomonadaceae",
+    "Genus":"Sphingomonas",
+    "Kingdom":"Bacteria",
+    "Order":"Sphingomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":904,
+    "Species":"Sphingomonas soli"
+  }
+}

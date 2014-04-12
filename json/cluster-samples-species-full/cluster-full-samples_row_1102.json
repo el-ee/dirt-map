@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.292242906781",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Deltaproteobacteria",
+    "Family":"Cystobacteraceae",
+    "Genus":"Stigmatella",
+    "Kingdom":"Bacteria",
+    "Order":"Myxococcales",
+    "Phylum":"Proteobacteria",
+    "Row":1102,
+    "Species":"Stigmatella aurantiaca"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0152378049942",
+      "sample":"S11"
+    },
+    {
+      "percent":"0.0437283014868",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.040742088032",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0108402063253",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.272772442885",
+      "sample":"S31"
+    },
+    {
+      "percent":"0.0328566922511",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.110595001106",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.0246924665529",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0223239200804",
+      "sample":"S35"
+    },
+    {
+      "percent":"0.0239762852742",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Mycobacteriaceae",
+    "Genus":"Mycobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":153,
+    "Species":"Mycobacterium insubricum"
+  }
+}

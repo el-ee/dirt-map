@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0297827008328",
+      "sample":"S13"
+    },
+    {
+      "percent":"0.0287783586743",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Xanthomonadaceae",
+    "Genus":"Dokdonella",
+    "Kingdom":"Bacteria",
+    "Order":"Xanthomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":414
+  }
+}

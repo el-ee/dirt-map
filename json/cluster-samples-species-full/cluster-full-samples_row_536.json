@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.198969547187",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Caryophanon",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":536,
+    "Species":"Caryophanon sp"
+  }
+}

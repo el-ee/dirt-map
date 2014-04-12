@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0144601210519",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.167553302894",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Alcaligenaceae",
+    "Genus":"Pigmentiphaga",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":926,
+    "Species":"Pigmentiphaga sp"
+  }
+}

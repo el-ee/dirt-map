@@ -1,0 +1,30 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0697622977319",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.163077365821",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0328334406461",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.106012418598",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Cyanobacteria (class)",
+    "Family":"Nostocaceae",
+    "Genus":"Anabaena",
+    "Kingdom":"Bacteria",
+    "Order":"Nostocales",
+    "Phylum":"Cyanobacteria",
+    "Row":452,
+    "Species":"Anabaena sp"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.558335032387",
+      "sample":"S23"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Saccharopolyspora",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":256,
+    "Species":"Saccharopolyspora shandongensis"
+  }
+}

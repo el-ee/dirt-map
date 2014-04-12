@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0207039337474",
+      "sample":"S44"
+    },
+    {
+      "percent":"0.0911314691352",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Clostridia",
+    "Family":"Lachnospiraceae",
+    "Genus":"Sporobacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Clostridiales",
+    "Phylum":"Firmicutes",
+    "Row":182
+  }
+}

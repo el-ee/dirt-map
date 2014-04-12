@@ -1,0 +1,45 @@
+{
+  "distribution":[
+    {
+      "percent":"0.11166025993",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.0545326551454",
+      "sample":"S39"
+    },
+    {
+      "percent":"1.93380104335",
+      "sample":"S58"
+    },
+    {
+      "percent":"0.0524521374246",
+      "sample":"S59"
+    },
+    {
+      "percent":"2.30431475591",
+      "sample":"S60"
+    },
+    {
+      "percent":"0.386585483715",
+      "sample":"S61"
+    },
+    {
+      "percent":"2.34431893894",
+      "sample":"S62"
+    },
+    {
+      "percent":"0.157081221464",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Microbacteriaceae",
+    "Genus":"Okibacterium",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":57
+  }
+}

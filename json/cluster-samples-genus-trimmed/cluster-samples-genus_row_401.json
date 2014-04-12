@@ -1,0 +1,37 @@
+{
+  "distribution":[
+    {
+      "percent":"0.050954712278",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0139341749575",
+      "sample":"S42"
+    },
+    {
+      "percent":"0.0235506535306",
+      "sample":"S43"
+    },
+    {
+      "percent":"0.0364022448051",
+      "sample":"S50"
+    },
+    {
+      "percent":"0.202970360358",
+      "sample":"S53"
+    },
+    {
+      "percent":"0.0234225697753",
+      "sample":"S54"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Moraxella",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":401
+  }
+}

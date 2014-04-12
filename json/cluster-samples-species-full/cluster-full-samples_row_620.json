@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0119394329622",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Caulobacteraceae",
+    "Genus":"Brevundimonas",
+    "Kingdom":"Bacteria",
+    "Order":"Caulobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":620,
+    "Species":"Brevundimonas diminuta"
+  }
+}

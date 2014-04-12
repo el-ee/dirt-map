@@ -1,0 +1,25 @@
+{
+  "distribution":[
+    {
+      "percent":"0.158241309489",
+      "sample":"S48"
+    },
+    {
+      "percent":"0.0359729483428",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.254429804634",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Betaproteobacteria (family)",
+    "Genus":"Imtechium",
+    "Kingdom":"Bacteria",
+    "Order":"Betaproteobacteria (order)",
+    "Phylum":"Proteobacteria",
+    "Row":434
+  }
+}

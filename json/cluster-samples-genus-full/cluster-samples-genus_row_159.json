@@ -1,0 +1,33 @@
+{
+  "distribution":[
+    {
+      "percent":"0.228214358487",
+      "sample":"S15"
+    },
+    {
+      "percent":"0.0131426769004",
+      "sample":"S32"
+    },
+    {
+      "percent":"0.0594863966957",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.020700838384",
+      "sample":"S4"
+    },
+    {
+      "percent":"0.039960475457",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Cytophagia",
+    "Family":"Flammeovirgaceae",
+    "Genus":"Roseivirga",
+    "Kingdom":"Bacteria",
+    "Order":"Cytophagales",
+    "Phylum":"Bacteroidetes",
+    "Row":159
+  }
+}

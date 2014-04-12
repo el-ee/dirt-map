@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.224140542178",
+      "sample":"S55"
+    }
+  ],
+  "taxa":{
+    "Class":"Gloeobacteria",
+    "Family":"Gloeobacterales (family)",
+    "Genus":"Gloeobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Gloeobacterales",
+    "Phylum":"Cyanobacteria",
+    "Row":222
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0106333959522",
+      "sample":"S2"
+    },
+    {
+      "percent":"0.642013944819",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Chromatiaceae",
+    "Genus":"Thiobaca",
+    "Kingdom":"Bacteria",
+    "Order":"Chromatiales",
+    "Phylum":"Proteobacteria",
+    "Row":570
+  }
+}

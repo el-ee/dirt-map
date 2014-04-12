@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0589840005898",
+      "sample":"S33"
+    },
+    {
+      "percent":"0.342206980732",
+      "sample":"S57"
+    }
+  ],
+  "taxa":{
+    "Class":"Anaerolineae",
+    "Family":"Anaerolineaceae",
+    "Genus":"Longilinea",
+    "Kingdom":"Bacteria",
+    "Order":"Anaerolineales",
+    "Phylum":"Chloroflexi",
+    "Row":183
+  }
+}

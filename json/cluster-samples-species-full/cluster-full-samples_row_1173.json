@@ -1,0 +1,34 @@
+{
+  "distribution":[
+    {
+      "percent":"1.88318308343",
+      "sample":"S13"
+    },
+    {
+      "percent":"3.15505503785",
+      "sample":"S14"
+    },
+    {
+      "percent":"1.03441513874",
+      "sample":"S46"
+    },
+    {
+      "percent":"0.0918820506712",
+      "sample":"S48"
+    },
+    {
+      "percent":"6.75571969879",
+      "sample":"S49"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Moraxellaceae",
+    "Genus":"Acinetobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Pseudomonadales",
+    "Phylum":"Proteobacteria",
+    "Row":1173,
+    "Species":"Acinetobacter sp"
+  }
+}

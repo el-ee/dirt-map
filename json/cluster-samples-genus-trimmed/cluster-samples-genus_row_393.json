@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0385551948052",
+      "sample":"S17"
+    },
+    {
+      "percent":"0.0170563328032",
+      "sample":"S53"
+    }
+  ],
+  "taxa":{
+    "Class":"Gammaproteobacteria",
+    "Family":"Unknown",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Legionellales",
+    "Phylum":"Proteobacteria",
+    "Row":393
+  }
+}

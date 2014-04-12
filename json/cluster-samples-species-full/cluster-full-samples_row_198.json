@@ -1,0 +1,50 @@
+{
+  "distribution":[
+    {
+      "percent":"0.183850110517",
+      "sample":"S12"
+    },
+    {
+      "percent":"0.0133953986806",
+      "sample":"S18"
+    },
+    {
+      "percent":"0.0118548960721",
+      "sample":"S22"
+    },
+    {
+      "percent":"0.0407772776462",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.0785556973922",
+      "sample":"S24"
+    },
+    {
+      "percent":"0.0302074243136",
+      "sample":"S27"
+    },
+    {
+      "percent":"0.0448953937326",
+      "sample":"S34"
+    },
+    {
+      "percent":"0.0238085790246",
+      "sample":"S45"
+    },
+    {
+      "percent":"0.0140421498531",
+      "sample":"S5"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardioidaceae",
+    "Genus":"Nocardioides",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":198,
+    "Species":"Nocardioides albus"
+  }
+}

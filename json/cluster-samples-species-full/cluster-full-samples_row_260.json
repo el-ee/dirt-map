@@ -1,0 +1,22 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0361340210842",
+      "sample":"S30"
+    },
+    {
+      "percent":"0.0192202086766",
+      "sample":"S38"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Pseudonocardiaceae",
+    "Genus":"Saccharothrix",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":260,
+    "Species":"Saccharothrix texasensis"
+  }
+}

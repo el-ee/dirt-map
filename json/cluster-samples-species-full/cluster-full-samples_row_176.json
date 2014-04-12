@@ -1,0 +1,38 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0297987798184",
+      "sample":"S23"
+    },
+    {
+      "percent":"0.0172263005857",
+      "sample":"S28"
+    },
+    {
+      "percent":"0.0349217897417",
+      "sample":"S29"
+    },
+    {
+      "percent":"0.0111619600402",
+      "sample":"S35"
+    },
+    {
+      "percent":"0.20226981512",
+      "sample":"S38"
+    },
+    {
+      "percent":"0.0719709237468",
+      "sample":"S51"
+    }
+  ],
+  "taxa":{
+    "Class":"Actinobacteria (class)",
+    "Family":"Nocardiaceae",
+    "Genus":"Nocardia",
+    "Kingdom":"Bacteria",
+    "Order":"Actinomycetales",
+    "Phylum":"Actinobacteria",
+    "Row":176,
+    "Species":"Nocardia vinacea"
+  }
+}

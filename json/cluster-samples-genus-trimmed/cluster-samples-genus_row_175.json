@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.329517532999",
+      "sample":"S11"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Carnobacteriaceae",
+    "Genus":"Unknown",
+    "Kingdom":"Bacteria",
+    "Order":"Lactobacillales",
+    "Phylum":"Firmicutes",
+    "Row":175
+  }
+}

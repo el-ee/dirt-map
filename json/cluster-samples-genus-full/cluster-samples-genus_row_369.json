@@ -1,0 +1,21 @@
+{
+  "distribution":[
+    {
+      "percent":"0.160679169265",
+      "sample":"S49"
+    },
+    {
+      "percent":"0.0115056262512",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Pelagibaca",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":369
+  }
+}

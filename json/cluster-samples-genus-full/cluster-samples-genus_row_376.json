@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0340303891375",
+      "sample":"S48"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Rhodobacteraceae",
+    "Genus":"Thalassobacter",
+    "Kingdom":"Bacteria",
+    "Order":"Rhodobacterales",
+    "Phylum":"Proteobacteria",
+    "Row":376
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0261753905137",
+      "sample":"S36"
+    },
+    {
+      "percent":"0.0527471031631",
+      "sample":"S48"
+    },
+    {
+      "percent":"7.9546927244",
+      "sample":"S56"
+    },
+    {
+      "percent":"3.85791479915",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Bacilli",
+    "Family":"Planococcaceae",
+    "Genus":"Planococcus",
+    "Kingdom":"Bacteria",
+    "Order":"Bacillales",
+    "Phylum":"Firmicutes",
+    "Row":166
+  }
+}

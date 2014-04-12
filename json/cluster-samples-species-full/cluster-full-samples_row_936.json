@@ -1,0 +1,18 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0712101537302",
+      "sample":"S7"
+    }
+  ],
+  "taxa":{
+    "Class":"Betaproteobacteria",
+    "Family":"Burkholderiaceae",
+    "Genus":"Burkholderia",
+    "Kingdom":"Bacteria",
+    "Order":"Burkholderiales",
+    "Phylum":"Proteobacteria",
+    "Row":936,
+    "Species":"Burkholderia tuberum"
+  }
+}

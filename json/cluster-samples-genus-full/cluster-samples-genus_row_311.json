@@ -1,0 +1,17 @@
+{
+  "distribution":[
+    {
+      "percent":"0.0299146282532",
+      "sample":"S9"
+    }
+  ],
+  "taxa":{
+    "Class":"Alphaproteobacteria",
+    "Family":"Bradyrhizobiaceae",
+    "Genus":"Oligotropha",
+    "Kingdom":"Bacteria",
+    "Order":"Rhizobiales",
+    "Phylum":"Proteobacteria",
+    "Row":311
+  }
+}
