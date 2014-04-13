@@ -1,6 +1,8 @@
 html {
 	font-family: "Quantico", "Helvetica Neue", Helvetica, Verdana, sans-serif;
 	font-size: 12px;
+	/*background: #000;*/ /* dark */
+	background: #fff; /* light */
 }
 
 #legend{
@@ -37,11 +39,13 @@ h2{
 }
 
 circle {
-	stroke: #fff;
-}
+/*	stroke: #000;*/ /*dark*/
+	stroke: #fff; /*light*/
+ }
 
 circle:hover {
-	stroke: #666;
+	stroke: #aaa; /*dark*/
+
 }
 
 
