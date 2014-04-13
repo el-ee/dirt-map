@@ -18,11 +18,15 @@
 	<link href="style/cluster.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  <div id="header"></div>
-	<div id="graph"></div>
-	<div id="legend"></div>
-	<div id="description"></div>
-
+	<div id="container">
+		<div id="header"></div>
+		<div id="graph"></div>
+		<div id="legend"></div>
+		<div id="related visuals"><h2>related viz:</h2></div>
+		<div id="hover-detail"><p>&gt;<span class="directions"> ... hover over a circle for details</span></p></div>
+		<div id="description"></div>
+	</div>
+	
 <script>
 
 /** File and page layout setup **/
@@ -154,16 +158,10 @@ function visualizeit() {
 	      return function(t) { return d.radius = i(t); };
 	    });
       
-      
+			
+			node.on("mouseover", function(d){d3.select(".directions").text(" " + (parseFloat(d.Percent).toFixed(2)).toString() + "% of the extracted DNA matched " + d.Phylum +  " / " + d.Class + " / " + d.Species);})
+						.on("mouseout", function(d){d3.select(".directions").text(" ...");});
 
-	$('svg circle').tipsy({ 
-	        gravity: 'w', 
-	        html: true, 
-	        title: function() {
-	          var d = this.__data__;
-	          return "Phylum: " + d.Phylum +  "<br/>Class: " + d.Class + "<br/>Species: " + d.Species; 
-	        }
-	      });
 
 	function tick(e) {
 	  node
