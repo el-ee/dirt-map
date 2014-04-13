@@ -50,6 +50,8 @@ function drawLegend(colors) {
 		radius: 5, spacing: 5, text_w: 200
 	};
 	
+	var legend = d3.select("#legend");
+	legend.html("");
 	
 	var legend = d3.select("#legend").append("svg")
 		.attr("width", key_dim.text_w)
