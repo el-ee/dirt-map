@@ -59,7 +59,7 @@ function drawLegend(colors) {
 		.data(d3.entries(colors))
 		.enter().append("g")
 		.attr("transform", function(d, i) {
-			return "translate(0," + i * (key_dim.radius*2 + key_dim.spacing) + ")";
+			return "translate(5," + (i * (key_dim.radius*2 + key_dim.spacing) + 5) + ")";
 		});
 		
 		
