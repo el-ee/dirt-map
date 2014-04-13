@@ -46,8 +46,6 @@ var home_link = d3.select("#header").append("a")
 home_link.append("h2")
     .text("\u00AB dirtmap.org");
 
-drawLegend(sites_bright);
-
 
 d3.select("#description").append("h2")
 	.text("File: " + file_name);
@@ -70,6 +68,8 @@ d3.select("#description").append("h2")
 
 
 /** graph setup **/
+
+drawLegend(sites_bright);
 
 var SCALE_FACTOR = 100;
 
@@ -203,6 +203,9 @@ var node = svg.append("g").selectAll("circle")
 
     transition.filter("circle")
         .attr("r", function(d) { return k * d.r; });
+
+		// redraw legend; its circles get clobbered by the zoom
+		drawLegend(sites_bright);
 
   }
 });
