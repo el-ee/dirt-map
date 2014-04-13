@@ -1,0 +1,145 @@
+<!-- This file is a modified version of Mike Bostock's example: http://bl.ocks.org/mbostock/4600693 -->
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+  <script src="js_lib/shared_functions.js"></script>
+	<script src="js_lib/colors.js"></script>
+	
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
+  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="style/cluster.css" media="all" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+	<div id="container">
+		<div id="header"></div>
+		<div id="graph"></div>
+		<div id="legend"></div>
+		<div id="hover-detail"><p>&gt;<span class="directions"> ... hover over a circle for details</span></p></div>
+		<div id="description"></div>
+		<div id="related"><h2>Related Viz:</h2></div>
+	</div>
+	
+<script>
+
+var home_link = d3.select("#header").append("a")
+  .attr("href", "http://dirtmap.org");
+
+home_link.append("h2")
+    .text("\u00AB dirtmap.org");
+		
+
+color_dict = network_degree;
+
+drawLegend(color_dict);
+
+
+var url_obj = urlObject();
+
+var c_num = url_obj["parameters"]["c"];
+// Default to sample 1
+if  (!c_num) {c_num = 1; console.log("did not specify a valid collection number; default is to display collection 1");}
+
+var file_name = "json/network-col-genus/network-col-genus_C" + c_num + ".json";
+
+d3.select("#description").append("h2")
+	.text("File: " + file_name);
+	
+d3.select("#description").append("p")
+	.text("This graph shows diversity among samples collected at the same location. White labeled circles represent the individual samples that were collected at the same location. Each colored circle represents a particular genus of bacteria. Lines connect bacteria genera to the samples in which they were identified. Colors indicate the number of samples which contained at least some bacteria belonging to that genus. ")
+
+addRelatedViz({"s": collection_to_samples["C" + c_num.toString()], "c" : [], "g" : []});
+
+var width = 768,
+    height = 768;
+
+//var color = d3.scale.category20();
+
+var force = d3.layout.force()
+    .linkDistance(10)
+    .linkStrength(1)
+		.charge(-13)
+    .size([width, height]);
+
+var svg = d3.select("#graph").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json(file_name, function(error, graph) {
+  var nodes = graph.nodes.slice(),
+      links = [],
+      bilinks = [];
+
+  graph.links.forEach(function(link) {
+    var s = nodes[link.source],
+        t = nodes[link.target],
+        i = {}; // intermediate node
+    nodes.push(i);
+    links.push({source: s, target: i}, {source: i, target: t});
+    bilinks.push([s, i, t]);
+  });
+
+  force
+      .nodes(nodes)
+      .links(links)
+      .start();
+
+  var link = svg.selectAll(".link")
+      .data(bilinks)
+    .enter().append("path")
+      .attr("class", "link");
+	
+  var node = svg.selectAll(".node")
+      .data(graph.nodes)
+    .enter().append("g")
+	  .attr("class", "node")
+      .call(force.drag);
+		
+   var a_circle = node.append("circle")        
+	 	.attr("r", function(d){if (d.group == "Sample") {return 15;} else {return 5;}})
+	  .style("fill", function(d) { 
+			if (d.group == "Sample") {return "#ffffff"; }
+	  	  else { console.log(d); return color_dict[d.weight]; }
+	    });
+			
+	 a_circle.on("mouseover", function(d){
+		if (d.group == "Sample") { d3.select(".directions").text("This sample contained bacteria belonging to at least " + d.weight + " different genera. This dirt sample is classified as " + sites_key[d.name]); }
+		else { 
+		 d3.select(".directions").text(" " + d.weight + " of these samples contained: " + d.Kingdom + " / " + d.Phylum +  " / " + d.Class + " / " + d.Order + " / " + d.Family + " / " + d.Genus );}
+	 })
+						.on("mouseout", function(d){d3.select(".directions").text(" ...");});
+  
+	node.append("title")
+      .text(function(d) { return d.name; });
+	  
+	node.append("text")
+        .attr("text-anchor", "middle")
+				.attr("dy", ".4em")
+				.attr("dx", "0")
+        .text(function(d){if (d.group=="Sample"){return d.name}});
+				
+	node.on("mouseover", function(d){d3.select(this).select("text").attr("visibility", "visible");})
+				.on("mouseout", function(d){if(d.group != "Sample") {d3.select(this).select("text").attr("visibility", "hidden");}});
+	
+
+  force.on("tick", function() {
+    link.attr("d", function(d) {
+      return "M" + d[0].x + "," + d[0].y
+          + "S" + d[1].x + "," + d[1].y
+          + " " + d[2].x + "," + d[2].y;
+    });
+    node.attr("transform", function(d) {
+      return "translate(" + d.x + "," + d.y + ")";
+    });
+  });
+});
+
+</script>
+</body>
+</html>
