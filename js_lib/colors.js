@@ -1,3 +1,6 @@
+// Colors modified from the tomorrow version of Chris Kempson's base16
+// http://chriskempson.github.io/base16/#tomorrow
+
 // // base 16 - tomorrow - mod
  
 var base00 = "#1d1f21";
