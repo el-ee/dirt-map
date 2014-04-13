@@ -23,7 +23,7 @@
 		<div id="header"></div>
 		<div id="graph"></div>
 		<div id="legend"></div>
-		<div id="related visuals"><h2>related viz:</h2></div>
+		<div id="related"><h2>Related Viz:</h2></div>
 		<div id="hover-detail"><p>&gt;<span class="directions"> ... hover over a circle for details</span></p></div>
 		<div id="description"></div>
 	</div>
@@ -38,6 +38,8 @@ var sample_num = url_obj["parameters"]["s"];
 // Default to sample 1
 if  (!sample_num) {sample_num = 1; console.log("did not specify a valid sample number; default is to display sample 1");}
 var file_name = "json/tree-pruned-species/S" + sample_num + "_tree_species.json";
+
+addRelatedViz("s", sample_num);
 
 
 var home_link = d3.select("#header").append("a")
