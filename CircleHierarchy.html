@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+
+<!-- This code is modified from mbostock's example: http://bl.ocks.org/mbostock/4063530 -->
+
+<meta charset="utf-8">
+<head>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
+	<script src="js_lib/colors.js"></script>
+  <script src="js_lib/shared_functions.js"></script>
+  
+  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="style/hierarchy.css" media="all" rel="stylesheet" type="text/css" />
+
+  
+</head>
+<body>
+  
+	<div id="container">
+		<div id="header"></div>
+		<div id="graph"></div>
+		<div id="legend"></div>
+		<div id="related visuals"><h2>related viz:</h2></div>
+		<div id="hover-detail"><p>&gt;<span class="directions"> ... hover over a circle for details</span></p></div>
+		<div id="description"></div>
+	</div>
+
+<script>
+
+/** File and page layout setup **/
+
+var url_obj = urlObject();
+
+var sample_num = url_obj["parameters"]["s"];
+// Default to sample 1
+if  (!sample_num) {sample_num = 1; console.log("did not specify a valid sample number; default is to display sample 1");}
+var file_name = "json/tree-pruned-species/S" + sample_num + "_tree_species.json";
+
+
+var home_link = d3.select("#header").append("a")
+  .attr("href", "http://dirtmap.org");
+
+home_link.append("h2")
+    .text("\u00AB dirtmap.org");
+
+drawLegend(sites_bright);
+
+
+d3.select("#description").append("h2")
+	.text("File: " + file_name);
+	
+  var links_par = d3.select("#description").append("p");
+  
+  links_par.append("a")
+      .attr("href", "./CircleHierarchy.html?s="+(sample_num-1).toString())
+      .text("\u00AB prev  ");
+    
+  links_par.append("span")
+      .text(" . . . ");
+
+  links_par.append("a")
+    .attr("href", "./CircleHierarchy.html?s="+(sample_num+1).toString())
+    .text("  next \u00bB");
+    
+    d3.select("#description").append("p")
+    	.text("A hierarchical representation of the bacteria in this sample, from kingdom through species. Innermost circles represent species of bacteria and are sized to reflect the proportion of with which they are found in the sample.");
+
+
+/** graph setup **/
+
+var SCALE_FACTOR = 100;
+
+var margin = 10,
+    outerDiameter = 640,
+    innerDiameter = outerDiameter - margin - margin;
+
+var x = d3.scale.linear()
+    .range([0, innerDiameter]);
+
+var y = d3.scale.linear()
+    .range([0, innerDiameter]);
+
+var c_base = sites_bright[sites_key["S"+sample_num.toString()]];
+var c_light = (d3.lab(c_base).brighter(.1)).toString();
+var c_dark = (d3.lab(c_base).darker(2)).toString();
+
+var color = d3.scale.linear()
+    .domain([-1, 5])
+    .range([c_light, c_dark])
+    .interpolate(d3.interpolateHcl);
+
+var pack = d3.layout.pack()
+    .padding(2)
+    .size([innerDiameter, innerDiameter])
+    .value(function(d) { return d.percent; })
+
+var svg = d3.select("#graph").append("svg")
+    .attr("width", outerDiameter)
+    .attr("height", outerDiameter)
+  .append("g")
+    .attr("transform", "translate(" + margin + "," + margin + ")");
+
+d3.json(file_name, function(error, root) {
+  var focus = root,
+      nodes = pack.nodes(root);
+
+var node = svg.append("g").selectAll("circle")
+      .data(nodes)
+    .enter().append("circle")
+      .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
+      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+      .attr("r", function(d) { return d.r; })
+      .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+      .on("click", function(d) { return zoom(focus == d ? root : d); });
+
+			node.on("mouseover", function(d){
+				var kin = "";
+				var phy = "";
+				var cla = "";
+				var ord = "";
+				var fam = "";
+				var gen = "";
+				var spe = "";
+				
+				var detail_str = "";
+				
+				if (d.depth == 1) {
+					kin = d.name;
+					detail_str = " " + kin;
+				}
+				else if (d.depth == 2) {
+					phy = d.name;
+					kin = d.parent.name;
+					detail_str = " " + kin + " / " + phy;
+				}
+				else if (d.depth == 3) {
+					cla = d.name;
+					phy = d.parent.name;
+					kin = d.parent.parent.name;
+					detail_str = " " + kin + " / " + phy + " / " +cla;
+				}
+				else if (d.depth == 4) {
+					ord = d.name;
+					cla = d.parent.name;
+					phy = d.parent.parent.name;
+					kin = d.parent.parent.parent.name;
+					detail_str = " " + kin + " / " + phy + " / " +cla + " / " + ord;
+				}
+				else if (d.depth == 5) {
+					fam = d.name;
+					ord = d.parent.name;
+					cla = d.parent.parent.name;
+					phy = d.parent.parent.parent.name;
+					kin = d.parent.parent.parent.parent.name;
+					detail_str = " " + kin + " / " + phy + " / " +cla + " / " + ord + " / " + fam;
+				}
+				else if (d.depth == 6) {
+					gen = d.name;
+					fam = d.parent.name;
+					ord = d.parent.parent.name;
+					cla = d.parent.parent.parent.name;
+					phy = d.parent.parent.parent.parent.name;
+					kin = d.parent.parent.parent.parent.parent.name;
+					detail_str = " " + kin + " / " + phy + " / " +cla + " / " + ord + " / " + fam + " / " + gen;
+				}
+				else if (d.depth==7) {
+					// this means its a species-level one
+					spe = d.name;
+					gen = d.parent.name;
+					fam = d.parent.parent.name;
+					ord = d.parent.parent.parent.name;
+					cla = d.parent.parent.parent.parent.name;
+					phy = d.parent.parent.parent.parent.parent.name;
+					kin = d.parent.parent.parent.parent.parent.parent.name;
+					detail_str = " " + kin + " / " + phy + " / " +cla + " / " + ord + " / " + fam + " / " + gen + ' / ' + spe;
+					detail_str = " " + detail_str + "<br/>" + "> was a match for " +  (parseFloat(d.value).toFixed(2)).toString() + " % of the extracted DNA";
+					
+				}
+				console.log(d); 
+				d3.select(".directions").html(detail_str);
+			
+			})
+			.on("mouseout", function(d){d3.select(".directions").text(" ...");});
+
+  d3.select(window)
+      .on("click", function() { zoom(root); });
+
+  function zoom(d, i) {
+    var focus0 = focus;
+    focus = d;
+
+    var k = innerDiameter / d.r / 2;
+    x.domain([d.x - d.r, d.x + d.r]);
+    y.domain([d.y - d.r, d.y + d.r]);
+    d3.event.stopPropagation();
+
+    var transition = d3.selectAll("text,circle").transition()
+        .duration(d3.event.altKey ? 7500 : 750)
+        .attr("transform", function(d) { return "translate(" + x(d.x) + "," + y(d.y) + ")"; });
+
+    transition.filter("circle")
+        .attr("r", function(d) { return k * d.r; });
+
+  }
+});
+
+d3.select(self.frameElement).style("height", outerDiameter + "px");
+
+</script>
