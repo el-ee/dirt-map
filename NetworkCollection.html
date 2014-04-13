@@ -28,6 +28,13 @@
 	
 <script>
 
+var home_link = d3.select("#header").append("a")
+  .attr("href", "http://dirtmap.org");
+
+home_link.append("h2")
+    .text("\u00AB dirtmap.org");
+		
+
 color_dict = network_degree;
 
 drawLegend(color_dict);
