@@ -1,0 +1,64 @@
+html {
+	font-family: 'Share Tech Mono', "Courier New", monospace;
+	font-size: 14px;
+	/*background: #000;*/ /* dark */
+	background: #fff; /* light */
+}
+
+body {
+	margin: 10px;
+}
+
+p {
+	line-height: 1.2em;
+	margin-bottom: .5em;
+	max-width: 60em;
+}
+
+#hover-detail {
+	clear: both;
+}
+
+#hover-detail .directions {
+	color: #666;
+}
+
+#legend{
+float: left;
+margin: .5em;;
+padding: .5em;
+}
+
+#className{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+#graph{
+	float: left;
+	padding: 0;
+/*  border: solid 1px #ddd;*/
+}
+
+#description{
+	clear: both;
+	margin: 1em;
+}
+svg{
+	overflow: visible;
+}
+h2{
+	font-weight: normal;
+	text-transform: uppercase;
+	font-size: 1em;
+	margin-bottom: .5em;
+}
+
+a, a:link, a:active, a:visited {
+  color: #333;
+}
+
+a:hover {
+  color: #666;
+}

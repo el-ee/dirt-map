@@ -5,20 +5,28 @@
 <meta charset="utf-8">
 <head>
 	<script src="http://d3js.org/d3.v3.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
 	<script src="js_lib/colors.js"></script>
   <script src="js_lib/shared_functions.js"></script>
 	<script src="js_lib/jquery-1.11.0.min.js"></script>
-	<script type="text/javascript" src="js_lib/jquery.tipsy.js"></script>
-
-	<link href="style/cluster_style.css" media="all" rel="stylesheet" type="text/css" />
-	<link href="style/tipsy.css" media="all" rel="stylesheet" type="text/css" />
+  
+  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="style/tipsy.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="style/cluster.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  <div id="header"></div>
-	<div id="graph"></div>
-	<div id="legend"></div>
-	<div id="description"></div>
-
+	<div id="container">
+		<div id="header"></div>
+		<div id="graph"></div>
+		<div id="legend"></div>
+		<div id="related visuals"><h2>related viz:</h2></div>
+		<div id="hover-detail"><p>&gt;<span class="directions"> ... hover over a circle for details</span></p></div>
+		<div id="description"></div>
+	</div>
+	
 <script>
 
 /** File and page layout setup **/
@@ -55,7 +63,7 @@ d3.select("#description").append("h2")
     .text("  next \u00bB");
     
     d3.select("#description").append("p")
-    	.text("Each circle represents a particular species of bacteria found in the sample, scaled by abundance percentage. Colors are coded at the Phylum level.")
+    	.text("Each circle represents a particular species of bacteria found in the sample, scaled by abundance percentage. Colors are coded at the Phylum level.");
       
   
   
@@ -150,16 +158,10 @@ function visualizeit() {
 	      return function(t) { return d.radius = i(t); };
 	    });
       
-      
+			
+			node.on("mouseover", function(d){d3.select(".directions").text(" " + (parseFloat(d.Percent).toFixed(2)).toString() + "% of the extracted DNA matched " + d.Phylum +  " / " + d.Class + " / " + d.Species);})
+						.on("mouseout", function(d){d3.select(".directions").text(" ...");});
 
-	$('svg circle').tipsy({ 
-	        gravity: 'w', 
-	        html: true, 
-	        title: function() {
-	          var d = this.__data__;
-	          return "Phylum: " + d.Phylum +  "<br/>Class: " + d.Class + "<br/>Species: " + d.Species; 
-	        }
-	      });
 
 	function tick(e) {
 	  node
