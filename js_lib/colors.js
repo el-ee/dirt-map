@@ -42,6 +42,17 @@ var sites_bright = {
 };
 
 
+var network_degree = {
+	"0": base03,
+	"1": base0E, 
+	"2": base0D,
+	"3" : base0B,
+	"4" : base0A,
+	"5" : base09,
+	"6" : base08,
+};
+
+
 
 
 function drawLegend(colors) {

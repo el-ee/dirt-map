@@ -24,6 +24,9 @@ li {
 	line-height: 1.2em;
 }
 
+#related {
+	margin-left: 1em;
+}
 
 #hover-detail {
 	clear: both;
@@ -67,6 +70,7 @@ h2{
 	text-transform: uppercase;
 	font-size: 1em;
 	margin-bottom: .5em;
+	margin-top: 1.5em;
 }
 
 a, a:link, a:active, a:visited {
@@ -75,4 +79,8 @@ a, a:link, a:active, a:visited {
 
 a:hover {
   color: #666;
+}
+
+text {
+	pointer-events: none;
 }
