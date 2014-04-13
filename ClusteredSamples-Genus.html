@@ -40,10 +40,10 @@ if  (!bacteria_number || bacteria_number < 1 || bacteria_number > num_bacteria) 
 var file_name = "json/cluster-samples-genus-trimmed/cluster-samples-genus_row_" + bacteria_number + ".json";
 
 var home_link = d3.select("#header").append("a")
-  .attr("href", "http://dirtmap.org");
+  .attr("href", "http://dirtmap.org/bacteria.html");
 
 home_link.append("h2")
-    .text("\u00AB dirtmap.org");
+    .text("\u00AB dirtmap bacteria index");
 
 d3.select("#description").append("h2")
 	.text("File: " + file_name);
