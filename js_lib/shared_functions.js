@@ -1,10 +1,5 @@
 
-var sites_key = {'S46': 'on trail', 'S36': 'on trail', 'S42': 'rocks', 'S31': 'on trail', 'S25': 'other', 'S16': 'other', 'S57': 'fire', 'S56': 'rocks', 'S55': 'water', 'S54': 'plant', 'S53': 'on trail', 'S52': 'water', 'S51': 'plant', 'S50': 'on trail', 'S15': 'on trail', 'S14': 'water', 'S59': 'plant', 'S58': 'plant', 'S19': 'plant', 'S18': 'other', 'S39': 'plant', 'S6': 'other', 'S13': 'water', 'S34': 'plant', 'S11': 'on trail', 'S10': 'rocks', 'S17': 'on trail', 'S30': 'on trail', 'S33': 'plant', 'S32': 'plant', 'S38': 'other', 'S22': 'fire', 'S23': 'fire', 'S20': 'fire', 'S47': 'plant', 'S26': 'on trail', 'S41': 'rocks', 'S24': 'plant', 'S43': 'rocks', 'S28': 'other', 'S29': 'plant', 'S62': 'fire', 'S48': 'water', 'S60': 'fire', 'S61': 'fire', 'S8': 'fire', 'S9': 'plant', 'S45': 'plant', 'S44': 'rocks', 'S1': 'plant', 'S2': 'on trail', 'S3': 'other', 'S4': 'other', 'S5': 'on trail', 'S49': 'water', 'S7': 'fire', 'S35': 'on trail', 'S21': 'fire', 'S12': 'other', 'S40': 'on trail', 'S37': 'other', 'S27': 'other'};
 
-
-var samples_to_collection = {};
-
-var collection_to_samples = {};
 
 // Fetch URL Parameters
 // Thanks to: http://www.thecodeship.com/web-development/javascript-url-object/ 
@@ -92,34 +87,66 @@ function urlObject(options) {
 }
 
 
-function addRelatedViz (type, number) {
-	
-	
+
+
+var sites_key = {'S46': 'on trail', 'S36': 'on trail', 'S42': 'rocks', 'S31': 'on trail', 'S25': 'other', 'S16': 'other', 'S57': 'fire', 'S56': 'rocks', 'S55': 'water', 'S54': 'plant', 'S53': 'on trail', 'S52': 'water', 'S51': 'plant', 'S50': 'on trail', 'S15': 'on trail', 'S14': 'water', 'S59': 'plant', 'S58': 'plant', 'S19': 'plant', 'S18': 'other', 'S39': 'plant', 'S6': 'other', 'S13': 'water', 'S34': 'plant', 'S11': 'on trail', 'S10': 'rocks', 'S17': 'on trail', 'S30': 'on trail', 'S33': 'plant', 'S32': 'plant', 'S38': 'other', 'S22': 'fire', 'S23': 'fire', 'S20': 'fire', 'S47': 'plant', 'S26': 'on trail', 'S41': 'rocks', 'S24': 'plant', 'S43': 'rocks', 'S28': 'other', 'S29': 'plant', 'S62': 'fire', 'S48': 'water', 'S60': 'fire', 'S61': 'fire', 'S8': 'fire', 'S9': 'plant', 'S45': 'plant', 'S44': 'rocks', 'S1': 'plant', 'S2': 'on trail', 'S3': 'other', 'S4': 'other', 'S5': 'on trail', 'S49': 'water', 'S7': 'fire', 'S35': 'on trail', 'S21': 'fire', 'S12': 'other', 'S40': 'on trail', 'S37': 'other', 'S27': 'other'};
+
+
+var samples_to_collection = {};
+
+var collection_to_samples = {};
+
+function addRelatedViz (type, number, top_related) {
 	
 	if(type=="s") {
+		// sample level stuff
 	
-	var link_list = d3.select("#related").append("ul");
+		var link_list = d3.select("#related").append("ul");
 	
-	var link_item = link_list.append("li");
+		var link_item = link_list.append("li")
+		.text("Sample-centric plots: ");
 	
-	link_item.append("a")
-	.attr("href", "./ClusteredSpecies.html?s=" + number.toString())
-	.text("Clustered species distribution for S" + number.toString());
+		var link_item = link_list.append("li");
+	
+		link_item.append("a")
+		.attr("href", "./ClusteredSpecies.html?s=" + number.toString())
+		.text("Clustered species distribution for S" + number.toString());
 
-	link_item = link_list.append("li");
+		link_item = link_list.append("li");
 
-	link_item.append("a")
-	.attr("href", "./CircleHierarchy.html?s=" + number.toString())
-	.text("Taxonomic hierarchy for S" + number.toString());
+		link_item.append("a")
+		.attr("href", "./CircleHierarchy.html?s=" + number.toString())
+		.text("Taxonomic hierarchy for S" + number.toString());
 	
-	var link_list = d3.select("#related").append("ul");
+		// collection level stuff
+
+		var link_list = d3.select("#related").append("ul");
+	
+		var link_item = link_list.append("li")
+		.text("Collection-level plots:");
 		
-	link_item = link_list.append("li");
+		link_item = link_list.append("li");
 	
-	link_item.append("a")
-	.attr("href", "./#")
-	.text("TO ADD: NETWORK THINGS");
+		link_item.append("a")
+		.attr("href", "./#")
+		.text("TO ADD: NETWORK THINGS");
+
+		// representative bacteria
+	
+		// var link_list = d3.select("#related").append("ul");
+// 
+// 		var link_item = link_list.append("li")
+// 		.text("Prevalent bacteria in this sample:");
+// 		for (bacteria in top_related) {
+// 			link_item = link_list.append("li");
+// 	
+// 			link_item.append("a")
+// 			.attr("href", "./#")
+// 			.text("TO ADD:BACTERIA THINGS");
+// 		}
+	}
 }
 
 
-}
+
+
