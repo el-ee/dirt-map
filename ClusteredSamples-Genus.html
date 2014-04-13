@@ -6,23 +6,24 @@
 <head>
 	<script src="http://d3js.org/d3.v3.min.js"></script>
 	
-	<script type="text/javascript" src="js_lib/jquery.tipsy.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
   
 	<script src="js_lib/colors.js"></script>
   <script src="js_lib/shared_functions.js"></script>
-	<script src="js_lib/jquery-1.11.0.min.js"></script>
   
   <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
-  <link href="style/tipsy.css" media="all" rel="stylesheet" type="text/css" />
 	<link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
 	<link href="style/cluster.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 <body>
-  <div id="header"></div>
-	<div id="graph"></div>
-	<div id="legend"></div>
-  <div><p id="tooltip"></p></div>
-	<div id="description"></div>
+	<div id="container">
+		<div id="header"></div>
+		<div id="graph"></div>
+		<div id="legend"></div>
+		<div id="hover-detail"><p>&gt;<span class="directions"> ... hover over a circle for details</span></p></div>
+		<div id="description"></div>
+		<div id="related"><h2>Related Viz:</h2></div>
+	</div>
 
 <script>
 
@@ -95,7 +96,7 @@ function visualizeit() {
       .text("  next \u00bB");
   
     d3.select("#description").append("p")
-     	.text("This graph represents the distribution of bacteria across the samples. Each circle represents a particular soil sample. Size indicates what percentage of this sample consisted of the bacteria in this graph. Colors are coded based on the location of the sample.")
+     	.text("This graph represents the distribution of bacteria across the samples. Each circle represents a particular soil sample. Size indicates what percentage of this sample consisted of the bacteria in this graph. Colors are coded based on characteristics of the sample site.")
   
   
   
@@ -160,16 +161,14 @@ function visualizeit() {
 	    .style("fill", function(d) {return color_dict[d.cluster]; })
 	    .call(force.drag);
       
-      node.on("mouseover", function(d) {
-        d3.select("#tooltip")
-        .text(d.sample + ": " + d.percent);
-      });
-      
-      node.on("mouseout", function() {
-        d3.select("#tooltip")
-        .text("");
-      });
-
+     
+			node.on("mouseover", function(d){
+					d3.select(".directions").text(" " + (parseFloat(d.percent).toFixed(2)).toString() + "% of " + d.sample + " matched with bacteria in the genus " + taxa["Genus"]);
+					})
+					.on("mouseout", function(d){d3.select(".directions").text(" ...");});
+						
+	
+						
 	node.transition()
 	    .duration(750)
 	    .delay(function(d, i) { return i * 5; })
