@@ -133,6 +133,11 @@ function addRelatedViz (rel_d) {
 		
 		var link_item = link_list.append("li");
 		var s_num = rel_d["s"][s_idx]
+		
+		console.log(s_num);
+		if(s_num.toString()[0]=="S") {
+			s_num = parseFloat(s_num.substr(1));
+		}
 	
 		link_item.append("a")
 		.attr("href", "./ClusteredSpecies.html?s=" + s_num.toString())
@@ -151,14 +156,19 @@ function addRelatedViz (rel_d) {
 	var link_item = link_list.append("li")
 	.text("Collection-level plots:");
 	
-	for (collection in rel_d["c"]) {
+	for (c_idx in rel_d["c"]) {
 		// collection level stuff
 
+		c_num = rel_d["c"][c_idx];
+		if(c_num.toString()[0]=="C") {
+			c_num = parseFloat(c_num.substr(1));
+		}
+		
 		link_item = link_list.append("li");
 	
 		link_item.append("a")
-		.attr("href", "./#")
-		.text("TO ADD: NETWORK THINGS");
+		.attr("href", "./NetworkCollection.html?c=" + c_num.toString())
+		.text("C" + c_num.toString() + ": Network diversity");
 	}
 
 		// representative bacteria

@@ -37,7 +37,7 @@ if  (!sample_num) {sample_num = 1; alert("you did not specify a sample number; d
 var file_name = "json/cluster-species/cluster-species_S" + sample_num + ".json";
 
 
-addRelatedViz({"s": [sample_num], "c" : [], "g" : []});
+addRelatedViz({"s": [sample_num], "c" : [samples_to_collection["S" + sample_num.toString()]], "g" : []});
 
 
 var home_link = d3.select("#header").append("a")

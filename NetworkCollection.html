@@ -47,6 +47,8 @@ d3.select("#description").append("h2")
 d3.select("#description").append("p")
 	.text("This graph shows diversity among samples collected at the same location. White labeled circles represent the individual samples that were collected at the same location. Each colored circle represents a particular genus of bacteria. Lines connect bacteria genera to the samples in which they were identified. Colors indicate the number of samples which contained at least some bacteria belonging to that genus. ")
 
+addRelatedViz({"s": collection_to_samples["C" + c_num.toString()], "c" : [], "g" : []});
+
 var width = 768,
     height = 768;
 

@@ -42,7 +42,7 @@ var sample_num = url_obj["parameters"]["s"];
 if  (!sample_num) {sample_num = 1; console.log("did not specify a valid sample number; default is to display sample 1");}
 var file_name = "json/tree-pruned-species/S" + sample_num + "_tree_species.json";
 
-addRelatedViz({"s": [sample_num], "c" : [], "g" : []});
+addRelatedViz({"s": [sample_num], "c" : [samples_to_collection["S" + sample_num.toString()]], "g" : []});
 
 
 var home_link = d3.select("#header").append("a")
