@@ -1,0 +1,17 @@
+
+circle {
+/*	stroke: #000;*/ /*dark*/
+	stroke: #fff; /*light*/
+ }
+
+circle:hover {
+	stroke: #aaa; /*dark*/
+
+}
+
+
+.link {
+  fill: none;
+  stroke: #bbb;
+}
+

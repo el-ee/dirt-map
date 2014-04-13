@@ -13,63 +13,63 @@
 	<script src="js_lib/jquery-1.11.0.min.js"></script>
   
   <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
-  <link href="style/tipsy.css" media="all" rel="stylesheet" type="text/css" />
-	<link href="style/cluster_style.css" media="all" rel="stylesheet" type="text/css" />
-  
-  
+  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="style/hierarchy.css" media="all" rel="stylesheet" type="text/css" />
 
-  <style>
-
-  .node {
-    cursor: pointer;
-  }
-
-  .node:hover {
-    stroke: #000;
-    stroke-width: 1.5px;
-  }
-
-  .node--root {
-    stroke: #777;
-    stroke-width: 2px;
-  }
-
-  .node--leaf {
-    fill: white;
-  }
-
-  .label {
-    font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-anchor: middle;
-    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
-  }
-
-  .label,
-  .node--root,
-  .node--leaf {
-    pointer-events: none;
-  }
-
-  </style>
   
 </head>
 <body>
   <div id="header"></div>
-	<div id="graph"></div>
+	<div id="graph"><div><p id="tooltip"></p></div></div>
 	<div id="legend"></div>
-  <div><p id="tooltip"></p></div>
+  
 	<div id="description"></div>
 
 
 <script>
 
-var file_name = "json/tree-species/S10_tree_species.json";
+/** File and page layout setup **/
 
-d3.select("body").append("h2")
-	.text(file_name);
+var url_obj = urlObject();
+
+var sample_num = url_obj["parameters"]["s"];
+// Default to sample 1
+if  (!sample_num) {sample_num = 1; console.log("did not specify a valid sample number; default is to display sample 1");}
+var file_name = "json/tree-species/S" + sample_num + "_tree_species.json";
+
+
+var home_link = d3.select("#header").append("a")
+  .attr("href", "http://dirtmap.org");
+
+home_link.append("h2")
+    .text("\u00AB dirtmap.org");
+
+
+d3.select("#description").append("h2")
+	.text("File: " + file_name);
 	
+  var links_par = d3.select("#description").append("p");
+  
+  links_par.append("a")
+      .attr("href", "./CircleHierarchy.html?s="+(sample_num-1).toString())
+      .text("\u00AB prev  ");
+    
+  links_par.append("span")
+      .text(" . . . ");
+
+  links_par.append("a")
+    .attr("href", "./CircleHierarchy.html?s="+(sample_num+1).toString())
+    .text("  next \u00bB");
+    
+    d3.select("#description").append("p")
+    	.text("A hierarchical representation of the bacteria in this sample, from kingdom through species. Innermost circles represent species of bacteria and are sized to reflect the proportion of with which they are found in the sample.");
+
+
+/** graph setup **/
+
+
 var margin = 10,
-    outerDiameter = 960,
+    outerDiameter = 800,
     innerDiameter = outerDiameter - margin - margin;
 
 var x = d3.scale.linear()
@@ -78,9 +78,11 @@ var x = d3.scale.linear()
 var y = d3.scale.linear()
     .range([0, innerDiameter]);
 
+
+
 var color = d3.scale.linear()
     .domain([-1, 5])
-    .range(["lab(#AF3832)", "lab(#F4BE32)"])
+    .range([(d3.lab("#A08A7C").brighter(1)).toString(), (d3.lab("#A08A7C").darker(2)).toString()])
     .interpolate(d3.interpolateHcl);
 
 var pack = d3.layout.pack()
@@ -88,7 +90,7 @@ var pack = d3.layout.pack()
     .size([innerDiameter, innerDiameter])
     .value(function(d) { return d.percent; })
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#graph").append("svg")
     .attr("width", outerDiameter)
     .attr("height", outerDiameter)
   .append("g")
@@ -98,7 +100,7 @@ d3.json(file_name, function(error, root) {
   var focus = root,
       nodes = pack.nodes(root);
 
-  svg.append("g").selectAll("circle")
+svg.append("g").selectAll("circle")
       .data(nodes)
     .enter().append("circle")
       .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
@@ -107,14 +109,6 @@ d3.json(file_name, function(error, root) {
       .style("fill", function(d) { return d.children ? color(d.depth) : null; })
       .on("click", function(d) { return zoom(focus == d ? root : d); });
 
-  svg.append("g").selectAll("text")
-      .data(nodes)
-    .enter().append("text")
-      .attr("class", "label")
-      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-      .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
-      .style("display", function(d) { return d.parent === root ? null : "none"; })
-      .text(function(d) { return d.name; });
 
   d3.select(window)
       .on("click", function() { zoom(root); });
@@ -135,11 +129,6 @@ d3.json(file_name, function(error, root) {
     transition.filter("circle")
         .attr("r", function(d) { return k * d.r; });
 
-    transition.filter("text")
-      .filter(function(d) { return d.parent === focus || d.parent === focus0; })
-        .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
-        .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
-        .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
   }
 });
 

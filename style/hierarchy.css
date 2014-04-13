@@ -1,0 +1,28 @@
+
+  .node {
+    cursor: pointer;
+  }
+
+  .node:hover {
+    stroke: #fff;
+    stroke-width: 1.5px;
+  }
+
+  .node--root {
+    stroke: #a67164;
+    stroke-width: 2px;
+  }
+
+  .node--leaf {
+    fill: #F1E2D4;
+  }
+
+  .label {
+    font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+   }
+
+  .label,
+  .node--root,
+  .node--leaf {
+    pointer-events: none;
+  }
