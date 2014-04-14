@@ -12,12 +12,13 @@ body {
 p {
 	line-height: 1.2em;
 	margin-bottom: .5em;
+  margin-top: 1em;
 	max-width: 60em;
 }
 
 
 ul {
-margin-bottom: 1em;	
+  margin-bottom: 1em;	
 }
 
 li {
@@ -71,6 +72,10 @@ h2{
 	font-size: 1em;
 	margin-bottom: .5em;
 	margin-top: 1.5em;
+}
+
+#description h2 {
+  text-transform: none;
 }
 
 a, a:link, a:active, a:visited {
