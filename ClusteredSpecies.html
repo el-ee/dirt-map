@@ -160,8 +160,8 @@ function visualizeit() {
 	    });
       
 			
-			node.on("mouseover", function(d){d3.select(".directions").text(" " + (parseFloat(d.Percent).toFixed(2)).toString() + "% of the extracted DNA matched " + d.Phylum +  " / " + d.Class + " / " + d.Species);})
-						.on("mouseout", function(d){d3.select(".directions").text(" ...");});
+			node.on("mouseover", function(d){d3.select(".directions").text(" " + (parseFloat(d.Percent).toFixed(2)).toString() + "% of the extracted DNA matched " + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species);})
+      			.on("mouseout", function(d){d3.select(".directions").text(" ...");});
 
 
 	function tick(e) {
