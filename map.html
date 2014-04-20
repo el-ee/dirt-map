@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="utf-8">
+  
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
+  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="style/map.css" media="all" rel="stylesheet" type="text/css" />
+
+  <link href="style/leaflet.css" media="all" rel="stylesheet" type="text/css" />
+
+  <script src="js_lib/leaflet.js"></script>
+  <script src="js_lib/leaflet-gpx.js"></script>
+
+</head>
+<body>
+
+	<div id="container">
+    
+    <!-- Container for descriptive  -->
+		<div id="header"></div>
+    
+    <!-- Contains trail map on left side -->
+		<div id="trail"></div>
+    
+    <!-- Interactive map using leaflet -->
+    <div id="map"></div>
+
+    <!-- Container for text describing collection site, with link to collection viz -->
+		<div id="description"></div>
+
+    <!-- Container for images of dirt samples at each sample site, and links to viz -->
+    <div id="dirt"></div>
+    
+	</div>
+	
+  <script>
+  
+  site_lat=51.105;
+  site_lon=-0.09;
+  zoom=13;
+  
+  var map = L.map('map').setView([site_lat, site_lon], zoom);
+
+  var Stamen_TonerBackground = L.tileLayer('http://{s}.tile.stamen.com/toner-background/{z}/{x}/{y}.png', {
+  	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+  	subdomains: 'abcd',
+  	minZoom: 0,
+  	maxZoom: 20
+  });
+  
+  Stamen_TonerBackground.addTo(map);
+  
+  
+
+  </script>
+
+</body>
+
+</html>
