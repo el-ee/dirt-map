@@ -31,6 +31,8 @@ li {
 
 #hover-detail {
 	clear: both;
+    margin-left: 1em;
+    indent: -1em;
 }
 
 #hover-detail p {

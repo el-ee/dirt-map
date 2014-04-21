@@ -127,8 +127,8 @@ var collection_locs = {
     "C5": {"lat": 34.21759, "lon": -116.74373},
     "C6": {"lat": 34.30383, "lon": -117.38891},
     "C7": {"lat": 34.37353, "lon": -118.17756},
-    // "C8": {"lat": 34.89750, "lon": -118.45557},
-    // "C9": {"lat": 34.97941, "lon": -118.46860},
+    "C8": {"lat": 34.89750, "lon": -118.45557},
+    "C9": {"lat": 34.97941, "lon": -118.46860},
     "C10": {"lat": 35.656786, "lon": -118.043036},
     "C11": {"lat": 36.47489, "lon": -118.26043},
     "C12": {"lat": 36.57859, "lon": -118.29216},
@@ -137,11 +137,15 @@ var collection_locs = {
     "C15": {"lat": 37.477764, "lon": -118.924242},
     "C16": {"lat": 38.292992, "lon": -119.638390},
     "C17": {"lat": 38.660290, "lon": -119.959700},
-    "C18": {"lat": 39.532655, "lon": -120.573663},
-    "C19": {"lat": 39.532655, "lon": -120.573663},
+    "C18": {"lat": 39.52793, "lon": -120.56932},
+    "C19": {"lat": 39.53738, "lon": -120.56664},
     "C20": {"lat": 40.259270, "lon": -121.340630},
     "C21": {"lat": 40.56108, "lon": -121.41912},
     "C22": {"lat": 41.84889, "lon": -123.21110}
+};
+
+var collection_miles = {
+    
 };
 
 var collection_to_sample_nums = {"C1": ["1", "2", "3"],
@@ -166,28 +170,28 @@ var collection_to_sample_nums = {"C1": ["1", "2", "3"],
                              "C22": ["48", "49"]
                             };
 
-var collection_descriptions = { "C1": "1 mile from border",
-                                "C2": "the first real forest, just before mt. laguna",
-                                "C3": "scissors xing",
-                                "C4": "devil’s slide trail",
-                                "C5": "spring before big bear",
-                                "C6": "campsite before cajon pass",
-                                "C7": "roadwalk, off trail, around poodle dog bush",
-                                "C8": "LOST IN THE MAIL - windfarm along CA aqueduct, near cottonwood creek bridge",
-                                "C9": "LOST IN THE MAIL - canyon before tehachapi from side of creek",
-                                "C10":"just before walker pass",
-                                "C11":"entered sequoia and kings canyon np",
+var collection_descriptions = { "C1": "1 mile from US/MX border",
+                                "C2": "The first real forest of the PCT, just before Mt. Laguna",
+                                "C3": "The burn zone after Scissors Crossing",
+                                "C4": "Near the junction with Devil’s Slide Trail",
+                                "C5": "A spring flowing across the trail before big bear",
+                                "C6": "Our campsite before Cajon Pass",
+                                "C7": "On a roadwalk, technically off trail, avoiding Poodle Dog Bush in the old Station Fire burn zone",
+                                "C8": "LOST IN THE MAIL - Windfarm along the CA aqueduct, near Cottonwood Creek Bridge",
+                                "C9": "LOST IN THE MAIL - Canyon walls along a creek before Tehachapi",
+                                "C10":"Just before Walker Pass",
+                                "C11":"Just before entering Sequoia and Kings Canyon NP",
                                 "C12":"Mt. Whitney",
                                 "C13":"Kearsarge Pass",
                                 "C14":"selden pass",
                                 "C15":"squaw lake",
                                 "C16":"near sonora pass, tree outcropping just before rocky mini-pass",
                                 "C17":"trying to capture the colors of the rocks",
-                                "C18":"collected on way into town",
-                                "C19":"collected on the way into town, coming down a hill in the sun",
-                                "C20":"before chester, after midpoint",
-                                "C21":"lassen nf burn zone",
-                                "C22":"fern spring, after seiad valley"};
+                                "C18":"just before sierra city, about to head down from the ridge",
+                                "C19":"Barely past C18, coming down a hill in the sun",
+                                "C20":"Before reaching chester, but after passing the PCT midpoint",
+                                "C21":"Lassen NF burn zone, just beyond the park boundary",
+                                "C22":"Boxed fern spring, after seiad valley"};
                                 
                               
                             
