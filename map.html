@@ -6,8 +6,8 @@
   
 	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
   
-  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
-  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <!-- <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/> -->
+  <link href="style/dirtmap.css" media="all" rel="stylesheet" type="text/css" />
 
   <link href="style/leaflet.css" media="all" rel="stylesheet" type="text/css" />
 
@@ -23,12 +23,20 @@
 	<div id="container">
     
     <!-- Container for descriptive  -->
-		<div id="header"></div>
+		<div id="header">
+      <h1>Dirt: Biogeography of the Pacific Crest Trail</h1>
+      <h1>EXHIBITION OPENING 5-7pm May 1st, UCLA <a href="http://artsci.ucla.edu">Art|Science</a> Gallery, <a href="http://www1.cnsi.ucla.edu/staticpages/about-us">CNSI</a> 5149</h1>
+
+      <p id="desc">This is a collaborative project by <a href="http://agapakis.com">Christina Agapakis</a> and <a href="http://ellieharmon.com">Ellie Harmon</a>, supported by the University of California Institute for Research in the Arts. While hiking the Pacific Crest Trail, Ellie collected samples of dirt throughout California and sent them to Christina's lab. They extracted DNA from the bacteria living in the dirt and sequenced the <a href="http://en.wikipedia.org/wiki/16S_ribosomal_RNA">16S ribosomal RNA</a> to identify what species of bacteria were there. Click on a name to see a summary of where we found that genus of bacteria.</p>
+      </div>
+      <div id="nav">
+      <p id="navtext">&nbsp;&nbsp;&nbsp;<a href="http://dirtmap.org/index.html">View by Sample</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dirtmap.org/bacteria.html">View by Bacteria</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View by Map</p>
+		</div>
     
     <!-- Contains trail map on left side -->
 		<div id="trail"></div>
     
-    <!-- Interactive map using leaflet -->
+    <!-- Interactive map w/ leaflet -->
     <div id="map"></div>
 
     <!-- Container for text describing collection site, with link to collection viz -->
