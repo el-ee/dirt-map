@@ -26,17 +26,19 @@ li {
 }
 
 #related {
-	margin-left: 1em;
+    margin-left: 1em;
 }
 
 #hover-detail {
 	clear: both;
-    margin-left: 1em;
-    indent: -1em;
+    min-height: 3em;
+    padding-left: 1em;
+
 }
 
 #hover-detail p {
-		max-width: 100%;
+	max-width: 100%;
+    text-indent: -1em;
 }
 
 #hover-detail .directions {
