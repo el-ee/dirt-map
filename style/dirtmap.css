@@ -22,13 +22,11 @@ h1{
 }
 
 .dirt_desc{
-
-	
 	font-size: 8px !important; 
 	color: #929696; 
 }
 
-#collection{
+#collection, .coll_desc{
 	font-size: 10px;
 	color:#636262;
 
