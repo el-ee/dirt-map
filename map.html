@@ -66,58 +66,69 @@
  //  
  //  Stamen_TonerBackground.addTo(map);
   
+ var socal_trim = 'http://el-ee.github.io/dirt-map/gpx/ca_southern_track_trim.gpx';
+ var central_trim = 'http://el-ee.github.io/dirt-map/gpx/ca_central_track_trim.gpx';
+ var norcal_trim = 'http://el-ee.github.io/dirt-map/gpx/ca_northern_track_trim.gpx';
+  
   var socal = 'http://el-ee.github.io/dirt-map/gpx/ca_southern_track.gpx'; 
   var central = 'http://el-ee.github.io/dirt-map/gpx/ca_central_track.gpx';
   var norcal = 'http://el-ee.github.io/dirt-map/gpx/ca_northern_track.gpx';
- 
-  var socal_layer = new L.GPX(socal, {
+
+  var socal_layer = new L.GPX(socal_trim, {
     async: true,
-    color: 'black',
-    clickable: false,
     marker_options: {
-      startIconUrl: 'images/circle.png',
-      endIconUrl: 'images/circle.png',
-      shadowUrl: 'images/circle.png',    
-      iconSize: [0,0],
-      shadowSize: [0,0]
+      startIconUrl: 'images/ring.png',
+      endIconUrl: 'images/ring.png',
+      shadowUrl: 'images/ring.png',    
+      iconSize: [100, 100],
+      shadowSize: [5, 5]
+    },
+    polyline_options: {
+      // some more options passed to Leaflet Polyline http://leafletjs.com/reference.html#polyline
+      color: 'black',
+      clickable: false,
+      weight: 2
     }
   });
   
   socal_layer.on('loaded', function(e) {
-    console.log("loaded");
     socal_layer.addTo(trail);
   });
   
-  new L.GPX(central, {
+  new L.GPX(central_trim, {
     async: true,
     marker_options: {
-      startIconUrl: 'images/circle.png',
-      endIconUrl: 'images/circle.png',
-      shadowUrl: 'images/circle.png',
-      
+      startIconUrl: 'images/ring.png',
+      endIconUrl: 'images/ring.png',
+      shadowUrl: 'images/ring.png',
       iconSize: [0,0],
       shadowSize: [0,0]
     },
-    color: 'black',
-    clickable: false,
-  }).on('loaded', function(e) {
-  }).addTo(trail);
+    polyline_options: {
+      // some more options passed to Leaflet Polyline http://leafletjs.com/reference.html#polyline
+      color: 'black',
+      clickable: false,
+      weight: 2
+    }
+  }).on('loaded', function(e) {}).addTo(trail);
   
-  new L.GPX(norcal, {
+  new L.GPX(norcal_trim, {
     async: true,
     marker_options: {
-      startIconUrl: 'images/circle.png',
-      endIconUrl: 'images/circle.png',
-      shadowUrl: 'images/circle.png',
+      startIconUrl: 'images/ring.png',
+      endIconUrl: 'images/ring.png',
+      shadowUrl: 'images/ring.png',
       
       iconSize: [0,0],
       shadowSize: [0,0]
     },
-    color: 'black',
-    clickable: false,
-  }).on('loaded', function(e) {
-    console.log("gpx loaded");
-  }).addTo(trail);
+    polyline_options: {
+      // some more options passed to Leaflet Polyline http://leafletjs.com/reference.html#polyline
+      color: 'black',
+      clickable: false,
+      weight: 2
+    }
+  }).on('loaded', function(e) {}).addTo(trail);
   
   for (var loc in collection_locs) {
     var circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 500, {
