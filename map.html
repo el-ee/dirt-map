@@ -8,10 +8,12 @@
   
   <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
   <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
-  <link href="style/map.css" media="all" rel="stylesheet" type="text/css" />
 
   <link href="style/leaflet.css" media="all" rel="stylesheet" type="text/css" />
 
+  <link href="style/map.css" media="all" rel="stylesheet" type="text/css" />
+
+  <script src="js_lib/shared_functions.js"></script>
   <script src="js_lib/leaflet.js"></script>
   <script src="js_lib/gpx.js"></script>
 
@@ -40,34 +42,90 @@
   <script>
   
 
-  site_lat=38.5558150;
+  site_lat=37.5558150;
   site_lon=-119.8295270;
   zoom=6;
   
-var map = L.map('map').setView([site_lat, site_lon], zoom);
+  var trail = L.map('trail', {
+    dragging: false,
+    touchZoom: false,
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    boxZoom: false,
+    bounceAtZoomLimits: false,
+    minZoom: zoom,
+    maxZoom: zoom
+  }).setView([site_lat, site_lon], zoom);
   
-  var Stamen_TonerBackground = L.tileLayer('http://{s}.tile.stamen.com/toner-background/{z}/{x}/{y}.png', {
-    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
-    subdomains: 'abcd',
-    minZoom: 0,
-    maxZoom: 20
+  // var Stamen_TonerBackground = L.tileLayer('http://{s}.tile.stamen.com/toner-background/{z}/{x}/{y}.png', {
+ //    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+ //    subdomains: 'abcd',
+ //    minZoom: 0,
+ //    maxZoom: 20
+ //  });
+ //  
+ //  Stamen_TonerBackground.addTo(map);
+  
+  var socal = 'http://el-ee.github.io/dirt-map/gpx/ca_southern_track.gpx'; 
+  var central = 'http://el-ee.github.io/dirt-map/gpx/ca_central_track.gpx';
+  var norcal = 'http://el-ee.github.io/dirt-map/gpx/ca_northern_track.gpx';
+ 
+  var socal_layer = new L.GPX(socal, {
+    async: true,
+    color: 'black',
+    clickable: false,
+    marker_options: {
+      startIconUrl: 'images/circle.png',
+      endIconUrl: 'images/circle.png',
+      shadowUrl: 'images/circle.png',    
+      iconSize: [0,0],
+      shadowSize: [0,0]
+    }
   });
   
-  Stamen_TonerBackground.addTo(map);
+  socal_layer.on('loaded', function(e) {
+    console.log("loaded");
+    socal_layer.addTo(trail);
+  });
   
-  
-  var url = 'http://el-ee.github.io/dirt-map/gpx/ca_southern_track.gpx'; // URL to your GPX file or the GPX itself
- 
-  new L.GPX(url, {
+  new L.GPX(central, {
     async: true,
     marker_options: {
-      startIconUrl: 'images/pin-icon-start.png',
-      endIconUrl: 'images/pin-icon-end.png',
-      shadowUrl: 'images/pin-shadow.png'
-    }
+      startIconUrl: 'images/circle.png',
+      endIconUrl: 'images/circle.png',
+      shadowUrl: 'images/circle.png',
+      
+      iconSize: [0,0],
+      shadowSize: [0,0]
+    },
+    color: 'black',
+    clickable: false,
   }).on('loaded', function(e) {
-    map.fitBounds(e.target.getBounds());
-  }).addTo(map);
+  }).addTo(trail);
+  
+  new L.GPX(norcal, {
+    async: true,
+    marker_options: {
+      startIconUrl: 'images/circle.png',
+      endIconUrl: 'images/circle.png',
+      shadowUrl: 'images/circle.png',
+      
+      iconSize: [0,0],
+      shadowSize: [0,0]
+    },
+    color: 'black',
+    clickable: false,
+  }).on('loaded', function(e) {
+    console.log("gpx loaded");
+  }).addTo(trail);
+  
+  for (var loc in collection_locs) {
+    var circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 500, {
+        color: 'red',
+        fillColor: '#f03',
+        fillOpacity: 0.5
+    }).addTo(trail); 
+  }
   
   </script>
 
