@@ -13,7 +13,7 @@
   <link href="style/leaflet.css" media="all" rel="stylesheet" type="text/css" />
 
   <script src="js_lib/leaflet.js"></script>
-  <script src="js_lib/leaflet-gpx.js"></script>
+  <script src="js_lib/gpx.js"></script>
 
 </head>
 <body>
@@ -39,23 +39,36 @@
 	
   <script>
   
-  site_lat=51.105;
-  site_lon=-0.09;
-  zoom=13;
-  
-  var map = L.map('map').setView([site_lat, site_lon], zoom);
 
+  site_lat=38.5558150;
+  site_lon=-119.8295270;
+  zoom=6;
+  
+var map = L.map('map').setView([site_lat, site_lon], zoom);
+  
   var Stamen_TonerBackground = L.tileLayer('http://{s}.tile.stamen.com/toner-background/{z}/{x}/{y}.png', {
-  	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
-  	subdomains: 'abcd',
-  	minZoom: 0,
-  	maxZoom: 20
+    attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+    subdomains: 'abcd',
+    minZoom: 0,
+    maxZoom: 20
   });
   
   Stamen_TonerBackground.addTo(map);
   
   
-
+  var url = 'http://el-ee.github.io/dirtmap/gpx/ca_southern_track.gpx'; // URL to your GPX file or the GPX itself
+ 
+  new L.GPX(url, {
+    async: true,
+    marker_options: {
+      startIconUrl: 'images/pin-icon-start.png',
+      endIconUrl: 'images/pin-icon-end.png',
+      shadowUrl: 'images/pin-shadow.png'
+    }
+  }).on('loaded', function(e) {
+    map.fitBounds(e.target.getBounds());
+  }).addTo(map);
+  
   </script>
 
 </body>
