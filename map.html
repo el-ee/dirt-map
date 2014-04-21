@@ -49,6 +49,11 @@
     <!-- Container for images of dirt samples at each sample site, and links to viz -->
     <div id="dirt"></div>
     
+    <div style="clear:both;"></div>
+    
+    <!-- Container for attributions etc -->
+    <div id="footer"> <p>PCT GPS tracks compressed and adapted from <a href="http://www.pctmap.net/">the Halfmile Project</a> data. Please consider a <a href="https://www.pcta.org/donate/#donate">donation to the PCTA</a>!</p></div>
+    
 	</div>
 	
   <script>
@@ -56,7 +61,7 @@
   var site_lat=37.2;
   var site_lon=-119.8295270;
   var zoom=5.5;
-  var track_color = "#b294bb";
+  var track_color = "purple";
   
   //
   // CREATE MAPS
@@ -64,7 +69,7 @@
   
   var map = L.map('map', {
     layers: [Stamen_TonerBackground]
-  }).setView([site_lat, site_lon], 11);
+  }).setView([site_lat, site_lon], 10);
 
   L.control.layers(baseMaps, overlayMaps).addTo(map);
   
@@ -80,6 +85,11 @@
     attributionControl: false,
     zoomControl: false
   }).setView([site_lat, site_lon], zoom);
+  
+  trail.on("click", function(e) {
+    $("div#map").css("visibility", "visible");
+    map.panTo(e.latlng);
+  });
 
  
   // 
@@ -226,19 +236,32 @@
     var circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 10000, {
         color: '#cc6666',
         fillColor: '#cc6666',
-        fillOpacity: 1,
-        dm_collectionID: loc
+        fillOpacity: .9,
+        opacity: 1,
+        dm_collectionID: loc,
+        weight: 2
     }).addTo(trail); 
     circle.on("click", selectCollection);
     circle.on("mouseover", function(e) {
-      e.target.fillColor = "#ccc";
+      e.target.setStyle({
+        fillColor: "#555",
+        color: "#ccc"
+      });
+    });
+    circle.on("mouseout", function(e) {
+      e.target.setStyle({ 
+        fillColor: "#cc6666",
+        color: "#cc6666" 
+      });
     });
     
     circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 2000, {
         color: '#cc6666',
         fillColor: '#cc6666',
         fillOpacity: 0.8,
-        dm_collectionID: loc
+        opacity: .9,
+        dm_collectionID: loc,
+        weight: 2
     }).addTo(map); 
     circle.bindPopup('Collection Site: ' + loc + '<br/>Samples: ' + collection_to_samples[loc]);
     circle.on("click", selectCollection);

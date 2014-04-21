@@ -84,6 +84,6 @@
   //
   
   var socal = 'http://el-ee.github.io/dirt-map/gpx/ca_southern_track_compressed.gpx'; 
-  var central = 'http://el-ee.github.io/dirt-map/gpx/ca_central_track_compressed.gpx';
+  var central = 'http://el-ee.github.io/dirt-map/gpx/ca_central_track_compressed2.gpx';
   var norcal = 'http://el-ee.github.io/dirt-map/gpx/ca_northern_track_compressed.gpx';
   

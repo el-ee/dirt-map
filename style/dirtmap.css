@@ -17,7 +17,7 @@ h1{
 
 
 
-#desc{
+#desc, #footer{
     font-size: 9px;
 }
 
@@ -29,7 +29,10 @@ h1{
 #collection, .coll_desc{
 	font-size: 10px;
 	color:#636262;
+}
 
+.coll_desc {
+    text-transform: uppercase;
 }
 
 
