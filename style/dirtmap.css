@@ -1,0 +1,76 @@
+body{
+	font-family:	Geneva, Arial, sans-serif;
+	color: 			black;
+    max-width:		1200px;
+	font-size:		small;
+	margin:		25px 0 0 0;
+	}
+
+#container {
+        	margin-left:	100px;
+            margin-right: 2em;
+}
+	
+h1{
+	font-size:		12px;
+}
+
+
+
+#desc{
+    font-size: 9px;
+}
+
+.dirt_desc{
+
+	
+	font-size: 8px !important; 
+	color: #929696; 
+}
+
+#collection{
+	font-size: 10px;
+	color:#636262;
+
+}
+
+
+
+
+
+#nav{
+	font-size:10px;
+	background-color: #636262;
+	height: 25px;
+}
+
+#navtext{
+padding-top: 6px;
+}
+
+#navtext a:link{
+	color: white;
+	
+}
+
+#navtext a:visited{
+	color:white
+}
+
+#navtext a:hover{
+	color: 			white;
+	text-decoration: underline;
+}
+
+
+
+a:link,
+a:visited{
+	
+	color:			#747575; 
+	text-decoration:none;
+	}
+a:hover{
+	color: 			#7d0505;
+	text-decoration: underline;
+	}

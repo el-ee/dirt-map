@@ -1,4 +1,41 @@
+body {
+    width: 100%;
+}
+#trail {
+    width: 350px;
+    height: 600px;
+    float: left;
+}
+
 #map {
-width: 400px;
-height: 400px;
+width: 500px;
+height: 600px;
+float: right;
+clear: after;
+
+}
+
+.leaflet-container {
+    background: #fff;
+}
+
+#description {
+
+    height: 100px;
+    clear: both;
+    margin: 1em 0;
+}
+
+#header {
+    clear: both;
+}
+
+#dirt {
+    height: 100px;
+    clear: both;
+    margin: 1em 0;
+}
+
+#nav {
+    width: 100%;
 }
