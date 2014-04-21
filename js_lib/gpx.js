@@ -84,7 +84,6 @@ L.GPX = L.FeatureGroup.extend({
   },
 
   get_duration_string: function(duration, hidems) {
-
     var s = '';
 
     if (duration >= _HOUR_IN_MILLIS) {
@@ -186,7 +185,6 @@ L.GPX = L.FeatureGroup.extend({
   },
 
   _load_xml: function(url, cb, options, async) {
-     
     if (async == undefined) async = this.options.async;
     if (options == undefined) options = this.options;
 
@@ -203,8 +201,6 @@ L.GPX = L.FeatureGroup.extend({
   },
 
   _parse: function(input, options, async) {
-     
-  
     var _this = this;
     var cb = function(gpx, options) {
       var layers = _this._parse_gpx_data(gpx, options);
@@ -223,8 +219,6 @@ L.GPX = L.FeatureGroup.extend({
   },
 
   _parse_gpx_data: function(xml, options) {
-     
-     
     var j, i, el, layers = [];
     var tags = [['rte','rtept'], ['trkseg','trkpt']];
 
@@ -288,7 +282,6 @@ L.GPX = L.FeatureGroup.extend({
   },
 
   _parse_trkseg: function(line, xml, options, tag) {
-     
     var el = line.getElementsByTagName(tag);
     if (!el.length) return [];
     var coords = [];

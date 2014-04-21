@@ -2,17 +2,19 @@ body {
     width: 100%;
 }
 #trail {
-    width: 350px;
-    height: 600px;
+    width: 300px;
+    height: 400px;
     float: left;
+margin: 1em 0 1em 0;
 }
 
 #map {
 width: 500px;
-height: 600px;
+height: 400px;
 float: right;
 clear: after;
-
+margin: 1em 0 1em 0;
+visibility: hidden;
 }
 
 .leaflet-container {
@@ -20,20 +22,25 @@ clear: after;
 }
 
 #description {
-
-    height: 100px;
     clear: both;
-    margin: 1em 0;
 }
-
 #header {
     clear: both;
 }
 
 #dirt {
-    height: 100px;
     clear: both;
-    margin: 1em 0;
+    margin: 3em auto;
+}
+
+#dirt div {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+}
+
+#dirt div p {
+    text-align: center;
 }
 
 #nav {
