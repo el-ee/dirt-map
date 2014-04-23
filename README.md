@@ -11,7 +11,9 @@ This project is made possible, in part, by the following libraries:
 * leaflet-gpx <https://github.com/mpetazzoni/leaflet-gpx>
 * jquery <http://jquery.com>
 
-Sequence data processing made possible by USEARCH
+Sequence data processing made possible by <a href="http://drive5.com/uparse/">UPARSE</a>.
+
+* Edgar, R.C. (2013) UPARSE: Highly accurate OTU sequences from microbial amplicon reads, Nature Methods [Pubmed:23955772,  dx.doi.org/10.1038/nmeth.2604](http://www.ncbi.nlm.nih.gov/pubmed/23955772).
 
 
 ## Species makeup of each sample
