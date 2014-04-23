@@ -2,9 +2,17 @@
 
 More info about this project at [dirtmap.org](http://dirtmap.org)
 
-This github repository is a place to keep up with the different visualization components of the project, made using d3. 
+This github repository is a place to keep up with the different visualization components of the project. 
 
-Some of what is here: 
+This project is made possible, in part, by the following libraries: 
+
+* d3 <http://d3js.org>
+* leaflet <http://leafletjs.com>
+* leaflet-gpx <https://github.com/mpetazzoni/leaflet-gpx>
+* jquery <http://jquery.com>
+
+Sequence data processing made possible by USEARCH
+
 
 ## Species makeup of each sample
 

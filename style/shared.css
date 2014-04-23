@@ -93,3 +93,13 @@ a:hover {
 text {
 	pointer-events: none;
 }
+
+#footer {
+    font-size: .8em;
+    font-color: #666;
+    margin-top: 3em;
+}
+
+#footer p {
+    max-width: 100%;
+}
