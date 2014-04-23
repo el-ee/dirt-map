@@ -255,13 +255,14 @@
     
     // Trail Map
     
-    var circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 10000, {
+    var circle = L.circleMarker([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], {
         color: '#cc6666',
         fillColor: '#cc6666',
-        fillOpacity: 1,
+        fillOpacity: .9,
         opacity: 1,
         dm_collectionID: loc,
-        weight: 2
+        weight: 2,
+        radius: 5
     });
        
     circle.on("click", selectCollection);
@@ -282,10 +283,10 @@
     
     // Interactive Map
     
-    circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 2000, {
+    circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 7000, {
         color: '#cc6666',
         fillColor: '#cc6666',
-        fillOpacity: 1,
+        fillOpacity: .9,
         opacity: 1,
         dm_collectionID: loc,
         weight: 2
