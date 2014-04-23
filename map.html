@@ -62,6 +62,10 @@
   var site_lon=-119.8295270;
   var zoom=5.5;
   var track_color = "purple";
+
+  // For keeping up with markers, and bringing them to the front after map tracks are added
+  var circles_layer = new L.FeatureGroup();
+  
   
   //
   // CREATE MAPS
@@ -96,7 +100,7 @@
   // TINY REFERENCE MAP LAYERS 
   // 
   
- new L.GPX(socal, {
+ var socal_layer = new L.GPX(socal, {
    async: true,
    marker_options: {
      startIconUrl: 'images/pin-icon-start.png',
@@ -111,9 +115,13 @@
      weight: 2, 
      opacity: 1
    }
- }).on('loaded', function(e) {}).addTo(trail);
+ }).on('loaded', function(e) { 
+   socal_layer.addTo(trail);
+   console.log(circles_layer); 
+   circles_layer.bringToFront();
+ });
  
- new L.GPX(central, {
+ var central_layer = new L.GPX(central, {
    async: true,
    marker_options: {
      startIconUrl: 'images/ring.png',
@@ -129,9 +137,13 @@
      weight: 2,
      opacity: 1
    }
- }).on('loaded', function(e) {}).addTo(trail);
+ }).on('loaded', function(e) { 
+   central_layer.addTo(trail);
+   console.log(circles_layer); 
+   circles_layer.bringToFront();
+  });
  
- new L.GPX(norcal, {
+ var norcal_layer = new L.GPX(norcal, {
    async: true,
    marker_options: {
      startIconUrl: 'images/ring.png',
@@ -148,13 +160,17 @@
      weight: 2,
      opacity: 1
    }
- }).on('loaded', function(e) { }).addTo(trail);
+ }).on('loaded', function(e) { 
+   norcal_layer.addTo(trail);
+   console.log(circles_layer); 
+   circles_layer.bringToFront();
+  });
  
  // 
  // INTEARACTIVE MAP LAYERS
  // 
  
- var socal_layer = new L.GPX(socal, {
+ new L.GPX(socal, {
    async:true,
    marker_options: {
      startIconUrl: 'images/pin-icon-start.png',
@@ -169,10 +185,9 @@
      weight: 4,
      opacity: .65
    }
- }).on('loaded', function(e) {
- }).addTo(map);
+ }).on('loaded', function(e) { }).addTo(map);
    
- var central_layer = new L.GPX(central, {
+ new L.GPX(central, {
    async: true,
    marker_options: {
      startIconUrl: 'images/ring.png',
@@ -187,9 +202,9 @@
      weight: 4,
      opacity: .65
    }
- }).on('loaded', function(e) {}).addTo(map);
+ }).on('loaded', function(e) { }).addTo(map);
  
- var norcal_layer = new L.GPX(norcal, {
+ new L.GPX(norcal, {
    async: true,
    marker_options: {
      startIconUrl: 'images/ring.png',
@@ -205,7 +220,7 @@
      weight: 4,
      opacity: .65
    }
- }).on('loaded', function(e) {}).addTo(map);
+ }).on('loaded', function(e) {  }).addTo(map);
   
  // 
  // CIRCLES; add to both
@@ -232,15 +247,23 @@
    $('div#dirt').html(dirt_html);
  }
  
+
+ 
+
+ 
   for (var loc in collection_locs) {
+    
+    // Trail Map
+    
     var circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 10000, {
         color: '#cc6666',
         fillColor: '#cc6666',
-        fillOpacity: .9,
+        fillOpacity: 1,
         opacity: 1,
         dm_collectionID: loc,
         weight: 2
-    }).addTo(trail); 
+    });
+       
     circle.on("click", selectCollection);
     circle.on("mouseover", function(e) {
       e.target.setStyle({
@@ -255,17 +278,27 @@
       });
     });
     
+    circles_layer.addLayer(circle);
+    
+    // Interactive Map
+    
     circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 2000, {
         color: '#cc6666',
         fillColor: '#cc6666',
-        fillOpacity: 0.8,
-        opacity: .9,
+        fillOpacity: 1,
+        opacity: 1,
         dm_collectionID: loc,
         weight: 2
     }).addTo(map); 
     circle.bindPopup('Collection Site: ' + loc + '<br/>Samples: ' + collection_to_samples[loc]);
     circle.on("click", selectCollection);
   }
+
+  // add all the circles to the trail map
+  console.log("adding all circles");
+  console.log(circles_layer);
+  circles_layer.addTo(trail);
+
   
   </script>
 
