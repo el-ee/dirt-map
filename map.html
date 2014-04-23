@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="utf-8">
+  
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
+  <!-- <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/> -->
+  <link href="style/dirtmap.css" media="all" rel="stylesheet" type="text/css" />
+
+  <link href="style/leaflet.css" media="all" rel="stylesheet" type="text/css" />
+
+  <link href="style/map.css" media="all" rel="stylesheet" type="text/css" />
+
+  <script src="js_lib/jquery-1.11.0.min.js"></script>
+
+  <script src="js_lib/shared_functions.js"></script>
+  <script src="js_lib/leaflet.js"></script>
+  <script src="js_lib/gpx.js"></script>
+  
+  <script src="js_lib/map_base.js"></script>
+
+</head>
+<body>
+
+	<div id="container">
+    
+    <!-- Container for descriptive  -->
+		<div id="header">
+      <h1>Dirt: Biogeography of the Pacific Crest Trail</h1>
+      <h1>EXHIBITION OPENING 5-7pm May 1st, UCLA <a href="http://artsci.ucla.edu">Art|Science</a> Gallery, <a href="http://www1.cnsi.ucla.edu/staticpages/about-us">CNSI</a> 5149</h1>
+
+      <p id="desc">This is a collaborative project by <a href="http://agapakis.com">Christina Agapakis</a> and <a href="http://ellieharmon.com">Ellie Harmon</a>, supported by the University of California Institute for Research in the Arts. While hiking the Pacific Crest Trail, Ellie collected samples of dirt throughout California and sent them to Christina's lab. They extracted DNA from the bacteria living in the dirt and sequenced the <a href="http://en.wikipedia.org/wiki/16S_ribosomal_RNA">16S ribosomal RNA</a> to identify what species of bacteria were there. Click on a name to see a summary of where we found that genus of bacteria.</p>
+      </div>
+      <div id="nav">
+      <p id="navtext">&nbsp;&nbsp;&nbsp;<a href="http://dirtmap.org/index.html">View by Sample</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dirtmap.org/bacteria.html">View by Bacteria</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">View by Map</a></p>
+		</div>
+    
+    <!-- Contains trail map on left side -->
+		<div id="trail"></div>
+    
+    <!-- Interactive map w/ leaflet -->
+    <div id="map"></div>
+
+    <!-- Container for text describing collection site, with link to collection viz -->
+		<div id="description"></div>
+
+    <!-- Container for images of dirt samples at each sample site, and links to viz -->
+    <div id="dirt"></div>
+    
+    <div style="clear:both;"></div>
+    
+    <!-- Container for attributions etc -->
+    <div id="footer"> <p>PCT GPS tracks compressed and adapted from <a href="http://www.pctmap.net/">the Halfmile Project</a> data. Please consider a <a href="https://www.pcta.org/donate/#donate">donation to the PCTA</a>!</p>
+      <p>Hosting by <a href="https://github.com">github</a>. Source available at <a href="https://github.com/el-ee/dirt-map">github/el-ee/dirt-map</a>. Maps made possible by <a href="http://leafletjs.com">leaflet</a> and <a href="https://github.com/mpetazzoni/leaflet-gpx">leaflet-gpx</a>.</p>
+    
+	</div>
+	
+  <script>
+  
+  var site_lat=37.2;
+  var site_lon=-119.8295270;
+  var zoom=5.5;
+  var track_color = "purple";
+
+  // For keeping up with markers, and bringing them to the front after map tracks are added
+  var circles_layer = new L.FeatureGroup();
+  
+  
+  //
+  // CREATE MAPS
+  // 
+  
+  var map = L.map('map', {
+    layers: [Stamen_TonerBackground]
+  }).setView([site_lat, site_lon], 10);
+
+  L.control.layers(baseMaps, overlayMaps).addTo(map);
+  
+  var trail = L.map('trail', {
+    dragging: false,
+    touchZoom: false,
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    boxZoom: false,
+    bounceAtZoomLimits: false,
+    minZoom: zoom,
+    maxZoom: zoom,
+    attributionControl: false,
+    zoomControl: false
+  }).setView([site_lat, site_lon], zoom);
+  
+  trail.on("click", function(e) {
+    $("div#map").css("visibility", "visible");
+    map.panTo(e.latlng);
+  });
+
+ 
+  // 
+  // TINY REFERENCE MAP LAYERS 
+  // 
+  
+ var socal_layer = new L.GPX(socal, {
+   async: true,
+   marker_options: {
+     startIconUrl: 'images/pin-icon-start.png',
+     endIconUrl: 'images/pin-icon-end.png',
+     shadowUrl: 'images/pin-shadow.png',
+     iconSize: [0,0],
+     shadowSize: [0,0]
+   },
+   polyline_options: {
+     color: 'black',
+     clickable: false,
+     weight: 2, 
+     opacity: 1
+   }
+ }).on('loaded', function(e) { 
+   socal_layer.addTo(trail);
+   console.log(circles_layer); 
+   circles_layer.bringToFront();
+ });
+ 
+ var central_layer = new L.GPX(central, {
+   async: true,
+   marker_options: {
+     startIconUrl: 'images/ring.png',
+     endIconUrl: 'images/ring.png',
+     shadowUrl: 'images/ring.png',
+     iconSize: [0,0],
+     shadowSize: [0,0]
+   },
+   polyline_options: {
+     // some more options passed to Leaflet Polyline http://leafletjs.com/reference.html#polyline
+     color: 'black',
+     clickable: false,
+     weight: 2,
+     opacity: 1
+   }
+ }).on('loaded', function(e) { 
+   central_layer.addTo(trail);
+   console.log(circles_layer); 
+   circles_layer.bringToFront();
+  });
+ 
+ var norcal_layer = new L.GPX(norcal, {
+   async: true,
+   marker_options: {
+     startIconUrl: 'images/ring.png',
+     endIconUrl: 'images/ring.png',
+     shadowUrl: 'images/ring.png',
+     
+     iconSize: [0,0],
+     shadowSize: [0,0]
+   },
+   polyline_options: {
+     // some more options passed to Leaflet Polyline http://leafletjs.com/reference.html#polyline
+     color: 'black',
+     clickable: false,
+     weight: 2,
+     opacity: 1
+   }
+ }).on('loaded', function(e) { 
+   norcal_layer.addTo(trail);
+   console.log(circles_layer); 
+   circles_layer.bringToFront();
+  });
+ 
+ // 
+ // INTEARACTIVE MAP LAYERS
+ // 
+ 
+ new L.GPX(socal, {
+   async:true,
+   marker_options: {
+     startIconUrl: 'images/pin-icon-start.png',
+     endIconUrl: 'images/pin-icon-end.png',
+     shadowUrl: 'images/pin-shadow.png',
+     iconSize: [0,0],
+     shadowSize: [0,0]
+   },
+   polyline_options: {
+     color: track_color,
+     clickable: false,
+     weight: 4,
+     opacity: .65
+   }
+ }).on('loaded', function(e) { }).addTo(map);
+   
+ new L.GPX(central, {
+   async: true,
+   marker_options: {
+     startIconUrl: 'images/ring.png',
+     endIconUrl: 'images/ring.png',
+     shadowUrl: 'images/ring.png',
+     iconSize: [0,0],
+     shadowSize: [0,0]
+   },
+   polyline_options: {
+     color: track_color,
+     clickable: false,
+     weight: 4,
+     opacity: .65
+   }
+ }).on('loaded', function(e) { }).addTo(map);
+ 
+ new L.GPX(norcal, {
+   async: true,
+   marker_options: {
+     startIconUrl: 'images/ring.png',
+     endIconUrl: 'images/ring.png',
+     shadowUrl: 'images/ring.png',
+     
+     iconSize: [0,0],
+     shadowSize: [0,0]
+   },
+   polyline_options: {
+     color: track_color,
+     clickable: false,
+     weight: 4,
+     opacity: .65
+   }
+ }).on('loaded', function(e) {  }).addTo(map);
+  
+ // 
+ // CIRCLES; add to both
+ // 
+ 
+ function selectCollection(e) {
+   $("div#map").css("visibility", "visible");
+   map.panTo(e.target.getLatLng());
+   var dirt_html = "";
+   var col_id = e.target.options.dm_collectionID;
+   
+   dirt_html = dirt_html + '<p class="coll_desc"> Collection Site ' + col_id + ": " + collection_descriptions[col_id] + "</p>";
+   for (var sample in collection_to_sample_nums[e.target.options.dm_collectionID]) {
+     // http://dirtmap.org/images/2.jpeg
+     var sample_id = collection_to_sample_nums[col_id][sample];
+   
+     var link_text = '<a href="http://el-ee.github.io/dirt-map/ClusteredSpecies.html?s=' + sample_id + '">';
+   
+     var sample_html = '<div class="dirt-image">' + link_text + '<img src="http://dirtmap.org/images/' + sample_id + '.jpeg"/>';
+     sample_html = sample_html + '<p class="dirt_desc">S' + sample_id + ": " + sample_descriptions["S"+sample_id] + "</p>";
+     sample_html = sample_html + "</a></div>"
+     dirt_html = dirt_html + sample_html;
+   }
+   $('div#dirt').html(dirt_html);
+ }
+ 
+
+ 
+
+ 
+  for (var loc in collection_locs) {
+    
+    // Trail Map
+    
+    var circle = L.circleMarker([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], {
+        color: '#cc6666',
+        fillColor: '#cc6666',
+        fillOpacity: .9,
+        opacity: 1,
+        dm_collectionID: loc,
+        weight: 2,
+        radius: 5
+    });
+       
+    circle.on("click", selectCollection);
+    circle.on("mouseover", function(e) {
+      e.target.setStyle({
+        fillColor: "#555",
+        color: "#ccc"
+      });
+    });
+    circle.on("mouseout", function(e) {
+      e.target.setStyle({ 
+        fillColor: "#cc6666",
+        color: "#cc6666" 
+      });
+    });
+    
+    circles_layer.addLayer(circle);
+    
+    // Interactive Map
+    
+    circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 7000, {
+        color: '#cc6666',
+        fillColor: '#cc6666',
+        fillOpacity: .9,
+        opacity: 1,
+        dm_collectionID: loc,
+        weight: 2
+    }).addTo(map); 
+    circle.bindPopup('Collection Site: ' + loc + '<br/>Samples: ' + collection_to_samples[loc]);
+    circle.on("click", selectCollection);
+  }
+
+  // add all the circles to the trail map
+  console.log("adding all circles");
+  console.log(circles_layer);
+  circles_layer.addTo(trail);
+
+  
+  </script>
+
+</body>
+
+</html>

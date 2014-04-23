@@ -1,9 +1,11 @@
 <!-- This file is a modified version of Mike Bostock's example: http://bl.ocks.org/mbostock/4600693 -->
 
 <!DOCTYPE html>
-<meta charset="utf-8">
-
+<html>
 <head>
+
+  <meta charset="utf-8">
+
   <script src="js_lib/shared_functions.js"></script>
 	<script src="js_lib/colors.js"></script>
 	
@@ -14,6 +16,9 @@
   <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
   <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
   <link href="style/cluster.css" media="all" rel="stylesheet" type="text/css" />
+  
+  <title>dirt|map</title>
+  
 </head>
 <body>
 
@@ -24,6 +29,7 @@
 		<div id="hover-detail"><p>&gt;<span class="directions"> ... hover over a circle for details</span></p></div>
 		<div id="description"></div>
 		<div id="related"><h2>Related Viz:</h2></div>
+        <div id="footer"><p>Graphs made possible by the inimitable <a href="http://d3js.org/">d3 javascript library</a>. Hosting by <a href="https://github.com">github</a>. Source available at <a href="https://github.com/el-ee/dirt-map">github/el-ee/dirt-map</a>.</p> </p></div>
 	</div>
 	
 <script>
@@ -32,7 +38,7 @@ var home_link = d3.select("#header").append("a")
   .attr("href", "http://dirtmap.org");
 
 home_link.append("h2")
-    .text("\u00AB dirtmap.org");
+    .text("\u00AB dirtmap sample index");
 		
 
 color_dict = network_degree;

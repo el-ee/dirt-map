@@ -50,10 +50,15 @@ d3-tip/
 # keynote file for testing colors
 Colors.key/
 
+# intermediate files
+*.numbers
+*.xlsx
+
 # things that haven't worked out ;)
 site-network_C1_Straight.html
 old-charts/
 color-trials/
 
-# intermediary files
-*.xlsx
+
+# personal notes
+ellie-notes.md

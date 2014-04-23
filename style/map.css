@@ -1,0 +1,71 @@
+
+
+body {
+    width: 100%;
+}
+#trail {
+    width: 300px;
+    height: 400px;
+    float: left;
+margin: 1em 0 1em 0;
+text-align: left;
+}
+
+#map {
+width: 500px;
+height: 400px;
+float: right;
+clear: after;
+margin: 1em 0 1em 0;
+visibility: hidden;
+text-align: left;
+}
+
+.leaflet-container {
+    background: #fff;
+}
+
+#description {
+    clear: both;
+}
+#header {
+    clear: both;
+    text-align: left;
+}
+
+#footer {
+    clear: both;
+    margin-top: 3em;
+}
+
+#container {
+    text-align: center; /* hackish to center the dirt photos below */
+}
+
+#dirt {
+    clear: both;
+    margin: 3em auto;
+    display: inline-block;
+}
+
+#dirt div {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+}
+
+#dirt div p {
+    text-align: center;
+}
+
+#dirt img:hover {
+    /* for those for whom it works */
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+#nav {
+    width: 100%;
+    text-align: left;
+}
