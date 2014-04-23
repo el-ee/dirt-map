@@ -52,7 +52,8 @@
     <div style="clear:both;"></div>
     
     <!-- Container for attributions etc -->
-    <div id="footer"> <p>PCT GPS tracks compressed and adapted from <a href="http://www.pctmap.net/">the Halfmile Project</a> data. Please consider a <a href="https://www.pcta.org/donate/#donate">donation to the PCTA</a>!</p></div>
+    <div id="footer"> <p>PCT GPS tracks compressed and adapted from <a href="http://www.pctmap.net/">the Halfmile Project</a> data. Please consider a <a href="https://www.pcta.org/donate/#donate">donation to the PCTA</a>!</p>
+      <p>Hosting by <a href="https://github.com">github</a>. Source available at <a href="https://github.com/el-ee/dirt-map">github/el-ee/dirt-map</a>. Maps made possible by <a href="http://leafletjs.com">leaflet</a> and <a href="https://github.com/mpetazzoni/leaflet-gpx">leaflet-gpx</a>.</p>
     
 	</div>
 	
@@ -255,13 +256,14 @@
     
     // Trail Map
     
-    var circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 10000, {
+    var circle = L.circleMarker([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], {
         color: '#cc6666',
         fillColor: '#cc6666',
-        fillOpacity: 1,
+        fillOpacity: .9,
         opacity: 1,
         dm_collectionID: loc,
-        weight: 2
+        weight: 2,
+        radius: 5
     });
        
     circle.on("click", selectCollection);
@@ -282,10 +284,10 @@
     
     // Interactive Map
     
-    circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 2000, {
+    circle = L.circle([collection_locs[loc]["lat"], collection_locs[loc]["lon"]], 7000, {
         color: '#cc6666',
         fillColor: '#cc6666',
-        fillOpacity: 1,
+        fillOpacity: .9,
         opacity: 1,
         dm_collectionID: loc,
         weight: 2

@@ -8,6 +8,7 @@ body {
     height: 400px;
     float: left;
 margin: 1em 0 1em 0;
+text-align: left;
 }
 
 #map {
@@ -17,6 +18,7 @@ float: right;
 clear: after;
 margin: 1em 0 1em 0;
 visibility: hidden;
+text-align: left;
 }
 
 .leaflet-container {
@@ -28,6 +30,7 @@ visibility: hidden;
 }
 #header {
     clear: both;
+    text-align: left;
 }
 
 #footer {
@@ -35,9 +38,14 @@ visibility: hidden;
     margin-top: 3em;
 }
 
+#container {
+    text-align: center; /* hackish to center the dirt photos below */
+}
+
 #dirt {
     clear: both;
     margin: 3em auto;
+    display: inline-block;
 }
 
 #dirt div {
@@ -59,4 +67,5 @@ visibility: hidden;
 
 #nav {
     width: 100%;
+    text-align: left;
 }

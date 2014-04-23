@@ -26,17 +26,19 @@ li {
 }
 
 #related {
-	margin-left: 1em;
+    margin-left: 1em;
 }
 
 #hover-detail {
 	clear: both;
-    margin-left: 1em;
-    indent: -1em;
+    min-height: 3em;
+    padding-left: 1em;
+
 }
 
 #hover-detail p {
-		max-width: 100%;
+	max-width: 100%;
+    text-indent: -1em;
 }
 
 #hover-detail .directions {
@@ -90,4 +92,14 @@ a:hover {
 
 text {
 	pointer-events: none;
+}
+
+#footer {
+    font-size: .8em;
+    font-color: #666;
+    margin-top: 3em;
+}
+
+#footer p {
+    max-width: 100%;
 }
