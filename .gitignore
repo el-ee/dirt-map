@@ -50,6 +50,9 @@ d3-tip/
 # keynote file for testing colors
 Colors.key/
 
+# misc intermediate files
+*.numbers
+
 # things that haven't worked out ;)
 site-network_C1_Straight.html
 old-charts/

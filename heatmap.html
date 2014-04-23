@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <script src="js_lib/shared_functions.js"></script>
+	<script src="js_lib/colors.js"></script>
+	
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
+  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  
+</head>
+<body>
+  
+	<div id="container">
+		<div id="header"></div>
+		<div id="otu-graph"><h2>OTU Graph</h2></div>
+		<div id="full-graph"><h2>Full Species Graph</h2></div>
+		<div id="trimmed-graph"><h2>Trimmed Species Graph</h2></div>
+		<div id="legend"></div>
+		
+		<div id="hover-detail"></div>
+		<div id="description"></div>
+		
+		<div id="related"></div>
+    
+    <div id="footer"><p>Graphs made possible by the inimitable <a href="http://d3js.org/">d3 javascript library</a>. Hosting by <a href="https://github.com">github</a>. Source available at <a href="https://github.com/el-ee/dirt-map">github/el-ee/dirt-map</a>.</p> </p></div>
+		
+	</div>
+
+<script>
+
+var scale_factor = 5;
+
+// number of otus = 8702
+// prime factors: 2 * 19 * 229
+
+var otu_cols =  229;
+var otu_rows =  38;
+
+var otu_width = otu_cols * scale_factor;
+var otu_height = otu_rows * scale_factor;
+
+
+// number of full species = 1248
+// prime factors: 2^5 * 3 * 39
+
+var full_scale_factor = 10;
+
+var full_cols =  104;
+var full_rows =  12;
+
+var full_width = full_cols * full_scale_factor;
+var full_height = full_rows * full_scale_factor;
+
+
+
+// number of trimmed species = 580
+// prime factors: 
+
+var trimmed_scale_factor = 20;
+
+var trimmed_cols =  58;
+var trimmed_rows =  10;
+
+var trimmed_width = trimmed_cols * trimmed_scale_factor;
+var trimmed_height = trimmed_rows * trimmed_scale_factor;
+
+
+
+var sample = 'S1';
+
+var otu_data_file = "csv/otu-percents/" + sample + "_otu-percents.csv";
+var full_data_file = "csv/full-percents/" + sample + "_full-percents.csv";
+var trimmed_data_file = "csv/trimmed-percents/" + sample + "_trimmed-percents.csv";
+
+
+// zero values white, anything over zero, gets some color, scales automatically up to a dark color for a realistic large percent; no hits trump everything as max, just a slightly different color
+var colors = ["#ffffff", "#deebf7", "#08519c", "#08306b"];
+
+var otu_svg = d3.select("#otu-graph").append("svg")
+.attr("width", otu_width)
+.attr("height", otu_height);
+
+var full_svg = d3.select("#full-graph").append("svg")
+.attr("width", full_width)
+.attr("height", full_height);
+
+var trimmed_svg = d3.select("#trimmed-graph").append("svg")
+.attr("width", trimmed_width)
+.attr("height", trimmed_height);
+
+d3.csv(otu_data_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, 5, d3.max(data, function(d) { return parseFloat(d[sample]); })])
+	.range(colors);
+	
+	var x = d3.scale.linear()
+	.domain([0,otu_cols])
+	.range([0,otu_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0,otu_rows])
+	.range([0,otu_height]);
+	
+	var heatmap = otu_svg.selectAll('.cell')
+	.data(data)
+	
+	heatmap.enter().append("rect")
+	.attr("x", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % otu_rows)) / otu_rows;
+		return x(colNum);
+	})
+	.attr("y", function(d) {
+		var rowNum = data.indexOf(d) % otu_rows;
+		return y(rowNum);
+	})
+	.attr("width", scale_factor)
+	.attr("height", scale_factor)
+	.style("fill", function(d) {
+		return colorScale( parseFloat(d[sample])); 
+	});
+	
+});
+
+d3.csv(full_data_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, 5, d3.max(data, function(d) { return parseFloat(d[sample]); })])
+	.range(colors);
+	
+	var x = d3.scale.linear()
+	.domain([0, full_cols])
+	.range([0, full_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0, full_rows])
+	.range([0, full_height]);
+	
+	var heatmap = full_svg.selectAll('.cell')
+	.data(data)
+	
+	heatmap.enter().append("rect")
+	.attr("x", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % full_rows)) / full_rows;
+		return x(colNum);
+	})
+	.attr("y", function(d) {
+		var rowNum = data.indexOf(d) % full_rows;
+		return y(rowNum);
+	})
+	.attr("width", full_scale_factor)
+	.attr("height", full_scale_factor)
+	.style("fill", function(d) {
+		return colorScale( parseFloat(d[sample])); 
+	});
+	
+});
+
+d3.csv(trimmed_data_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, 5, d3.max(data, function(d) { return parseFloat(d[sample]); })])
+	.range(colors);
+	
+	var x = d3.scale.linear()
+	.domain([0,trimmed_cols])
+	.range([0,trimmed_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0,trimmed_rows])
+	.range([0,trimmed_height]);
+	
+	var heatmap = trimmed_svg.selectAll('.cell')
+	.data(data)
+	
+	heatmap.enter().append("rect")
+	.attr("x", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % trimmed_rows)) / trimmed_rows;
+		return x(colNum);
+	})
+	.attr("y", function(d) {
+		var rowNum = data.indexOf(d) % trimmed_rows;
+		return y(rowNum);
+	})
+	.attr("width", trimmed_scale_factor)
+	.attr("height", trimmed_scale_factor)
+	.style("fill", function(d) {
+		return colorScale( parseFloat(d[sample])); 
+	});
+	
+});
+
+
+</script>
+
+</html>
