@@ -13,34 +13,40 @@
   
   <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
   <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="style/heatmap.css" media="all" rel="stylesheet" type="text/css" />
   
 </head>
 <body>
   
 	<div id="container">
 		<div id="header">
-		  
+		  <h2 class="linkhome"><a href="http://dirtmap.org">&laquo; dirtmap sample index</a></h2>
 		</div>
      <div id="otu-graph">
        <p>Each of the following graphs represents a different taxonomic organization or stage of processing of the same sequence data. Each square represents an operational taxonomic unit (OTU) and the color of the square indicates the percentage of all sequence reads that matched this OTU for the given sample. Darker squares represent OTUs that occurred in greater proportion within the given sample. </p>
        <h2>Experimental OTUs from Raw Sequence Data</h2>
        <p>Here, squares represent operational taxonomic units based purely on clustering algorithms that group together reads that have at least 97% correspondence with one another. This data was produced by my own experimental attempts at running the standard USEARCH tool. At this point, in my own runs of USEARCH, as many as 50% of the original reads from the sequencing machine have already been discarded as being too likely to have an error -- or being suspected chimeras. </p>
+       <p class="heatmap-hover" id="otu-hover">&gt; ... </p>
      </div>
 		<div id="company-graph">
       <h2>OTUs from the Sequencing Company</h2>
       <p>Small changes in the parameters to the data processing pipeline can produce wildly different initial OTUs. I produced 8702 OTUs when I ran USEARCH (above). Yet, the analysis company produced 13856 with the same data and software, though clearly very different parameters along the way. We don't even know what their parameters were, only having received the final stage output files from them as the presumed "starting point" for our own work.</p>
+       <p class="heatmap-hover" id="co-hover">&gt; ... </p>
     </div>
     <div id="company-nohit-graph">
       <h2>OTUs from the Sequencing Company with no hits highlighted</h2>
-      <p> Here, all of the blue squares represent OTUs which matched, at some level, sequences of bacteria already in a known database. The orange squares highlight the wide variety of OTUs that will be lumped together in the "No Hit" category for all future analysis because these sequences did not match any sequences already listed in established databases.</p>
+            <p> Here, all of the blue squares represent OTUs which matched, at some level, sequences of bacteria already in a known database. The orange squares highlight the wide variety of OTUs that will be lumped together in the "No Hit" category for all future analysis because these sequences did not match any sequences already listed in established databases.</p>
+      <p class="heatmap-hover" id="nohit-hover">&gt; ... </p>
     </div>
 		<div id="full-graph">
       <h2>Species Taxonomy from Sequencing company</h2>
       <p>Here we can see that all of the No Hit results have been clustered into a single category.</h2>
+     <p class="heatmap-hover" id="full-hover">&gt; ... </p>
     </div>
 		<div id="trimmed-graph">
       <h2>Trimmed Species Taxonomy from Sequencing company</h2>
       <p>It is unclear to me exactly how or what was trimmed to create this level of data representation. I <em>think</em> that perhaps OTUs which matched sequences in the queried database but could not be identified as a specific species have been clustered together here. So, for example, we see things that are categorized as of a particular Kingdom and Phylum but at any level more detailed than that are simply 'unknown.' This would suggest that the unknown categories will over-represent in various visualizations. In these categories, many diverse things have been clustered together at a higher level which makes that data point appear larger than others, despite that it is actually an amalgamation of multiple smaller data points?</p>
+      <p class="heatmap-hover" id="trimmed-hover">&gt; ... </p>
     </div>
 		
 		<div id="related"></div>
@@ -59,6 +65,40 @@ var url_obj = urlObject(document.URL);
 
 var sample_num = url_obj["parameters"]["s"];
 if (!sample_num) {sample_num = 1; console.log("you did not specify a sample number; default is to display sample 1");}
+
+var sample = 'S' + sample_num;
+var collection = samples_to_collection[sample];
+
+var header_text = d3.select("#header");
+
+var links_par = header_text.append("h2");
+
+
+header_text.append("p")
+.text("collected " + sample_descriptions[sample] + " at collection site " + collection + ": " + collection_descriptions[collection]);
+
+header_text.append("p")
+.html('<a href="./CircleHierarchy.html?s='+ sample_num + '">' + sample + ' Taxonomic Hierarchy Visual</a> . <a href="./ClusteredSpecies.html?s=' + sample_num + '">' + sample + ' Clustered Species Visual</a>');
+
+
+links_par.attr("class", ".nav-links");
+
+var prev = parseFloat(sample_num) - 1;
+var next = parseFloat(sample_num) + 1;
+
+if (prev < 1) {prev = 1;}
+if (next > 62) {next = 62;}
+
+links_par.append("a")
+    .attr("href", "./heatmap.html?s="+prev.toString())
+    .text("\u00AB S" + prev.toString());
+  
+links_par.append("span")
+    .text(" . Visualizing Sample " + sample  + " . ");
+
+links_par.append("a")
+  .attr("href", "./heatmap.html?s="+next.toString())
+  .text(" S" + next.toString() + " \u00bB");
 
 //// 
 // Size & Layout Parameters 
@@ -114,7 +154,6 @@ var trimmed_height = trimmed_rows * trimmed_scale_factor;
 //////
 // ALL THE FILES
 //////
-var sample = 'S' + sample_num;
 
 var otu_data_file = "csv/xp_otu-percents/" + sample + "_otu-percents.csv";
 var company_otu_file = "csv/company_otu_table/" + sample + "__company_otu.csv";
@@ -184,7 +223,7 @@ d3.csv(otu_data_file, function(error, data) {
 	var heatmap = otu_svg.selectAll('.cell')
 	.data(data)
 	
-	heatmap.enter().append("rect")
+	var rect = heatmap.enter().append("rect")
 	.attr("x", function(d) { 
 		var colNum = (data.indexOf(d) - (data.indexOf(d) % otu_rows)) / otu_rows;
 		return x(colNum);
@@ -198,6 +237,13 @@ d3.csv(otu_data_file, function(error, data) {
 	.style("fill", function(d) {
 		return colorScale( parseFloat(d[sample])); 
 	});
+  
+  rect.on("mouseover", function(d) {
+    d3.select("#otu-hover").text("> " + d[sample] + "% of valid sequences in sample " + sample + " clustered around OTU number " + d["OTUId"]);
+  })
+  .on("mouseout", function(d) {
+     d3.select("#otu-hover").text("> ...");
+  });
 	
 });
 
@@ -230,7 +276,7 @@ d3.csv(company_otu_file, function(error, data) {
 	var heatmap = company_svg.selectAll('.cell')
 	.data(data)
 	
-	heatmap.enter().append("rect")
+  var rect = heatmap.enter().append("rect")
 	.attr("x", function(d) { 
 		var colNum = (data.indexOf(d) - (data.indexOf(d) % co_rows)) / co_rows;
 		return x(colNum);
@@ -245,13 +291,19 @@ d3.csv(company_otu_file, function(error, data) {
 		return colorScale( parseFloat(d[sample])); 
 	});
   
+  rect.on("mouseover", function(d) {
+    d3.select("#co-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " clustered around OTU number " + d["#OTU ID"] + " matching: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#co-hover").text("> ...");
+  });
   
   /// HEATMAP 1 - OTUs with no hits highlighted
 
 	var heatmap2 = company_nohit_svg.selectAll('.cell')
 	.data(data)
 	
-	heatmap2.enter().append("rect")
+	rect = heatmap2.enter().append("rect")
 	.attr("x", function(d) { 
 		var colNum = (data.indexOf(d) - (data.indexOf(d) % co_rows)) / co_rows;
 		return x(colNum);
@@ -270,6 +322,13 @@ d3.csv(company_otu_file, function(error, data) {
 		  return colorScale(parseFloat(d[sample])); 
     }
 	});
+  
+  rect.on("mouseover", function(d) {
+    d3.select("#nohit-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " clustered around OTU number " + d["#OTU ID"] + " matching: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#nohit-hover").text("> ...");
+  });
 	
 });
 
@@ -298,7 +357,7 @@ d3.csv(full_data_file, function(error, data) {
 	var heatmap = full_svg.selectAll('.cell')
 	.data(data)
 	
-	heatmap.enter().append("rect")
+	var rect = heatmap.enter().append("rect")
 	.attr("x", function(d) { 
 		var colNum = (data.indexOf(d) - (data.indexOf(d) % full_rows)) / full_rows;
 		return x(colNum);
@@ -317,6 +376,13 @@ d3.csv(full_data_file, function(error, data) {
 		  return colorScale(parseFloat(d[sample])); 
     }
 	});
+  
+  rect.on("mouseover", function(d) {
+    d3.select("#full-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " matched: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#full-hover").text("> ...");
+  });
 	
 });
 
@@ -345,7 +411,7 @@ d3.csv(trimmed_data_file, function(error, data) {
 	var heatmap = trimmed_svg.selectAll('.cell')
 	.data(data)
 	
-	heatmap.enter().append("rect")
+	var rect = heatmap.enter().append("rect")
 	.attr("x", function(d) { 
 		var colNum = (data.indexOf(d) - (data.indexOf(d) % trimmed_rows)) / trimmed_rows;
 		return x(colNum);
@@ -364,6 +430,13 @@ d3.csv(trimmed_data_file, function(error, data) {
 		  return colorScale(parseFloat(d[sample])); 
     } 
 	});
+  
+  rect.on("mouseover", function(d) {
+    d3.select("#trimmed-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " matched: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#trimmed-hover").text("> ...");
+  });
 	
 });
 
