@@ -274,7 +274,6 @@ function addRelatedViz(rel_d) {
 		link_item = link_list.append("li");
 		var s_num = rel_d["s"][s_idx];
 		
-		console.log(s_num);
 		if (s_num.toString()[0] === "S") {
 			s_num = parseFloat(s_num.substr(1));
 		}

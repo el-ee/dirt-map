@@ -35,7 +35,7 @@ var url_obj = urlObject(document.URL);
 
 var sample_num = url_obj["parameters"]["s"];
 // Default to sample 1
-if  (!sample_num) {sample_num = 1; alert("you did not specify a sample number; default is to display sample 1");}
+if  (!sample_num) {sample_num = 1; console.log("you did not specify a sample number; default is to display sample 1");}
 var file_name = "json/cluster-species/cluster-species_S" + sample_num + ".json";
 
 
