@@ -84,14 +84,14 @@ if (prev < 1) {prev = 1;}
 if (next > 62) {next = 62;}
 
 links_par.append("a")
-    .attr("href", "./heatmap.html?s="+prev.toString())
+    .attr("href", "./heatmap-circles.html?s="+prev.toString())
     .text("\u00AB S" + prev.toString());
   
 links_par.append("span")
     .text(" . Visualizing Sample " + sample  + " . ");
 
 links_par.append("a")
-  .attr("href", "./heatmap.html?s="+next.toString())
+  .attr("href", "./heatmap-circles.html?s="+next.toString())
   .text(" S" + next.toString() + " \u00bB");
 
 //// 
