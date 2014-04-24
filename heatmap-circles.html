@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <script src="js_lib/shared_functions.js"></script>
+	<script src="js_lib/colors.js"></script>
+	
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
+  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="style/heatmap.css" media="all" rel="stylesheet" type="text/css" />
+  
+</head>
+<body>
+  
+	<div id="container">
+		<div id="header">
+		  <h2 class="linkhome"><a href="http://dirtmap.org">&laquo; dirtmap sample index</a></h2>
+		</div>
+     <div id="otu-graph">
+       <h2>Experimental OTUs from Raw Sequence Data</h2>
+       <p class="heatmap-hover" id="otu-hover">&gt; ... </p>
+     </div>
+		<div id="company-graph">
+      <h2>OTUs from the Sequencing Company</h2>
+       <p class="heatmap-hover" id="co-hover">&gt; ... </p>
+    </div>
+    <div id="company-nohit-graph">
+      <h2>OTUs from the Sequencing Company with no hits highlighted</h2>
+      <p class="heatmap-hover" id="nohit-hover">&gt; ... </p>
+    </div>
+		<div id="full-graph">
+      <h2>Species Taxonomy from Sequencing company</h2>
+     <p class="heatmap-hover" id="full-hover">&gt; ... </p>
+    </div>
+		<div id="trimmed-graph">
+      <h2>Trimmed Species Taxonomy from Sequencing company</h2>
+      <p class="heatmap-hover" id="trimmed-hover">&gt; ... </p>
+    </div>
+		
+		<div id="related"></div>
+    
+    <div id="footer"><p>Graphs made possible by the inimitable <a href="http://d3js.org/">d3 javascript library</a>. Hosting by <a href="https://github.com">github</a>. Source available at <a href="https://github.com/el-ee/dirt-map">github/el-ee/dirt-map</a>.</p> </p></div>
+		
+	</div>
+
+<script>
+
+//// 
+// Fetch Sample # from Header 
+//// 
+
+var url_obj = urlObject(document.URL);
+
+var sample_num = url_obj["parameters"]["s"];
+if (!sample_num) {sample_num = 1; console.log("you did not specify a sample number; default is to display sample 1");}
+
+var sample = 'S' + sample_num;
+var collection = samples_to_collection[sample];
+
+var header_text = d3.select("#header");
+
+var links_par = header_text.append("h2");
+
+
+header_text.append("p")
+.text("collected " + sample_descriptions[sample] + " at collection site " + collection + ": " + collection_descriptions[collection]);
+
+header_text.append("p")
+.html('<a href="./CircleHierarchy.html?s='+ sample_num + '">' + sample + ' Taxonomic Hierarchy Visual</a> . <a href="./ClusteredSpecies.html?s=' + sample_num + '">' + sample + ' Clustered Species Visual</a>');
+
+
+links_par.attr("class", ".nav-links");
+
+var prev = parseFloat(sample_num) - 1;
+var next = parseFloat(sample_num) + 1;
+
+if (prev < 1) {prev = 1;}
+if (next > 62) {next = 62;}
+
+links_par.append("a")
+    .attr("href", "./heatmap.html?s="+prev.toString())
+    .text("\u00AB S" + prev.toString());
+  
+links_par.append("span")
+    .text(" . Visualizing Sample " + sample  + " . ");
+
+links_par.append("a")
+  .attr("href", "./heatmap.html?s="+next.toString())
+  .text(" S" + next.toString() + " \u00bB");
+
+//// 
+// Size & Layout Parameters 
+//// 
+
+// number of company otus = 13856
+// prime factors: 2^5 * 433
+// 385*36 = 13860 (so 4 empty squares at the end)
+var co_scale_factor = 4;
+
+// var co_cols = 385;
+// var co_rows = 36;
+var co_cols = 295;
+var co_rows = 47;
+
+var co_width = co_cols * co_scale_factor;
+var co_height = co_rows * co_scale_factor;
+
+
+// number of otus = 8702
+// prime factors: 2 * 19 * 229
+
+var scale_factor = 5;
+
+var otu_cols =  229;
+var otu_rows =  38;
+
+var otu_width = otu_cols * scale_factor;
+var otu_height = otu_rows * scale_factor;
+
+// number of full species = 1248
+// prime factors: 2^5 * 3 * 39
+
+var full_scale_factor = scale_factor*2;
+
+var full_cols =  104;
+var full_rows =  12;
+
+var full_width = full_cols * full_scale_factor;
+var full_height = full_rows * full_scale_factor;
+
+// number of trimmed species = 580
+// prime factors: 
+
+var trimmed_scale_factor = full_scale_factor*2;
+
+var trimmed_cols =  58;
+var trimmed_rows =  10;
+
+var trimmed_width = trimmed_cols * trimmed_scale_factor;
+var trimmed_height = trimmed_rows * trimmed_scale_factor;
+
+//////
+// ALL THE FILES
+//////
+
+var otu_data_file = "csv/xp_otu-percents/" + sample + "_otu-percents.csv";
+var company_otu_file = "csv/company_otu_table/" + sample + "__company_otu.csv";
+var full_data_file = "csv/full-percents/" + sample + "_full-percents.csv";
+var trimmed_data_file = "csv/trimmed-percents/" + sample + "_trimmed-percents.csv";
+
+
+//////
+// COLORS 
+//////
+
+// zero values white, anything over zero, gets some color, scales automatically up to a dark color for the median value; then scales from there up to the max; so the middle of the color range is with the median, not with the average; unequal scales above and below that.. ? i am not sure if this makes sense, mostly trying to keep it from being totally washed out. there is a lot around the median
+var blues = ["#ffffff", "#deebf7", "#6baed6", "#08306b"];
+var oranges = ["#ffffff", "#fee6ce", "#fd8d3c", "#7f2704"];
+var purples = ["#ffffff", "#efedf5", "#9e9ac8", "#3f007d"];
+var greens = ["#ffffff", "#e5f5e0", "#74c476", "#00441b"];
+
+var colors = blues;
+var nohitcolors = oranges;
+
+//////
+// ALL THE SVGS
+//////
+
+var company_svg = d3.select("#company-graph").append("svg")
+.attr("width", co_width)
+.attr("height", co_height);
+
+var company_nohit_svg = d3.select("#company-nohit-graph").append("svg")
+.attr("width", co_width)
+.attr("height", co_height);
+
+var otu_svg = d3.select("#otu-graph").append("svg")
+.attr("width", otu_width)
+.attr("height", otu_height);
+
+var full_svg = d3.select("#full-graph").append("svg")
+.attr("width", full_width)
+.attr("height", full_height);
+
+var trimmed_svg = d3.select("#trimmed-graph").append("svg")
+.attr("width", trimmed_width)
+.attr("height", trimmed_height);
+
+
+//////
+// AND NOW THE GRAPHS
+//////
+
+////
+// GRAPH: experimental otu graph
+////
+d3.csv(otu_data_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(colors);
+	
+	var x = d3.scale.linear()
+	.domain([0,otu_cols])
+	.range([0,otu_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0,otu_rows])
+	.range([0,otu_height]);
+	
+	var heatmap = otu_svg.selectAll('circle')
+	.data(data)
+	
+	var circ = heatmap.enter().append("circle")
+	.attr("cx", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % otu_rows)) / otu_rows;
+		return x(colNum);
+	})
+	.attr("cy", function(d) {
+		var rowNum = data.indexOf(d) % otu_rows;
+		return y(rowNum);
+	})
+	.attr("r", scale_factor/2)
+	.style("fill", function(d) {
+		return colorScale( parseFloat(d[sample])); 
+	});
+  
+  circ.on("mouseover", function(d) {
+    d3.select("#otu-hover").text("> " + d[sample] + "% of valid sequences in sample " + sample + " clustered around OTU number " + d["OTUId"]);
+  })
+  .on("mouseout", function(d) {
+     d3.select("#otu-hover").text("> ...");
+  });
+	
+});
+
+
+////
+// GRAPH: company otu graphs 1 & 2
+////
+d3.csv(company_otu_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(colors);
+  
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
+  
+	
+	var x = d3.scale.linear()
+	.domain([0, co_cols])
+	.range([0, co_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0, co_rows])
+	.range([0, co_height]);
+	
+	
+  /// HEATMAP 1 - Just the OTUs
+  
+	var heatmap = company_svg.selectAll('.cell')
+	.data(data)
+	
+  var circ = heatmap.enter().append("circle")
+	.attr("cx", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % co_rows)) / co_rows;
+		return x(colNum);
+	})
+	.attr("cy", function(d) {
+		var rowNum = data.indexOf(d) % co_rows;
+		return y(rowNum);
+	})
+	.attr("r", co_scale_factor/2)
+	.style("fill", function(d) {
+		return colorScale( parseFloat(d[sample])); 
+	});
+  
+  circ.on("mouseover", function(d) {
+    d3.select("#co-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " clustered around OTU number " + d["#OTU ID"] + " matching: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#co-hover").text("> ...");
+  });
+  
+  /// HEATMAP 1 - OTUs with no hits highlighted
+
+	var heatmap2 = company_nohit_svg.selectAll('.cell')
+	.data(data)
+	
+	circ = heatmap2.enter().append("circle")
+	.attr("cx", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % co_rows)) / co_rows;
+		return x(colNum);
+	})
+	.attr("cy", function(d) {
+		var rowNum = data.indexOf(d) % co_rows;
+		return y(rowNum);
+	})
+	.attr("r", co_scale_factor/2)
+	.style("fill", function(d) {
+    if(d.Kingdom == "No Hit ") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    }
+	});
+  
+  circ.on("mouseover", function(d) {
+    d3.select("#nohit-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " clustered around OTU number " + d["#OTU ID"] + " matching: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#nohit-hover").text("> ...");
+  });
+	
+});
+
+////
+// GRAPH: Full Taxa Species
+////
+
+d3.csv(full_data_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+  .range(colors);
+  
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
+	
+	var x = d3.scale.linear()
+	.domain([0, full_cols])
+	.range([0, full_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0, full_rows])
+	.range([0, full_height]);
+
+	var heatmap = full_svg.selectAll('.cell')
+	.data(data)
+	
+	var circ = heatmap.enter().append("circle")
+	.attr("cx", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % full_rows)) / full_rows;
+		return x(colNum);
+	})
+	.attr("cy", function(d) {
+		var rowNum = data.indexOf(d) % full_rows;
+		return y(rowNum);
+	})
+	.attr("r", full_scale_factor/2)
+	.style("fill", function(d) {
+    if(d.Kingdom == "No Hit") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    }
+	});
+  
+  circ.on("mouseover", function(d) {
+    d3.select("#full-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " matched: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#full-hover").text("> ...");
+  });
+	
+});
+
+////
+// GRAPH: Trimmed Taxa Species
+////
+
+d3.csv(trimmed_data_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+  .range(colors);
+  
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
+	
+	var x = d3.scale.linear()
+	.domain([0,trimmed_cols])
+	.range([0,trimmed_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0,trimmed_rows])
+	.range([0,trimmed_height]);
+	
+	var heatmap = trimmed_svg.selectAll('.cell')
+	.data(data)
+	
+	var circ = heatmap.enter().append("circle")
+	.attr("cx", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % trimmed_rows)) / trimmed_rows;
+		return x(colNum);
+	})
+	.attr("cy", function(d) {
+		var rowNum = data.indexOf(d) % trimmed_rows;
+		return y(rowNum);
+	})
+	.attr("r", trimmed_scale_factor/2)
+	.style("fill", function(d) {
+    if(d.Kingdom == "No Hit") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    } 
+	});
+  
+  circ.on("mouseover", function(d) {
+    d3.select("#trimmed-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " matched: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select("#trimmed-hover").text("> ...");
+  });
+	
+});
+
+
+</script>
+
+</html>
