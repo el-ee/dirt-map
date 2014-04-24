@@ -1,8 +1,8 @@
 import csv
 
-input_filename="otu_table_sorted.csv"
+input_filename="xp_otu_table_sorted.csv"
 output_filebase = "otu-percents.csv"
-output_directory = "otu-percents"
+output_directory = "xp_otu-percents"
 
 header_cols = 1
 

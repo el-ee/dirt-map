@@ -19,9 +19,12 @@
   
 	<div id="container">
 		<div id="header"></div>
-		<div id="otu-graph"><h2>OTU Graph</h2></div>
-		<div id="full-graph"><h2>Full Species Graph</h2></div>
-		<div id="trimmed-graph"><h2>Trimmed Species Graph</h2></div>
+    <div id="otu-graph"><h2>Experimental OTUs from Raw Sequence Data</h2></div>
+        
+		<div id="company-graph"><h2>OTUs from the Sequencing Company</h2></div>
+    <div id="company-nohit-graph"><h2>OTUs from the Sequencing Company with database No Hits highlighted</h2></div>
+		<div id="full-graph"><h2>OTUs from sequencing company reorganized into species categories (No Hits have all been clustered)</h2></div>
+		<div id="trimmed-graph"><h2>OTUs from the sequencing company reorganized into species categories and trimmed (? of ?)</h2></div>
 		<div id="legend"></div>
 		
 		<div id="hover-detail"></div>
@@ -35,10 +38,26 @@
 
 <script>
 
-var scale_factor = 5;
+
+
+// number of company otus = 13856
+// prime factors: 2^5 * 433
+// 385*36 = 13860 (so 4 empty squares at the end)
+var co_scale_factor = 4;
+
+// var co_cols = 385;
+// var co_rows = 36;
+var co_cols = 295;
+var co_rows = 47;
+
+var co_width = co_cols * co_scale_factor;
+var co_height = co_rows * co_scale_factor;
+
 
 // number of otus = 8702
 // prime factors: 2 * 19 * 229
+
+var scale_factor = 5;
 
 var otu_cols =  229;
 var otu_rows =  38;
@@ -47,10 +66,11 @@ var otu_width = otu_cols * scale_factor;
 var otu_height = otu_rows * scale_factor;
 
 
+
 // number of full species = 1248
 // prime factors: 2^5 * 3 * 39
 
-var full_scale_factor = 10;
+var full_scale_factor = scale_factor*2;
 
 var full_cols =  104;
 var full_rows =  12;
@@ -63,7 +83,7 @@ var full_height = full_rows * full_scale_factor;
 // number of trimmed species = 580
 // prime factors: 
 
-var trimmed_scale_factor = 20;
+var trimmed_scale_factor = full_scale_factor*2;
 
 var trimmed_cols =  58;
 var trimmed_rows =  10;
@@ -71,17 +91,33 @@ var trimmed_rows =  10;
 var trimmed_width = trimmed_cols * trimmed_scale_factor;
 var trimmed_height = trimmed_rows * trimmed_scale_factor;
 
-
+// ALL THE FILES
 
 var sample = 'S1';
 
-var otu_data_file = "csv/otu-percents/" + sample + "_otu-percents.csv";
+var otu_data_file = "csv/xp_otu-percents/" + sample + "_otu-percents.csv";
+var company_otu_file = "csv/company_otu_table/" + sample + "__company_otu.csv";
 var full_data_file = "csv/full-percents/" + sample + "_full-percents.csv";
 var trimmed_data_file = "csv/trimmed-percents/" + sample + "_trimmed-percents.csv";
 
+console.log(company_otu_file);
 
-// zero values white, anything over zero, gets some color, scales automatically up to a dark color for a realistic large percent; no hits trump everything as max, just a slightly different color
-var colors = ["#ffffff", "#deebf7", "#08519c", "#08306b"];
+// zero values white, anything over zero, gets some color, scales automatically up to a dark color for the median value; then scales from there up to the max; so the middle of the color range is with the median, not with the average; unequal scales above and below that.. ? i am not sure if this makes sense, mostly trying to keep it from being totally washed out. there is a lot around the median
+var blues = ["#ffffff", "#deebf7", "#6baed6", "#08306b"];
+var oranges = ["#ffffff", "#fee6ce", "#fd8d3c", "#7f2704"];
+var purples = ["#ffffff", "#efedf5", "#9e9ac8", "#3f007d"];
+var greens = ["#ffffff", "#e5f5e0", "#74c476", "#00441b"];
+
+var colors = blues;
+var nohitcolors = oranges;
+
+var company_svg = d3.select("#company-graph").append("svg")
+.attr("width", co_width)
+.attr("height", co_height);
+
+var company_nohit_svg = d3.select("#company-nohit-graph").append("svg")
+.attr("width", co_width)
+.attr("height", co_height);
 
 var otu_svg = d3.select("#otu-graph").append("svg")
 .attr("width", otu_width)
@@ -95,10 +131,13 @@ var trimmed_svg = d3.select("#trimmed-graph").append("svg")
 .attr("width", trimmed_width)
 .attr("height", trimmed_height);
 
+
+// experimental otu graph
+
 d3.csv(otu_data_file, function(error, data) {
 
 	var colorScale = d3.scale.linear()
-	.domain([0, 0.00000000000001, 5, d3.max(data, function(d) { return parseFloat(d[sample]); })])
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
 	.range(colors);
 	
 	var x = d3.scale.linear()
@@ -129,11 +168,104 @@ d3.csv(otu_data_file, function(error, data) {
 	
 });
 
+
+
+// company otu graph
+
+d3.csv(company_otu_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(colors);
+	
+	var x = d3.scale.linear()
+	.domain([0, co_cols])
+	.range([0, co_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0, co_rows])
+	.range([0, co_height]);
+	
+	var heatmap = company_svg.selectAll('.cell')
+	.data(data)
+	
+	heatmap.enter().append("rect")
+	.attr("x", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % co_rows)) / co_rows;
+		return x(colNum);
+	})
+	.attr("y", function(d) {
+		var rowNum = data.indexOf(d) % co_rows;
+		return y(rowNum);
+	})
+	.attr("width", co_scale_factor)
+	.attr("height", co_scale_factor)
+	.style("fill", function(d) {
+		return colorScale( parseFloat(d[sample])); 
+	});
+	
+});
+
+// company otu graph with no-hits marked
+
+d3.csv(company_otu_file, function(error, data) {
+
+	var colorScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(colors);
+  
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
+	
+	var x = d3.scale.linear()
+	.domain([0, co_cols])
+	.range([0, co_width]);
+	
+	var y = d3.scale.linear()
+	.domain([0, co_rows])
+	.range([0, co_height]);
+	
+	var heatmap = company_nohit_svg.selectAll('.cell')
+	.data(data)
+	
+	heatmap.enter().append("rect")
+	.attr("x", function(d) { 
+		var colNum = (data.indexOf(d) - (data.indexOf(d) % co_rows)) / co_rows;
+		return x(colNum);
+	})
+	.attr("y", function(d) {
+		var rowNum = data.indexOf(d) % co_rows;
+		return y(rowNum);
+	})
+	.attr("width", co_scale_factor)
+	.attr("height", co_scale_factor)
+	.style("fill", function(d) {
+    if(d.Kingdom == "No Hit ") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    }
+	});
+	
+});
+
+
+
+
+
+// FULL TAXA 
+
 d3.csv(full_data_file, function(error, data) {
 
 	var colorScale = d3.scale.linear()
-	.domain([0, 0.00000000000001, 5, d3.max(data, function(d) { return parseFloat(d[sample]); })])
-	.range(colors);
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+  .range(colors);
+  
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
 	
 	var x = d3.scale.linear()
 	.domain([0, full_cols])
@@ -158,16 +290,28 @@ d3.csv(full_data_file, function(error, data) {
 	.attr("width", full_scale_factor)
 	.attr("height", full_scale_factor)
 	.style("fill", function(d) {
-		return colorScale( parseFloat(d[sample])); 
+    if(d.Kingdom == "No Hit") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    }
 	});
 	
 });
 
+
+// TRIMMED TAXA 
+
 d3.csv(trimmed_data_file, function(error, data) {
 
 	var colorScale = d3.scale.linear()
-	.domain([0, 0.00000000000001, 5, d3.max(data, function(d) { return parseFloat(d[sample]); })])
-	.range(colors);
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+  .range(colors);
+  
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
 	
 	var x = d3.scale.linear()
 	.domain([0,trimmed_cols])
@@ -192,7 +336,12 @@ d3.csv(trimmed_data_file, function(error, data) {
 	.attr("width", trimmed_scale_factor)
 	.attr("height", trimmed_scale_factor)
 	.style("fill", function(d) {
-		return colorScale( parseFloat(d[sample])); 
+    if(d.Kingdom == "No Hit") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    } 
 	});
 	
 });
