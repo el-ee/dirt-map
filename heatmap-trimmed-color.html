@@ -53,7 +53,13 @@ var cell_h = (num_otus*h_base)/num_trimmed;
 var width = cols * cell_w;
 var height = rows * cell_h;
 
+var x = d3.scale.linear()
+.domain([0,cols])
+.range([0,width]);
 
+var y = d3.scale.linear()
+.domain([0,rows])
+.range([0,height]);
 
 
 //////
@@ -67,15 +73,6 @@ var data_file_end = "_trimmed-percents.csv";
 //////
 // COLORS 
 //////
-
-// zero values white, anything over zero, gets some color, scales automatically up to a dark color for the median value; then scales from there up to the max; so the middle of the color range is with the median, not with the average; unequal scales above and below that.. ? i am not sure if this makes sense, mostly trying to keep it from being totally washed out. there is a lot around the median
-var blues = ["#ffffff", "#deebf7", "#6baed6", "#08306b"];
-var oranges = ["#ffffff", "#fee6ce", "#fd8d3c", "#7f2704"];
-var purples = ["#ffffff", "#efedf5", "#9e9ac8", "#3f007d"];
-var greens = ["#ffffff", "#e5f5e0", "#74c476", "#00441b"];
-
-var colors = blues;
-var nohitcolors = oranges;
 
 var color_gradients = createColorGradients();
 
@@ -96,23 +93,14 @@ function createColorGradients() {
 // 		gradients[color_string].push(gradient_base.darker(.25).toString());
 // 		gradients[color_string].push(gradient_base.darker(1).toString());
 
-var gradient_base = d3.hsl(color_string);
+		var gradient_base = d3.hsl(color_string);
 
-console.log("gradients: %o", gradients);
-
-console.log("gradients[color_string]: %o", gradients[color_string]);
-
-gradients[color_string].push(gradient_base.brighter(1).toString());
-gradients[color_string].push(gradient_base.darker(.25).toString());
-gradients[color_string].push(gradient_base.darker(.75).toString());
-
+		gradients[color_string].push(gradient_base.brighter(1.25).toString());
+		gradients[color_string].push(gradient_base.darker(.25).toString());
+		gradients[color_string].push(gradient_base.darker(.75).toString());
 
 	}	
-
-	console.log("color gradients: %o", gradients);
-
 	return gradients;
-	
 }
 
 var colorScales = createColorScales();
@@ -123,7 +111,7 @@ var scales = {};
 	
 	for (key in color_gradients) {
 		scales[key] = d3.scale.linear()
-		.domain([0, 0.0000000000001, 4, 50])
+		.domain([0, 0.0000000000001, 6, 50])
 		.range(color_gradients[key]);
 	}
 	
@@ -166,13 +154,7 @@ function drawColumn(error, data) {
 	var sample_num = parseFloat(sample.substring(1));
 
 	
-	var x = d3.scale.linear()
-	.domain([0,cols])
-	.range([0,width]);
-	
-	var y = d3.scale.linear()
-	.domain([0,rows])
-	.range([0,height]);
+
 	
 	var heatmap = otu_svg.selectAll('.cell')
 	.data(data)
