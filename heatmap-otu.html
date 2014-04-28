@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <script src="js_lib/shared_functions.js"></script>
 	<script src="js_lib/colors.js"></script>
+	<script src="js_lib/heatmap-shared.js"></script>
 	
 	<script src="http://d3js.org/d3.v3.min.js"></script>
 	
@@ -14,6 +15,7 @@
   <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
   <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
   <link href="style/heatmap.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="style/long-heatmaps.css" media="all" rel="stylesheet" type="text/css"/>
   
 </head>
 <body>
@@ -21,11 +23,10 @@
 	<div id="container">
 		<div id="header">
 		  <h2 class="linkhome"><a href="http://dirtmap.org">&laquo; dirtmap sample index</a></h2>
+      <h2>OTUs from the Sequencing Company</h2>
+      <p class="heatmap-hover">&gt; ... </p>
 		</div>
-     <div id="graph">
-       <h2>OTUs from the Sequencing Company</h2>
-       <p class="heatmap-hover">&gt; ... </p>
-     </div>
+     <div id="graph"> </div>
 		
 		
 		<div id="related"></div>

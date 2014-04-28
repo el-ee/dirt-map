@@ -23,11 +23,10 @@
 	<div id="container">
 		<div id="header">
 		  <h2 class="linkhome"><a href="http://dirtmap.org">&laquo; dirtmap sample index</a></h2>
-      <h2>Full Species Categorization by the Sequencing Company</h2>
-      <p class="heatmap-hover">&gt; ... </p>
+			<h2>Trimmed Species Categorization by the Sequencing Company</h2>
+			<p class="heatmap-hover">&gt; ... </p>
 		</div>
-     <div id="graph"></div>
-		
+    <div id="graph"></div>
 		
 		<div id="related"></div>
     
@@ -46,10 +45,10 @@
 // 62 samples
 // 13856 OTUs
 var cols = 62;
-var rows = num_full;
+var rows = num_trimmed;
 
 var cell_w = w_base;
-var cell_h = (num_otus*h_base)/num_full;
+var cell_h = (num_otus*h_base)/num_trimmed;
 
 var width = cols * cell_w;
 var height = rows * cell_h;
@@ -60,8 +59,8 @@ var height = rows * cell_h;
 // FILE BASE
 //////
 
-var data_file_base = "csv/full-percents/";
-var data_file_end = "_full-percents.csv";
+var data_file_base = "csv/trimmed-percents/";
+var data_file_end = "_trimmed-percents.csv";
 
 
 //////
