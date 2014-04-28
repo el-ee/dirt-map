@@ -22,3 +22,9 @@ h2.nav-links span {
 h2.linkhome {
   margin-top: 1em;
 }
+
+#graph {
+    clear: both;
+    display: block;
+    float: none;
+}
