@@ -53,7 +53,13 @@ var cell_h = (num_otus*h_base)/num_trimmed;
 var width = cols * cell_w;
 var height = rows * cell_h;
 
+var x = d3.scale.linear()
+.domain([0,cols])
+.range([0,width]);
 
+var y = d3.scale.linear()
+.domain([0,rows])
+.range([0,height]);
 
 
 //////
@@ -96,23 +102,14 @@ function createColorGradients() {
 // 		gradients[color_string].push(gradient_base.darker(.25).toString());
 // 		gradients[color_string].push(gradient_base.darker(1).toString());
 
-var gradient_base = d3.hsl(color_string);
+		var gradient_base = d3.hsl(color_string);
 
-console.log("gradients: %o", gradients);
-
-console.log("gradients[color_string]: %o", gradients[color_string]);
-
-gradients[color_string].push(gradient_base.brighter(1).toString());
-gradients[color_string].push(gradient_base.darker(.25).toString());
-gradients[color_string].push(gradient_base.darker(.75).toString());
-
+		gradients[color_string].push(gradient_base.brighter(1.25).toString());
+		gradients[color_string].push(gradient_base.darker(.25).toString());
+		gradients[color_string].push(gradient_base.darker(.75).toString());
 
 	}	
-
-	console.log("color gradients: %o", gradients);
-
 	return gradients;
-	
 }
 
 var colorScales = createColorScales();
@@ -166,13 +163,7 @@ function drawColumn(error, data) {
 	var sample_num = parseFloat(sample.substring(1));
 
 	
-	var x = d3.scale.linear()
-	.domain([0,cols])
-	.range([0,width]);
-	
-	var y = d3.scale.linear()
-	.domain([0,rows])
-	.range([0,height]);
+
 	
 	var heatmap = otu_svg.selectAll('.cell')
 	.data(data)
