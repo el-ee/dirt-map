@@ -113,6 +113,10 @@ function drawColumn(error, data) {
 	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
 	.range(colors);
 	
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
+	
 	var x = d3.scale.linear()
 	.domain([0,cols])
 	.range([0,width]);
@@ -136,7 +140,12 @@ function drawColumn(error, data) {
 	.attr("width", cell_w)
 	.attr("height", cell_h)
 	.style("fill", function(d) {
-		return colorScale( parseFloat(d[sample])); 
+    if(d.Kingdom == "No Hit ") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    }
 	});
   
   rect.on("mouseover", function(d) {

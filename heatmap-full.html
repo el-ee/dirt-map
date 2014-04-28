@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <script src="js_lib/shared_functions.js"></script>
 	<script src="js_lib/colors.js"></script>
+	<script src="js_lib/heatmap-shared.js"></script>
 	
 	<script src="http://d3js.org/d3.v3.min.js"></script>
 	
@@ -23,7 +24,7 @@
 		  <h2 class="linkhome"><a href="http://dirtmap.org">&laquo; dirtmap sample index</a></h2>
 		</div>
      <div id="graph">
-       <h2>OTUs from the Sequencing Company</h2>
+       <h2>Full Species Categorization by the Sequencing Company</h2>
        <p class="heatmap-hover">&gt; ... </p>
      </div>
 		
@@ -45,10 +46,10 @@
 // 62 samples
 // 13856 OTUs
 var cols = 62;
-var rows = num_otus;
+var rows = num_full;
 
 var cell_w = w_base;
-var cell_h = h_base;
+var cell_h = (num_otus*h_base)/num_full;
 
 var width = cols * cell_w;
 var height = rows * cell_h;
@@ -59,8 +60,8 @@ var height = rows * cell_h;
 // FILE BASE
 //////
 
-var data_file_base = "csv/company_otu_table/";
-var data_file_end = "_company_otu.csv";
+var data_file_base = "csv/full-percents/";
+var data_file_end = "_full-percents.csv";
 
 
 //////
@@ -113,6 +114,10 @@ function drawColumn(error, data) {
 	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
 	.range(colors);
 	
+	var nohitScale = d3.scale.linear()
+	.domain([0, 0.00000000000001, d3.median(data, function(d) { if(parseFloat(d[sample]) > 0) {return parseFloat(d[sample]);}}), d3.max(data, function(d) { return parseFloat(d[sample]);}) ])
+	.range(nohitcolors);
+	
 	var x = d3.scale.linear()
 	.domain([0,cols])
 	.range([0,width]);
@@ -136,15 +141,23 @@ function drawColumn(error, data) {
 	.attr("width", cell_w)
 	.attr("height", cell_h)
 	.style("fill", function(d) {
-		return colorScale( parseFloat(d[sample])); 
+    if(d.Kingdom == "No Hit") {
+      return nohitScale(parseFloat(d[sample]));
+    }
+    else {
+		  return colorScale(parseFloat(d[sample])); 
+    }
 	});
-  
+	
   rect.on("mouseover", function(d) {
-    d3.select(".heatmap-hover").text("> " + d[sample] + "% of valid sequences in sample " + sample + " clustered around OTU number " + d["#OTU ID"]);
+    d3.select(".heatmap-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " matched: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
   })
   .on("mouseout", function(d) {
-     d3.select(".heatmap_hover").text("> ...");
+     d3.select(".heatmap-hover").text("> ...");
   });
+	
+  
+  
 }
 
 

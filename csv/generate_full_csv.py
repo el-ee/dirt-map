@@ -1,6 +1,6 @@
 import csv
 
-input_filename="full_table_sorted.csv"
+input_filename="full_table.csv"
 output_filebase = "full-percents.csv"
 output_directory = "full-percents"
 
@@ -20,6 +20,12 @@ for col in range(header_cols, len(data_list[0])):
 
 	for row in range(0, len(data_list)):
 		current_row = []
+		
+		# to make the sample number easily accessible in javascript csv parsing.. messy!
+		if (row == 0):
+			current_row.append("Sample")
+		else:
+			current_row.append(data_list[0][col])
 	
 		# copy this row over
 		for col2 in range(0,header_cols):
