@@ -131,7 +131,7 @@ function drawColumn(error, data) {
 	
 	var rect = heatmap.enter().append("rect")
 	.attr("x", function(d) { 
-		var colNum = sample_num - 1;
+		var colNum = sample_order.indexOf(sample);
 		return x(colNum)
 	})
 	.attr("y", function(d) {
