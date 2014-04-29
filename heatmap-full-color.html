@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+  <meta charset="utf-8">
+  <script src="js_lib/shared_functions.js"></script>
+	<script src="js_lib/colors.js"></script>
+	<script src="js_lib/heatmap-shared.js"></script>
+	
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	
+	<link href='http://fonts.googleapis.com/css?family=Share+Tech+Mono' rel='stylesheet' type='text/css'>
+  
+  <link href="style/reset.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="style/shared.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="style/heatmap.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="style/long-heatmaps.css" media="all" rel="stylesheet" type="text/css"/>
+  
+</head>
+<body>
+  
+	<div id="container">
+		<div id="header">
+		  <h2 class="linkhome"><a href="http://dirtmap.org">&laquo; dirtmap sample index</a></h2>
+      <h2>Full Species Categorization by the Sequencing Company, color by phylum</h2>
+      <p class="heatmap-hover">&gt; ... </p>
+		</div>
+     <div id="graph"></div>
+		
+		
+		<div id="related"></div>
+    
+    <div id="footer"><p>Graphs made possible by the inimitable <a href="http://d3js.org/">d3 javascript library</a>. Hosting by <a href="https://github.com">github</a>. Source available at <a href="https://github.com/el-ee/dirt-map">github/el-ee/dirt-map</a>.</p> </p></div>
+		
+	</div>
+
+<script>
+
+
+//// 
+// Size & Layout Parameters 
+//// 
+
+
+// 62 samples
+// 13856 OTUs
+var cols = 62;
+var rows = num_full;
+
+var cell_w = w_base;
+var cell_h = (num_otus*h_base)/num_full;
+
+var width = cols * cell_w;
+var height = rows * cell_h;
+
+
+
+//////
+// FILE BASE
+//////
+
+var data_file_base = "csv/full-percents/";
+var data_file_end = "_full-percents.csv";
+
+
+//////
+// COLORS 
+//////
+
+// zero values white, anything over zero, gets some color, scales automatically up to a dark color for the median value; then scales from there up to the max; so the middle of the color range is with the median, not with the average; unequal scales above and below that.. ? i am not sure if this makes sense, mostly trying to keep it from being totally washed out. there is a lot around the median
+
+var color_gradients = createColorGradients();
+
+function createColorGradients() {
+	var gradients = {};
+	
+	for (key in clusters_bright) {
+		var color_string = clusters_bright[key];
+		gradients[color_string] = ["#ffffff"];
+
+		// var gradient_base = d3.lab(color_string);
+// 	
+// 		console.log("gradients: %o", gradients);
+// 		
+// 		console.log("gradients[color_string]: %o", gradients[color_string]);
+// 		
+// 		gradients[color_string].push(gradient_base.brighter(1.5).toString());
+// 		gradients[color_string].push(gradient_base.darker(.25).toString());
+// 		gradients[color_string].push(gradient_base.darker(1).toString());
+
+var gradient_base = d3.hsl(color_string);
+
+console.log("gradients: %o", gradients);
+
+console.log("gradients[color_string]: %o", gradients[color_string]);
+
+gradients[color_string].push(gradient_base.brighter(1.25).toString());
+gradients[color_string].push(gradient_base.darker(.25).toString());
+gradients[color_string].push(gradient_base.darker(.75).toString());
+
+
+	}	
+
+	console.log("color gradients: %o", gradients);
+
+	return gradients;
+	
+}
+
+var colorScales = createColorScales();
+
+function createColorScales() {
+
+var scales = {};
+	
+	for (key in color_gradients) {
+		scales[key] = d3.scale.linear()
+		.domain([0, 0.0000000000001, 4, 50])
+		.range(color_gradients[key]);
+	}
+	
+	return scales;
+
+}
+
+
+//////
+// THE MAIN SVG
+//////
+
+
+var otu_svg = d3.select("#graph").append("svg")
+.attr("width", width)
+.attr("height", height);
+
+
+//////
+// AND NOW THE GRAPH
+//////
+
+////
+// GRAPH: experimental otu graph
+////
+
+// loop through and spin off for each column
+
+for (var i = 1; i < 63; i++ ) {
+	var data_file = data_file_base + "S" + i + data_file_end;
+	d3.csv(data_file, drawColumn);
+}
+
+
+	
+
+function drawColumn(error, data) {
+
+	var sample = data[0].Sample;
+	var sample_num = parseFloat(sample.substring(1));
+
+	
+	var x = d3.scale.linear()
+	.domain([0,cols])
+	.range([0,width]);
+	
+	var y = d3.scale.linear()
+	.domain([0,rows])
+	.range([0,height]);
+	
+	var heatmap = otu_svg.selectAll('.cell')
+	.data(data)
+	
+	var rect = heatmap.enter().append("rect")
+	.attr("x", function(d) { 
+		var colNum = sample_num - 1;
+		return x(colNum)
+	})
+	.attr("y", function(d) {
+		var rowNum = data.indexOf(d);
+		return y(rowNum);
+	})
+	.attr("width", cell_w)
+	.attr("height", cell_h)
+	.style("fill", function(d) {
+		
+		if (typeof clusters_bright[d.Phylum] == "undefined") { 
+				return colorScales[clusters_bright["Other"]](parseFloat(d[sample]));
+			}
+		else {
+			return colorScales[clusters_bright[d.Phylum]](parseFloat(d[sample]));
+		}
+	});
+  
+  rect.on("mouseover", function(d) {
+    d3.select(".heatmap-hover").html("&gt; " + d[sample] + "% of valid sequences in sample " + sample + " matched: <br/>" + d.Phylum +  " / " + d.Class + " / " + d.Order + ' / ' + d.Family + " / " + d.Genus + " / " +  d.Species );
+  })
+  .on("mouseout", function(d) {
+     d3.select(".heatmap-hover").text("> ...");
+  });
+}
+
+
+
+
+</script>
+
+</html>
